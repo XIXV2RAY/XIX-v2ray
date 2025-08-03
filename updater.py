@@ -21,7 +21,7 @@ INPUT_URLS = [
 ]
 OUTPUT_LOCAL = "VIP.txt"
 GITHUB_OWNER = "XIXV2RAY"
-GITHUB_REPO = "configs"
+GITHUB_REPO = "config-updater"
 GITHUB_TARGET_PATH = "VIP.txt"
 NEW_MSG = "🍓 @xixv2ray"
 GEOIP_DB_PATH = "GeoLite2-Country.mmdb"
