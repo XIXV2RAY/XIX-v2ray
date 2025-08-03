@@ -15,9 +15,6 @@ from typing import Tuple
 # ---------- پیکربندی ----------
 INPUT_URLS = [
     "https://raw.githubusercontent.com/Rayan-Config/C-Sub/refs/heads/main/configs/proxy.txt",
-    "https://raw.githubusercontent.com/barry-far/V2ray-config/main/All_Configs_Sub.txt",
-    "https://raw.githubusercontent.com/Rayan-Config/C-Sub/refs/heads/main/configs/proxy.txt",
-    "https://raw.githubusercontent.com/Surfboardv2ray/Proxy-sorter/refs/heads/main/output/IR.txt",
 ]
 OUTPUT_LOCAL = "VIP.txt"
 GITHUB_OWNER = "XIXV2RAY"
