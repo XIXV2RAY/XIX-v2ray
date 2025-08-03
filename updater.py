@@ -18,10 +18,10 @@ INPUT_URLS = [
 ]
 OUTPUT_LOCAL = "VIP.txt"
 GITHUB_OWNER = "XIXV2RAY"
-GITHUB_REPO = "config-updater"  # دقت کن درست وارد کنی
+GITHUB_REPO = "config-updater"
 GITHUB_TARGET_PATH = "VIP.txt"
 NEW_MSG = "🍓 @xixv2ray"
-GEOIP_DB_PATH = "GeoLite2-Country.mmdb"  # اگر داری
+GEOIP_DB_PATH = "GeoLite2-Country.mmdb"
 
 MAX_WORKERS = 30
 RATE_LIMIT_PER_SEC = 5
@@ -29,6 +29,7 @@ PING_THRESHOLD_MS = 500
 
 GITHUB_TOKEN = os.getenv("GITHUB_TOKEN", "")
 
+# لاگ
 logging.basicConfig(
     level=logging.DEBUG,
     format="%(asctime)s [%(levelname)s] %(message)s",
@@ -42,6 +43,8 @@ session = requests.Session()
 session.headers.update({"User-Agent": "config-updater/1.0"})
 
 _last_api_call = 0.0
+
+
 def throttle():
     global _last_api_call
     interval = 1.0 / RATE_LIMIT_PER_SEC
@@ -51,12 +54,14 @@ def throttle():
         sleep(interval - delta)
     _last_api_call = time()
 
+
 def is_ip(addr: str) -> bool:
     try:
         ipaddress.ip_address(addr.strip())
         return True
     except ValueError:
         return False
+
 
 def resolve_host(host: str) -> str:
     if is_ip(host):
@@ -69,14 +74,17 @@ def resolve_host(host: str) -> str:
         logging.warning(f"resolve_host failed for {host}: {e}")
         return ""
 
+
 def country_code_to_flag(code: str) -> str:
     if not code or len(code) != 2:
         return ""
     base = 0x1F1E6
     return chr(base + ord(code[0].upper()) - ord('A')) + chr(base + ord(code[1].upper()) - ord('A'))
 
+
 def extract_flags(text: str) -> str:
     return ''.join(re.findall(r'[\U0001F1E6-\U0001F1FF]{2}', text))
+
 
 try:
     import geoip2.database
@@ -84,6 +92,7 @@ try:
     GEOIP2_AVAILABLE = True
 except ImportError:
     GEOIP2_AVAILABLE = False
+
 
 def lookup_country_local(ip: str, reader, cache) -> Tuple[str, str]:
     if ip in cache and "local" in cache[ip]:
@@ -94,9 +103,11 @@ def lookup_country_local(ip: str, reader, cache) -> Tuple[str, str]:
         name = resp.country.names.get("en", "") if resp.country.names else ""
         cache.setdefault(ip, {})["local"] = (code, name)
         return code, name
-    except Exception:
+    except Exception as e:
+        logging.warning(f"lookup_country_local error for {ip}: {e}")
         cache.setdefault(ip, {})["local"] = ("", "")
         return "", ""
+
 
 def lookup_country_api(ip: str, cache) -> Tuple[str, str]:
     if ip in cache and "api" in cache[ip]:
@@ -110,10 +121,13 @@ def lookup_country_api(ip: str, cache) -> Tuple[str, str]:
             name = data.get("country", "") or ""
             cache.setdefault(ip, {})["api"] = (code, name)
             return code, name
+        else:
+            logging.warning(f"lookup_country_api non-200 for {ip}: {r.status_code}")
     except Exception as e:
         logging.error(f"lookup_country_api failed for {ip}: {e}")
     cache.setdefault(ip, {})["api"] = ("", "")
     return "", ""
+
 
 def lookup_country(ip: str, reader, cache) -> Tuple[str, str]:
     if not ip:
@@ -123,9 +137,10 @@ def lookup_country(ip: str, reader, cache) -> Tuple[str, str]:
             code, name = lookup_country_local(ip, reader, cache)
             if code:
                 return code, name
-        except Exception:
-            pass
+        except Exception as e:
+            logging.debug(f"lookup_country_local fallback for {ip}: {e}")
     return lookup_country_api(ip, cache)
+
 
 def get_ping_ms(ip: str, timeout_sec: int = 1) -> float | None:
     try:
@@ -164,6 +179,7 @@ def get_ping_ms(ip: str, timeout_sec: int = 1) -> float | None:
     except Exception as e:
         logging.debug(f"get_ping_ms failed for {ip}: {e}")
         return None
+
 
 def update_vmess(line: str, reader, cache):
     try:
@@ -216,6 +232,7 @@ def update_vmess(line: str, reader, cache):
     key = ("vmess", data.get("id", ""), data.get("add", ""), data.get("port", ""), data.get("net", ""), data.get("tls", ""))
     return new_line, key, True
 
+
 def extract_host(line: str):
     try:
         main = line.split("#")[0]
@@ -227,6 +244,7 @@ def extract_host(line: str):
     except Exception as e:
         logging.warning(f"extract_host failed: {e}")
         return None
+
 
 def update_other(line: str, reader, cache):
     for scheme in ["vless://", "ss://", "hysteria2://", "trojan://"]:
@@ -271,6 +289,7 @@ def update_other(line: str, reader, cache):
             return new_line, key, True
     return None, None, False
 
+
 def fetch_and_merge_inputs():
     accumulated = []
     for url in INPUT_URLS:
@@ -286,6 +305,7 @@ def fetch_and_merge_inputs():
         except Exception as e:
             logging.error(f"Exception fetching {url}: {e}")
     return accumulated
+
 
 def process_lines(lines):
     result = []
@@ -332,6 +352,7 @@ def process_lines(lines):
         reader.close()
     return result, stats
 
+
 def get_file_sha_and_content():
     url = f"https://api.github.com/repos/{GITHUB_OWNER}/{GITHUB_REPO}/contents/{GITHUB_TARGET_PATH}"
     headers = {
@@ -349,6 +370,7 @@ def get_file_sha_and_content():
         return None, ""
     else:
         raise RuntimeError(f"GitHub get file failed {r.status_code}: {r.text}")
+
 
 def push_updated_file(new_content: str, previous_sha: str):
     url = f"https://api.github.com/repos/{GITHUB_OWNER}/{GITHUB_REPO}/contents/{GITHUB_TARGET_PATH}"
@@ -374,8 +396,10 @@ def push_updated_file(new_content: str, previous_sha: str):
     else:
         raise RuntimeError(f"GitHub push failed {r.status_code}: {r.text}")
 
+
 def main():
     print(f"[DEBUG] GITHUB_TOKEN present: {'yes' if GITHUB_TOKEN else 'no'}")
+    print(f"[DEBUG] INPUT_URLS: {INPUT_URLS}")
     if not GITHUB_TOKEN:
         print("ERROR: توکن گیت‌هاب تنظیم نشده.")
         return
@@ -383,10 +407,14 @@ def main():
     print("Fetching remote inputs...")
     lines = fetch_and_merge_inputs()
     print(f"Fetched {len(lines)} raw lines.")
+    print(f"[DEBUG] Sample input lines: {lines[:5]}")
 
     print("Processing lines...")
     updated_lines, stats = process_lines(lines)
     print("Stats:", stats)
+    print(f"[DEBUG] updated_lines count: {len(updated_lines)}")
+    if updated_lines:
+        print("Sample of updated_lines:", updated_lines[:5])
 
     if not updated_lines:
         print("No valid updated lines; exiting.")
@@ -398,6 +426,11 @@ def main():
 
     try:
         sha, old_content = get_file_sha_and_content()
+        print(f"[DEBUG] old_content length: {len(old_content or '')}")
+        if old_content is not None:
+            sample_old = old_content.splitlines()[:5]
+            print("Sample of old_content:", sample_old)
+
         new_content = "\n".join(updated_lines) + "\n"
         if old_content is not None and new_content.strip() == old_content.strip():
             print("No change compared to existing GitHub file; skipping push.")
@@ -406,6 +439,7 @@ def main():
     except Exception as e:
         logging.error(f"GitHub sync failed: {e}")
         print("GitHub sync failed:", e)
+
 
 if __name__ == "__main__":
     main()
