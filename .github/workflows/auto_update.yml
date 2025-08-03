@@ -1,20 +1,18 @@
 name: Hourly Config Updater
 
-name: Hourly Config Updater
-
 permissions:
   contents: write
 
 on:
   schedule:
-    - cron: '0 * * * *'
+    - cron: '0 * * * *'  # هر ساعت اجرا میشه (UTC)
   workflow_dispatch:
 
 jobs:
   update:
     runs-on: ubuntu-latest
     env:
-      GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      GITHUB_TOKEN: ${{ secrets.MY_GITHUB_TOKEN }}
 
     steps:
       - name: Checkout repository
@@ -48,12 +46,6 @@ jobs:
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add VIP.txt || true
           if ! git diff --quiet; then
-            git commit -m "Auto-update configs (hourly)"
-            git push
-          else
-            echo "No changes to commit."
-          fi
-
             git commit -m "Auto-update configs (hourly)"
             git push
           else
