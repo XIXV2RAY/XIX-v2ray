@@ -10,7 +10,7 @@ hysteria2://07c122ad-50b2-4f61-9435-efcf112bb10b@185.126.255.78:45070/?sni=dxobg
 
 hysteria2://07c122ad-50b2-4f61-9435-efcf112bb10b@23.132.228.217:42677/?sni=dxobg4azmk.gafnode.sbs#🇮🇹 Italy 🍓 @xixv2ray
 
-hysteria2://0cb527d9-6117-4bcf-a52b-1704b3458cef@172.252.236.213:53861/?sni=dxobg4azmk.gafnode.sbs#🇫🇷 France 🍓 @xixv2ray
+hysteria2://0cb527d9-6117-4bcf-a52b-1704b3458cef@172.252.236.213:44451/?sni=dxobg4azmk.gafnode.sbs#🇫🇷 France 🍓 @xixv2ray
 
 hysteria2://0cb527d9-6117-4bcf-a52b-1704b3458cef@185.126.255.78:45070/?sni=dxobg4azmk.gafnode.sbs#🇺🇦 Ukraine 🍓 @xixv2ray
 
@@ -106,7 +106,7 @@ hysteria2://48c2c901-72e6-46d4-ac78-169d73264cbf@185.126.255.78:45070/?sni=dxobg
 
 hysteria2://48c2c901-72e6-46d4-ac78-169d73264cbf@23.132.228.217:42677/?sni=dxobg4azmk.gafnode.sbs#🇮🇹 Italy 🍓 @xixv2ray
 
-hysteria2://52816135-d3bc-46bc-a915-09886a2e2b2e@172.252.236.213:53861/?sni=dxobg4azmk.gafnode.sbs#🇫🇷 France 🍓 @xixv2ray
+hysteria2://52816135-d3bc-46bc-a915-09886a2e2b2e@172.252.236.213:44451/?sni=dxobg4azmk.gafnode.sbs#🇫🇷 France 🍓 @xixv2ray
 
 hysteria2://52816135-d3bc-46bc-a915-09886a2e2b2e@185.126.255.78:45070/?sni=dxobg4azmk.gafnode.sbs#🇺🇦 Ukraine 🍓 @xixv2ray
 
@@ -318,7 +318,7 @@ vless://c3e53cee-eb2e-4b5f-b934-faeb702f6d2d@138.124.15.58:2087?security=tls&sni
 
 vless://c3e53cee-eb2e-4b5f-b934-faeb702f6d2d@www.speedtest.net:2087?security=tls&sni=fi-1-cbt.medicaldream.ir&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=fi-1-cbt.medicaldream.ir&encryption=none#🇨🇦 Canada 🍓 @xixv2ray
 
-vless://d1e44075-8c92-4698-9db0-e71d7015b757@small-meal.oneeat.co:80?security=&fp=chrome&type=ws&path=/&host=small-meal.oneeat.co&encryption=none#🇺🇸 United States 🍓 @xixv2ray
+vless://d1e44075-8c92-4698-9db0-e71d7015b757@small-meal.oneeat.co:80?security=&fp=chrome&type=ws&path=/&host=small-meal.oneeat.co&encryption=none#🍓 @xixv2ray
 
 vless://da2be42c-71a7-52f9-9a2f-026306a8f0f8@102.129.165.116:443?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=102.129.165.116&encryption=none#🍓 @xixv2ray
 
