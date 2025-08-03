@@ -5,7 +5,7 @@ import logging
 from time import sleep
 
 # ---------- پیکربندی ----------
-SOURCE_URL = "https://raw.githubusercontent.com/barry-far/V2ray-config/main/All_Configs_Sub.txt"
+SOURCE_URL = "https://raw.githubusercontent.com/Rayan-Config/C-Sub/refs/heads/main/configs/proxy.txt"
 GITHUB_OWNER = "XIXV2RAY"
 GITHUB_REPO = "config-updater"
 GITHUB_TARGET_PATH = "VIP.txt"
