@@ -33,34 +33,13 @@ logging.basicConfig(level=logging.DEBUG, format="%(asctime)s %(levelname)s %(mes
 session = requests.Session()
 session.headers.update({"User-Agent": "config-updater/1.0"})
 
-# ---------- پیکربندی نمادین قابل سفارشی سازی ----------
-SYMBOLIC_BLOCKS = [
-    {
-        "title": "کانفیگ نمادین اول",
-        "body": "🍓🍓🍓🍓🍓🍓🍓🍓🍓🍓"
-    },
-    {
-        "title": "کانفیگ نمادین دوم",
-        "body": "برای دریافت کانفیگ‌های بیشتر وارد تلگرام شوید 🍓 @xixv2ray"
-    },
-    {
-        "title": "کانفیگ نمادین سوم",
-        "body": "For more configs, join us on Telegram 🍓 @xixv2ray"
-    },
-    {
-        "title": "کانفیگ نمادین چهارم",
-        "body": "🍓🍓🍓🍓🍓🍓🍓🍓🍓🍓"
-    },
+# ---------- چهار کانفیگ واقعی که همیشه اول می‌آیند ----------
+REAL_CONFIGS = [
+    "hysteria2://XIX@@xixv2ray:44451?sni=XIX&insecure=0#%F0%9F%8D%93%F0%9F%8D%93%F0%9F%8D%93%F0%9F%8D%93%F0%9F%8D%93%F0%9F%8D%93%F0%9F%8D%93%F0%9F%8D%93%F0%9F%8D%93",
+    "hysteria2://07c122ad-50b2-4f61-9435-efcf112bb10b@@xixv2ray:45070?sni=dxobg4azmk.gafnode.sbs&insecure=0#%D8%A8%D8%B1%D8%A7%DB%8C%20%D8%AF%D8%B1%DB%8C%D8%A7%D9%81%D8%AA%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%E2%80%8C%D9%87%D8%A7%DB%8C%20%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1%20%D9%88%D8%A7%D8%B1%D8%AF%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%20%D8%B4%D9%88%DB%8C%D8%AF%20%F0%9F%8D%93%20%40xixv2ray",
+    "hysteria2://07c122ad-50b2-4f61-9435-efcf112bb10b@@xixv2ray:42677?sni=dxobg4azmk.gafnode.sbs&insecure=0#For%20more%20configs%2C%20join%20us%20on%20Telegram%20%F0%9F%8D%93%20%40xixv2ray",
+    "hysteria2://0cb527d9-6117-4bcf-a52b-1704b3458cef@@xixv2ray:44451?sni=dxobg4azmk.gafnode.sbs&insecure=0#%F0%9F%8D%93%F0%9F%8D%93%F0%9F%8D%93%F0%9F%8D%93%F0%9F%8D%93%F0%9F%8D%93%F0%9F%8D%93%F0%9F%8D%93%F0%9F%8D%93%F0%9F%8D%93%20",
 ]
-
-def prepended_symbolic_lines():
-    lines = []
-    for block in SYMBOLIC_BLOCKS:
-        lines.append(f"# {block['title']}")
-        for l in block["body"].splitlines():
-            lines.append(f"# {l}")
-        lines.append("")  # جداکننده‌ی خالی بین بلوک‌ها
-    return lines
 
 # ---------- کمکی‌ها ----------
 def country_code_to_flag(code: str) -> str:
@@ -134,7 +113,7 @@ def fetch_source():
 def build_updated_line(line: str, reader, cache):
     stripped = line.strip()
     if not stripped or stripped.startswith("#"):
-        return line  # بدون تغییر
+        return line
 
     host = extract_ip_or_host(stripped)
     country_code = ""
@@ -205,7 +184,6 @@ def main():
     if not GITHUB_TOKEN:
         raise RuntimeError("GitHub token not set in MY_GITHUB_TOKEN or GITHUB_TOKEN environment variable.")
 
-    # آماده‌سازی reader محلی اگر موجود باشه
     reader = None
     if GEOIP2_AVAILABLE and os.path.isfile(GEOIP_DB_PATH):
         try:
@@ -219,16 +197,13 @@ def main():
     lines = fetch_source()
     if not lines:
         logging.warning("منبع خالی برگشته. چیزی برای پردازش نیست.")
+
     updated = []
 
-    # افزودن کانفیگ‌های نمادین در ابتدا (به‌صورت کامنت)
-    symbolic = prepended_symbolic_lines()
-    updated.extend(symbolic)
+    # ۱. اضافه کردن چهار کانفیگ واقعی اول (بدون تغییر)
+    updated.extend(REAL_CONFIGS)
 
-    # لاگ برای دیدن اولین چند خط ساخته‌شده
-    logging.debug("اولین 5 خط خروجی (شامل نمادین):\n" + "\n".join(updated[:5]))
-
-    # پردازش خطوط اصلی
+    # ۲. پردازش بقیه‌ی کانفیگ‌ها و افزودن تگ‌ها
     for ln in lines:
         updated.append(build_updated_line(ln, reader, cache))
 
