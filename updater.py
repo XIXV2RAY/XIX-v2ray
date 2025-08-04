@@ -35,10 +35,10 @@ session.headers.update({"User-Agent": "config-updater/1.0"})
 
 # ---------- چهار کانفیگ واقعی که همیشه اول می‌آیند ----------
 REAL_CONFIGS = [
-    "hysteria2://07c122ad-50b2-4f61-9435-efcf112bb10b@@xixv2ray:44451?sni=dxobg4azmk.gafnode.sbs&insecure=0#%F0%9F%8D%93%F0%9F%8D%93%F0%9F%8D%93%F0%9F%8D%93%F0%9F%8D%93%F0%9F%8D%93%F0%9F%8D%93%F0%9F%8D%93%F0%9F%8D%93%F0%9F%8D%93",
-    "hysteria2://07c122ad-50b2-4f61-9435-efcf112bb10b@172.252.236.213:44451?sni=dxobg4azmk.gafnode.sbs&insecure=0#For%20more%20configs%2C%20join%20us%20on%20Telegram%20%F0%9F%8D%93%20%40xixv2ray",
-    "hysteria2://07c122ad-50b2-4f61-9435-efcf112bb10b@172.252.236.213:44451?sni=dxobg4azmk.gafnode.sbs&insecure=0#%D8%A8%D8%B1%D8%A7%DB%8C%20%D8%AF%D8%B1%DB%8C%D8%A7%D9%81%D8%AA%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%E2%80%8C%D9%87%D8%A7%DB%8C%20%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1%20%D9%88%D8%A7%D8%B1%D8%AF%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%20%D8%B4%D9%88%DB%8C%D8%AF%20%F0%9F%8D%93%20%40xixv2ray",
-    "hysteria2://07c122ad-50b2-4f61-9435-efcf112bb10b@172.252.236.213:44451?sni=dxobg4azmk.gafnode.sbs&insecure=0#%F0%9F%8D%93%F0%9F%8D%93%F0%9F%8D%93%F0%9F%8D%93%F0%9F%8D%93%F0%9F%8D%93%F0%9F%8D%93%F0%9F%8D%93%F0%9F%8D%93%F0%9F%8D%93",
+    "vless://0fc95877-cdc3-458f-8b00-d554c99ecbfb@cb6.connectbaash.info:4406?encryption=none&security=none&type=tcp&headerType=http#%F0%9F%8D%93%F0%9F%8D%93%F0%9F%8D%93%F0%9F%8D%93%F0%9F%8D%93%F0%9F%8D%93%F0%9F%8D%93%F0%9F%8D%93%F0%9F%8D%93%F0%9F%8D%93",
+    "vless://b976f215-3def-4271-8baa-511c4087cf17@sv1.provps.fun:443?encryption=none&security=none&type=tcp&headerType=http#For%20more%20configs%2C%20join%20us%20on%20Telegram%20%F0%9F%8D%93%20%40xixv2ray",
+    "vless://0aef4ee4-8e8b-488c-9ea4-9fe8d7b84b7a@85.133.208.147:2089?encryption=none&security=none&type=tcp&headerType=http#%D8%A8%D8%B1%D8%A7%DB%8C%20%D8%AF%D8%B1%DB%8C%D8%A7%D9%81%D8%AA%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%E2%80%8C%D9%87%D8%A7%DB%8C%20%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1%20%D9%88%D8%A7%D8%B1%D8%AF%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%20%D8%B4%D9%88%DB%8C%D8%AF%20%F0%9F%8D%93%20%40xixv2ray",
+    "vless://0aef4ee4-8e8b-488c-9ea4-9fe8d7b84b7a@85.133.208.147:2089?encryption=none&security=none&type=tcp&headerType=http#%F0%9F%8D%93%F0%9F%8D%93%F0%9F%8D%93%F0%9F%8D%93%F0%9F%8D%93%F0%9F%8D%93%F0%9F%8D%93%F0%9F%8D%93%F0%9F%8D%93%F0%9F%8D%93",
 ]
 
 # ---------- کمکی‌ها ----------
