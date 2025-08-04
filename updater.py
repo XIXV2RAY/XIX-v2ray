@@ -33,7 +33,7 @@ logging.basicConfig(level=logging.DEBUG, format="%(asctime)s %(levelname)s %(mes
 session = requests.Session()
 session.headers.update({"User-Agent": "config-updater/1.0"})
 
-# کانفیگ های ثابت (۵ خط اول ثابت)
+# ---------- کانفیگ های ثابت ----------
 fixed_configs = [
     "🍓🍓🍓🍓🍓🍓🍓🍓🍓🍓",
     "vless://0fc95877-cdc3-458f-8b00-d554c99ecbfb@cb6.connectbaash.info:4406?security=&fp=chrome&type=tcp&encryption=none#🍓🍓🍓🍓🍓🍓🍓🍓🍓🍓",
@@ -42,8 +42,8 @@ fixed_configs = [
     "🍓🍓🍓🍓🍓🍓🍓🍓🍓🍓"
 ]
 
-# لیست کشورها و کدهای ISO (کدها حروف بزرگ باشن)
-countries_of_interest = {
+# ---------- کشورهای هدف (کد ISO و نام فایل) ----------
+target_countries = {
     "IR": "IRAN",
     "FR": "FRANCE",
     "UA": "UKRAINE",
@@ -53,10 +53,10 @@ countries_of_interest = {
     "TR": "TURKEY",
     "DE": "GERMANY",
     "AE": "UAE",
-    "CA": "CANADA",
+    "CA": "CANADA"
 }
 
-# کمکی‌ها
+# ---------- کمکی‌ها ----------
 def country_code_to_flag(code: str) -> str:
     if not code or len(code) != 2:
         return ""
@@ -127,7 +127,7 @@ def fetch_source():
 def build_updated_line(line: str, reader, cache):
     stripped = line.strip()
     if not stripped or stripped.startswith("#"):
-        return line  # بدون تغییر
+        return line, ""
 
     host = extract_ip_or_host(stripped)
     country_code = ""
@@ -209,33 +209,42 @@ def main():
 
     lines = fetch_source()
 
-    updated = fixed_configs[:]  # خطوط ثابت اول فایل VIP
+    updated = fixed_configs[:]  # کانفیگ‌های ثابت اول
 
-    # دیکشنری برای ذخیره کانفیگ‌های هر کشور
-    country_configs = {code: [] for code in countries_of_interest.keys()}
+    # دیکشنری برای ذخیره خطوط هر کشور
+    country_lines = {name: [] for name in target_countries.values()}
 
     for ln in lines:
         updated_line, country_code = build_updated_line(ln, reader, cache)
         updated.append(updated_line)
 
-        # اگر کشور در لیست ما بود، به لیست کشور اضافه کن
-        if country_code in countries_of_interest:
-            country_configs[country_code].append(updated_line)
+        # اگر کشور در لیست هدف هست، به فایل مخصوص اضافه کن
+        country_code = country_code.upper()
+        if country_code in target_countries:
+            filename = target_countries[country_code]
+            country_lines[filename].append(updated_line)
 
     new_content = "\n".join(updated) + "\n"
 
-    # ذخیره هر کشور در فایل جدا (نام فایل: IR.txt ، FR.txt و ...)
-    for code, configs in country_configs.items():
-        if configs:
-            filename = f"{countries_of_interest[code]}.txt"
-            with open(filename, "w", encoding="utf-8") as f:
-                f.write("\n".join(configs) + "\n")
-            logging.info(f"Written {len(configs)} configs to {filename}")
+    # نوشتن فایل‌های جداگانه برای هر کشور
+    for country_name, lines_list in country_lines.items():
+        with open(f"{country_name}.txt", "w", encoding="utf-8") as f:
+            # اول کانفیگ‌های ثابت رو اضافه کن (در صورت تمایل می‌توان حذف کرد)
+            for cfg in fixed_configs:
+                f.write(cfg + "\n")
+            # سپس خطوط مربوط به آن کشور
+            f.write("\n".join(lines_list) + "\n")
 
-    # آپلود فایل اصلی VIP.txt روی گیت‌هاب
+    # نوشتن فایل کلی VIP
+    with open("VIP.txt", "w", encoding="utf-8") as f:
+        f.write(new_content)
+
+    # آپلود به گیت‌هاب
     sha, old_content = get_file_sha()
     if old_content is not None and new_content.strip() == old_content.strip():
         logging.info("No change compared to existing VIP.txt; exiting.")
+        if reader:
+            reader.close()
         return
 
     push_updated_file(new_content, sha)
