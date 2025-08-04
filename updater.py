@@ -42,20 +42,6 @@ fixed_configs = [
     "🍓🍓🍓🍓🍓🍓🍓🍓🍓🍓"
 ]
 
-# ---------- کشورهای هدف (کد ISO و نام فایل) ----------
-target_countries = {
-    "IR": "IRAN",
-    "FR": "FRANCE",
-    "UA": "UKRAINE",
-    "IT": "ITALY",
-    "US": "USA",
-    "JP": "JAPAN",
-    "TR": "TURKEY",
-    "DE": "GERMANY",
-    "AE": "UAE",
-    "CA": "CANADA"
-}
-
 # ---------- کمکی‌ها ----------
 def country_code_to_flag(code: str) -> str:
     if not code or len(code) != 2:
@@ -127,7 +113,7 @@ def fetch_source():
 def build_updated_line(line: str, reader, cache):
     stripped = line.strip()
     if not stripped or stripped.startswith("#"):
-        return line, ""
+        return line  # بدون تغییر
 
     host = extract_ip_or_host(stripped)
     country_code = ""
@@ -161,7 +147,7 @@ def build_updated_line(line: str, reader, cache):
     else:
         updated = f"{stripped}#{new_tag}"
 
-    return updated, country_code.upper()
+    return updated
 
 def get_file_sha():
     url = f"https://api.github.com/repos/{GITHUB_OWNER}/{GITHUB_REPO}/contents/{GITHUB_TARGET_PATH}?ref={GITHUB_BRANCH}"
@@ -209,42 +195,16 @@ def main():
 
     lines = fetch_source()
 
-    updated = fixed_configs[:]  # کانفیگ‌های ثابت اول
-
-    # دیکشنری برای ذخیره خطوط هر کشور
-    country_lines = {name: [] for name in target_countries.values()}
+    updated = fixed_configs[:]  # ۵ خط ثابت اول
 
     for ln in lines:
-        updated_line, country_code = build_updated_line(ln, reader, cache)
-        updated.append(updated_line)
-
-        # اگر کشور در لیست هدف هست، به فایل مخصوص اضافه کن
-        country_code = country_code.upper()
-        if country_code in target_countries:
-            filename = target_countries[country_code]
-            country_lines[filename].append(updated_line)
+        updated.append(build_updated_line(ln, reader, cache))
 
     new_content = "\n".join(updated) + "\n"
 
-    # نوشتن فایل‌های جداگانه برای هر کشور
-    for country_name, lines_list in country_lines.items():
-        with open(f"{country_name}.txt", "w", encoding="utf-8") as f:
-            # اول کانفیگ‌های ثابت رو اضافه کن (در صورت تمایل می‌توان حذف کرد)
-            for cfg in fixed_configs:
-                f.write(cfg + "\n")
-            # سپس خطوط مربوط به آن کشور
-            f.write("\n".join(lines_list) + "\n")
-
-    # نوشتن فایل کلی VIP
-    with open("VIP.txt", "w", encoding="utf-8") as f:
-        f.write(new_content)
-
-    # آپلود به گیت‌هاب
     sha, old_content = get_file_sha()
     if old_content is not None and new_content.strip() == old_content.strip():
         logging.info("No change compared to existing VIP.txt; exiting.")
-        if reader:
-            reader.close()
         return
 
     push_updated_file(new_content, sha)
