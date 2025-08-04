@@ -35,10 +35,10 @@ session.headers.update({"User-Agent": "config-updater/1.0"})
 
 # ---------- چهار کانفیگ واقعی که همیشه اول می‌آیند ----------
 REAL_CONFIGS = [
-    "hysteria2://XIX@@xixv2ray:44451?sni=XIX&insecure=0#%F0%9F%8D%93%F0%9F%8D%93%F0%9F%8D%93%F0%9F%8D%93%F0%9F%8D%93%F0%9F%8D%93%F0%9F%8D%93%F0%9F%8D%93%F0%9F%8D%93",
-    "hysteria2://07c122ad-50b2-4f61-9435-efcf112bb10b@@xixv2ray:45070?sni=dxobg4azmk.gafnode.sbs&insecure=0#%D8%A8%D8%B1%D8%A7%DB%8C%20%D8%AF%D8%B1%DB%8C%D8%A7%D9%81%D8%AA%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%E2%80%8C%D9%87%D8%A7%DB%8C%20%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1%20%D9%88%D8%A7%D8%B1%D8%AF%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%20%D8%B4%D9%88%DB%8C%D8%AF%20%F0%9F%8D%93%20%40xixv2ray",
-    "hysteria2://07c122ad-50b2-4f61-9435-efcf112bb10b@@xixv2ray:42677?sni=dxobg4azmk.gafnode.sbs&insecure=0#For%20more%20configs%2C%20join%20us%20on%20Telegram%20%F0%9F%8D%93%20%40xixv2ray",
-    "hysteria2://0cb527d9-6117-4bcf-a52b-1704b3458cef@@xixv2ray:44451?sni=dxobg4azmk.gafnode.sbs&insecure=0#%F0%9F%8D%93%F0%9F%8D%93%F0%9F%8D%93%F0%9F%8D%93%F0%9F%8D%93%F0%9F%8D%93%F0%9F%8D%93%F0%9F%8D%93%F0%9F%8D%93%F0%9F%8D%93%20",
+    "hysteria2://07c122ad-50b2-4f61-9435-efcf112bb10b@@xixv2ray:44451?sni=dxobg4azmk.gafnode.sbs&insecure=0#%F0%9F%8D%93%F0%9F%8D%93%F0%9F%8D%93%F0%9F%8D%93%F0%9F%8D%93%F0%9F%8D%93%F0%9F%8D%93%F0%9F%8D%93%F0%9F%8D%93%F0%9F%8D%93",
+    "hysteria2://07c122ad-50b2-4f61-9435-efcf112bb10b@172.252.236.213:44451?sni=dxobg4azmk.gafnode.sbs&insecure=0#For%20more%20configs%2C%20join%20us%20on%20Telegram%20%F0%9F%8D%93%20%40xixv2ray",
+    "hysteria2://07c122ad-50b2-4f61-9435-efcf112bb10b@172.252.236.213:44451?sni=dxobg4azmk.gafnode.sbs&insecure=0#%D8%A8%D8%B1%D8%A7%DB%8C%20%D8%AF%D8%B1%DB%8C%D8%A7%D9%81%D8%AA%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%E2%80%8C%D9%87%D8%A7%DB%8C%20%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1%20%D9%88%D8%A7%D8%B1%D8%AF%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%20%D8%B4%D9%88%DB%8C%D8%AF%20%F0%9F%8D%93%20%40xixv2ray",
+    "hysteria2://07c122ad-50b2-4f61-9435-efcf112bb10b@172.252.236.213:44451?sni=dxobg4azmk.gafnode.sbs&insecure=0#%F0%9F%8D%93%F0%9F%8D%93%F0%9F%8D%93%F0%9F%8D%93%F0%9F%8D%93%F0%9F%8D%93%F0%9F%8D%93%F0%9F%8D%93%F0%9F%8D%93%F0%9F%8D%93",
 ]
 
 # ---------- کمکی‌ها ----------
