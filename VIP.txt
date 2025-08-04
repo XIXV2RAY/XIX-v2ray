@@ -225,7 +225,7 @@ vless://7a80a8d9-92f9-4f0a-8352-9005a8215ab8@www.speedtest.net:443?security=tls&
 
 vless://7a80a8d9-92f9-4f0a-8352-9005a8215ab8@www.visa.com.tw:443?security=tls&sni=rAyAn-F10.LeIlA.DpDnS.OrG&allowInsecure=1&fp=chrome&type=ws&path=/?ed%3D2560&host=rayan-f10.leila.dpdns.org&encryption=none#🇨🇦 Canada 🍓 @xixv2ray
 
-vless://7e74ff43-3a90-48b3-8372-7d92a045c2d4@light-presence.oneeat.co:80?security=&fp=chrome&type=ws&path=/&host=light-presence.oneeat.co&encryption=none#🇨🇦 Canada 🍓 @xixv2ray
+vless://7e74ff43-3a90-48b3-8372-7d92a045c2d4@light-presence.oneeat.co:80?security=&fp=chrome&type=ws&path=/&host=light-presence.oneeat.co&encryption=none#🇺🇸 United States 🍓 @xixv2ray
 
 vless://82488ab1-59e0-42fb-959e-ec90ec2f3165@167.172.186.211:443?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/ws&host=167.172.186.211&encryption=none#🇩🇪 Germany 🍓 @xixv2ray
 
