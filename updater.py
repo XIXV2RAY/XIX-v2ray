@@ -33,6 +33,35 @@ logging.basicConfig(level=logging.DEBUG, format="%(asctime)s %(levelname)s %(mes
 session = requests.Session()
 session.headers.update({"User-Agent": "config-updater/1.0"})
 
+# ---------- پیکربندی نمادین قابل سفارشی سازی ----------
+SYMBOLIC_BLOCKS = [
+    {
+        "title": "کانفیگ نمادین اول",
+        "body": "🍓🍓🍓🍓🍓🍓🍓🍓🍓🍓"
+    },
+    {
+        "title": "کانفیگ نمادین دوم",
+        "body": "برای دریافت کانفیگ‌های بیشتر وارد تلگرام شوید 🍓 @xixv2ray"
+    },
+    {
+        "title": "کانفیگ نمادین سوم",
+        "body": "For more configs, join us on Telegram 🍓 @xixv2ray"
+    },
+    {
+        "title": "کانفیگ نمادین چهارم",
+        "body": "🍓🍓🍓🍓🍓🍓🍓🍓🍓🍓"
+    },
+]
+
+def prepended_symbolic_lines():
+    lines = []
+    for block in SYMBOLIC_BLOCKS:
+        lines.append(f"# {block['title']}")
+        for l in block["body"].splitlines():
+            lines.append(f"# {l}")
+        lines.append("")  # جداکننده
+    return lines
+
 # ---------- کمکی‌ها ----------
 def country_code_to_flag(code: str) -> str:
     if not code or len(code) != 2:
@@ -195,6 +224,11 @@ def main():
     # خواندن منبع
     lines = fetch_source()
     updated = []
+
+    # افزودن کانفیگ‌های نمادین در ابتدا (به‌صورت کامنت)
+    updated.extend(prepended_symbolic_lines())
+
+    # پردازش خطوط اصلی
     for ln in lines:
         updated.append(build_updated_line(ln, reader, cache))
 
