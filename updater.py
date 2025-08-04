@@ -59,7 +59,7 @@ def prepended_symbolic_lines():
         lines.append(f"# {block['title']}")
         for l in block["body"].splitlines():
             lines.append(f"# {l}")
-        lines.append("")  # جداکننده
+        lines.append("")  # جداکننده‌ی خالی بین بلوک‌ها
     return lines
 
 # ---------- کمکی‌ها ----------
@@ -113,12 +113,10 @@ def lookup_country(ip: str, reader, cache):
 
 def extract_ip_or_host(line: str):
     try:
-        # حذف قسمت تگ
         main = line.split("#")[0]
         if "@" not in main:
             return None
         after_at = main.split("@", 1)[1]
-        # جدا کردن تا اولین : یا ? یا /
         m = re.match(r"([^:\/\?]+)", after_at)
         if m:
             return m.group(1)
@@ -142,23 +140,20 @@ def build_updated_line(line: str, reader, cache):
     country_code = ""
     country_name = ""
     if host:
-        # اگر hostname هست، تلاش به resolve
         ip = None
         try:
-            # اگر خودش IP باشه استفاده می‌کنیم
             if re.match(r"^\d+\.\d+\.\d+\.\d+$", host):
                 ip = host
             else:
                 ip = socket.gethostbyname(host)
         except Exception:
-            ip = host  # fallback
+            ip = host
 
         country_code, country_name = lookup_country(ip, reader, cache)
     else:
         logging.debug(f"No host extracted from line: {line[:80]}")
 
     flag = country_code_to_flag(country_code)
-    # ساخت تگ جدید: پرچم، اسم کشور، سپس پیام
     new_tag_parts = []
     if flag:
         new_tag_parts.append(flag)
@@ -167,7 +162,6 @@ def build_updated_line(line: str, reader, cache):
     new_tag_parts.append(NEW_TAG_BASE)
     new_tag = " ".join(new_tag_parts).strip()
 
-    # جایگزین کردن تگ قبلی یا افزودن
     if "#" in stripped:
         prefix = stripped.split("#", 1)[0].rstrip()
         updated = f"{prefix}#{new_tag}"
@@ -223,10 +217,16 @@ def main():
 
     # خواندن منبع
     lines = fetch_source()
+    if not lines:
+        logging.warning("منبع خالی برگشته. چیزی برای پردازش نیست.")
     updated = []
 
     # افزودن کانفیگ‌های نمادین در ابتدا (به‌صورت کامنت)
-    updated.extend(prepended_symbolic_lines())
+    symbolic = prepended_symbolic_lines()
+    updated.extend(symbolic)
+
+    # لاگ برای دیدن اولین چند خط ساخته‌شده
+    logging.debug("اولین 5 خط خروجی (شامل نمادین):\n" + "\n".join(updated[:5]))
 
     # پردازش خطوط اصلی
     for ln in lines:
