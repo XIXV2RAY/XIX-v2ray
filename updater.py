@@ -33,7 +33,7 @@ logging.basicConfig(level=logging.DEBUG, format="%(asctime)s %(levelname)s %(mes
 session = requests.Session()
 session.headers.update({"User-Agent": "config-updater/1.0"})
 
-# ---------- کانفیگ های ثابت ----------
+# کانفیگ های ثابت (۵ خط اول ثابت)
 fixed_configs = [
     "🍓🍓🍓🍓🍓🍓🍓🍓🍓🍓",
     "vless://0fc95877-cdc3-458f-8b00-d554c99ecbfb@cb6.connectbaash.info:4406?security=&fp=chrome&type=tcp&encryption=none#🍓🍓🍓🍓🍓🍓🍓🍓🍓🍓",
@@ -42,7 +42,21 @@ fixed_configs = [
     "🍓🍓🍓🍓🍓🍓🍓🍓🍓🍓"
 ]
 
-# ---------- کمکی‌ها ----------
+# لیست کشورها و کدهای ISO (کدها حروف بزرگ باشن)
+countries_of_interest = {
+    "IR": "IRAN",
+    "FR": "FRANCE",
+    "UA": "UKRAINE",
+    "IT": "ITALY",
+    "US": "USA",
+    "JP": "JAPAN",
+    "TR": "TURKEY",
+    "DE": "GERMANY",
+    "AE": "UAE",
+    "CA": "CANADA",
+}
+
+# کمکی‌ها
 def country_code_to_flag(code: str) -> str:
     if not code or len(code) != 2:
         return ""
@@ -147,7 +161,7 @@ def build_updated_line(line: str, reader, cache):
     else:
         updated = f"{stripped}#{new_tag}"
 
-    return updated
+    return updated, country_code.upper()
 
 def get_file_sha():
     url = f"https://api.github.com/repos/{GITHUB_OWNER}/{GITHUB_REPO}/contents/{GITHUB_TARGET_PATH}?ref={GITHUB_BRANCH}"
@@ -195,13 +209,30 @@ def main():
 
     lines = fetch_source()
 
-    updated = fixed_configs[:]  # ۵ خط ثابت اول
+    updated = fixed_configs[:]  # خطوط ثابت اول فایل VIP
+
+    # دیکشنری برای ذخیره کانفیگ‌های هر کشور
+    country_configs = {code: [] for code in countries_of_interest.keys()}
 
     for ln in lines:
-        updated.append(build_updated_line(ln, reader, cache))
+        updated_line, country_code = build_updated_line(ln, reader, cache)
+        updated.append(updated_line)
+
+        # اگر کشور در لیست ما بود، به لیست کشور اضافه کن
+        if country_code in countries_of_interest:
+            country_configs[country_code].append(updated_line)
 
     new_content = "\n".join(updated) + "\n"
 
+    # ذخیره هر کشور در فایل جدا (نام فایل: IR.txt ، FR.txt و ...)
+    for code, configs in country_configs.items():
+        if configs:
+            filename = f"{countries_of_interest[code]}.txt"
+            with open(filename, "w", encoding="utf-8") as f:
+                f.write("\n".join(configs) + "\n")
+            logging.info(f"Written {len(configs)} configs to {filename}")
+
+    # آپلود فایل اصلی VIP.txt روی گیت‌هاب
     sha, old_content = get_file_sha()
     if old_content is not None and new_content.strip() == old_content.strip():
         logging.info("No change compared to existing VIP.txt; exiting.")
