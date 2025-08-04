@@ -33,6 +33,15 @@ logging.basicConfig(level=logging.DEBUG, format="%(asctime)s %(levelname)s %(mes
 session = requests.Session()
 session.headers.update({"User-Agent": "config-updater/1.0"})
 
+# ---------- کانفیگ های ثابت ----------
+fixed_configs = [
+    "🍓🍓🍓🍓🍓🍓🍓🍓🍓🍓",
+    "vless://0fc95877-cdc3-458f-8b00-d554c99ecbfb@cb6.connectbaash.info:4406?security=&fp=chrome&type=tcp&encryption=none#🍓🍓🍓🍓🍓🍓🍓🍓🍓🍓",
+    "vless://b976f215-3def-4271-8baa-511c4087cf17@sv1.provps.fun:443?security=&fp=chrome&type=tcp&encryption=none#For more configs, join us on Telegram 🍓 @xixv2ray",
+    "vless://0aef4ee4-8e8b-488c-9ea4-9fe8d7b84b7a@85.133.208.147:2089?security=&fp=chrome&type=tcp&encryption=none#برای دریافت کانفیگ‌های بیشتر وارد تلگرام شوید 🍓 @xixv2ray",
+    "🍓🍓🍓🍓🍓🍓🍓🍓🍓🍓"
+]
+
 # ---------- کمکی‌ها ----------
 def country_code_to_flag(code: str) -> str:
     if not code or len(code) != 2:
@@ -84,12 +93,10 @@ def lookup_country(ip: str, reader, cache):
 
 def extract_ip_or_host(line: str):
     try:
-        # حذف قسمت تگ
         main = line.split("#")[0]
         if "@" not in main:
             return None
         after_at = main.split("@", 1)[1]
-        # جدا کردن تا اولین : یا ? یا /
         m = re.match(r"([^:\/\?]+)", after_at)
         if m:
             return m.group(1)
@@ -97,7 +104,6 @@ def extract_ip_or_host(line: str):
         logging.debug(f"extract_ip_or_host error: {e}")
     return None
 
-# ---------- منطق اصلی ----------
 def fetch_source():
     logging.info(f"Fetching source from {SOURCE_URL}")
     r = requests.get(SOURCE_URL, timeout=30)
@@ -113,23 +119,20 @@ def build_updated_line(line: str, reader, cache):
     country_code = ""
     country_name = ""
     if host:
-        # اگر hostname هست، تلاش به resolve
         ip = None
         try:
-            # اگر خودش IP باشه استفاده می‌کنیم
             if re.match(r"^\d+\.\d+\.\d+\.\d+$", host):
                 ip = host
             else:
                 ip = socket.gethostbyname(host)
         except Exception:
-            ip = host  # fallback
+            ip = host
 
         country_code, country_name = lookup_country(ip, reader, cache)
     else:
         logging.debug(f"No host extracted from line: {line[:80]}")
 
     flag = country_code_to_flag(country_code)
-    # ساخت تگ جدید: پرچم، اسم کشور، سپس پیام
     new_tag_parts = []
     if flag:
         new_tag_parts.append(flag)
@@ -138,7 +141,6 @@ def build_updated_line(line: str, reader, cache):
     new_tag_parts.append(NEW_TAG_BASE)
     new_tag = " ".join(new_tag_parts).strip()
 
-    # جایگزین کردن تگ قبلی یا افزودن
     if "#" in stripped:
         prefix = stripped.split("#", 1)[0].rstrip()
         updated = f"{prefix}#{new_tag}"
@@ -182,7 +184,6 @@ def main():
     if not GITHUB_TOKEN:
         raise RuntimeError("GitHub token not set in MY_GITHUB_TOKEN or GITHUB_TOKEN environment variable.")
 
-    # آماده‌سازی reader محلی اگر موجود باشه
     reader = None
     if GEOIP2_AVAILABLE and os.path.isfile(GEOIP_DB_PATH):
         try:
@@ -192,15 +193,15 @@ def main():
 
     cache = {}
 
-    # خواندن منبع
     lines = fetch_source()
-    updated = []
+
+    updated = fixed_configs[:]  # ۵ خط ثابت اول
+
     for ln in lines:
         updated.append(build_updated_line(ln, reader, cache))
 
     new_content = "\n".join(updated) + "\n"
 
-    # گرفتن sha فعلی
     sha, old_content = get_file_sha()
     if old_content is not None and new_content.strip() == old_content.strip():
         logging.info("No change compared to existing VIP.txt; exiting.")
