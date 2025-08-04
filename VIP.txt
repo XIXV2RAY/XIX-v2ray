@@ -305,7 +305,7 @@ vless://c3e53cee-eb2e-4b5f-b934-faeb702f6d2d@138.124.15.58:2087?security=tls&sni
 
 vless://c3e53cee-eb2e-4b5f-b934-faeb702f6d2d@www.speedtest.net:2087?security=tls&sni=fi-1-cbt.medicaldream.ir&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=fi-1-cbt.medicaldream.ir&encryption=none#🇨🇦 Canada 🍓 @xixv2ray
 
-vless://d1e44075-8c92-4698-9db0-e71d7015b757@small-meal.oneeat.co:80?security=&fp=chrome&type=ws&path=/&host=small-meal.oneeat.co&encryption=none#🇨🇦 Canada 🍓 @xixv2ray
+vless://d1e44075-8c92-4698-9db0-e71d7015b757@small-meal.oneeat.co:80?security=&fp=chrome&type=ws&path=/&host=small-meal.oneeat.co&encryption=none#🇺🇸 United States 🍓 @xixv2ray
 
 vless://da2be42c-71a7-52f9-9a2f-026306a8f0f8@102.129.165.116:443?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=102.129.165.116&encryption=none#🇿🇦 South Africa 🍓 @xixv2ray
 
