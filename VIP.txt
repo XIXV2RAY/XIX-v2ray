@@ -207,7 +207,7 @@ vless://7a80a8d9-92f9-4f0a-8352-9005a8215ab8@www.speedtest.net:443?security=tls&
 
 vless://7a80a8d9-92f9-4f0a-8352-9005a8215ab8@www.visa.com.tw:443?security=tls&sni=rAyAn-F10.LeIlA.DpDnS.OrG&allowInsecure=1&fp=chrome&type=ws&path=/?ed%3D2560&host=rayan-f10.leila.dpdns.org&encryption=none#🇨🇦 Canada 🍓 @xixv2ray
 
-vless://7e74ff43-3a90-48b3-8372-7d92a045c2d4@light-presence.oneeat.co:80?security=&fp=chrome&type=ws&path=/&host=light-presence.oneeat.co&encryption=none#🇺🇸 United States 🍓 @xixv2ray
+vless://7e74ff43-3a90-48b3-8372-7d92a045c2d4@light-presence.oneeat.co:80?security=&fp=chrome&type=ws&path=/&host=light-presence.oneeat.co&encryption=none#🇨🇦 Canada 🍓 @xixv2ray
 
 vless://82488ab1-59e0-42fb-959e-ec90ec2f3165@167.172.186.211:443?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/ws&host=167.172.186.211&encryption=none#🇩🇪 Germany 🍓 @xixv2ray
 
@@ -223,45 +223,45 @@ vless://ba19bc4e-d3a7-58c0-80ef-b73035f7cba8@194.147.35.250:443?security=tls&sni
 
 vless://ba19bc4e-d3a7-58c0-80ef-b73035f7cba8@www.speedtest.net:443?security=tls&sni=uk-1-ssm.medicaldream.ir&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=uk-1-ssm.medicaldream.ir&encryption=none#🇨🇦 Canada 🍓 @xixv2ray
 
-vless://c3e53cee-eb2e-4b5f-b934-faeb702f6d2d@138.124.15.58:2087?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=138.124.15.58&encryption=none#🍓 @xixv2ray
+vless://c3e53cee-eb2e-4b5f-b934-faeb702f6d2d@138.124.15.58:2087?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=138.124.15.58&encryption=none#🇫🇮 Finland 🍓 @xixv2ray
 
 vless://c3e53cee-eb2e-4b5f-b934-faeb702f6d2d@www.speedtest.net:2087?security=tls&sni=fi-1-cbt.medicaldream.ir&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=fi-1-cbt.medicaldream.ir&encryption=none#🇨🇦 Canada 🍓 @xixv2ray
 
-vless://d1e44075-8c92-4698-9db0-e71d7015b757@small-meal.oneeat.co:80?security=&fp=chrome&type=ws&path=/&host=small-meal.oneeat.co&encryption=none#🍓 @xixv2ray
+vless://d1e44075-8c92-4698-9db0-e71d7015b757@small-meal.oneeat.co:80?security=&fp=chrome&type=ws&path=/&host=small-meal.oneeat.co&encryption=none#🇺🇸 United States 🍓 @xixv2ray
 
-vless://e3101dd0-3dbf-5493-9d80-6787195e96a0@41.216.182.162:443?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=41.216.182.162&encryption=none#🍓 @xixv2ray
+vless://e3101dd0-3dbf-5493-9d80-6787195e96a0@41.216.182.162:443?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=41.216.182.162&encryption=none#🇸🇪 Sweden 🍓 @xixv2ray
 
 vless://e3101dd0-3dbf-5493-9d80-6787195e96a0@www.speedtest.net:443?security=tls&sni=se-1-ssm.medicaldream.ir&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=se-1-ssm.medicaldream.ir&encryption=none#🇨🇦 Canada 🍓 @xixv2ray
 
-vless://e46b1000-84f9-4267-b8a1-e1a2ad735ff2@185.58.115.104:2087?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=185.58.115.104&encryption=none#🍓 @xixv2ray
+vless://e46b1000-84f9-4267-b8a1-e1a2ad735ff2@185.58.115.104:2087?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=185.58.115.104&encryption=none#🇸🇪 Sweden 🍓 @xixv2ray
 
 vless://e46b1000-84f9-4267-b8a1-e1a2ad735ff2@www.speedtest.net:2087?security=tls&sni=se-1-cbt.medicaldream.ir&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=se-1-cbt.medicaldream.ir&encryption=none#🇨🇦 Canada 🍓 @xixv2ray
 
-vless://e587638b-f49a-4ac4-8fea-22c3252bd2f8@167.172.89.10:443?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/ws&host=167.172.89.10&encryption=none#🍓 @xixv2ray
+vless://e587638b-f49a-4ac4-8fea-22c3252bd2f8@167.172.89.10:443?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/ws&host=167.172.89.10&encryption=none#🇸🇬 Singapore 🍓 @xixv2ray
 
 vless://ec892670-3cae-5964-8994-08c440699f1b@www.speedtest.net:443?security=tls&sni=hk-1-ssm.medicaldream.ir&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=hk-1-ssm.medicaldream.ir&encryption=none#🇨🇦 Canada 🍓 @xixv2ray
 
-vless://fa409fa5-1a68-534a-93fb-9727127dc83b@194.226.121.190:443?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=194.226.121.190&encryption=none#🍓 @xixv2ray
+vless://fa409fa5-1a68-534a-93fb-9727127dc83b@194.226.121.190:443?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=194.226.121.190&encryption=none#🇷🇺 Russia 🍓 @xixv2ray
 
 vless://fa409fa5-1a68-534a-93fb-9727127dc83b@www.speedtest.net:443?security=tls&sni=ru-1-ssm.medicaldream.ir&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=ru-1-ssm.medicaldream.ir&encryption=none#🇨🇦 Canada 🍓 @xixv2ray
 
-vless://fb5065d1-0e03-550d-8379-c040eaf8cf89@185.255.178.188:443?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=185.255.178.188&encryption=none#🍓 @xixv2ray
+vless://fb5065d1-0e03-550d-8379-c040eaf8cf89@185.255.178.188:443?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=185.255.178.188&encryption=none#🇪🇪 Estonia 🍓 @xixv2ray
 
 vless://fb5065d1-0e03-550d-8379-c040eaf8cf89@www.speedtest.net:443?security=tls&sni=ee-1-ssm.medicaldream.ir&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=ee-1-ssm.medicaldream.ir&encryption=none#🇨🇦 Canada 🍓 @xixv2ray
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1MXlsb1FDOEQ5dzFXYWU3Rkh0STY1@135.225.124.80:48172#🍓 @xixv2ray
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1MXlsb1FDOEQ5dzFXYWU3Rkh0STY1@135.225.124.80:48172#🇸🇪 Sweden 🍓 @xixv2ray
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1MXlsb1FDOEQ5dzFXYWU3Rkh0STY1@4.223.100.248:48172#🍓 @xixv2ray
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1MXlsb1FDOEQ5dzFXYWU3Rkh0STY1@4.223.100.248:48172#🇸🇪 Sweden 🍓 @xixv2ray
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1MXlsb1FDOEQ5dzFXYWU3Rkh0STY1@azure-sto.edgeservers.org:48172/?POST%20#🍓 @xixv2ray
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1MXlsb1FDOEQ5dzFXYWU3Rkh0STY1@azure-sto.edgeservers.org:48172/?POST%20#🇸🇪 Sweden 🍓 @xixv2ray
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1MXlsb1FDOEQ5dzFXYWU3Rkh0STY1@azure-sto.edgeservers.org:48172/?POST%20#🍓 @xixv2ray
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1MXlsb1FDOEQ5dzFXYWU3Rkh0STY1@azure-sto.edgeservers.org:48172/?POST%20#🇸🇪 Sweden 🍓 @xixv2ray
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1MXlsb1FDOEQ5dzFXYWU3Rkh0STY1@azure-sto.edgeservers.org:48172/?POST%20#🍓 @xixv2ray
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1MXlsb1FDOEQ5dzFXYWU3Rkh0STY1@azure-sto.edgeservers.org:48172/?POST%20#🇸🇪 Sweden 🍓 @xixv2ray
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1MXlsb1FDOEQ5dzFXYWU3Rkh0STY1@azure-sto.edgeservers.org:48172/?POST%20#🍓 @xixv2ray
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1MXlsb1FDOEQ5dzFXYWU3Rkh0STY1@azure-sto.edgeservers.org:48172/?POST%20#🇸🇪 Sweden 🍓 @xixv2ray
 
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@38.54.57.90:989#🍓 @xixv2ray
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@38.54.57.90:989#🇧🇷 Brazil 🍓 @xixv2ray
 
 vmess://eyJhZGQiOiI0Ni4yNDMuMy40MiIsImFpZCI6IjAiLCJob3N0IjoiIiwiaWQiOiI4ZmQxNjE3MS04Yzc4LTQ3NWMtODBmZS1hNmY2NmIzMTBiZjMiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwicG9ydCI6IjI1ODA4IiwicHMiOiIiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6ImF1dG8iLCJ2IjoiMiJ9#🍓 @xixv2ray
 
