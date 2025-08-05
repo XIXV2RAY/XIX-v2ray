@@ -87,8 +87,6 @@ hysteria2://5eaa121d-4362-444d-8219-29b02c35303a@185.126.255.78:45499/?sni=dxobg
 
 hysteria2://5eaa121d-4362-444d-8219-29b02c35303a@23.132.228.217:42677/?sni=dxobg4azmk.gafnode.sbs#🇮🇹 Italy 🍓 @xixv2ray
 
-hysteria2://6O5rppfst9@179.61.138.62:2101?obfs=salamander&obfs-password=SFDasF34rSrgSGqwgrWrWr&insecure=1#🇩🇪 Germany 🍓 @xixv2ray
-
 hysteria2://6bf726db-fb0b-405b-899a-3e263f092eda@172.252.236.213:44451/?sni=dxobg4azmk.gafnode.sbs#🇫🇷 France 🍓 @xixv2ray
 
 hysteria2://6bf726db-fb0b-405b-899a-3e263f092eda@185.126.255.78:45499/?sni=dxobg4azmk.gafnode.sbs#🇺🇦 Ukraine 🍓 @xixv2ray
@@ -137,10 +135,6 @@ hysteria2://9c859345-959f-491b-b6fc-65cd7a57aeb3@185.126.255.78:45499/?sni=dxobg
 
 hysteria2://9c859345-959f-491b-b6fc-65cd7a57aeb3@23.132.228.217:42677/?sni=dxobg4azmk.gafnode.sbs#🇮🇹 Italy 🍓 @xixv2ray
 
-hysteria2://S9gwqmAQL8@179.61.138.62:2101?obfs=salamander&obfs-password=SFDasF34rSrgSGqwgrWrWr&insecure=1#🇩🇪 Germany 🍓 @xixv2ray
-
-hysteria2://Yet-Another-Public-Config-1@yapc-1.adamhayward.co.uk:35200?obfs=salamander&obfs-password=Yet-Another-Public-Config-1&sni=YAPC-1.afshin.ir#🇳🇱 The Netherlands 🍓 @xixv2ray
-
 hysteria2://Yet-Another-Public-Config-1@yapc-1.adamhayward.co.uk:36300?obfs=salamander&obfs-password=Yet-Another-Public-Config-1&sni=YAPC-1.afshin.ir#🇳🇱 The Netherlands 🍓 @xixv2ray
 
 hysteria2://c6e02cd8-ce11-40f0-afeb-e2c412b6cc3a@172.252.236.213:44451/?sni=dxobg4azmk.gafnode.sbs#🇫🇷 France 🍓 @xixv2ray
@@ -155,8 +149,6 @@ hysteria2://e31ad3e6-e341-42ac-bdc7-bea02d126fc1@185.126.255.78:45499/?sni=dxobg
 
 hysteria2://e31ad3e6-e341-42ac-bdc7-bea02d126fc1@23.132.228.217:42677/?sni=dxobg4azmk.gafnode.sbs#🇮🇹 Italy 🍓 @xixv2ray
 
-hysteria2://eZRHBzQ1US@179.61.138.62:2101?obfs=salamander&obfs-password=SFDasF34rSrgSGqwgrWrWr&insecure=1#🇩🇪 Germany 🍓 @xixv2ray
-
 hysteria2://ebbeef45-0fd8-40cd-aca5-1e2ce18abeff@172.252.236.213:44451/?sni=dxobg4azmk.gafnode.sbs#🇫🇷 France 🍓 @xixv2ray
 
 hysteria2://ebbeef45-0fd8-40cd-aca5-1e2ce18abeff@185.126.255.78:45499/?sni=dxobg4azmk.gafnode.sbs#🇺🇦 Ukraine 🍓 @xixv2ray
@@ -168,12 +160,6 @@ hysteria2://f901861b-6491-450c-b500-606b2e921625@172.252.236.213:44451/?sni=dxob
 hysteria2://f901861b-6491-450c-b500-606b2e921625@185.126.255.78:45499/?sni=dxobg4azmk.gafnode.sbs#🇺🇦 Ukraine 🍓 @xixv2ray
 
 hysteria2://f901861b-6491-450c-b500-606b2e921625@23.132.228.217:42677/?sni=dxobg4azmk.gafnode.sbs#🇮🇹 Italy 🍓 @xixv2ray
-
-hysteria2://lGi6uwxA7g@179.61.138.62:2101?obfs=salamander&obfs-password=SFDasF34rSrgSGqwgrWrWr&insecure=1#🇩🇪 Germany 🍓 @xixv2ray
-
-hysteria2://qLzcn4NCPv@179.61.138.62:2101?obfs=salamander&obfs-password=SFDasF34rSrgSGqwgrWrWr&insecure=1#🇩🇪 Germany 🍓 @xixv2ray
-
-hysteria2://wfULEoFGOk@179.61.138.62:2101?obfs=salamander&obfs-password=SFDasF34rSrgSGqwgrWrWr&insecure=1#🇩🇪 Germany 🍓 @xixv2ray
 
 vless://0132740f-c0d4-5f8b-b283-77f3fd604c57@194.147.34.72:443?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=194.147.34.72&encryption=none#🇵🇱 Poland 🍓 @xixv2ray
 
@@ -221,7 +207,7 @@ vless://4e4768df-0fbb-4cc1-8fd3-7c6fea95742a@adf.ly:443?security=tls&sni=rAyAn-e
 
 vless://4e4768df-0fbb-4cc1-8fd3-7c6fea95742a@al-akhbar.com:443?security=tls&sni=rAyAn-P11.PaRaStOo.dPdNs.oRg&allowInsecure=1&fp=chrome&type=ws&path=/@Rayan_Config&host=rayan-p11.parastoo.dpdns.org&encryption=none#🇨🇦 Canada 🍓 @xixv2ray
 
-vless://4e4768df-0fbb-4cc1-8fd3-7c6fea95742a@alhilal.com:443?security=tls&sni=rAyAn-p11.PaRaStOo.dPdNs.oRg&allowInsecure=1&fp=chrome&type=ws&path=/@Rayan_Config&host=rayan-p11.parastoo.dpdns.org&encryption=none#🇨🇦 Canada 🍓 @xixv2ray
+vless://4e4768df-0fbb-4cc1-8fd3-7c6fea95742a@alhilal.com:443?security=tls&sni=rAyAn-p11.PaRaStOo.dPdNs.oRg&allowInsecure=1&fp=chrome&type=ws&path=/@Rayan_Config&host=rayan-p11.parastoo.dpdns.org&encryption=none#🇺🇸 United States 🍓 @xixv2ray
 
 vless://4e4768df-0fbb-4cc1-8fd3-7c6fea95742a@cdnjs.com:443?security=tls&sni=rAyAn-S08.PaRaStOo.dPdNs.oRg&allowInsecure=1&fp=chrome&type=ws&path=/@Rayan_Config&host=rayan-s08.parastoo.dpdns.org&encryption=none#🇨🇦 Canada 🍓 @xixv2ray
 
@@ -251,7 +237,7 @@ vless://77b7d682-b397-5b03-9965-c845f89017db@77.105.162.84:443?security=tls&sni=
 
 vless://7a80a8d9-92f9-4f0a-8352-9005a8215ab8@check-host.net:443?security=tls&sni=rAyAn-f10.LeIlA.DpDnS.OrG&allowInsecure=1&fp=chrome&type=ws&path=/?ed%3D2560&host=rayan-f10.leila.dpdns.org&encryption=none#🇨🇦 Canada 🍓 @xixv2ray
 
-vless://7a80a8d9-92f9-4f0a-8352-9005a8215ab8@jquery.com:443?security=tls&sni=rAyAn-uS-1.MeDiCaLhIsToRy.iR&allowInsecure=1&fp=chrome&type=ws&path=/@Rayan_Config&host=rAyAn-uS-1.MeDiCaLhIsToRy.iR&encryption=none#🍓 @xixv2ray
+vless://7a80a8d9-92f9-4f0a-8352-9005a8215ab8@jquery.com:443?security=tls&sni=rAyAn-uS-1.MeDiCaLhIsToRy.iR&allowInsecure=1&fp=chrome&type=ws&path=/@Rayan_Config&host=rAyAn-uS-1.MeDiCaLhIsToRy.iR&encryption=none#🇨🇦 Canada 🍓 @xixv2ray
 
 vless://7a80a8d9-92f9-4f0a-8352-9005a8215ab8@patient.co.uk:443?security=tls&sni=rAyAn-uS-2.MeDiCaLhIsToRy.iR&allowInsecure=1&fp=chrome&type=ws&path=/@Rayan_Config&host=rAyAn-uS-2.MeDiCaLhIsToRy.iR&encryption=none#🍓 @xixv2ray
 
@@ -327,17 +313,11 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1MXlsb1FDOEQ5dzFXYWU3Rkh0STY1@20.91.252.21:4
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1MXlsb1FDOEQ5dzFXYWU3Rkh0STY1@4.223.100.248:48172#🍓 @xixv2ray
 
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1MXlsb1FDOEQ5dzFXYWU3Rkh0STY1@4.223.106.151:48172#🍓 @xixv2ray
+
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3UFBhU3d4cDNMTGdKbVdjcFNjbEs2@85.208.139.158:25607#🍓 @xixv2ray
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowRFNVY2FjMDZqQkEydmtRdjQ2SnBo@sto4.a.edgeservers.org:57462/?POST%20#🍓 @xixv2ray
-
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp6Q2JySWsxMlFsZzlZY0VSZG56am9o@sto2.a.edgeservers.org:39649/?POST%20#🍓 @xixv2ray
-
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpJVG5uT0RSQlpxRE9OcDh4R2R1YmFs@sto1.a.edgeservers.org:30567/?POST%20#🍓 @xixv2ray
-
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpncWtVQ3ZtZU9UZ2hZSlhGMVlJdWs1@71.19.148.74:443#🍓 @xixv2ray
-
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsM051Zm1XS3djTTdqYWY2SlQ5R3dT@sto3.a.edgeservers.org:57236/?POST%20#🍓 @xixv2ray
 
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@38.54.57.90:989#🍓 @xixv2ray
 
