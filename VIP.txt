@@ -231,7 +231,7 @@ vless://77b7d682-b397-5b03-9965-c845f89017db@77.105.162.84:443?security=tls&sni=
 
 vless://7a80a8d9-92f9-4f0a-8352-9005a8215ab8@check-host.net:443?security=tls&sni=rAyAn-f10.LeIlA.DpDnS.OrG&allowInsecure=1&fp=chrome&type=ws&path=/?ed%3D2560&host=rayan-f10.leila.dpdns.org&encryption=none#🇨🇦 Canada 🍓 @xixv2ray
 
-vless://7a80a8d9-92f9-4f0a-8352-9005a8215ab8@jquery.com:443?security=tls&sni=rAyAn-uS-1.MeDiCaLhIsToRy.iR&allowInsecure=1&fp=chrome&type=ws&path=/@Rayan_Config&host=rAyAn-uS-1.MeDiCaLhIsToRy.iR&encryption=none#🍓 @xixv2ray
+vless://7a80a8d9-92f9-4f0a-8352-9005a8215ab8@jquery.com:443?security=tls&sni=rAyAn-uS-1.MeDiCaLhIsToRy.iR&allowInsecure=1&fp=chrome&type=ws&path=/@Rayan_Config&host=rAyAn-uS-1.MeDiCaLhIsToRy.iR&encryption=none#🇨🇦 Canada 🍓 @xixv2ray
 
 vless://7a80a8d9-92f9-4f0a-8352-9005a8215ab8@patient.co.uk:443?security=tls&sni=rAyAn-uS-2.MeDiCaLhIsToRy.iR&allowInsecure=1&fp=chrome&type=ws&path=/@Rayan_Config&host=rAyAn-uS-2.MeDiCaLhIsToRy.iR&encryption=none#🍓 @xixv2ray
 
@@ -247,7 +247,7 @@ vless://7a80a8d9-92f9-4f0a-8352-9005a8215ab8@www.visa.com.tw:443?security=tls&sn
 
 vless://8e0ecf39-59b2-4324-931e-d80eb1f3df14@edge-gw-store1.cyberscaler.net:443?security=reality&sni=cdn.jsdelivr.net&fp=chrome&pbk=zMeFpcu-ppUKh_am7bNYWtLehvtvhjocEPP8efg1Jg4&sid=13f10f56&spx=/npm/vue@2.6.14&type=tcp&encryption=none#🇨🇦 Canada 🍓 @xixv2ray
 
-vless://935c990a-9bcc-484b-86a2-2a402f9ad1d4@grumpy-building.seotoolsforyou.co.uk:80?security=&fp=chrome&type=ws&path=/&encryption=none#🇨🇦 Canada 🍓 @xixv2ray
+vless://935c990a-9bcc-484b-86a2-2a402f9ad1d4@grumpy-building.seotoolsforyou.co.uk:80?security=&fp=chrome&type=ws&path=/&encryption=none#🍓 @xixv2ray
 
 vless://986783c3-0225-4f4d-9c29-e7c75c8b8c80@static-edge-front.deepcloudview.com:443?security=reality&sni=firebase.googleapis.com&fp=chrome&pbk=b-jISQAdIIxv6MeoirMHu_MSRdUCriKY5v8vvszN6BA&sid=2d3bb9138f&spx=/v1/projects/init&type=tcp&encryption=none#🇨🇦 Canada 🍓 @xixv2ray
 
