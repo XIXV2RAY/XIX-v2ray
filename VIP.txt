@@ -15,7 +15,7 @@ hysteria2://07c122ad-50b2-4f61-9435-efcf112bb10b@185.126.255.78:45499/?sni=dxobg
 
 hysteria2://07c122ad-50b2-4f61-9435-efcf112bb10b@23.132.228.217:56115/?sni=dxobg4azmk.gafnode.sbs#🇮🇹 Italy 🍓 @xixv2ray
 
-hysteria2://0cb527d9-6117-4bcf-a52b-1704b3458cef@172.252.236.213:44451/?sni=dxobg4azmk.gafnode.sbs#🇫🇷 France 🍓 @xixv2ray
+hysteria2://0cb527d9-6117-4bcf-a52b-1704b3458cef@172.252.236.213:58995/?sni=dxobg4azmk.gafnode.sbs#🇫🇷 France 🍓 @xixv2ray
 
 hysteria2://0cb527d9-6117-4bcf-a52b-1704b3458cef@185.126.255.78:45499/?sni=dxobg4azmk.gafnode.sbs#🇺🇦 Ukraine 🍓 @xixv2ray
 
@@ -69,7 +69,7 @@ hysteria2://48c2c901-72e6-46d4-ac78-169d73264cbf@185.126.255.78:45499/?sni=dxobg
 
 hysteria2://48c2c901-72e6-46d4-ac78-169d73264cbf@23.132.228.217:56115/?sni=dxobg4azmk.gafnode.sbs#🇮🇹 Italy 🍓 @xixv2ray
 
-hysteria2://52816135-d3bc-46bc-a915-09886a2e2b2e@172.252.236.213:44451/?sni=dxobg4azmk.gafnode.sbs#🇫🇷 France 🍓 @xixv2ray
+hysteria2://52816135-d3bc-46bc-a915-09886a2e2b2e@172.252.236.213:58995/?sni=dxobg4azmk.gafnode.sbs#🇫🇷 France 🍓 @xixv2ray
 
 hysteria2://52816135-d3bc-46bc-a915-09886a2e2b2e@185.126.255.78:45499/?sni=dxobg4azmk.gafnode.sbs#🇺🇦 Ukraine 🍓 @xixv2ray
 
@@ -253,7 +253,7 @@ vless://7a80a8d9-92f9-4f0a-8352-9005a8215ab8@www.visa.com.tw:443?security=tls&sn
 
 vless://8e0ecf39-59b2-4324-931e-d80eb1f3df14@edge-gw-store1.cyberscaler.net:443?security=reality&sni=cdn.jsdelivr.net&fp=chrome&pbk=zMeFpcu-ppUKh_am7bNYWtLehvtvhjocEPP8efg1Jg4&sid=13f10f56&spx=/npm/vue@2.6.14&type=tcp&encryption=none#🇨🇦 Canada 🍓 @xixv2ray
 
-vless://935c990a-9bcc-484b-86a2-2a402f9ad1d4@grumpy-building.seotoolsforyou.co.uk:80?security=&fp=chrome&type=ws&path=/&encryption=none#🇨🇦 Canada 🍓 @xixv2ray
+vless://935c990a-9bcc-484b-86a2-2a402f9ad1d4@grumpy-building.seotoolsforyou.co.uk:80?security=&fp=chrome&type=ws&path=/&encryption=none#🍓 @xixv2ray
 
 vless://986783c3-0225-4f4d-9c29-e7c75c8b8c80@static-edge-front.deepcloudview.com:443?security=reality&sni=firebase.googleapis.com&fp=chrome&pbk=b-jISQAdIIxv6MeoirMHu_MSRdUCriKY5v8vvszN6BA&sid=2d3bb9138f&spx=/v1/projects/init&type=tcp&encryption=none#🇨🇦 Canada 🍓 @xixv2ray
 
