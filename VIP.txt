@@ -121,7 +121,7 @@ vless://b43f416d-0bb7-45d9-b3a4-0ccef14f1fbe@simonil.zarghamportal.ir:2095?secur
 
 vless://b78d5bf5-d45c-4b5f-93cc-1e0fe9bdb2eb@157.230.91.47:443?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/ws&host=157.230.91.47&encryption=none#🇺🇸 United States 🍓 @xixv2ray
 
-vless://bad692ed-12b0-4081-8dff-417b30dcc4d5@167.172.89.10:443?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/ws&host=167.172.89.10&encryption=none#🍓 @xixv2ray
+vless://bad692ed-12b0-4081-8dff-417b30dcc4d5@167.172.89.10:443?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/ws&host=167.172.89.10&encryption=none#🇸🇬 Singapore 🍓 @xixv2ray
 
 vless://c30fee5c-a1ba-4828-8c6b-ac509d7342e3@store-static-portal.cyberscaler.net:10082?security=&fp=chrome&type=tcp&path=/&headerType=http&host=cdnjs.cloudflare.com&encryption=none#🇨🇦 Canada 🍓 @xixv2ray
 
@@ -159,6 +159,10 @@ hysteria2://07c122ad-50b2-4f61-9435-efcf112bb10b@172.252.236.213:48695/?sni=real
 
 hysteria2://07c122ad-50b2-4f61-9435-efcf112bb10b@185.126.255.78:59494/?sni=real.getafreenode.sbs#🍓 @xixv2ray
 
+hysteria2://0cb527d9-6117-4bcf-a52b-1704b3458cef@172.252.236.213:48695/?sni=real.getafreenode.sbs#🍓 @xixv2ray
+
+hysteria2://0cb527d9-6117-4bcf-a52b-1704b3458cef@185.126.255.78:59494/?sni=real.getafreenode.sbs#🍓 @xixv2ray
+
 hysteria2://1045aedf-053c-4585-875d-e2fc3f3ea6dd@172.252.236.213:48695/?sni=real.getafreenode.sbs#🍓 @xixv2ray
 
 hysteria2://1045aedf-053c-4585-875d-e2fc3f3ea6dd@185.126.255.78:59494/?sni=real.getafreenode.sbs#🍓 @xixv2ray
@@ -166,6 +170,10 @@ hysteria2://1045aedf-053c-4585-875d-e2fc3f3ea6dd@185.126.255.78:59494/?sni=real.
 hysteria2://1fdb6b30-5371-4ff8-a001-efdc4b43d79b@172.252.236.213:48695/?sni=real.getafreenode.sbs#🍓 @xixv2ray
 
 hysteria2://1fdb6b30-5371-4ff8-a001-efdc4b43d79b@185.126.255.78:59494/?sni=real.getafreenode.sbs#🍓 @xixv2ray
+
+hysteria2://23125f6e-ec56-4c26-9714-0bbacdb53d01@172.252.236.213:48695/?sni=real.getafreenode.sbs#🍓 @xixv2ray
+
+hysteria2://23125f6e-ec56-4c26-9714-0bbacdb53d01@185.126.255.78:59494/?sni=real.getafreenode.sbs#🍓 @xixv2ray
 
 hysteria2://29fbd51f-03c8-4d76-849a-436e54d58317@172.252.236.213:48695/?sni=real.getafreenode.sbs#🍓 @xixv2ray
 
@@ -187,13 +195,25 @@ hysteria2://48c2c901-72e6-46d4-ac78-169d73264cbf@172.252.236.213:48695/?sni=real
 
 hysteria2://48c2c901-72e6-46d4-ac78-169d73264cbf@185.126.255.78:59494/?sni=real.getafreenode.sbs#🍓 @xixv2ray
 
+hysteria2://52816135-d3bc-46bc-a915-09886a2e2b2e@172.252.236.213:48695/?sni=real.getafreenode.sbs#🍓 @xixv2ray
+
+hysteria2://52816135-d3bc-46bc-a915-09886a2e2b2e@185.126.255.78:59494/?sni=real.getafreenode.sbs#🍓 @xixv2ray
+
 hysteria2://55ca7a9e-cf90-49df-b14a-9346c59b73b9@172.252.236.213:48695/?sni=real.getafreenode.sbs#🍓 @xixv2ray
 
 hysteria2://55ca7a9e-cf90-49df-b14a-9346c59b73b9@185.126.255.78:59494/?sni=real.getafreenode.sbs#🍓 @xixv2ray
 
+hysteria2://5eaa121d-4362-444d-8219-29b02c35303a@172.252.236.213:48695/?sni=real.getafreenode.sbs#🍓 @xixv2ray
+
+hysteria2://5eaa121d-4362-444d-8219-29b02c35303a@185.126.255.78:59494/?sni=real.getafreenode.sbs#🍓 @xixv2ray
+
 hysteria2://6bf726db-fb0b-405b-899a-3e263f092eda@172.252.236.213:48695/?sni=real.getafreenode.sbs#🍓 @xixv2ray
 
 hysteria2://6bf726db-fb0b-405b-899a-3e263f092eda@185.126.255.78:59494/?sni=real.getafreenode.sbs#🍓 @xixv2ray
+
+hysteria2://80b2ac81-ba69-41f9-bb46-820b7b3af4dd@172.252.236.213:48695/?sni=real.getafreenode.sbs#🍓 @xixv2ray
+
+hysteria2://80b2ac81-ba69-41f9-bb46-820b7b3af4dd@185.126.255.78:59494/?sni=real.getafreenode.sbs#🍓 @xixv2ray
 
 hysteria2://86373f23-4618-48b8-830e-ec132559f835@bx.dport.top:33654/?insecure=1&sni=bx.dport.top&obfs=salamander&obfs-password=ZDQxZDhjZDk4ZjAwYjIwNA%3D%3D#🍓 @xixv2ray
 
