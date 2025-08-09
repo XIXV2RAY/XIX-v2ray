@@ -135,7 +135,7 @@ vless://e5f745a5-ea3b-4709-b568-6bfff02d5618@simonil.zarghamportal.ir:8080?secur
 
 vless://e931b9e7-8f36-41a4-91f4-f896c6bc42c5@cf-assets-blog.cyberscaler.net:443?security=reality&sni=blog.cloudflare.com&fp=chrome&pbk=WEf1JX6bG0hGjlSacn2r32T2IZhifBsl2g7qqZoUPAw&sid=14&spx=/cdn-cgi/trace&type=tcp&encryption=none#🇨🇦 Canada 🍓 @xixv2ray
 
-vless://fa409fa5-1a68-534a-93fb-9727127dc83b@194.226.121.190:443?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=194.226.121.190&encryption=none#🇷🇺 Russia 🍓 @xixv2ray
+vless://fa409fa5-1a68-534a-93fb-9727127dc83b@194.226.121.190:443?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=194.226.121.190&encryption=none#🍓 @xixv2ray
 
 vless://fb5065d1-0e03-550d-8379-c040eaf8cf89@185.255.178.188:443?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=185.255.178.188&encryption=none#🍓 @xixv2ray
 
