@@ -19,14 +19,6 @@ vless://11402c34-7f90-485f-a218-ade69f314f49@store-static-portal.cyberscaler.net
 
 vless://18da5a86-1b44-4a88-bb2b-6845d75a74a3@51.195.202.129:443?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/ws&host=51.195.202.129&encryption=none#🇬🇧 United Kingdom 🍓 @xixv2ray
 
-vless://1f054e40-a9bc-4cd3-b6d1-4e0dc3470ed6@104.16.14.211:8080?security=&fp=chrome&type=httpupgrade&path=/22496/nextlife&host=cdn4.farsiblockchain.com&encryption=none#🇨🇦 Canada 🍓 @xixv2ray
-
-vless://1f054e40-a9bc-4cd3-b6d1-4e0dc3470ed6@104.18.36.234:8080?security=&fp=chrome&type=httpupgrade&path=/22496/nextlife&host=cdn4.farsiblockchain.com&encryption=none#🇨🇦 Canada 🍓 @xixv2ray
-
-vless://1f054e40-a9bc-4cd3-b6d1-4e0dc3470ed6@45.131.4.146:8080?security=&fp=chrome&type=httpupgrade&path=/22496/nextlife&host=cdn4.farsiblockchain.com&encryption=none#🇮🇷 Iran 🍓 @xixv2ray
-
-vless://1f054e40-a9bc-4cd3-b6d1-4e0dc3470ed6@94.140.0.174:8080?security=&fp=chrome&type=httpupgrade&path=/22496/nextlife&host=cfhdnl.clockdeny2.eu&encryption=none#🇦🇪 United Arab Emirates 🍓 @xixv2ray
-
 vless://1lpxy6haqm@1lpxy6haqm-451516713-direct.zamam.co:443?security=tls&sni=1lpxy6haqm-451516713-direct.zamam.co&alpn=h2,http/1.1&fp=randomized&type=tcp&flow=xtls-rprx-vision&encryption=none#🇱🇮 Liechtenstein 🍓 @xixv2ray
 
 vless://238b76b1-2530-424d-8936-1b1852088b37@139.59.75.181:443?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/ws&host=139.59.75.181&encryption=none#🇮🇳 India 🍓 @xixv2ray
@@ -121,39 +113,31 @@ vless://b43f416d-0bb7-45d9-b3a4-0ccef14f1fbe@simonil.zarghamportal.ir:2095?secur
 
 vless://b78d5bf5-d45c-4b5f-93cc-1e0fe9bdb2eb@157.230.91.47:443?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/ws&host=157.230.91.47&encryption=none#🇺🇸 United States 🍓 @xixv2ray
 
-vless://bad692ed-12b0-4081-8dff-417b30dcc4d5@167.172.89.10:443?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/ws&host=167.172.89.10&encryption=none#🍓 @xixv2ray
+vless://bad692ed-12b0-4081-8dff-417b30dcc4d5@167.172.89.10:443?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/ws&host=167.172.89.10&encryption=none#🇸🇬 Singapore 🍓 @xixv2ray
 
 vless://c30fee5c-a1ba-4828-8c6b-ac509d7342e3@store-static-portal.cyberscaler.net:10082?security=&fp=chrome&type=tcp&path=/&headerType=http&host=cdnjs.cloudflare.com&encryption=none#🇨🇦 Canada 🍓 @xixv2ray
 
-vless://c3e53cee-eb2e-4b5f-b934-faeb702f6d2d@138.124.15.58:2087?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=138.124.15.58&encryption=none#🍓 @xixv2ray
-
-vless://d739e19a-312c-40dc-acaa-a90f247bd12c@68.183.216.44:443?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/ws&host=46.101.237.150&encryption=none#🍓 @xixv2ray
+vless://c3e53cee-eb2e-4b5f-b934-faeb702f6d2d@138.124.15.58:2087?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=138.124.15.58&encryption=none#🇫🇮 Finland 🍓 @xixv2ray
 
 vless://d7ef1a6d-a2da-4d43-87d8-f110b13163c7@datafiles.cyberscaler.net:443?security=reality&sni=ssl.gstatic.com&fp=chrome&pbk=b-jISQAdIIxv6MeoirMHu_MSRdUCriKY5v8vvszN6BA&sid=3b7c99b709e4a19e&spx=/images/icons/1x1.png&type=tcp&encryption=none#🇨🇦 Canada 🍓 @xixv2ray
 
 vless://da70ccc8-4da5-4f04-aa4c-3c7f31e57ff7@cdn-assets-edge.cyberscaler.net:80?security=&fp=chrome&type=tcp&headerType=http&host=cdnjs.cloudflare.com&encryption=none#🇫🇷 France 🍓 @xixv2ray
 
-vless://da9b9ff1-6767-4179-9656-308943d018ed@143.198.15.103:443?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/ws&host=174.138.82.85&encryption=none#🍓 @xixv2ray
+vless://da9b9ff1-6767-4179-9656-308943d018ed@143.198.15.103:443?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/ws&host=174.138.82.85&encryption=none#🇺🇸 United States 🍓 @xixv2ray
 
 vless://de765eb2-92d9-4730-885a-7f63985cffbe@simonil.zarghamportal.ir:8080?security=&fp=chrome&type=httpupgrade&path=/&host=shole.zarghamportal.ir&encryption=none#🇨🇦 Canada 🍓 @xixv2ray
 
 vless://de9e93dc-9ce2-4c8f-839c-f6f3a58a10bb@sport-shop-gw01.cyberscaler.net:6068?security=&fp=chrome&type=tcp&path=/&headerType=http&host=v10.events.data.microsoft.com&encryption=none#🇨🇦 Canada 🍓 @xixv2ray
 
-vless://e3101dd0-3dbf-5493-9d80-6787195e96a0@41.216.182.162:443?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=41.216.182.162&encryption=none#🍓 @xixv2ray
-
-vless://e46b1000-84f9-4267-b8a1-e1a2ad735ff2@185.58.115.104:2087?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=185.58.115.104&encryption=none#🍓 @xixv2ray
+vless://e3101dd0-3dbf-5493-9d80-6787195e96a0@41.216.182.162:443?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=41.216.182.162&encryption=none#🇸🇪 Sweden 🍓 @xixv2ray
 
 vless://e5f745a5-ea3b-4709-b568-6bfff02d5618@simonil.zarghamportal.ir:8080?security=&fp=chrome&type=httpupgrade&path=/&host=shole.zarghamportal.ir&encryption=none#🇨🇦 Canada 🍓 @xixv2ray
 
 vless://e931b9e7-8f36-41a4-91f4-f896c6bc42c5@cf-assets-blog.cyberscaler.net:443?security=reality&sni=blog.cloudflare.com&fp=chrome&pbk=WEf1JX6bG0hGjlSacn2r32T2IZhifBsl2g7qqZoUPAw&sid=14&spx=/cdn-cgi/trace&type=tcp&encryption=none#🇨🇦 Canada 🍓 @xixv2ray
 
-vless://f09cf8ad-d237-4fc2-86e7-c04810ccee94@eng2.worldunlocked.org:443?security=reality&sni=yahoo.com&fp=random&pbk=BhTJ3phnq-Z-10aFKSsj1lzhA8mULR4L6leE4-0WTAs&spx=/&type=tcp&flow=xtls-rprx-vision&encryption=none#🍓 @xixv2ray
-
-vless://fa409fa5-1a68-534a-93fb-9727127dc83b@194.226.121.190:443?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=194.226.121.190&encryption=none#🍓 @xixv2ray
+vless://fa409fa5-1a68-534a-93fb-9727127dc83b@194.226.121.190:443?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=194.226.121.190&encryption=none#🇷🇺 Russia 🍓 @xixv2ray
 
 vless://fb5065d1-0e03-550d-8379-c040eaf8cf89@185.255.178.188:443?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=185.255.178.188&encryption=none#🍓 @xixv2ray
-
-vless://ff839db0-857b-4e79-87e6-f654b70f5653@91.107.188.161:10002?security=&fp=chrome&type=tcp&path=/&headerType=http&host=soft98.ir&encryption=none#🍓 @xixv2ray
 
 hysteria2://07c122ad-50b2-4f61-9435-efcf112bb10b@172.252.236.213:48695/?sni=real.getafreenode.sbs#🍓 @xixv2ray
 
@@ -273,8 +257,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1MXlsb1FDOEQ5dzFXYWU3Rkh0STY1@4.223.100.248:
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1MXlsb1FDOEQ5dzFXYWU3Rkh0STY1@4.223.106.151:48172#🍓 @xixv2ray
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3UFBhU3d4cDNMTGdKbVdjcFNjbEs2@85.208.139.158:25607#🍓 @xixv2ray
-
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpncWtVQ3ZtZU9UZ2hZSlhGMVlJdWs1@71.19.148.74:443#🍓 @xixv2ray
 
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@38.54.57.90:989#🍓 @xixv2ray
@@ -284,10 +266,6 @@ vmess://eyJhZGQiOiI1Ny4xMjkuMjQuMTI1IiwiYWlkIjoiMCIsImhvc3QiOiJ3cm1lbG13eGxmLmdr
 vmess://eyJhZGQiOiI1Ny4xMjkuMjQuMTI1IiwiYWlkIjoiMCIsImhvc3QiOiJhdmVpcm9yLmNvbSIsImlkIjoiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwibmV0Ijoid3MiLCJwYXRoIjoiL2xpbmt2d3MiLCJwb3J0IjoiNDQzIiwicHMiOiIiLCJzY3kiOiJhdXRvIiwic25pIjoiYXZlaXJvci5jb20iLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiIiwidiI6IjIifQ==#🍓 @xixv2ray
 
 vmess://eyJhZGQiOiI1Ny4xMjkuMjUuMjUiLCJhaWQiOiIwIiwiaG9zdCI6ImYua2hpTEVpLmNvTSIsImlkIjoiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwibmV0Ijoid3MiLCJwYXRoIjoiL2xpbmt2d3MiLCJwb3J0IjoiNDQzIiwicHMiOiIiLCJzY3kiOiJhdXRvIiwic25pIjoiZi5raGlsZWkuY29tIiwidGxzIjoidGxzIiwidHlwZSI6IiIsInYiOiIyIn0=#🍓 @xixv2ray
-
-vmess://eyJhZGQiOiIxMDQuMTYuNjkuMyIsImFpZCI6IjAiLCJob3N0IjoiY2RuNC5mYXJzaWJsb2NrY2hhaW4uY29tIiwiaWQiOiJjZjFmYzU5Zi0yN2M5LTQyYjctYTNiNC04NWIwNmVlOWNmZTciLCJuZXQiOiJ3cyIsInBhdGgiOiIvMjAzODYvbmVYdExpZmUiLCJwb3J0IjoiODA4MCIsInBzIjoiIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==#🍓 @xixv2ray
-
-vmess://eyJhZGQiOiIxMDQuMjEuMjQuMTgwIiwiYWlkIjoiMCIsImhvc3QiOiJjZmhkbmwuY2xvY2tkZW55Mi5ldSIsImlkIjoiY2YxZmM1OWYtMjdjOS00MmI3LWEzYjQtODViMDZlZTljZmU3IiwibmV0Ijoid3MiLCJwYXRoIjoiLzIwMzg2L25lWHRMaWZlIiwicG9ydCI6IjgwODAiLCJwcyI6IiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=#🍓 @xixv2ray
 
 vmess://eyJhZGQiOiJucG1qcy5jb20iLCJhaWQiOiIwIiwiaG9zdCI6Im5hc25ldC0xMjgxNDAxMTIyMy5raGFzdGVobmFiYXNoaS5jb20iLCJpZCI6Im5hc25ldCIsIm5ldCI6IndzIiwicGF0aCI6Ii9OQVNORVQvY2RuIiwicG9ydCI6IjgwODAiLCJwcyI6IiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=#🍓 @xixv2ray
 
