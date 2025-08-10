@@ -13,6 +13,8 @@ jobs:
     runs-on: ubuntu-latest
     env:
       MY_GITHUB_TOKEN: ${{ secrets.MY_GITHUB_TOKEN }}
+      SOURCE_URL: ${{ vars.SOURCE_URL }} # اگر Variable گذاشتی
+      # SOURCE_URL: ${{ secrets.SOURCE_URL }} # اگر Secret گذاشتی
 
     steps:
       - name: Checkout repository
