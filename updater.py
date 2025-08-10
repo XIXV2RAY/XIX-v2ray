@@ -18,7 +18,8 @@ except ImportError:
 SOURCE_URL = os.getenv(
     "SOURCE_URL",
     ""
-)
+).strip()  # حذف فاصله یا newline اضافه
+
 GEOIP_DB_PATH = "GeoLite2-Country.mmdb"  # باید در ریشه‌ی ریپو باشه
 GITHUB_OWNER = "XIXV2RAY"
 GITHUB_REPO = "config-updater"
@@ -111,12 +112,18 @@ def fetch_source():
     logging.info(f"Fetching source from {SOURCE_URL}")
     r = requests.get(SOURCE_URL, timeout=30)
     r.raise_for_status()
-    return r.text.splitlines()
+    lines = r.text.splitlines()
+
+    # حذف 10 خط اول
+    if len(lines) > 10:
+        lines = lines[10:]
+
+    return lines
 
 def build_updated_line(line: str, reader, cache):
     stripped = line.strip()
     if not stripped or stripped.startswith("#"):
-        return line  # بدون تغییر
+        return line
 
     host = extract_ip_or_host(stripped)
     country_code = ""
@@ -201,7 +208,7 @@ def main():
 
     lines = fetch_source()
 
-    updated = fixed_configs[:]  # ۵ خط ثابت اول
+    updated = fixed_configs[:]
 
     for ln in lines:
         updated.append(build_updated_line(ln, reader, cache))
