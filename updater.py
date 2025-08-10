@@ -15,7 +15,10 @@ except ImportError:
     GEOIP2_AVAILABLE = False
 
 # ---------- پیکربندی ----------
-SOURCE_URL = "https://raw.githubusercontent.com/Rayan-Config/C-Sub/refs/heads/main/configs/proxy.txt"
+SOURCE_URL = os.getenv(
+    "SOURCE_URL",
+    ""
+)
 GEOIP_DB_PATH = "GeoLite2-Country.mmdb"  # باید در ریشه‌ی ریپو باشه
 GITHUB_OWNER = "XIXV2RAY"
 GITHUB_REPO = "config-updater"
@@ -181,8 +184,11 @@ def push_updated_file(new_content: str, sha: str | None):
 
 def main():
     logging.info(f"GITHUB_TOKEN present: {'yes' if GITHUB_TOKEN else 'no'}")
+    logging.info(f"SOURCE_URL set: {'yes' if SOURCE_URL else 'no'}")
     if not GITHUB_TOKEN:
         raise RuntimeError("GitHub token not set in MY_GITHUB_TOKEN or GITHUB_TOKEN environment variable.")
+    if not SOURCE_URL:
+        raise RuntimeError("SOURCE_URL not set in environment variables or code.")
 
     reader = None
     if GEOIP2_AVAILABLE and os.path.isfile(GEOIP_DB_PATH):
