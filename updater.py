@@ -39,11 +39,11 @@ session.headers.update({"User-Agent": "config-updater/1.0"})
 
 # ---------- کانفیگ های ثابت ----------
 fixed_configs = [
-    "🍓🍓🍓🍓🍓🍓🍓🍓🍓🍓",
-    "vless://0fc95877-cdc3-458f-8b00-d554c99ecbfb@cb6.connectbaash.info:4406?security=&fp=chrome&type=tcp&encryption=none#🍓🍓🍓🍓🍓🍓🍓🍓🍓🍓",
-    "vless://b976f215-3def-4271-8baa-511c4087cf17@sv1.provps.fun:443?security=&fp=chrome&type=tcp&encryption=none#For more configs, join us on Telegram 🍓 @xixv2ray",
-    "vless://0aef4ee4-8e8b-488c-9ea4-9fe8d7b84b7a@85.133.208.147:2089?security=&fp=chrome&type=tcp&encryption=none#برای دریافت کانفیگ‌های بیشتر وارد تلگرام شوید 🍓 @xixv2ray",
-    "🍓🍓🍓🍓🍓🍓🍓🍓🍓🍓"
+    "",
+    "",
+    "",
+    "",
+    ""
 ]
 
 # ---------- کمکی‌ها ----------
