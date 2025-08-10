@@ -53,17 +53,17 @@ vless://4e4768df-0fbb-4cc1-8fd3-7c6fea95742a@www.visa.com.br:443?security=tls&sn
 
 vless://4e4768df-0fbb-4cc1-8fd3-7c6fea95742a@www.visaeurope.ch:443?security=tls&sni=rAyAn-s08.PaRaStOo.dPdNs.oRg&allowInsecure=1&fp=chrome&type=ws&path=/@Rayan_Config&host=rayan-s08.parastoo.dpdns.org&encryption=none#🇨🇦 Canada 🍓 @xixv2ray
 
-vless://514746ab-3dc1-4222-876f-f0b2d639354e@uuk1v.tok8888.com:8443?mode=multi&security=reality&encryption=none&type=tcp&flow=xtls-rprx-vision&pbk=1jupCbzD9RB34YhWct4C6_I1bx_O5Ct7ZnT5dfCiV18&sni=www.apple.com.cn&servername=www.apple.com.cn&spx=%2F&fp=safari#🇺🇸 United States 🍓 @xixv2ray
+vless://514746ab-3dc1-4222-876f-f0b2d639354e@uuk1v.tok8888.com:8443?mode=multi&security=reality&encryption=none&type=tcp&flow=xtls-rprx-vision&pbk=1jupCbzD9RB34YhWct4C6_I1bx_O5Ct7ZnT5dfCiV18&sni=www.apple.com.cn&servername=www.apple.com.cn&spx=%2F&fp=firefox#🇺🇸 United States 🍓 @xixv2ray
 
-vless://514746ab-3dc1-4222-876f-f0b2d639354e@uuk2v.tok8888.com:8443?mode=multi&security=reality&encryption=none&type=tcp&flow=xtls-rprx-vision&pbk=GcOtIhZbkznrBYohK7rvjV0oVoQvC4y38VIExs6KUwA&sni=businessmadesimple.com&servername=businessmadesimple.com&spx=%2F&fp=chrome#🇺🇸 United States 🍓 @xixv2ray
+vless://514746ab-3dc1-4222-876f-f0b2d639354e@uuk2v.tok8888.com:8443?mode=multi&security=reality&encryption=none&type=tcp&flow=xtls-rprx-vision&pbk=GcOtIhZbkznrBYohK7rvjV0oVoQvC4y38VIExs6KUwA&sni=businessmadesimple.com&servername=businessmadesimple.com&spx=%2F&fp=firefox#🇺🇸 United States 🍓 @xixv2ray
 
-vless://514746ab-3dc1-4222-876f-f0b2d639354e@uuk3v.tok8888.com:8443?mode=multi&security=reality&encryption=none&type=tcp&flow=xtls-rprx-vision&pbk=yDkCTYl7Ap0XeU9PNv_kBY9BwQrgYZPIov-MXvpf7R8&sni=www.thewilliamvale.com&servername=www.thewilliamvale.com&spx=%2F&fp=ios#🇺🇸 United States 🍓 @xixv2ray
+vless://514746ab-3dc1-4222-876f-f0b2d639354e@uuk3v.tok8888.com:8443?mode=multi&security=reality&encryption=none&type=tcp&flow=xtls-rprx-vision&pbk=yDkCTYl7Ap0XeU9PNv_kBY9BwQrgYZPIov-MXvpf7R8&sni=www.thewilliamvale.com&servername=www.thewilliamvale.com&spx=%2F&fp=firefox#🇺🇸 United States 🍓 @xixv2ray
 
-vless://514746ab-3dc1-4222-876f-f0b2d639354e@uuk4v.tok8888.com:8443?mode=multi&security=reality&encryption=none&type=tcp&flow=xtls-rprx-vision&pbk=yDkCTYl7Ap0XeU9PNv_kBY9BwQrgYZPIov-MXvpf7R8&sni=www.apple.com.cn&servername=www.apple.com.cn&spx=%2F&fp=firefox#🇺🇸 United States 🍓 @xixv2ray
+vless://514746ab-3dc1-4222-876f-f0b2d639354e@uuk4v.tok8888.com:8443?mode=multi&security=reality&encryption=none&type=tcp&flow=xtls-rprx-vision&pbk=yDkCTYl7Ap0XeU9PNv_kBY9BwQrgYZPIov-MXvpf7R8&sni=www.apple.com.cn&servername=www.apple.com.cn&spx=%2F&fp=ios#🇺🇸 United States 🍓 @xixv2ray
 
-vless://514746ab-3dc1-4222-876f-f0b2d639354e@uuk5v.tok8888.com:8443?mode=multi&security=reality&encryption=none&type=tcp&flow=xtls-rprx-vision&pbk=kHtBu5SWzLuz79nw0LkDkH4luWft_A-M6MNq4LA-RB4&sni=www.apple.com.cn&servername=www.apple.com.cn&spx=%2F&fp=qq#🇺🇸 United States 🍓 @xixv2ray
+vless://514746ab-3dc1-4222-876f-f0b2d639354e@uuk5v.tok8888.com:8443?mode=multi&security=reality&encryption=none&type=tcp&flow=xtls-rprx-vision&pbk=kHtBu5SWzLuz79nw0LkDkH4luWft_A-M6MNq4LA-RB4&sni=www.apple.com.cn&servername=www.apple.com.cn&spx=%2F&fp=safari#🇺🇸 United States 🍓 @xixv2ray
 
-vless://514746ab-3dc1-4222-876f-f0b2d639354e@uuk6v.tok8888.com:45445?mode=multi&security=reality&encryption=none&type=tcp&flow=xtls-rprx-vision&pbk=yDkCTYl7Ap0XeU9PNv_kBY9BwQrgYZPIov-MXvpf7R8&sni=www.webilop.com&servername=www.webilop.com&spx=%2F&fp=qq#🇺🇸 United States 🍓 @xixv2ray
+vless://514746ab-3dc1-4222-876f-f0b2d639354e@uuk6v.tok8888.com:45445?mode=multi&security=reality&encryption=none&type=tcp&flow=xtls-rprx-vision&pbk=yDkCTYl7Ap0XeU9PNv_kBY9BwQrgYZPIov-MXvpf7R8&sni=www.webilop.com&servername=www.webilop.com&spx=%2F&fp=edge#🇺🇸 United States 🍓 @xixv2ray
 
 vless://5aa9c9ce-d5b3-40be-8481-fe5ae953e5a9@51.195.101.222:443?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/ws&host=51.195.101.222&encryption=none#🇩🇪 Germany 🍓 @xixv2ray
 
@@ -181,31 +181,31 @@ hysteria2://48c2c901-72e6-46d4-ac78-169d73264cbf@172.252.236.213:46502/?sni=real
 
 hysteria2://48c2c901-72e6-46d4-ac78-169d73264cbf@185.126.255.78:59494/?sni=real.getafreenode.sbs#🇺🇦 Ukraine 🍓 @xixv2ray
 
-hysteria2://514746ab-3dc1-4222-876f-f0b2d639354e@au1.gy6688.xyz:21305?sni=au1.gy6688.xyz&security=tls&obfs=salamander&obfs-password=cP2sbTFOTkuTq1sW&mport=21000-26000&insecure=1#🇦🇺 Australia 🍓 @xixv2ray
+hysteria2://514746ab-3dc1-4222-876f-f0b2d639354e@au1.gy6688.xyz:25039?sni=au1.gy6688.xyz&security=tls&obfs=salamander&obfs-password=cP2sbTFOTkuTq1sW&mport=21000-26000&insecure=1#🇦🇺 Australia 🍓 @xixv2ray
 
-hysteria2://514746ab-3dc1-4222-876f-f0b2d639354e@dg1.gy6688.xyz:22651?sni=dg1.gy6688.xyz&security=tls&obfs=salamander&obfs-password=LNAnPYDfFyesRAVn&mport=21000-26000&insecure=1#🇩🇪 Germany 🍓 @xixv2ray
+hysteria2://514746ab-3dc1-4222-876f-f0b2d639354e@dg1.gy6688.xyz:25852?sni=dg1.gy6688.xyz&security=tls&obfs=salamander&obfs-password=LNAnPYDfFyesRAVn&mport=21000-26000&insecure=1#🇩🇪 Germany 🍓 @xixv2ray
 
-hysteria2://514746ab-3dc1-4222-876f-f0b2d639354e@hl1.gy6688.xyz:21888?sni=hl1.gy6688.xyz&security=tls&obfs=salamander&obfs-password=LNAnPYDfFyesRAVn&mport=21000-26000&insecure=1#🇳🇱 The Netherlands 🍓 @xixv2ray
+hysteria2://514746ab-3dc1-4222-876f-f0b2d639354e@hl1.gy6688.xyz:21280?sni=hl1.gy6688.xyz&security=tls&obfs=salamander&obfs-password=LNAnPYDfFyesRAVn&mport=21000-26000&insecure=1#🇳🇱 The Netherlands 🍓 @xixv2ray
 
-hysteria2://514746ab-3dc1-4222-876f-f0b2d639354e@jnd1.gy6688.xyz:25915?sni=jnd1.gy6688.xyz&security=tls&obfs=salamander&obfs-password=LNAnPYDfFyesRAVn&mport=21000-26000&insecure=1#🇨🇦 Canada 🍓 @xixv2ray
+hysteria2://514746ab-3dc1-4222-876f-f0b2d639354e@jnd1.gy6688.xyz:24786?sni=jnd1.gy6688.xyz&security=tls&obfs=salamander&obfs-password=LNAnPYDfFyesRAVn&mport=21000-26000&insecure=1#🇨🇦 Canada 🍓 @xixv2ray
 
-hysteria2://514746ab-3dc1-4222-876f-f0b2d639354e@uuk1.tok8888.com:21353?sni=uuk1.tok8888.com&security=tls&obfs=salamander&obfs-password=LNAnPYDfFyesRAVn&mport=21000-26000&insecure=1#🇺🇸 United States 🍓 @xixv2ray
+hysteria2://514746ab-3dc1-4222-876f-f0b2d639354e@uuk1.tok8888.com:21444?sni=uuk1.tok8888.com&security=tls&obfs=salamander&obfs-password=LNAnPYDfFyesRAVn&mport=21000-26000&insecure=1#🇺🇸 United States 🍓 @xixv2ray
 
-hysteria2://514746ab-3dc1-4222-876f-f0b2d639354e@uuk1.tok8888.com:21353?sni=uuk1.tok8888.com&security=tls&obfs=salamander&obfs-password=LNAnPYDfFyesRAVn&mport=21000-26000&insecure=1#🇺🇸 United States 🍓 @xixv2ray
+hysteria2://514746ab-3dc1-4222-876f-f0b2d639354e@uuk1.tok8888.com:21444?sni=uuk1.tok8888.com&security=tls&obfs=salamander&obfs-password=LNAnPYDfFyesRAVn&mport=21000-26000&insecure=1#🇺🇸 United States 🍓 @xixv2ray
 
-hysteria2://514746ab-3dc1-4222-876f-f0b2d639354e@uuk1.tok8888.com:21353?sni=uuk1.tok8888.com&security=tls&obfs=salamander&obfs-password=LNAnPYDfFyesRAVn&mport=21000-26000&insecure=1#🇺🇸 United States 🍓 @xixv2ray
+hysteria2://514746ab-3dc1-4222-876f-f0b2d639354e@uuk1.tok8888.com:21444?sni=uuk1.tok8888.com&security=tls&obfs=salamander&obfs-password=LNAnPYDfFyesRAVn&mport=21000-26000&insecure=1#🇺🇸 United States 🍓 @xixv2ray
 
-hysteria2://514746ab-3dc1-4222-876f-f0b2d639354e@uuk1.tok8888.com:21353?sni=uuk1.tok8888.com&security=tls&obfs=salamander&obfs-password=LNAnPYDfFyesRAVn&mport=21000-26000&insecure=1#🇺🇸 United States 🍓 @xixv2ray
+hysteria2://514746ab-3dc1-4222-876f-f0b2d639354e@uuk1.tok8888.com:21444?sni=uuk1.tok8888.com&security=tls&obfs=salamander&obfs-password=LNAnPYDfFyesRAVn&mport=21000-26000&insecure=1#🇺🇸 United States 🍓 @xixv2ray
 
-hysteria2://514746ab-3dc1-4222-876f-f0b2d639354e@uuk2.tok8888.com:21740?sni=uuk2.tok8888.com&security=tls&obfs=salamander&obfs-password=LNAnPYDfFyesRAVn&mport=21000-26000&insecure=1#🇺🇸 United States 🍓 @xixv2ray
+hysteria2://514746ab-3dc1-4222-876f-f0b2d639354e@uuk2.tok8888.com:22067?sni=uuk2.tok8888.com&security=tls&obfs=salamander&obfs-password=LNAnPYDfFyesRAVn&mport=21000-26000&insecure=1#🇺🇸 United States 🍓 @xixv2ray
 
-hysteria2://514746ab-3dc1-4222-876f-f0b2d639354e@uuk3.tok8888.com:23703?sni=uuk3.tok8888.com&security=tls&obfs=salamander&obfs-password=LNAnPYDfFyesRAVn&mport=21000-26000&insecure=1#🇺🇸 United States 🍓 @xixv2ray
+hysteria2://514746ab-3dc1-4222-876f-f0b2d639354e@uuk3.tok8888.com:21772?sni=uuk3.tok8888.com&security=tls&obfs=salamander&obfs-password=LNAnPYDfFyesRAVn&mport=21000-26000&insecure=1#🇺🇸 United States 🍓 @xixv2ray
 
-hysteria2://514746ab-3dc1-4222-876f-f0b2d639354e@xjp1.gy6688.xyz:25982?sni=xjp1.gy6688.xyz&security=tls&obfs=salamander&obfs-password=LNAnPYDfFyesRAVn&mport=21000-26000&insecure=1#🇸🇬 Singapore 🍓 @xixv2ray
+hysteria2://514746ab-3dc1-4222-876f-f0b2d639354e@xjp1.gy6688.xyz:25224?sni=xjp1.gy6688.xyz&security=tls&obfs=salamander&obfs-password=LNAnPYDfFyesRAVn&mport=21000-26000&insecure=1#🇸🇬 Singapore 🍓 @xixv2ray
 
-hysteria2://514746ab-3dc1-4222-876f-f0b2d639354e@yd1.gy6688.xyz:25594?sni=yd1.gy6688.xyz&security=tls&obfs=salamander&obfs-password=LNAnPYDfFyesRAVn&mport=21000-26000&insecure=1#🇮🇳 India 🍓 @xixv2ray
+hysteria2://514746ab-3dc1-4222-876f-f0b2d639354e@yd1.gy6688.xyz:25666?sni=yd1.gy6688.xyz&security=tls&obfs=salamander&obfs-password=LNAnPYDfFyesRAVn&mport=21000-26000&insecure=1#🇮🇳 India 🍓 @xixv2ray
 
-hysteria2://514746ab-3dc1-4222-876f-f0b2d639354e@yg1.gy6688.xyz:22552?sni=yg1.gy6688.xyz&security=tls&obfs=salamander&obfs-password=LNAnPYDfFyesRAVn&mport=21000-26000&insecure=1#🇬🇧 United Kingdom 🍓 @xixv2ray
+hysteria2://514746ab-3dc1-4222-876f-f0b2d639354e@yg1.gy6688.xyz:21945?sni=yg1.gy6688.xyz&security=tls&obfs=salamander&obfs-password=LNAnPYDfFyesRAVn&mport=21000-26000&insecure=1#🇬🇧 United Kingdom 🍓 @xixv2ray
 
 hysteria2://52816135-d3bc-46bc-a915-09886a2e2b2e@172.252.236.213:46502/?sni=real.getafreenode.sbs#🇫🇷 France 🍓 @xixv2ray
 
