@@ -14,8 +14,8 @@ jobs:
     env:
       MY_GITHUB_TOKEN: ${{ secrets.MY_GITHUB_TOKEN }}
       # یکی از این دو خط رو فعال کن بسته به اینکه SOURCE_URL رو کجا ذخیره کردی:
-      SOURCE_URL: ${{ vars.SOURCE_URL }}     # اگر Variable گذاشتی
-      # SOURCE_URL: ${{ secrets.SOURCE_URL }}  # اگر Secret گذاشتی
+     # SOURCE_URL: ${{ vars.SOURCE_URL }}     # اگر Variable گذاشتی
+      SOURCE_URL: ${{ secrets.SOURCE_URL }}  # اگر Secret گذاشتی
 
     steps:
       - name: Checkout repository
