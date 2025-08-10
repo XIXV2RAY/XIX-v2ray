@@ -3,16 +3,6 @@ vless://0fc95877-cdc3-458f-8b00-d554c99ecbfb@cb6.connectbaash.info:4406?security
 vless://b976f215-3def-4271-8baa-511c4087cf17@sv1.provps.fun:443?security=&fp=chrome&type=tcp&encryption=none#For more configs, join us on Telegram 🍓 @xixv2ray
 vless://0aef4ee4-8e8b-488c-9ea4-9fe8d7b84b7a@85.133.208.147:2089?security=&fp=chrome&type=tcp&encryption=none#برای دریافت کانفیگ‌های بیشتر وارد تلگرام شوید 🍓 @xixv2ray
 🍓🍓🍓🍓🍓🍓🍓🍓🍓🍓
-//profile-title: base64:8J+RkSBAUmF5YW5fQ29uZmlnICDwn5GR#🍓 @xixv2ray
-//profile-update-interval: 1#🍓 @xixv2ray
-//subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531#🍓 @xixv2ray
-//support-url: https://t.me/Chat_Support_Configs#🍓 @xixv2ray
-//profile-web-page-url: https://t.me/Rayan_Config#🍓 @xixv2ray
-
-vless://0132740f-c0d4-5f8b-b283-77f3fd604c57@194.147.34.72:443?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=194.147.34.72&encryption=none#🇵🇱 Poland 🍓 @xixv2ray
-
-vless://06db78c4-fce2-406b-8d40-16f8c644f0ea@gstatic-edge-gw01.cyberscaler.net:2087?security=reality&sni=fonts.gstatic.com&fp=safari&pbk=Zi9WQ3IxyvROG0dBrUVIPoi-3N2qoFQT_pfijQU7iDE&sid=567e&spx=/cdn-assets-v2&type=tcp&encryption=none#🇨🇦 Canada 🍓 @xixv2ray
-
 vless://0d9a6872-cc1b-4a1d-97c0-b26cfb0a2fab@fonts-edge.cyberscaler.net:3001?security=reality&sni=fonts.googleapis.com&fp=chrome&pbk=woGECOY0E1cD6wr7zW0ZZPzzCCgF_N0iDMFzfzdfowg&sid=b7bfcb5873c93a&spx=/cdn-assets-v8&type=tcp&encryption=none#🇨🇦 Canada 🍓 @xixv2ray
 
 vless://11402c34-7f90-485f-a218-ade69f314f49@store-static-portal.cyberscaler.net:10082?security=&fp=chrome&type=tcp&path=/&headerType=http&host=cdnjs.cloudflare.com&encryption=none#🇨🇦 Canada 🍓 @xixv2ray
