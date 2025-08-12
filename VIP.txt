@@ -71,7 +71,7 @@ vless://5aa9c9ce-d5b3-40be-8481-fe5ae953e5a9@51.195.101.222:443?security=tls&sni
 
 vless://636dd9f5-34d7-4482-bff2-9b1ea8ff4bfb@static-akam.cyberscaler.net:443?security=reality&sni=www.msftconnecttest.com&fp=chrome&pbk=11WATg6mLIBR7oM1b6YcSu4QBrIUMGVwNLq4tmI0GC0&sid=fc7e81a9c87a4b7a&spx=/&type=tcp&encryption=none#🇦🇹 Austria 🍓 @xixv2ray
 
-vless://7031e57a-80e6-404e-b723-7c8bd4788030@ecobrg.drinfoo.com:4443?security=tls&sni=fast.com&fp=chrome&type=ws&path=/&host=fast.com&encryption=none#🇬🇧 United Kingdom 🍓 @xixv2ray
+vless://7031e57a-80e6-404e-b723-7c8bd4788030@ecobrg.drinfoo.com:4443?security=tls&sni=fast.com&fp=chrome&type=ws&path=/&host=fast.com&encryption=none#🇫🇷 France 🍓 @xixv2ray
 
 vless://71068ecf-9826-4ab6-9757-c8d05c0338ae@static-edge-front.deepcloudview.com:443?security=reality&sni=firebase.googleapis.com&fp=chrome&pbk=b-jISQAdIIxv6MeoirMHu_MSRdUCriKY5v8vvszN6BA&sid=2d3bb9138f&spx=/v1/projects/init&type=tcp&encryption=none#🇨🇦 Canada 🍓 @xixv2ray
 
@@ -103,7 +103,7 @@ vless://9ec8ff64-b8b0-4ed3-a216-129a48fa689a@148.113.207.224:443?security=tls&sn
 
 vless://9f6b70a1-ae9a-49ac-b9bd-0e41c99ca23c@edge-resources.cyberscaler.net:8280?security=&fp=chrome&type=tcp&headerType=http&host=assets.global.fastly.net&encryption=none#🇦🇹 Austria 🍓 @xixv2ray
 
-vless://a3151e51-8945-4cd4-9db7-6729bc551c63@cdn-assets-edge.cyberscaler.net:80?security=&fp=chrome&type=tcp&headerType=http&host=cdnjs.cloudflare.com&encryption=none#🇫🇷 France 🍓 @xixv2ray
+vless://a3151e51-8945-4cd4-9db7-6729bc551c63@cdn-assets-edge.cyberscaler.net:80?security=&fp=chrome&type=tcp&headerType=http&host=cdnjs.cloudflare.com&encryption=none#🇦🇹 Austria 🍓 @xixv2ray
 
 vless://a7f4aed5-f1f3-4de6-b7e2-900dc56621e2@185.120.59.70:2087?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=185.120.59.70&encryption=none#🇫🇷 France 🍓 @xixv2ray
 
@@ -117,7 +117,7 @@ vless://c30fee5c-a1ba-4828-8c6b-ac509d7342e3@store-static-portal.cyberscaler.net
 
 vless://d7ef1a6d-a2da-4d43-87d8-f110b13163c7@datafiles.cyberscaler.net:443?security=reality&sni=ssl.gstatic.com&fp=chrome&pbk=b-jISQAdIIxv6MeoirMHu_MSRdUCriKY5v8vvszN6BA&sid=3b7c99b709e4a19e&spx=/images/icons/1x1.png&type=tcp&encryption=none#🇨🇦 Canada 🍓 @xixv2ray
 
-vless://da70ccc8-4da5-4f04-aa4c-3c7f31e57ff7@cdn-assets-edge.cyberscaler.net:80?security=&fp=chrome&type=tcp&headerType=http&host=cdnjs.cloudflare.com&encryption=none#🇫🇷 France 🍓 @xixv2ray
+vless://da70ccc8-4da5-4f04-aa4c-3c7f31e57ff7@cdn-assets-edge.cyberscaler.net:80?security=&fp=chrome&type=tcp&headerType=http&host=cdnjs.cloudflare.com&encryption=none#🇦🇹 Austria 🍓 @xixv2ray
 
 vless://da9b9ff1-6767-4179-9656-308943d018ed@143.198.15.103:443?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/ws&host=174.138.82.85&encryption=none#🇺🇸 United States 🍓 @xixv2ray
 
@@ -131,91 +131,27 @@ vless://e931b9e7-8f36-41a4-91f4-f896c6bc42c5@cf-assets-blog.cyberscaler.net:443?
 
 vless://fb5065d1-0e03-550d-8379-c040eaf8cf89@185.255.178.188:443?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=185.255.178.188&encryption=none#🇪🇪 Estonia 🍓 @xixv2ray
 
-hysteria2://07c122ad-50b2-4f61-9435-efcf112bb10b@172.252.236.213:46502/?sni=real.getafreenode.sbs#🇫🇷 France 🍓 @xixv2ray
+hysteria2://07c122ad-50b2-4f61-9435-efcf112bb10b@172.252.236.213:46556/?sni=real.getafreenode.sbs#🇫🇷 France 🍓 @xixv2ray
 
 hysteria2://07c122ad-50b2-4f61-9435-efcf112bb10b@185.126.255.78:59494/?sni=real.getafreenode.sbs#🇺🇦 Ukraine 🍓 @xixv2ray
 
-hysteria2://0cb527d9-6117-4bcf-a52b-1704b3458cef@172.252.236.213:46502/?sni=real.getafreenode.sbs#🇫🇷 France 🍓 @xixv2ray
-
-hysteria2://0cb527d9-6117-4bcf-a52b-1704b3458cef@185.126.255.78:59494/?sni=real.getafreenode.sbs#🇺🇦 Ukraine 🍓 @xixv2ray
-
-hysteria2://1045aedf-053c-4585-875d-e2fc3f3ea6dd@172.252.236.213:46502/?sni=real.getafreenode.sbs#🇫🇷 France 🍓 @xixv2ray
+hysteria2://1045aedf-053c-4585-875d-e2fc3f3ea6dd@172.252.236.213:46556/?sni=real.getafreenode.sbs#🇫🇷 France 🍓 @xixv2ray
 
 hysteria2://1045aedf-053c-4585-875d-e2fc3f3ea6dd@185.126.255.78:59494/?sni=real.getafreenode.sbs#🇺🇦 Ukraine 🍓 @xixv2ray
 
-hysteria2://1fdb6b30-5371-4ff8-a001-efdc4b43d79b@172.252.236.213:46502/?sni=real.getafreenode.sbs#🇫🇷 France 🍓 @xixv2ray
-
-hysteria2://1fdb6b30-5371-4ff8-a001-efdc4b43d79b@185.126.255.78:59494/?sni=real.getafreenode.sbs#🇺🇦 Ukraine 🍓 @xixv2ray
-
-hysteria2://23125f6e-ec56-4c26-9714-0bbacdb53d01@172.252.236.213:46502/?sni=real.getafreenode.sbs#🇫🇷 France 🍓 @xixv2ray
-
-hysteria2://23125f6e-ec56-4c26-9714-0bbacdb53d01@185.126.255.78:59494/?sni=real.getafreenode.sbs#🇺🇦 Ukraine 🍓 @xixv2ray
-
-hysteria2://29fbd51f-03c8-4d76-849a-436e54d58317@172.252.236.213:46502/?sni=real.getafreenode.sbs#🇫🇷 France 🍓 @xixv2ray
-
-hysteria2://29fbd51f-03c8-4d76-849a-436e54d58317@185.126.255.78:59494/?sni=real.getafreenode.sbs#🇺🇦 Ukraine 🍓 @xixv2ray
-
-hysteria2://413c8b50-96bf-4457-82f2-54dfa8685f53@172.252.236.213:46502/?sni=real.getafreenode.sbs#🇫🇷 France 🍓 @xixv2ray
+hysteria2://413c8b50-96bf-4457-82f2-54dfa8685f53@172.252.236.213:46556/?sni=real.getafreenode.sbs#🇫🇷 France 🍓 @xixv2ray
 
 hysteria2://413c8b50-96bf-4457-82f2-54dfa8685f53@185.126.255.78:59494/?sni=real.getafreenode.sbs#🇺🇦 Ukraine 🍓 @xixv2ray
 
-hysteria2://45cc0b3a-0adb-4dcc-8f54-4ba3d2cc274e@172.252.236.213:46502/?sni=real.getafreenode.sbs#🇫🇷 France 🍓 @xixv2ray
+hysteria2://45cc0b3a-0adb-4dcc-8f54-4ba3d2cc274e@172.252.236.213:46556/?sni=real.getafreenode.sbs#🇫🇷 France 🍓 @xixv2ray
 
 hysteria2://45cc0b3a-0adb-4dcc-8f54-4ba3d2cc274e@185.126.255.78:59494/?sni=real.getafreenode.sbs#🇺🇦 Ukraine 🍓 @xixv2ray
 
-hysteria2://4685eb2a-5ddb-4dc6-9e53-f0c90d6124c1@172.252.236.213:46502/?sni=real.getafreenode.sbs#🇫🇷 France 🍓 @xixv2ray
-
-hysteria2://4685eb2a-5ddb-4dc6-9e53-f0c90d6124c1@185.126.255.78:59494/?sni=real.getafreenode.sbs#🇺🇦 Ukraine 🍓 @xixv2ray
-
-hysteria2://48c2c901-72e6-46d4-ac78-169d73264cbf@172.252.236.213:46502/?sni=real.getafreenode.sbs#🇫🇷 France 🍓 @xixv2ray
-
-hysteria2://48c2c901-72e6-46d4-ac78-169d73264cbf@185.126.255.78:59494/?sni=real.getafreenode.sbs#🇺🇦 Ukraine 🍓 @xixv2ray
-
-hysteria2://52816135-d3bc-46bc-a915-09886a2e2b2e@172.252.236.213:46502/?sni=real.getafreenode.sbs#🇫🇷 France 🍓 @xixv2ray
+hysteria2://52816135-d3bc-46bc-a915-09886a2e2b2e@172.252.236.213:46556/?sni=real.getafreenode.sbs#🇫🇷 France 🍓 @xixv2ray
 
 hysteria2://52816135-d3bc-46bc-a915-09886a2e2b2e@185.126.255.78:59494/?sni=real.getafreenode.sbs#🇺🇦 Ukraine 🍓 @xixv2ray
 
-hysteria2://55ca7a9e-cf90-49df-b14a-9346c59b73b9@172.252.236.213:46502/?sni=real.getafreenode.sbs#🇫🇷 France 🍓 @xixv2ray
-
-hysteria2://55ca7a9e-cf90-49df-b14a-9346c59b73b9@185.126.255.78:59494/?sni=real.getafreenode.sbs#🇺🇦 Ukraine 🍓 @xixv2ray
-
-hysteria2://5eaa121d-4362-444d-8219-29b02c35303a@172.252.236.213:46502/?sni=real.getafreenode.sbs#🇫🇷 France 🍓 @xixv2ray
-
-hysteria2://5eaa121d-4362-444d-8219-29b02c35303a@185.126.255.78:59494/?sni=real.getafreenode.sbs#🇺🇦 Ukraine 🍓 @xixv2ray
-
-hysteria2://6bf726db-fb0b-405b-899a-3e263f092eda@172.252.236.213:46502/?sni=real.getafreenode.sbs#🇫🇷 France 🍓 @xixv2ray
-
-hysteria2://6bf726db-fb0b-405b-899a-3e263f092eda@185.126.255.78:59494/?sni=real.getafreenode.sbs#🇺🇦 Ukraine 🍓 @xixv2ray
-
-hysteria2://80b2ac81-ba69-41f9-bb46-820b7b3af4dd@172.252.236.213:46502/?sni=real.getafreenode.sbs#🇫🇷 France 🍓 @xixv2ray
-
-hysteria2://80b2ac81-ba69-41f9-bb46-820b7b3af4dd@185.126.255.78:59494/?sni=real.getafreenode.sbs#🇺🇦 Ukraine 🍓 @xixv2ray
-
-hysteria2://942b9cb8-92fa-46ac-ae91-f69c8234434b@172.252.236.213:46502/?sni=real.getafreenode.sbs#🇫🇷 France 🍓 @xixv2ray
-
-hysteria2://942b9cb8-92fa-46ac-ae91-f69c8234434b@185.126.255.78:59494/?sni=real.getafreenode.sbs#🇺🇦 Ukraine 🍓 @xixv2ray
-
-hysteria2://9c859345-959f-491b-b6fc-65cd7a57aeb3@172.252.236.213:46502/?sni=real.getafreenode.sbs#🇫🇷 France 🍓 @xixv2ray
-
-hysteria2://9c859345-959f-491b-b6fc-65cd7a57aeb3@185.126.255.78:59494/?sni=real.getafreenode.sbs#🇺🇦 Ukraine 🍓 @xixv2ray
-
 hysteria2://Yet-Another-Public-Config-1@yapc-1.adamhayward.co.uk:36300?obfs=salamander&obfs-password=Yet-Another-Public-Config-1&sni=YAPC-1.afshin.ir#🇳🇱 The Netherlands 🍓 @xixv2ray
-
-hysteria2://c6e02cd8-ce11-40f0-afeb-e2c412b6cc3a@172.252.236.213:46502/?sni=real.getafreenode.sbs#🇫🇷 France 🍓 @xixv2ray
-
-hysteria2://c6e02cd8-ce11-40f0-afeb-e2c412b6cc3a@185.126.255.78:59494/?sni=real.getafreenode.sbs#🇺🇦 Ukraine 🍓 @xixv2ray
-
-hysteria2://e31ad3e6-e341-42ac-bdc7-bea02d126fc1@172.252.236.213:46502/?sni=real.getafreenode.sbs#🇫🇷 France 🍓 @xixv2ray
-
-hysteria2://e31ad3e6-e341-42ac-bdc7-bea02d126fc1@185.126.255.78:59494/?sni=real.getafreenode.sbs#🇺🇦 Ukraine 🍓 @xixv2ray
-
-hysteria2://ebbeef45-0fd8-40cd-aca5-1e2ce18abeff@172.252.236.213:46502/?sni=real.getafreenode.sbs#🇫🇷 France 🍓 @xixv2ray
-
-hysteria2://ebbeef45-0fd8-40cd-aca5-1e2ce18abeff@185.126.255.78:59494/?sni=real.getafreenode.sbs#🇺🇦 Ukraine 🍓 @xixv2ray
-
-hysteria2://f901861b-6491-450c-b500-606b2e921625@172.252.236.213:46502/?sni=real.getafreenode.sbs#🇫🇷 France 🍓 @xixv2ray
-
-hysteria2://f901861b-6491-450c-b500-606b2e921625@185.126.255.78:59494/?sni=real.getafreenode.sbs#🇺🇦 Ukraine 🍓 @xixv2ray
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1MXlsb1FDOEQ5dzFXYWU3Rkh0STY1@135.225.124.80:48172#🇸🇪 Sweden 🍓 @xixv2ray
 
