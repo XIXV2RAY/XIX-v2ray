@@ -103,7 +103,7 @@ vless://9ec8ff64-b8b0-4ed3-a216-129a48fa689a@148.113.207.224:443?security=tls&sn
 
 vless://9f6b70a1-ae9a-49ac-b9bd-0e41c99ca23c@edge-resources.cyberscaler.net:8280?security=&fp=chrome&type=tcp&headerType=http&host=assets.global.fastly.net&encryption=none#🇦🇹 Austria 🍓 @xixv2ray
 
-vless://a3151e51-8945-4cd4-9db7-6729bc551c63@cdn-assets-edge.cyberscaler.net:80?security=&fp=chrome&type=tcp&headerType=http&host=cdnjs.cloudflare.com&encryption=none#🇦🇹 Austria 🍓 @xixv2ray
+vless://a3151e51-8945-4cd4-9db7-6729bc551c63@cdn-assets-edge.cyberscaler.net:80?security=&fp=chrome&type=tcp&headerType=http&host=cdnjs.cloudflare.com&encryption=none#🇨🇦 Canada 🍓 @xixv2ray
 
 vless://a7f4aed5-f1f3-4de6-b7e2-900dc56621e2@185.120.59.70:2087?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=185.120.59.70&encryption=none#🇫🇷 France 🍓 @xixv2ray
 
@@ -117,7 +117,7 @@ vless://c30fee5c-a1ba-4828-8c6b-ac509d7342e3@store-static-portal.cyberscaler.net
 
 vless://d7ef1a6d-a2da-4d43-87d8-f110b13163c7@datafiles.cyberscaler.net:443?security=reality&sni=ssl.gstatic.com&fp=chrome&pbk=b-jISQAdIIxv6MeoirMHu_MSRdUCriKY5v8vvszN6BA&sid=3b7c99b709e4a19e&spx=/images/icons/1x1.png&type=tcp&encryption=none#🇨🇦 Canada 🍓 @xixv2ray
 
-vless://da70ccc8-4da5-4f04-aa4c-3c7f31e57ff7@cdn-assets-edge.cyberscaler.net:80?security=&fp=chrome&type=tcp&headerType=http&host=cdnjs.cloudflare.com&encryption=none#🇦🇹 Austria 🍓 @xixv2ray
+vless://da70ccc8-4da5-4f04-aa4c-3c7f31e57ff7@cdn-assets-edge.cyberscaler.net:80?security=&fp=chrome&type=tcp&headerType=http&host=cdnjs.cloudflare.com&encryption=none#🇨🇦 Canada 🍓 @xixv2ray
 
 vless://da9b9ff1-6767-4179-9656-308943d018ed@143.198.15.103:443?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/ws&host=174.138.82.85&encryption=none#🇺🇸 United States 🍓 @xixv2ray
 
@@ -140,10 +140,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1MXlsb1FDOEQ5dzFXYWU3Rkh0STY1@4.223.100.248:
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1MXlsb1FDOEQ5dzFXYWU3Rkh0STY1@4.223.106.151:48172#🇸🇪 Sweden 🍓 @xixv2ray
 
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@38.54.57.90:989#🇧🇷 Brazil 🍓 @xixv2ray
-
-hysteria2://52816135-d3bc-46bc-a915-09886a2e2b2e@172.252.236.213:46556/?sni=real.getafreenode.sbs#🇫🇷 France 🍓 @xixv2ray
-
-hysteria2://52816135-d3bc-46bc-a915-09886a2e2b2e@185.126.255.78:59494/?sni=real.getafreenode.sbs#🇺🇦 Ukraine 🍓 @xixv2ray
 
 hysteria2://Yet-Another-Public-Config-1@yapc-1.adamhayward.co.uk:36300?obfs=salamander&obfs-password=Yet-Another-Public-Config-1&sni=YAPC-1.afshin.ir#🇳🇱 The Netherlands 🍓 @xixv2ray
 
