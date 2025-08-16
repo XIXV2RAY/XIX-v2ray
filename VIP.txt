@@ -93,7 +93,7 @@ vless://986783c3-0225-4f4d-9c29-e7c75c8b8c80@static-edge-front.deepcloudview.com
 
 vless://9df6183b-ca47-4d4d-b014-e24aa41d401a@157.230.91.47:443?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/ws&host=157.230.91.47&encryption=none#🇺🇸 United States 🍓 @xixv2ray
 
-vless://9f6b70a1-ae9a-49ac-b9bd-0e41c99ca23c@edge-resources.cyberscaler.net:8280?security=&fp=chrome&type=tcp&headerType=http&host=assets.global.fastly.net&encryption=none#🇦🇹 Austria 🍓 @xixv2ray
+vless://9f6b70a1-ae9a-49ac-b9bd-0e41c99ca23c@edge-resources.cyberscaler.net:8280?security=&fp=chrome&type=tcp&headerType=http&host=assets.global.fastly.net&encryption=none#🇨🇦 Canada 🍓 @xixv2ray
 
 vless://a0ac9cf5-f8c8-43cf-a09b-908455fb2b4b@laravel.com:443?security=tls&sni=rAyAn-cOnFiG-08.rAyAn-iIi.dNs-dYnAmIc.nEt&allowInsecure=1&fp=chrome&type=ws&path=/@Rayan_Config&host=rayan-config-08.rayan-iii.dns-dynamic.net&encryption=none#🇨🇦 Canada 🍓 @xixv2ray
 
