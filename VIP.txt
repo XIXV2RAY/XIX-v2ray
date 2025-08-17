@@ -133,8 +133,6 @@ vless://e7e9b808-20ac-4bd7-b71f-76374156fac6@51.195.202.129:443?security=tls&sni
 
 vless://e931b9e7-8f36-41a4-91f4-f896c6bc42c5@cf-assets-blog.cyberscaler.net:443?security=reality&sni=blog.cloudflare.com&fp=chrome&pbk=WEf1JX6bG0hGjlSacn2r32T2IZhifBsl2g7qqZoUPAw&sid=14&spx=/cdn-cgi/trace&type=tcp&encryption=none#🇨🇦 Canada 🍓 @xixv2ray
 
-hysteria2://07c122ad-50b2-4f61-9435-efcf112bb10b@185.126.255.78:49382/?sni=real.getafreenode.sbs#🇺🇦 Ukraine 🍓 @xixv2ray
-
 hysteria2://0cb527d9-6117-4bcf-a52b-1704b3458cef@185.126.255.78:49382/?sni=real.getafreenode.sbs#🇺🇦 Ukraine 🍓 @xixv2ray
 
 hysteria2://1045aedf-053c-4585-875d-e2fc3f3ea6dd@185.126.255.78:49382/?sni=real.getafreenode.sbs#🇺🇦 Ukraine 🍓 @xixv2ray
