@@ -17,9 +17,9 @@ vless://1688039e-a45f-499e-b9f4-c098c87d3b32@www.visasoutheasteurope.com:443?sec
 
 vless://1lpxy6haqm@1lpxy6haqm-451516713-direct.zamam.co:443?security=tls&sni=1lpxy6haqm-451516713-direct.zamam.co&alpn=h2,http/1.1&fp=randomized&type=tcp&flow=xtls-rprx-vision&encryption=none#🇱🇮 Liechtenstein 🍓 @xixv2ray
 
-vless://242019e5-e125-4f22-86ce-1b45f418cec4@static-edge-store2.cyberscaler.net:443?security=reality&sni=ajax.googleapis.com&fp=chrome&pbk=3FkZrD191IZ1yoo4kxtAUjQXOAuykaOSzxRAhAKKEX0&sid=229134&spx=/cdn-assets-v2&type=tcp&encryption=none#🇨🇦 Canada 🍓 @xixv2ray
+vless://242019e5-e125-4f22-86ce-1b45f418cec4@static-edge-store2.cyberscaler.net:443?security=reality&sni=ajax.googleapis.com&fp=chrome&pbk=3FkZrD191IZ1yoo4kxtAUjQXOAuykaOSzxRAhAKKEX0&sid=229134&spx=/cdn-assets-v2&type=tcp&encryption=none#🍓 @xixv2ray
 
-vless://26bb41d8-7708-4a08-ab6b-41f5c509915a@edge-gw-store1.cyberscaler.net:443?security=reality&sni=cdn.jsdelivr.net&fp=chrome&pbk=zMeFpcu-ppUKh_am7bNYWtLehvtvhjocEPP8efg1Jg4&sid=13f10f56&spx=/npm/vue@2.6.14&type=tcp&encryption=none#🇨🇦 Canada 🍓 @xixv2ray
+vless://26bb41d8-7708-4a08-ab6b-41f5c509915a@edge-gw-store1.cyberscaler.net:443?security=reality&sni=cdn.jsdelivr.net&fp=chrome&pbk=zMeFpcu-ppUKh_am7bNYWtLehvtvhjocEPP8efg1Jg4&sid=13f10f56&spx=/npm/vue@2.6.14&type=tcp&encryption=none#🍓 @xixv2ray
 
 vless://26e06c13-56ec-41d3-a750-d8f070053306@simonil.zarghamportal.ir:2095?security=&fp=chrome&type=ws&path=/@iSpeedTopVPN?ed%3D80&host=shole.zarghamportal.ir&encryption=none#🇨🇦 Canada 🍓 @xixv2ray
 
@@ -67,9 +67,9 @@ vless://7031e57a-80e6-404e-b723-7c8bd4788030@ecobrg.drinfoo.com:4443?security=tl
 
 vless://707012d8-6b03-454f-89e6-15070a3ecbe7@134.209.90.171:443?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/ws&host=152.42.139.83&encryption=none#🇳🇱 The Netherlands 🍓 @xixv2ray
 
-vless://71068ecf-9826-4ab6-9757-c8d05c0338ae@static-edge-front.deepcloudview.com:443?security=reality&sni=firebase.googleapis.com&fp=chrome&pbk=b-jISQAdIIxv6MeoirMHu_MSRdUCriKY5v8vvszN6BA&sid=2d3bb9138f&spx=/v1/projects/init&type=tcp&encryption=none#🇨🇦 Canada 🍓 @xixv2ray
+vless://71068ecf-9826-4ab6-9757-c8d05c0338ae@static-edge-front.deepcloudview.com:443?security=reality&sni=firebase.googleapis.com&fp=chrome&pbk=b-jISQAdIIxv6MeoirMHu_MSRdUCriKY5v8vvszN6BA&sid=2d3bb9138f&spx=/v1/projects/init&type=tcp&encryption=none#🍓 @xixv2ray
 
-vless://75fb5961-1521-404f-95b8-0864cf4c7338@static-edge-front.cyberscaler.net:443?security=reality&sni=firebase.googleapis.com&fp=chrome&pbk=b-jISQAdIIxv6MeoirMHu_MSRdUCriKY5v8vvszN6BA&sid=2d3bb9138f&spx=/v1/projects/init&type=tcp&encryption=none#🇨🇦 Canada 🍓 @xixv2ray
+vless://75fb5961-1521-404f-95b8-0864cf4c7338@static-edge-front.cyberscaler.net:443?security=reality&sni=firebase.googleapis.com&fp=chrome&pbk=b-jISQAdIIxv6MeoirMHu_MSRdUCriKY5v8vvszN6BA&sid=2d3bb9138f&spx=/v1/projects/init&type=tcp&encryption=none#🍓 @xixv2ray
 
 vless://7a80a8d9-92f9-4f0a-8352-9005a8215ab8@feedly.com:443?security=tls&sni=rAyAn-cOnFiG-TeLeGrAm-a02.lEiLa.dPdNs.oRg&allowInsecure=1&fp=chrome&type=ws&path=/@Rayan_Config&host=rayan-config-telegram-a02.leila.dpdns.org&encryption=none#🇨🇦 Canada 🍓 @xixv2ray
 
@@ -79,11 +79,11 @@ vless://7a80a8d9-92f9-4f0a-8352-9005a8215ab8@www.speedtest.net:443?security=tls&
 
 vless://7e7c6751-0e11-4acd-af06-2d82e6e9f14a@57.128.219.105:443?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/ws&host=57.128.219.105&encryption=none#🇵🇱 Poland 🍓 @xixv2ray
 
-vless://8e0ecf39-59b2-4324-931e-d80eb1f3df14@edge-gw-store1.cyberscaler.net:443?security=reality&sni=cdn.jsdelivr.net&fp=chrome&pbk=zMeFpcu-ppUKh_am7bNYWtLehvtvhjocEPP8efg1Jg4&sid=13f10f56&spx=/npm/vue@2.6.14&type=tcp&encryption=none#🇨🇦 Canada 🍓 @xixv2ray
+vless://8e0ecf39-59b2-4324-931e-d80eb1f3df14@edge-gw-store1.cyberscaler.net:443?security=reality&sni=cdn.jsdelivr.net&fp=chrome&pbk=zMeFpcu-ppUKh_am7bNYWtLehvtvhjocEPP8efg1Jg4&sid=13f10f56&spx=/npm/vue@2.6.14&type=tcp&encryption=none#🍓 @xixv2ray
 
 vless://935c990a-9bcc-484b-86a2-2a402f9ad1d4@grumpy-building.seotoolsforyou.co.uk:80?security=&fp=chrome&type=ws&path=/&encryption=none#🇨🇦 Canada 🍓 @xixv2ray
 
-vless://986783c3-0225-4f4d-9c29-e7c75c8b8c80@static-edge-front.deepcloudview.com:443?security=reality&sni=firebase.googleapis.com&fp=chrome&pbk=b-jISQAdIIxv6MeoirMHu_MSRdUCriKY5v8vvszN6BA&sid=2d3bb9138f&spx=/v1/projects/init&type=tcp&encryption=none#🇨🇦 Canada 🍓 @xixv2ray
+vless://986783c3-0225-4f4d-9c29-e7c75c8b8c80@static-edge-front.deepcloudview.com:443?security=reality&sni=firebase.googleapis.com&fp=chrome&pbk=b-jISQAdIIxv6MeoirMHu_MSRdUCriKY5v8vvszN6BA&sid=2d3bb9138f&spx=/v1/projects/init&type=tcp&encryption=none#🍓 @xixv2ray
 
 vless://9df6183b-ca47-4d4d-b014-e24aa41d401a@157.230.91.47:443?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/ws&host=157.230.91.47&encryption=none#🇺🇸 United States 🍓 @xixv2ray
 
@@ -107,7 +107,7 @@ vless://c1bbfa35-8326-4b41-9b62-19cb98a289b4@148.113.207.224:443?security=tls&sn
 
 vless://d78ac0ca-96fa-4b01-9b6d-b40284b5dfb2@68.183.234.52:443?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/ws&host=15.235.146.5&encryption=none#🇸🇬 Singapore 🍓 @xixv2ray
 
-vless://d7ef1a6d-a2da-4d43-87d8-f110b13163c7@datafiles.cyberscaler.net:443?security=reality&sni=ssl.gstatic.com&fp=chrome&pbk=b-jISQAdIIxv6MeoirMHu_MSRdUCriKY5v8vvszN6BA&sid=3b7c99b709e4a19e&spx=/images/icons/1x1.png&type=tcp&encryption=none#🇨🇦 Canada 🍓 @xixv2ray
+vless://d7ef1a6d-a2da-4d43-87d8-f110b13163c7@datafiles.cyberscaler.net:443?security=reality&sni=ssl.gstatic.com&fp=chrome&pbk=b-jISQAdIIxv6MeoirMHu_MSRdUCriKY5v8vvszN6BA&sid=3b7c99b709e4a19e&spx=/images/icons/1x1.png&type=tcp&encryption=none#🍓 @xixv2ray
 
 vless://de765eb2-92d9-4730-885a-7f63985cffbe@simonil.zarghamportal.ir:8080?security=&fp=chrome&type=httpupgrade&path=/&host=shole.zarghamportal.ir&encryption=none#🇨🇦 Canada 🍓 @xixv2ray
 
@@ -130,6 +130,8 @@ hysteria2://23125f6e-ec56-4c26-9714-0bbacdb53d01@185.126.255.78:49382/?sni=real.
 hysteria2://29fbd51f-03c8-4d76-849a-436e54d58317@185.126.255.78:49382/?sni=real.getafreenode.sbs#🇺🇦 Ukraine 🍓 @xixv2ray
 
 hysteria2://413c8b50-96bf-4457-82f2-54dfa8685f53@185.126.255.78:49382/?sni=real.getafreenode.sbs#🇺🇦 Ukraine 🍓 @xixv2ray
+
+hysteria2://45cc0b3a-0adb-4dcc-8f54-4ba3d2cc274e@185.126.255.78:49382/?sni=real.getafreenode.sbs#🇺🇦 Ukraine 🍓 @xixv2ray
 
 hysteria2://4685eb2a-5ddb-4dc6-9e53-f0c90d6124c1@185.126.255.78:49382/?sni=real.getafreenode.sbs#🇺🇦 Ukraine 🍓 @xixv2ray
 
