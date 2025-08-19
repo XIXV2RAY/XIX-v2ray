@@ -31,7 +31,7 @@ vless://286a5f83-f8e6-47b4-a47e-5f7a6bec71fc@glassdoor.com:443?security=tls&sni=
 
 vless://286a5f83-f8e6-47b4-a47e-5f7a6bec71fc@www.speedtest.net:443?security=tls&sni=rAyAn-cOnFiC-10.rAyAn-iV.DnS-DyNaMiC.NeT&allowInsecure=1&fp=chrome&type=ws&path=/@Rayan_Config&host=rayan-confic-10.rayan-iv.dns-dynamic.net&encryption=none#🇨🇦 Canada 🍓 @xixv2ray
 
-vless://3037258f-0104-4f35-95bb-543fdc08f9df@static-media.cyberscaler.net:8080?security=&fp=chrome&type=tcp&path=/index.js&headerType=http&host=cdnjs.cloudflare.com&encryption=none#🇩🇪 Germany 🍓 @xixv2ray
+vless://3037258f-0104-4f35-95bb-543fdc08f9df@static-media.cyberscaler.net:8080?security=&fp=chrome&type=tcp&path=/index.js&headerType=http&host=cdnjs.cloudflare.com&encryption=none#🇦🇹 Austria 🍓 @xixv2ray
 
 vless://3498b967-319f-436a-9edd-12f6ede84572@kraken.com:443?security=tls&sni=rAyAn-cOnFiG-02.rAyAn.dNs-dYnAmIc.nEt&allowInsecure=1&fp=chrome&type=ws&path=/@Rayan_Config&host=rayan-config-02.rayan.dns-dynamic.net&encryption=none#🇨🇦 Canada 🍓 @xixv2ray
 
