@@ -65,7 +65,7 @@ vless://5da52d2d-1ab8-48d0-8421-8354fd6ce7d3@www.visa.com.tw:443?security=tls&sn
 
 vless://5da52d2d-1ab8-48d0-8421-8354fd6ce7d3@www.visasoutheasteurope.com:443?security=tls&sni=rAyAn-cOnFiG-06.rAyAn-iI.DnS-DyNaMiC.NeT&allowInsecure=1&fp=chrome&type=ws&path=/@Rayan_Config&host=rayan-config-06.rayan-ii.dns-dynamic.net&encryption=none#🇨🇦 Canada 🍓 @xixv2ray
 
-vless://636dd9f5-34d7-4482-bff2-9b1ea8ff4bfb@static-akam.cyberscaler.net:443?security=reality&sni=www.msftconnecttest.com&fp=chrome&pbk=11WATg6mLIBR7oM1b6YcSu4QBrIUMGVwNLq4tmI0GC0&sid=fc7e81a9c87a4b7a&spx=/&type=tcp&encryption=none#🇦🇹 Austria 🍓 @xixv2ray
+vless://636dd9f5-34d7-4482-bff2-9b1ea8ff4bfb@static-akam.cyberscaler.net:443?security=reality&sni=www.msftconnecttest.com&fp=chrome&pbk=11WATg6mLIBR7oM1b6YcSu4QBrIUMGVwNLq4tmI0GC0&sid=fc7e81a9c87a4b7a&spx=/&type=tcp&encryption=none#🍓 @xixv2ray
 
 vless://63c865a4-aedb-43eb-9177-828519561ea9@51.195.101.222:443?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/ws&encryption=none#🇩🇪 Germany 🍓 @xixv2ray
 
