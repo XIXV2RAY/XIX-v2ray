@@ -3,8 +3,6 @@
 
 
 
-vless://102e5f34-1913-4dd3-a1f2-f831d891a490@glassdoor.com:443?security=tls&sni=rAyAn-cOnFiG-TeLeGrAm-a06.tRaNeH.DpDnS.OrG&allowInsecure=1&fp=chrome&type=ws&path=/@Rayan_Config&host=rayan-config-telegram-a06.traneh.dpdns.org&encryption=none#🇨🇦 Canada 🍓 @xixv2ray
-
 vless://102e5f34-1913-4dd3-a1f2-f831d891a490@www.speedtest.net:443?security=tls&sni=rAyAn-cOnFiG-TeLeGrAm-a04.tRaNeH.DpDnS.OrG&allowInsecure=1&fp=chrome&type=ws&path=/@Rayan_Config&host=rayan-config-telegram-a04.traneh.dpdns.org&encryption=none#🇨🇦 Canada 🍓 @xixv2ray
 
 vless://1688039e-a45f-499e-b9f4-c098c87d3b32@jquery.com:443?security=tls&sni=rAyAn-cOnFiG-TeLeGrAm-a05.rAyAn.dPdNs.oRg&allowInsecure=1&fp=chrome&type=ws&path=/@Rayan_Config&host=rayan-config-telegram-a05.rayan.dpdns.org&encryption=none#🇨🇦 Canada 🍓 @xixv2ray
@@ -15,15 +13,9 @@ vless://1688039e-a45f-499e-b9f4-c098c87d3b32@www.visasoutheasteurope.com:443?sec
 
 vless://1c03bf51-6773-495f-8a44-4111b1ada9aa@68.183.216.44:443?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/ws&encryption=none#🇩🇪 Germany 🍓 @xixv2ray
 
-vless://1lpxy6haqm@1lpxy6haqm-451516713-direct.zamam.co:443?security=tls&sni=1lpxy6haqm-451516713-direct.zamam.co&alpn=h2,http/1.1&fp=randomized&type=tcp&flow=xtls-rprx-vision&encryption=none#🇱🇮 Liechtenstein 🍓 @xixv2ray
-
-vless://242019e5-e125-4f22-86ce-1b45f418cec4@static-edge-store2.cyberscaler.net:443?security=reality&sni=ajax.googleapis.com&fp=chrome&pbk=3FkZrD191IZ1yoo4kxtAUjQXOAuykaOSzxRAhAKKEX0&sid=229134&spx=/cdn-assets-v2&type=tcp&encryption=none#🍓 @xixv2ray
+vless://1lpxy6haqm@1lpxy6haqm-451516713-direct.zamam.co:443?security=tls&sni=1lpxy6haqm-451516713-direct.zamam.co&alpn=h2,http/1.1&fp=chrome&type=tcp&flow=xtls-rprx-vision&encryption=none#🇱🇮 Liechtenstein 🍓 @xixv2ray
 
 vless://24ac612c-b1ac-4066-ae1e-24b158b46457@148.113.207.224:443?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/ws&encryption=none#🇨🇦 Canada 🍓 @xixv2ray
-
-vless://26bb41d8-7708-4a08-ab6b-41f5c509915a@edge-gw-store1.cyberscaler.net:443?security=reality&sni=cdn.jsdelivr.net&fp=chrome&pbk=zMeFpcu-ppUKh_am7bNYWtLehvtvhjocEPP8efg1Jg4&sid=13f10f56&spx=/npm/vue@2.6.14&type=tcp&encryption=none#🍓 @xixv2ray
-
-vless://26e06c13-56ec-41d3-a750-d8f070053306@simonil.zarghamportal.ir:2095?security=&fp=chrome&type=ws&path=/@iSpeedTopVPN?ed%3D80&host=shole.zarghamportal.ir&encryption=none#🇨🇦 Canada 🍓 @xixv2ray
 
 vless://277f230b-638b-47c9-95d5-032f99186283@cf-assets-blog.cyberscaler.net:443?security=reality&sni=blog.cloudflare.com&fp=chrome&pbk=WEf1JX6bG0hGjlSacn2r32T2IZhifBsl2g7qqZoUPAw&sid=14&spx=/cdn-cgi/trace&type=tcp&encryption=none#🇨🇦 Canada 🍓 @xixv2ray
 
@@ -36,8 +28,6 @@ vless://286a5f83-f8e6-47b4-a47e-5f7a6bec71fc@www.speedtest.net:443?security=tls&
 vless://2bb5518a-5937-44b7-87ed-8987dddbdd19@139.59.213.120:443?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/ws&encryption=none#🇩🇪 Germany 🍓 @xixv2ray
 
 vless://2d14a080-54b1-4d69-9a5e-0eaf3538d0d8@57.128.219.105:443?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/ws&encryption=none#🇵🇱 Poland 🍓 @xixv2ray
-
-vless://3037258f-0104-4f35-95bb-543fdc08f9df@static-media.cyberscaler.net:8080?security=&fp=chrome&type=tcp&path=/index.js&headerType=http&host=cdnjs.cloudflare.com&encryption=none#🍓 @xixv2ray
 
 vless://3498b967-319f-436a-9edd-12f6ede84572@kraken.com:443?security=tls&sni=rAyAn-cOnFiG-02.rAyAn.dNs-dYnAmIc.nEt&allowInsecure=1&fp=chrome&type=ws&path=/@Rayan_Config&host=rayan-config-02.rayan.dns-dynamic.net&encryption=none#🇨🇦 Canada 🍓 @xixv2ray
 
@@ -65,15 +55,7 @@ vless://5da52d2d-1ab8-48d0-8421-8354fd6ce7d3@www.visa.com.tw:443?security=tls&sn
 
 vless://5da52d2d-1ab8-48d0-8421-8354fd6ce7d3@www.visasoutheasteurope.com:443?security=tls&sni=rAyAn-cOnFiG-06.rAyAn-iI.DnS-DyNaMiC.NeT&allowInsecure=1&fp=chrome&type=ws&path=/@Rayan_Config&host=rayan-config-06.rayan-ii.dns-dynamic.net&encryption=none#🇨🇦 Canada 🍓 @xixv2ray
 
-vless://636dd9f5-34d7-4482-bff2-9b1ea8ff4bfb@static-akam.cyberscaler.net:443?security=reality&sni=www.msftconnecttest.com&fp=chrome&pbk=11WATg6mLIBR7oM1b6YcSu4QBrIUMGVwNLq4tmI0GC0&sid=fc7e81a9c87a4b7a&spx=/&type=tcp&encryption=none#🍓 @xixv2ray
-
 vless://63c865a4-aedb-43eb-9177-828519561ea9@51.195.101.222:443?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/ws&encryption=none#🇩🇪 Germany 🍓 @xixv2ray
-
-vless://7031e57a-80e6-404e-b723-7c8bd4788030@ecobrg.drinfoo.com:4443?security=tls&sni=fast.com&fp=chrome&type=ws&path=/&host=fast.com&encryption=none#🇩🇪 Germany 🍓 @xixv2ray
-
-vless://71068ecf-9826-4ab6-9757-c8d05c0338ae@static-edge-front.deepcloudview.com:443?security=reality&sni=firebase.googleapis.com&fp=chrome&pbk=b-jISQAdIIxv6MeoirMHu_MSRdUCriKY5v8vvszN6BA&sid=2d3bb9138f&spx=/v1/projects/init&type=tcp&encryption=none#🍓 @xixv2ray
-
-vless://75fb5961-1521-404f-95b8-0864cf4c7338@static-edge-front.cyberscaler.net:443?security=reality&sni=firebase.googleapis.com&fp=chrome&pbk=b-jISQAdIIxv6MeoirMHu_MSRdUCriKY5v8vvszN6BA&sid=2d3bb9138f&spx=/v1/projects/init&type=tcp&encryption=none#🍓 @xixv2ray
 
 vless://762397ec-790e-4c42-9a50-94d0c10a2b16@51.178.42.187:443?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/ws&encryption=none#🇫🇷 France 🍓 @xixv2ray
 
@@ -87,15 +69,9 @@ vless://7e6bc431-d7b5-4664-811e-8ac2b08ad25e@139.59.209.171:443?security=tls&sni
 
 vless://7f8fa84c-6c40-4787-b0b9-a2b3e7420a26@209.38.20.147:443?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/ws&encryption=none#🇦🇺 Australia 🍓 @xixv2ray
 
-vless://8e0ecf39-59b2-4324-931e-d80eb1f3df14@edge-gw-store1.cyberscaler.net:443?security=reality&sni=cdn.jsdelivr.net&fp=chrome&pbk=zMeFpcu-ppUKh_am7bNYWtLehvtvhjocEPP8efg1Jg4&sid=13f10f56&spx=/npm/vue@2.6.14&type=tcp&encryption=none#🍓 @xixv2ray
-
 vless://9094dfcd-4bf5-4beb-aab7-2dfd813070f8@188.166.150.199:443?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/ws&encryption=none#🇬🇧 United Kingdom 🍓 @xixv2ray
 
 vless://935c990a-9bcc-484b-86a2-2a402f9ad1d4@grumpy-building.seotoolsforyou.co.uk:80?security=&fp=chrome&type=ws&path=/&encryption=none#🇨🇦 Canada 🍓 @xixv2ray
-
-vless://986783c3-0225-4f4d-9c29-e7c75c8b8c80@static-edge-front.deepcloudview.com:443?security=reality&sni=firebase.googleapis.com&fp=chrome&pbk=b-jISQAdIIxv6MeoirMHu_MSRdUCriKY5v8vvszN6BA&sid=2d3bb9138f&spx=/v1/projects/init&type=tcp&encryption=none#🍓 @xixv2ray
-
-vless://9f6b70a1-ae9a-49ac-b9bd-0e41c99ca23c@edge-resources.cyberscaler.net:8280?security=&fp=chrome&type=tcp&headerType=http&host=assets.global.fastly.net&encryption=none#🍓 @xixv2ray
 
 vless://a0ac9cf5-f8c8-43cf-a09b-908455fb2b4b@laravel.com:443?security=tls&sni=rAyAn-cOnFiG-08.rAyAn-iIi.dNs-dYnAmIc.nEt&allowInsecure=1&fp=chrome&type=ws&path=/@Rayan_Config&host=rayan-config-08.rayan-iii.dns-dynamic.net&encryption=none#🇨🇦 Canada 🍓 @xixv2ray
 
@@ -103,17 +79,7 @@ vless://a0ac9cf5-f8c8-43cf-a09b-908455fb2b4b@mybb.com:443?security=tls&sni=rAyAn
 
 vless://a0ac9cf5-f8c8-43cf-a09b-908455fb2b4b@poloniex.com:443?security=tls&sni=rAyAn-cOnFiG-07.rAyAn-iIi.dNs-dYnAmIc.nEt&allowInsecure=1&fp=chrome&type=ws&path=/@Rayan_Config&host=rayan-config-07.rayan-iii.dns-dynamic.net&encryption=none#🇨🇦 Canada 🍓 @xixv2ray
 
-vless://b43f416d-0bb7-45d9-b3a4-0ccef14f1fbe@simonil.zarghamportal.ir:2095?security=&fp=chrome&type=ws&path=/@iSpeedTopVPN?ed%3D80&host=shole.zarghamportal.ir&encryption=none#🇨🇦 Canada 🍓 @xixv2ray
-
 vless://cbef22b9-f7fb-48b5-acc3-7044736ed83a@134.209.90.171:443?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/ws&host=152.42.139.83&encryption=none#🇳🇱 The Netherlands 🍓 @xixv2ray
-
-vless://d7ef1a6d-a2da-4d43-87d8-f110b13163c7@datafiles.cyberscaler.net:443?security=reality&sni=ssl.gstatic.com&fp=chrome&pbk=b-jISQAdIIxv6MeoirMHu_MSRdUCriKY5v8vvszN6BA&sid=3b7c99b709e4a19e&spx=/images/icons/1x1.png&type=tcp&encryption=none#🍓 @xixv2ray
-
-vless://de765eb2-92d9-4730-885a-7f63985cffbe@simonil.zarghamportal.ir:8080?security=&fp=chrome&type=httpupgrade&path=/&host=shole.zarghamportal.ir&encryption=none#🇨🇦 Canada 🍓 @xixv2ray
-
-vless://de9e93dc-9ce2-4c8f-839c-f6f3a58a10bb@sport-shop-gw01.cyberscaler.net:6068?security=&fp=chrome&type=tcp&path=/&headerType=http&host=v10.events.data.microsoft.com&encryption=none#🍓 @xixv2ray
-
-vless://e5f745a5-ea3b-4709-b568-6bfff02d5618@simonil.zarghamportal.ir:8080?security=&fp=chrome&type=httpupgrade&path=/&host=shole.zarghamportal.ir&encryption=none#🇨🇦 Canada 🍓 @xixv2ray
 
 vless://e931b9e7-8f36-41a4-91f4-f896c6bc42c5@cf-assets-blog.cyberscaler.net:443?security=reality&sni=blog.cloudflare.com&fp=chrome&pbk=WEf1JX6bG0hGjlSacn2r32T2IZhifBsl2g7qqZoUPAw&sid=14&spx=/cdn-cgi/trace&type=tcp&encryption=none#🇨🇦 Canada 🍓 @xixv2ray
 
