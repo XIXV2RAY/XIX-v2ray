@@ -97,10 +97,6 @@ vless://cf0b2cdc-9292-450d-929a-af86ed52d87d@57.128.219.105:443?security=tls&sni
 
 vless://ff288332-d2d2-473d-9b30-b6ab97f27b90@51.178.42.187:443?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/ws&encryption=none#🇫🇷 France 🍓 @xixv2ray
 
-hysteria2://07c122ad-50b2-4f61-9435-efcf112bb10b@172.252.236.213:58718/?sni=real.getafreenode.sbs#🇫🇷 France 🍓 @xixv2ray
-
-hysteria2://07c122ad-50b2-4f61-9435-efcf112bb10b@185.126.255.78:43429/?sni=real.getafreenode.sbs#🇺🇦 Ukraine 🍓 @xixv2ray
-
 hysteria2://0cb527d9-6117-4bcf-a52b-1704b3458cef@172.252.236.213:58718/?sni=real.getafreenode.sbs#🇫🇷 France 🍓 @xixv2ray
 
 hysteria2://0cb527d9-6117-4bcf-a52b-1704b3458cef@185.126.255.78:43429/?sni=real.getafreenode.sbs#🇺🇦 Ukraine 🍓 @xixv2ray
