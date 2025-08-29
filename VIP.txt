@@ -17,17 +17,25 @@ vless://1e1858cd-def6-4408-a9d2-153d1f2fe47e@159.65.119.239:443?security=tls&sni
 
 vless://1lpxy6haqm@1lpxy6haqm-451516713-direct.zamam.co:443?security=tls&sni=1lpxy6haqm-451516713-direct.zamam.co&alpn=h2,http/1.1&fp=chrome&type=tcp&flow=xtls-rprx-vision&encryption=none#🇱🇮 Liechtenstein 🍓 @xixv2ray
 
-vless://25182e73-84ad-4ccc-b7f3-339f50d4de07@209.38.20.147:443?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/ws&encryption=none#🇦🇺 Australia 🍓 @xixv2ray
-
-vless://286a5f83-f8e6-47b4-a47e-5f7a6bec71fc@androidauthority.com:443?security=tls&sni=rAyAn-cOnFiC-11.rAyAn-iV.DnS-DyNaMiC.NeT&allowInsecure=1&fp=chrome&type=ws&path=/@Rayan_Config&host=rayan-confic-11.rayan-iv.dns-dynamic.net&encryption=none#🇨🇦 Canada 🍓 @xixv2ray
-
-vless://286a5f83-f8e6-47b4-a47e-5f7a6bec71fc@glassdoor.com:443?security=tls&sni=rAyAn-cOnFiC-12.rAyAn-iV.DnS-DyNaMiC.NeT&allowInsecure=1&fp=chrome&type=ws&path=/@Rayan_Config&host=rayan-confic-12.rayan-iv.dns-dynamic.net&encryption=none#🇨🇦 Canada 🍓 @xixv2ray
-
-vless://286a5f83-f8e6-47b4-a47e-5f7a6bec71fc@www.speedtest.net:443?security=tls&sni=rAyAn-cOnFiC-10.rAyAn-iV.DnS-DyNaMiC.NeT&allowInsecure=1&fp=chrome&type=ws&path=/@Rayan_Config&host=rayan-confic-10.rayan-iv.dns-dynamic.net&encryption=none#🇨🇦 Canada 🍓 @xixv2ray
-
 vless://29192cdd-d0bb-4347-8c1d-049d92827871@bitpay.com:80?security=&fp=chrome&type=ws&path=@Rayan_Config&host=rAyAn-cOnFiG-TeLeGrAm-pRo-1.rAyAn-1.cLoUdNs.pRo&encryption=none#🇨🇦 Canada 🍓 @xixv2ray
 
 vless://29f55cea-4038-402c-a496-2e8ae2d8e660@51.195.101.222:443?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/ws&encryption=none#🇩🇪 Germany 🍓 @xixv2ray
+
+vless://31303020-3535-4031-b032-203530203531@188.208.110.58:8442?security=reality&sni=creativecommons.org&allowInsecure=1&fp=chrome&pbk=pFRfJJDY6TYJq-OVgAqFXhdaeur7gJWJM-RZT8g8yAA&sid=59b75803&spx=/&type=tcp&flow=xtls-rprx-vision&encryption=none#🇦🇪 United Arab Emirates 🍓 @xixv2ray
+
+vless://31303020-3536-4039-b820-313030203530@92.112.126.22:8442?security=reality&sni=creativecommons.org&allowInsecure=1&fp=chrome&pbk=pFRfJJDY6TYJq-OVgAqFXhdaeur7gJWJM-RZT8g8yAA&sid=59b75803&spx=/&type=tcp&flow=xtls-rprx-vision&encryption=none#🇳🇱 The Netherlands 🍓 @xixv2ray
+
+vless://31303020-3938-4035-b720-353420393920@69.42.220.193:8442?security=reality&sni=creativecommons.org&fp=chrome&pbk=pFRfJJDY6TYJq-OVgAqFXhdaeur7gJWJM-RZT8g8yAA&sid=59b75803&spx=/&type=tcp&flow=xtls-rprx-vision&encryption=none#🇩🇪 Germany 🍓 @xixv2ray
+
+vless://31303220-3130-4120-b937-203938203532@5.188.200.224:8442?security=reality&sni=creativecommons.org&allowInsecure=1&fp=chrome&pbk=pFRfJJDY6TYJq-OVgAqFXhdaeur7gJWJM-RZT8g8yAA&sid=59b75803&spx=/&type=tcp&flow=xtls-rprx-vision&encryption=none#🇪🇪 Estonia 🍓 @xixv2ray
+
+vless://31303220-3438-4035-b620-353620393820@51.161.153.1:8442?security=reality&sni=creativecommons.org&allowInsecure=1&fp=chrome&pbk=pFRfJJDY6TYJq-OVgAqFXhdaeur7gJWJM-RZT8g8yAA&sid=59b75803&spx=/&type=tcp&flow=xtls-rprx-vision&encryption=none#🇦🇺 Australia 🍓 @xixv2ray
+
+vless://34392035-3020-4130-b020-353020393720@51.91.97.39:8442?security=reality&sni=creativecommons.org&allowInsecure=1&fp=chrome&pbk=pFRfJJDY6TYJq-OVgAqFXhdaeur7gJWJM-RZT8g8yAA&sid=59b75803&spx=/&type=tcp&flow=xtls-rprx-vision&encryption=none#🇫🇷 France 🍓 @xixv2ray
+
+vless://34392035-3620-4535-a034-392035332034@193.29.181.38:8442?security=reality&sni=creativecommons.org&allowInsecure=1&fp=chrome&pbk=pFRfJJDY6TYJq-OVgAqFXhdaeur7gJWJM-RZT8g8yAA&sid=59b75803&spx=/&type=tcp&flow=xtls-rprx-vision&encryption=none#🇳🇱 The Netherlands 🍓 @xixv2ray
+
+vless://34392039-3720-4939-a039-382035322035@193.124.46.134:8442?security=reality&sni=creativecommons.org&allowInsecure=1&fp=chrome&pbk=pFRfJJDY6TYJq-OVgAqFXhdaeur7gJWJM-RZT8g8yAA&sid=59b75803&spx=/&type=tcp&flow=xtls-rprx-vision&encryption=none#🇹🇷 Türkiye 🍓 @xixv2ray
 
 vless://3498b967-319f-436a-9edd-12f6ede84572@kraken.com:443?security=tls&sni=rAyAn-cOnFiG-02.rAyAn.dNs-dYnAmIc.nEt&allowInsecure=1&fp=chrome&type=ws&path=/@Rayan_Config&host=rayan-config-02.rayan.dns-dynamic.net&encryption=none#🇨🇦 Canada 🍓 @xixv2ray
 
@@ -35,51 +43,35 @@ vless://3498b967-319f-436a-9edd-12f6ede84572@sourceforge.net:443?security=tls&sn
 
 vless://3498b967-319f-436a-9edd-12f6ede84572@www.speedtest.net:443?security=tls&sni=rAyAn-cOnFiG-01.rAyAn.dNs-dYnAmIc.nEt&allowInsecure=1&fp=chrome&type=ws&path=/@Rayan_Config&host=rayan-config-01.rayan.dns-dynamic.net&encryption=none#🇨🇦 Canada 🍓 @xixv2ray
 
-vless://3740c034-abb1-409b-9cb8-3b840309c486@68.183.216.44:443?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/ws&encryption=none#🇩🇪 Germany 🍓 @xixv2ray
+vless://35302031-3030-4031-b032-203536203130@195.133.92.56:8442?security=reality&sni=creativecommons.org&allowInsecure=1&fp=chrome&pbk=pFRfJJDY6TYJq-OVgAqFXhdaeur7gJWJM-RZT8g8yAA&sid=59b75803&spx=/&type=tcp&flow=xtls-rprx-vision&encryption=none#🇵🇹 Portugal 🍓 @xixv2ray
+
+vless://35302039-3720-4535-a031-303220353020@213.108.198.158:8442?security=reality&sni=creativecommons.org&allowInsecure=1&fp=chrome&pbk=pFRfJJDY6TYJq-OVgAqFXhdaeur7gJWJM-RZT8g8yAA&sid=59b75803&spx=/&type=tcp&flow=xtls-rprx-vision&encryption=none#🇩🇪 Germany 🍓 @xixv2ray
+
+vless://35322034-3820-4530-a031-303120353120@69.42.222.177:8442?security=reality&sni=creativecommons.org&allowInsecure=1&fp=chrome&pbk=pFRfJJDY6TYJq-OVgAqFXhdaeur7gJWJM-RZT8g8yAA&sid=59b75803&spx=/&type=tcp&flow=xtls-rprx-vision&encryption=none#🇺🇸 United States 🍓 @xixv2ray
+
+vless://35332035-3520-4130-b120-353320343820@107.172.51.251:8442?security=reality&sni=creativecommons.org&fp=chrome&pbk=pFRfJJDY6TYJq-OVgAqFXhdaeur7gJWJM-RZT8g8yAA&sid=59b75803&spx=/&type=tcp&flow=xtls-rprx-vision&encryption=none#🇺🇸 United States 🍓 @xixv2ray
+
+vless://35342035-3020-4533-a039-382035342034@107.175.6.211:8442?security=reality&sni=creativecommons.org&allowInsecure=1&fp=chrome&pbk=pFRfJJDY6TYJq-OVgAqFXhdaeur7gJWJM-RZT8g8yAA&sid=59b75803&spx=/&type=tcp&flow=xtls-rprx-vision&encryption=none#🇺🇸 United States 🍓 @xixv2ray
+
+vless://35352035-3120-4537-a035-312031303120@23.165.104.239:8442?security=reality&sni=creativecommons.org&allowInsecure=1&fp=chrome&pbk=pFRfJJDY6TYJq-OVgAqFXhdaeur7gJWJM-RZT8g8yAA&sid=59b75803&spx=/&type=tcp&flow=xtls-rprx-vision&encryption=none#🇺🇸 United States 🍓 @xixv2ray
+
+vless://35362034-3920-4938-a031-303020353420@51.222.91.26:8442?security=reality&sni=creativecommons.org&allowInsecure=1&fp=chrome&pbk=pFRfJJDY6TYJq-OVgAqFXhdaeur7gJWJM-RZT8g8yAA&sid=59b75803&spx=/&type=tcp&flow=xtls-rprx-vision&encryption=none#🇨🇦 Canada 🍓 @xixv2ray
 
 vless://3821b50f-4389-43d7-b08f-7b9e2861bb95@www.visaeurope.ch:2086?security=&fp=chrome&type=ws&path=@Rayan_Config&host=rAyAn-cOnFiG-TeLeGrAm-pRo-6.rAyAn-6.cLoUdNs.pRo&encryption=none#🇨🇦 Canada 🍓 @xixv2ray
 
-vless://4e4768df-0fbb-4cc1-8fd3-7c6fea95742a@ns1.cloudflare.com:443?security=tls&sni=rAyAn-cOnFiG-TeLeGrAm-a03.pArAsToO.DpDnS.OrG&allowInsecure=1&fp=chrome&type=ws&path=/@Rayan_Config&host=rayan-config-telegram-a03.parastoo.dpdns.org&encryption=none#🇨🇦 Canada 🍓 @xixv2ray
+vless://39372035-3320-4531-a031-303220353720@51.77.59.0:8442?security=reality&sni=creativecommons.org&allowInsecure=1&fp=chrome&pbk=pFRfJJDY6TYJq-OVgAqFXhdaeur7gJWJM-RZT8g8yAA&sid=59b75803&spx=/&type=tcp&flow=xtls-rprx-vision&encryption=none#🇵🇱 Poland 🍓 @xixv2ray
 
-vless://4e4768df-0fbb-4cc1-8fd3-7c6fea95742a@tfl.gov.uk:443?security=tls&sni=rAyAn-cOnFiG-TeLeGrAm-a02.pArAsToO.DpDnS.OrG&allowInsecure=1&fp=chrome&type=ws&path=/@Rayan_Config&host=rayan-config-telegram-a02.parastoo.dpdns.org&encryption=none#🇨🇦 Canada 🍓 @xixv2ray
-
-vless://4e4768df-0fbb-4cc1-8fd3-7c6fea95742a@www.visaeurope.ch:443?security=tls&sni=rAyAn-cOnFiG-TeLeGrAm-a01.pArAsToO.DpDnS.OrG&allowInsecure=1&fp=chrome&type=ws&path=/@Rayan_Config&host=rayan-config-telegram-a01.parastoo.dpdns.org&encryption=none#🇨🇦 Canada 🍓 @xixv2ray
+vless://39392035-3620-4130-b120-353320353220@198.244.189.185:8442?security=reality&sni=creativecommons.org&allowInsecure=1&fp=chrome&pbk=pFRfJJDY6TYJq-OVgAqFXhdaeur7gJWJM-RZT8g8yAA&sid=59b75803&spx=/&type=tcp&flow=xtls-rprx-vision&encryption=none#🇬🇧 United Kingdom 🍓 @xixv2ray
 
 vless://5c9d0b1b-4075-40d0-baf0-85cb03722586@medium.com:2095?security=&fp=chrome&type=ws&path=@Rayan_Config&host=rAyAn-cOnFiG-TeLeGrAm-cLuB-1.RaYaN-1.ClOuDnS.ClUb&encryption=none#🇨🇦 Canada 🍓 @xixv2ray
 
-vless://5da52d2d-1ab8-48d0-8421-8354fd6ce7d3@jquery.com:443?security=tls&sni=rAyAn-cOnFiG-05.rAyAn-iI.DnS-DyNaMiC.NeT&allowInsecure=1&fp=chrome&type=ws&path=/@Rayan_Config&host=rayan-config-05.rayan-ii.dns-dynamic.net&encryption=none#🇨🇦 Canada 🍓 @xixv2ray
-
-vless://5da52d2d-1ab8-48d0-8421-8354fd6ce7d3@www.visa.com.tw:443?security=tls&sni=rAyAn-cOnFiG-04.rAyAn-iI.DnS-DyNaMiC.NeT&allowInsecure=1&fp=chrome&type=ws&path=/?ed%3D2560&host=rayan-config-04.rayan-ii.dns-dynamic.net&encryption=none#🇨🇦 Canada 🍓 @xixv2ray
-
-vless://5da52d2d-1ab8-48d0-8421-8354fd6ce7d3@www.visasoutheasteurope.com:443?security=tls&sni=rAyAn-cOnFiG-06.rAyAn-iI.DnS-DyNaMiC.NeT&allowInsecure=1&fp=chrome&type=ws&path=/@Rayan_Config&host=rayan-config-06.rayan-ii.dns-dynamic.net&encryption=none#🇨🇦 Canada 🍓 @xixv2ray
-
 vless://74d03a21-f000-4b08-9dd8-440f0e4d6622@148.113.207.224:443?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/ws&encryption=none#🇨🇦 Canada 🍓 @xixv2ray
-
-vless://7a80a8d9-92f9-4f0a-8352-9005a8215ab8@feedly.com:443?security=tls&sni=rAyAn-cOnFiG-TeLeGrAm-a02.lEiLa.dPdNs.oRg&allowInsecure=1&fp=chrome&type=ws&path=/@Rayan_Config&host=rayan-config-telegram-a02.leila.dpdns.org&encryption=none#🇨🇦 Canada 🍓 @xixv2ray
-
-vless://7a80a8d9-92f9-4f0a-8352-9005a8215ab8@transferwise.com:443?security=tls&sni=rAyAn-cOnFiG-TeLeGrAm-a01.lEiLa.dPdNs.oRg&allowInsecure=1&fp=chrome&type=ws&path=/@Rayan_Config&host=rayan-config-telegram-a01.leila.dpdns.org&encryption=none#🇨🇦 Canada 🍓 @xixv2ray
-
-vless://7a80a8d9-92f9-4f0a-8352-9005a8215ab8@www.speedtest.net:443?security=tls&sni=rAyAn-cOnFiG-TeLeGrAm-a03.lEiLa.dPdNs.oRg&allowInsecure=1&fp=chrome&type=ws&path=/@Rayan_Config&host=rayan-config-telegram-a03.leila.dpdns.org&encryption=none#🇨🇦 Canada 🍓 @xixv2ray
 
 vless://7bbd0934-97db-45fb-88e7-2abd91696d33@www.speedtest.net:8080?security=&fp=chrome&type=ws&path=@Rayan_Config&host=rAyAn-cOnFiG-TeLeGrAm-pRo-2.rAyAn-2.cLoUdNs.pRo&encryption=none#🇨🇦 Canada 🍓 @xixv2ray
 
 vless://8225c631-a11e-46a3-b35d-25e9a6b23bf1@mybb.com:8880?security=&fp=chrome&type=ws&path=@Rayan_Config&host=rAyAn-cOnFiG-TeLeGrAm-cLuB-4.RaYaN-4.ClOuDnS.ClUb&encryption=none#🇨🇦 Canada 🍓 @xixv2ray
 
-vless://846e7df6-a3a0-4133-be03-c588fe070d0d@check-host.net:2082?security=&fp=chrome&type=ws&path=@Rayan_Config&host=rAyAn-cOnFiG-TeLeGrAm-pRo-5.rAyAn-5.cLoUdNs.pRo&encryption=none#🇨🇦 Canada 🍓 @xixv2ray
-
-vless://93cd8d18-0508-4c14-857e-1b1fd68625d1@143.198.15.103:443?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/ws&encryption=none#🇺🇸 United States 🍓 @xixv2ray
-
-vless://955654be-e797-432b-9d0d-67baf2efb74c@188.166.150.199:443?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/ws&encryption=none#🇬🇧 United Kingdom 🍓 @xixv2ray
-
 vless://9bd8537b-32cf-4a98-bc1a-d1d5a64e1164@digitalocean.com:8880?security=&fp=chrome&type=ws&path=@Rayan_Config&host=rAyAn-cOnFiG-TeLeGrAm-pRo-3.rAyAn-3.cLoUdNs.pRo&encryption=none#🇨🇦 Canada 🍓 @xixv2ray
-
-vless://a00b3f51-36ec-4960-9668-a30ad2f68421@51.195.202.129:443?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/ws&encryption=none#🇫🇷 France 🍓 @xixv2ray
-
-vless://a0ac9cf5-f8c8-43cf-a09b-908455fb2b4b@laravel.com:443?security=tls&sni=rAyAn-cOnFiG-08.rAyAn-iIi.dNs-dYnAmIc.nEt&allowInsecure=1&fp=chrome&type=ws&path=/@Rayan_Config&host=rayan-config-08.rayan-iii.dns-dynamic.net&encryption=none#🇨🇦 Canada 🍓 @xixv2ray
-
-vless://a0ac9cf5-f8c8-43cf-a09b-908455fb2b4b@mybb.com:443?security=tls&sni=rAyAn-cOnFiG-09.rAyAn-iIi.dNs-dYnAmIc.nEt&allowInsecure=1&fp=chrome&type=ws&path=/@Rayan_Config&host=rayan-config-09.rayan-iii.dns-dynamic.net&encryption=none#🇨🇦 Canada 🍓 @xixv2ray
-
-vless://a0ac9cf5-f8c8-43cf-a09b-908455fb2b4b@poloniex.com:443?security=tls&sni=rAyAn-cOnFiG-07.rAyAn-iIi.dNs-dYnAmIc.nEt&allowInsecure=1&fp=chrome&type=ws&path=/@Rayan_Config&host=rayan-config-07.rayan-iii.dns-dynamic.net&encryption=none#🇨🇦 Canada 🍓 @xixv2ray
 
 vless://a34aad27-6d0e-43ab-8e18-0d50fd6a01cf@adf.ly:2052?security=&fp=chrome&type=ws&path=@Rayan_Config&host=rAyAn-cOnFiG-TeLeGrAm-cLuB-5.RaYaN-5.ClOuDnS.ClUb&encryption=none#🇨🇦 Canada 🍓 @xixv2ray
 
