@@ -77,7 +77,7 @@ vless://ff8d20d1-db9d-4cbe-9fef-ea10a474cd6c@83.217.9.233:443?security=reality&s
 
 vless://vw6hjp6qlg@npmjs.com:2053?security=tls&sni=vw6hjp6qlg-525340125.zamam.co&alpn=h2,http/1.1&fp=randomized&type=httpupgrade&path=/download/cdn&host=vw6hjp6qlg-525340125.zamam.co&encryption=none#🇨🇦 Canada 🍓 @xixv2ray
 
-hysteria2://07c122ad-50b2-4f61-9435-efcf112bb10b@172.252.236.213:49303/?sni=real.getafreenode.sbs#🇫🇷 France 🍓 @xixv2ray
+hysteria2://07c122ad-50b2-4f61-9435-efcf112bb10b@172.252.236.213:46117/?sni=real.getafreenode.sbs#🇫🇷 France 🍓 @xixv2ray
 
 hysteria2://07c122ad-50b2-4f61-9435-efcf112bb10b@185.126.255.78:43429/?sni=real.getafreenode.sbs#🇺🇦 Ukraine 🍓 @xixv2ray
 
@@ -85,7 +85,7 @@ hysteria2://0cb527d9-6117-4bcf-a52b-1704b3458cef@172.252.236.213:49303/?sni=real
 
 hysteria2://0cb527d9-6117-4bcf-a52b-1704b3458cef@185.126.255.78:43429/?sni=real.getafreenode.sbs#🇺🇦 Ukraine 🍓 @xixv2ray
 
-hysteria2://1045aedf-053c-4585-875d-e2fc3f3ea6dd@172.252.236.213:49303/?sni=real.getafreenode.sbs#🇫🇷 France 🍓 @xixv2ray
+hysteria2://1045aedf-053c-4585-875d-e2fc3f3ea6dd@172.252.236.213:46117/?sni=real.getafreenode.sbs#🇫🇷 France 🍓 @xixv2ray
 
 hysteria2://1045aedf-053c-4585-875d-e2fc3f3ea6dd@185.126.255.78:43429/?sni=real.getafreenode.sbs#🇺🇦 Ukraine 🍓 @xixv2ray
 
@@ -93,7 +93,7 @@ hysteria2://3efc85b7-46db-484e-ac53-c35b8160c3fe@4.daka778.top:33657?insecure=1#
 
 hysteria2://45b46edb-679b-4ea5-befd-88c05bb94f80@de.eyucdn.xyz:2056?insecure=1#🇩🇪 Germany 🍓 @xixv2ray
 
-hysteria2://6bf726db-fb0b-405b-899a-3e263f092eda@172.252.236.213:49303/?sni=real.getafreenode.sbs#🇫🇷 France 🍓 @xixv2ray
+hysteria2://6bf726db-fb0b-405b-899a-3e263f092eda@172.252.236.213:46117/?sni=real.getafreenode.sbs#🇫🇷 France 🍓 @xixv2ray
 
 hysteria2://6bf726db-fb0b-405b-899a-3e263f092eda@185.126.255.78:43429/?sni=real.getafreenode.sbs#🇺🇦 Ukraine 🍓 @xixv2ray
 
@@ -105,7 +105,7 @@ hysteria2://80b2ac81-ba69-41f9-bb46-820b7b3af4dd@172.252.236.213:49303/?sni=real
 
 hysteria2://80b2ac81-ba69-41f9-bb46-820b7b3af4dd@185.126.255.78:43429/?sni=real.getafreenode.sbs#🇺🇦 Ukraine 🍓 @xixv2ray
 
-hysteria2://9c859345-959f-491b-b6fc-65cd7a57aeb3@172.252.236.213:49303/?sni=real.getafreenode.sbs#🇫🇷 France 🍓 @xixv2ray
+hysteria2://9c859345-959f-491b-b6fc-65cd7a57aeb3@172.252.236.213:46117/?sni=real.getafreenode.sbs#🇫🇷 France 🍓 @xixv2ray
 
 hysteria2://9c859345-959f-491b-b6fc-65cd7a57aeb3@185.126.255.78:43429/?sni=real.getafreenode.sbs#🇺🇦 Ukraine 🍓 @xixv2ray
 
@@ -113,7 +113,7 @@ hysteria2://Yet-Another-Public-Config-1@yapc-1.adamhayward.co.uk:35200?obfs=sala
 
 hysteria2://Yet-Another-Public-Config-1@yapc-1.adamhayward.co.uk:36300?obfs=salamander&obfs-password=Yet-Another-Public-Config-1&sni=YAPC-1.afshin.ir#🇳🇱 The Netherlands 🍓 @xixv2ray
 
-hysteria2://c6e02cd8-ce11-40f0-afeb-e2c412b6cc3a@172.252.236.213:49303/?sni=real.getafreenode.sbs#🇫🇷 France 🍓 @xixv2ray
+hysteria2://c6e02cd8-ce11-40f0-afeb-e2c412b6cc3a@172.252.236.213:46117/?sni=real.getafreenode.sbs#🇫🇷 France 🍓 @xixv2ray
 
 hysteria2://c6e02cd8-ce11-40f0-afeb-e2c412b6cc3a@185.126.255.78:43429/?sni=real.getafreenode.sbs#🇺🇦 Ukraine 🍓 @xixv2ray
 
@@ -121,15 +121,15 @@ hysteria2://dongtaiwang.com@108.181.5.130:63015?insecure=1&sni=apple.com#🇺�
 
 hysteria2://dongtaiwang.com@208.87.243.187:22222?insecure=1&sni=www.bing.com#🇺🇸 United States 🍓 @xixv2ray
 
-hysteria2://e31ad3e6-e341-42ac-bdc7-bea02d126fc1@172.252.236.213:49303/?sni=real.getafreenode.sbs#🇫🇷 France 🍓 @xixv2ray
+hysteria2://e31ad3e6-e341-42ac-bdc7-bea02d126fc1@172.252.236.213:46117/?sni=real.getafreenode.sbs#🇫🇷 France 🍓 @xixv2ray
 
 hysteria2://e31ad3e6-e341-42ac-bdc7-bea02d126fc1@185.126.255.78:43429/?sni=real.getafreenode.sbs#🇺🇦 Ukraine 🍓 @xixv2ray
 
-hysteria2://ebbeef45-0fd8-40cd-aca5-1e2ce18abeff@172.252.236.213:49303/?sni=real.getafreenode.sbs#🇫🇷 France 🍓 @xixv2ray
+hysteria2://ebbeef45-0fd8-40cd-aca5-1e2ce18abeff@172.252.236.213:46117/?sni=real.getafreenode.sbs#🇫🇷 France 🍓 @xixv2ray
 
 hysteria2://ebbeef45-0fd8-40cd-aca5-1e2ce18abeff@185.126.255.78:43429/?sni=real.getafreenode.sbs#🇺🇦 Ukraine 🍓 @xixv2ray
 
-hysteria2://f901861b-6491-450c-b500-606b2e921625@172.252.236.213:49303/?sni=real.getafreenode.sbs#🇫🇷 France 🍓 @xixv2ray
+hysteria2://f901861b-6491-450c-b500-606b2e921625@172.252.236.213:46117/?sni=real.getafreenode.sbs#🇫🇷 France 🍓 @xixv2ray
 
 hysteria2://f901861b-6491-450c-b500-606b2e921625@185.126.255.78:43429/?sni=real.getafreenode.sbs#🇺🇦 Ukraine 🍓 @xixv2ray
 
