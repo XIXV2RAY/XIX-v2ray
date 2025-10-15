@@ -33,11 +33,11 @@ vless://35b0de8b-b156-43ff-a0e6-59f1018f7adb@185.242.87.162:443?security=tls&sni
 
 vless://35b78705-d0a5-4234-aa00-613252fd5154@bitpay.com:443?security=tls&sni=rAyAn-cOnFiG-sg-2.pArIsA.DpDnS.OrG&allowInsecure=1&fp=chrome&type=ws&path=/ws&host=rAyAn-cOnFiG-sg-2.pArIsA.DpDnS.OrG&encryption=none#🇺🇸 United States 🍓 @xixv2ray
 
-vless://35b78705-d0a5-4234-aa00-613252fd5154@feedly.com:443?security=tls&sni=rAyAn-cOnFiG-sg-2.pArSa.dPdNs.oRg&allowInsecure=1&fp=chrome&type=ws&path=/ws&host=rAyAn-cOnFiG-sg-2.pArSa.dPdNs.oRg&encryption=none#🇺🇸 United States 🍓 @xixv2ray
+vless://35b78705-d0a5-4234-aa00-613252fd5154@feedly.com:443?security=tls&sni=rAyAn-cOnFiG-sg-2.pArSa.dPdNs.oRg&allowInsecure=1&fp=chrome&type=ws&path=/ws&host=rAyAn-cOnFiG-sg-2.pArSa.dPdNs.oRg&encryption=none#🇨🇦 Canada 🍓 @xixv2ray
 
 vless://35edd316-09cd-4e1f-a6a6-d91dfea28a52@170.64.182.57:443?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/ws&encryption=none#🇦🇺 Australia 🍓 @xixv2ray
 
-vless://35edd316-09cd-4e1f-a6a6-d91dfea28a52@alhilal.com:443?security=tls&sni=rAyAn-cOnFiG-Au-1.pArIsA.DpDnS.OrG&allowInsecure=1&fp=chrome&type=ws&path=/ws&host=rAyAn-cOnFiG-Au-1.pArIsA.DpDnS.OrG&encryption=none#🇨🇦 Canada 🍓 @xixv2ray
+vless://35edd316-09cd-4e1f-a6a6-d91dfea28a52@alhilal.com:443?security=tls&sni=rAyAn-cOnFiG-Au-1.pArIsA.DpDnS.OrG&allowInsecure=1&fp=chrome&type=ws&path=/ws&host=rAyAn-cOnFiG-Au-1.pArIsA.DpDnS.OrG&encryption=none#🇺🇸 United States 🍓 @xixv2ray
 
 vless://35edd316-09cd-4e1f-a6a6-d91dfea28a52@laracasts.com:443?security=tls&sni=rAyAn-cOnFiG-Au-1.pArSa.dPdNs.oRg&allowInsecure=1&fp=chrome&type=ws&path=/ws&host=rAyAn-cOnFiG-Au-1.pArSa.dPdNs.oRg&encryption=none#🇨🇦 Canada 🍓 @xixv2ray
 
@@ -75,7 +75,7 @@ vless://82ebd58c-156a-4c2b-9cf9-1762f0a1e04f@change.org:443?security=tls&sni=rAy
 
 vless://8347825d-e85b-4735-b27d-7c60ca32bd0c@141.227.176.171:36090?security=&fp=chrome&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON&encryption=none#🇫🇷 France 🍓 @xixv2ray
 
-vless://961d0a10-f1c5-45df-8395-dee658e7cdc2@al-akhbar.com:443?security=tls&sni=rAyAn-cOnFiG-es-1.pArIsA.DpDnS.OrG&allowInsecure=1&fp=chrome&type=ws&path=/ws&host=rAyAn-cOnFiG-es-1.pArIsA.DpDnS.OrG&encryption=none#🇨🇦 Canada 🍓 @xixv2ray
+vless://961d0a10-f1c5-45df-8395-dee658e7cdc2@al-akhbar.com:443?security=tls&sni=rAyAn-cOnFiG-es-1.pArIsA.DpDnS.OrG&allowInsecure=1&fp=chrome&type=ws&path=/ws&host=rAyAn-cOnFiG-es-1.pArIsA.DpDnS.OrG&encryption=none#🇺🇸 United States 🍓 @xixv2ray
 
 vless://961d0a10-f1c5-45df-8395-dee658e7cdc2@laravel.com:443?security=tls&sni=rAyAn-cOnFiG-es-1.pArSa.dPdNs.oRg&allowInsecure=1&fp=chrome&type=ws&path=/ws&host=rAyAn-cOnFiG-es-1.pArSa.dPdNs.oRg&encryption=none#🇺🇸 United States 🍓 @xixv2ray
 
