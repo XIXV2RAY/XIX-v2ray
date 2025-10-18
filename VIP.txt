@@ -67,7 +67,7 @@ vless://8339a5e8-6141-41f1-9abc-bbf1a06ac5ae@188.132.192.101:8443?security=tls&s
 
 vless://9653eb63-742a-4e85-b11b-b6a31cf6cff9@5.253.43.181:443?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/ws&encryption=none#🇮🇹 Italy 🍓 @xixv2ray
 
-vless://9653eb63-742a-4e85-b11b-b6a31cf6cff9@iplocation.net:443?security=tls&sni=rAyAn-cOnFiG-it-1.pArIsA.DpDnS.OrG&allowInsecure=1&fp=chrome&type=ws&path=/ws&host=rAyAn-cOnFiG-it-1.pArIsA.DpDnS.OrG&encryption=none#🇨🇦 Canada 🍓 @xixv2ray
+vless://9653eb63-742a-4e85-b11b-b6a31cf6cff9@iplocation.net:443?security=tls&sni=rAyAn-cOnFiG-it-1.pArIsA.DpDnS.OrG&allowInsecure=1&fp=chrome&type=ws&path=/ws&host=rAyAn-cOnFiG-it-1.pArIsA.DpDnS.OrG&encryption=none#🇺🇸 United States 🍓 @xixv2ray
 
 vless://9653eb63-742a-4e85-b11b-b6a31cf6cff9@iplocation.net:443?security=tls&sni=rAyAn-cOnFiG-it-1.pArSa.dPdNs.oRg&allowInsecure=1&fp=chrome&type=ws&path=/ws&host=rAyAn-cOnFiG-it-1.pArSa.dPdNs.oRg&encryption=none#🇨🇦 Canada 🍓 @xixv2ray
 
@@ -273,7 +273,7 @@ vless://e137be9d-ac3a-4d54-897d-6a706f34795f@195.42.233.149:443?security=tls&fp=
 
 vless://e617e005-87c0-48a9-a499-6f9a134bdf1a@45.87.155.14:443?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/ws&encryption=none#🇺🇦 Ukraine 🍓 @xixv2ray
 
-vless://e617e005-87c0-48a9-a499-6f9a134bdf1a@check-host.net:443?security=tls&sni=rAyAn-cOnFiG-ua-1.pArIsA.DpDnS.OrG&allowInsecure=1&fp=chrome&type=ws&path=/ws&host=rAyAn-cOnFiG-ua-1.pArIsA.DpDnS.OrG&encryption=none#🇺🇸 United States 🍓 @xixv2ray
+vless://e617e005-87c0-48a9-a499-6f9a134bdf1a@check-host.net:443?security=tls&sni=rAyAn-cOnFiG-ua-1.pArIsA.DpDnS.OrG&allowInsecure=1&fp=chrome&type=ws&path=/ws&host=rAyAn-cOnFiG-ua-1.pArIsA.DpDnS.OrG&encryption=none#🇨🇦 Canada 🍓 @xixv2ray
 
 vless://e617e005-87c0-48a9-a499-6f9a134bdf1a@check-host.net:443?security=tls&sni=rAyAn-cOnFiG-ua-1.pArSa.dPdNs.oRg&allowInsecure=1&fp=chrome&type=ws&path=/ws&host=rAyAn-cOnFiG-ua-1.pArSa.dPdNs.oRg&encryption=none#🇨🇦 Canada 🍓 @xixv2ray
 
