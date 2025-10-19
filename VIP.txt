@@ -57,9 +57,9 @@ vless://82ebd58c-156a-4c2b-9cf9-1762f0a1e04f@change.org:443?security=tls&sni=rAy
 
 vless://9653eb63-742a-4e85-b11b-b6a31cf6cff9@5.253.43.181:443?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/ws&encryption=none#🇮🇹 Italy 🍓 @xixv2ray
 
-vless://9653eb63-742a-4e85-b11b-b6a31cf6cff9@iplocation.net:443?security=tls&sni=rAyAn-cOnFiG-it-1.pArIsA.DpDnS.OrG&allowInsecure=1&fp=chrome&type=ws&path=/ws&host=rAyAn-cOnFiG-it-1.pArIsA.DpDnS.OrG&encryption=none#🇨🇦 Canada 🍓 @xixv2ray
+vless://9653eb63-742a-4e85-b11b-b6a31cf6cff9@iplocation.net:443?security=tls&sni=rAyAn-cOnFiG-it-1.pArIsA.DpDnS.OrG&allowInsecure=1&fp=chrome&type=ws&path=/ws&host=rAyAn-cOnFiG-it-1.pArIsA.DpDnS.OrG&encryption=none#🇺🇸 United States 🍓 @xixv2ray
 
-vless://9653eb63-742a-4e85-b11b-b6a31cf6cff9@iplocation.net:443?security=tls&sni=rAyAn-cOnFiG-it-1.pArSa.dPdNs.oRg&allowInsecure=1&fp=chrome&type=ws&path=/ws&host=rAyAn-cOnFiG-it-1.pArSa.dPdNs.oRg&encryption=none#🇺🇸 United States 🍓 @xixv2ray
+vless://9653eb63-742a-4e85-b11b-b6a31cf6cff9@iplocation.net:443?security=tls&sni=rAyAn-cOnFiG-it-1.pArSa.dPdNs.oRg&allowInsecure=1&fp=chrome&type=ws&path=/ws&host=rAyAn-cOnFiG-it-1.pArSa.dPdNs.oRg&encryption=none#🇨🇦 Canada 🍓 @xixv2ray
 
 vless://970ef269-d32f-4944-b43b-d835f673b60e@45.83.22.118:443?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/ws&encryption=none#🇯🇵 Japan 🍓 @xixv2ray
 
@@ -73,7 +73,7 @@ vless://a114d067-b900-4f60-87a5-50d4d63972b8@usa.visa.com:443?security=tls&sni=P
 
 vless://a42343e4-c498-42b7-8361-c03a36e7a5fb@46.62.220.103:27802?security=tls&sni=offged.sahandconfig.ir&alpn=h2,http/1.1&fp=chrome&type=grpc&serviceName=Smxhabwh&encryption=none#🇩🇪 Germany 🍓 @xixv2ray
 
-vless://aebe5a70-0ca3-46ce-8208-8b5bab1346ce@mybb.com:443?security=tls&sni=rAyAn-007.nAsTaRaN.DpDnS.OrG&allowInsecure=1&fp=chrome&type=ws&path=/?ed%3D2560&host=rayan-007.nastaran.dpdns.org&encryption=none#🇺🇸 United States 🍓 @xixv2ray
+vless://aebe5a70-0ca3-46ce-8208-8b5bab1346ce@mybb.com:443?security=tls&sni=rAyAn-007.nAsTaRaN.DpDnS.OrG&allowInsecure=1&fp=chrome&type=ws&path=/?ed%3D2560&host=rayan-007.nastaran.dpdns.org&encryption=none#🇨🇦 Canada 🍓 @xixv2ray
 
 vless://b5e8bfe7-6cdb-402d-b243-1e0f53ebb582@185.234.66.82:443?security=tls&fp=chrome&type=ws&path=/jzmdpvws?ed%3D2048HiByeVPNNbot--HiByeVPNNbot--HiByeVPNNbot--HiByeVPNNbot--HiByeVPNNbot--HiByeVPNNbot--HiByeVPNNbot--HiByeVPNNbot--HiByeVPNNbot--HiByeVPNNbot--HiByeVPNNbot--HiByeVPNNbot--HiByeVPNNbot&encryption=none#🇹🇷 Türkiye 🍓 @xixv2ray
 
@@ -253,7 +253,7 @@ vless://e617e005-87c0-48a9-a499-6f9a134bdf1a@45.87.155.14:443?security=tls&sni=z
 
 vless://e617e005-87c0-48a9-a499-6f9a134bdf1a@check-host.net:443?security=tls&sni=rAyAn-cOnFiG-ua-1.pArIsA.DpDnS.OrG&allowInsecure=1&fp=chrome&type=ws&path=/ws&host=rAyAn-cOnFiG-ua-1.pArIsA.DpDnS.OrG&encryption=none#🇨🇦 Canada 🍓 @xixv2ray
 
-vless://e617e005-87c0-48a9-a499-6f9a134bdf1a@check-host.net:443?security=tls&sni=rAyAn-cOnFiG-ua-1.pArSa.dPdNs.oRg&allowInsecure=1&fp=chrome&type=ws&path=/ws&host=rAyAn-cOnFiG-ua-1.pArSa.dPdNs.oRg&encryption=none#🇨🇦 Canada 🍓 @xixv2ray
+vless://e617e005-87c0-48a9-a499-6f9a134bdf1a@check-host.net:443?security=tls&sni=rAyAn-cOnFiG-ua-1.pArSa.dPdNs.oRg&allowInsecure=1&fp=chrome&type=ws&path=/ws&host=rAyAn-cOnFiG-ua-1.pArSa.dPdNs.oRg&encryption=none#🇺🇸 United States 🍓 @xixv2ray
 
 vless://e7d08833-b87f-4e9f-9f48-38485e58155e@185.234.66.93:443?security=tls&fp=chrome&type=ws&path=/zqpahpws&encryption=none#🇹🇷 Türkiye 🍓 @xixv2ray
 
@@ -286,10 +286,6 @@ hysteria2://413c8b50-96bf-4457-82f2-54dfa8685f53@185.126.255.78:45294/?sni=real.
 hysteria2://4685eb2a-5ddb-4dc6-9e53-f0c90d6124c1@104.250.239.32:53810/?sni=real.getafreenode.sbs#🇺🇸 United States 🍓 @xixv2ray
 
 hysteria2://4685eb2a-5ddb-4dc6-9e53-f0c90d6124c1@185.126.255.78:45294/?sni=real.getafreenode.sbs#🇺🇦 Ukraine 🍓 @xixv2ray
-
-hysteria2://48c2c901-72e6-46d4-ac78-169d73264cbf@104.250.239.32:53810/?sni=real.getafreenode.sbs#🇺🇸 United States 🍓 @xixv2ray
-
-hysteria2://48c2c901-72e6-46d4-ac78-169d73264cbf@185.126.255.78:45294/?sni=real.getafreenode.sbs#🇺🇦 Ukraine 🍓 @xixv2ray
 
 hysteria2://55ca7a9e-cf90-49df-b14a-9346c59b73b9@104.250.239.32:53810/?sni=real.getafreenode.sbs#🇺🇸 United States 🍓 @xixv2ray
 
