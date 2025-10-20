@@ -59,7 +59,7 @@ vless://9653eb63-742a-4e85-b11b-b6a31cf6cff9@5.253.43.181:443?security=tls&sni=z
 
 vless://9653eb63-742a-4e85-b11b-b6a31cf6cff9@iplocation.net:443?security=tls&sni=rAyAn-cOnFiG-it-1.pArIsA.DpDnS.OrG&allowInsecure=1&fp=chrome&type=ws&path=/ws&host=rAyAn-cOnFiG-it-1.pArIsA.DpDnS.OrG&encryption=none#🇺🇸 United States 🍓 @xixv2ray
 
-vless://9653eb63-742a-4e85-b11b-b6a31cf6cff9@iplocation.net:443?security=tls&sni=rAyAn-cOnFiG-it-1.pArSa.dPdNs.oRg&allowInsecure=1&fp=chrome&type=ws&path=/ws&host=rAyAn-cOnFiG-it-1.pArSa.dPdNs.oRg&encryption=none#🇨🇦 Canada 🍓 @xixv2ray
+vless://9653eb63-742a-4e85-b11b-b6a31cf6cff9@iplocation.net:443?security=tls&sni=rAyAn-cOnFiG-it-1.pArSa.dPdNs.oRg&allowInsecure=1&fp=chrome&type=ws&path=/ws&host=rAyAn-cOnFiG-it-1.pArSa.dPdNs.oRg&encryption=none#🇺🇸 United States 🍓 @xixv2ray
 
 vless://970ef269-d32f-4944-b43b-d835f673b60e@45.83.22.118:443?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/ws&encryption=none#🇯🇵 Japan 🍓 @xixv2ray
 
@@ -73,7 +73,7 @@ vless://a114d067-b900-4f60-87a5-50d4d63972b8@usa.visa.com:443?security=tls&sni=P
 
 vless://a42343e4-c498-42b7-8361-c03a36e7a5fb@46.62.220.103:27802?security=tls&sni=offged.sahandconfig.ir&alpn=h2,http/1.1&fp=chrome&type=grpc&serviceName=Smxhabwh&encryption=none#🇩🇪 Germany 🍓 @xixv2ray
 
-vless://aebe5a70-0ca3-46ce-8208-8b5bab1346ce@mybb.com:443?security=tls&sni=rAyAn-007.nAsTaRaN.DpDnS.OrG&allowInsecure=1&fp=chrome&type=ws&path=/?ed%3D2560&host=rayan-007.nastaran.dpdns.org&encryption=none#🇺🇸 United States 🍓 @xixv2ray
+vless://aebe5a70-0ca3-46ce-8208-8b5bab1346ce@mybb.com:443?security=tls&sni=rAyAn-007.nAsTaRaN.DpDnS.OrG&allowInsecure=1&fp=chrome&type=ws&path=/?ed%3D2560&host=rayan-007.nastaran.dpdns.org&encryption=none#🇨🇦 Canada 🍓 @xixv2ray
 
 vless://b5e8bfe7-6cdb-402d-b243-1e0f53ebb582@185.234.66.82:443?security=tls&fp=chrome&type=ws&path=/jzmdpvws?ed%3D2048HiByeVPNNbot--HiByeVPNNbot--HiByeVPNNbot--HiByeVPNNbot--HiByeVPNNbot--HiByeVPNNbot--HiByeVPNNbot--HiByeVPNNbot--HiByeVPNNbot--HiByeVPNNbot--HiByeVPNNbot--HiByeVPNNbot--HiByeVPNNbot&encryption=none#🇹🇷 Türkiye 🍓 @xixv2ray
 
@@ -295,10 +295,6 @@ hysteria2://80b2ac81-ba69-41f9-bb46-820b7b3af4dd@104.250.239.32:53810/?sni=real.
 
 hysteria2://80b2ac81-ba69-41f9-bb46-820b7b3af4dd@185.126.255.78:45294/?sni=real.getafreenode.sbs#🇺🇦 Ukraine 🍓 @xixv2ray
 
-hysteria2://942b9cb8-92fa-46ac-ae91-f69c8234434b@104.250.239.32:53810/?sni=real.getafreenode.sbs#🇺🇸 United States 🍓 @xixv2ray
-
-hysteria2://942b9cb8-92fa-46ac-ae91-f69c8234434b@185.126.255.78:45294/?sni=real.getafreenode.sbs#🇺🇦 Ukraine 🍓 @xixv2ray
-
 hysteria2://Yet-Another-Public-Config-1@206.71.158.37:35000?obfs=salamander&obfs-password=Yet-Another-Public-Config-1&insecure=1&sni=YAPC-1.afshin.ir#🇳🇱 The Netherlands 🍓 @xixv2ray
 
 hysteria2://Yet-Another-Public-Config-1@206.71.158.37:35200?obfs=salamander&obfs-password=Yet-Another-Public-Config-1&sni=YAPC-1.afshin.ir#🇳🇱 The Netherlands 🍓 @xixv2ray
@@ -314,10 +310,6 @@ hysteria2://dongtaiwang.com@[2001:bc8:32d7:302::11]:20088?insecure=1&sni=apple.c
 hysteria2://e31ad3e6-e341-42ac-bdc7-bea02d126fc1@104.250.239.32:53810/?sni=real.getafreenode.sbs#🇺🇸 United States 🍓 @xixv2ray
 
 hysteria2://e31ad3e6-e341-42ac-bdc7-bea02d126fc1@185.126.255.78:45294/?sni=real.getafreenode.sbs#🇺🇦 Ukraine 🍓 @xixv2ray
-
-hysteria2://f901861b-6491-450c-b500-606b2e921625@104.250.239.32:53810/?sni=real.getafreenode.sbs#🇺🇸 United States 🍓 @xixv2ray
-
-hysteria2://f901861b-6491-450c-b500-606b2e921625@185.126.255.78:45294/?sni=real.getafreenode.sbs#🇺🇦 Ukraine 🍓 @xixv2ray
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1MXlsb1FDOEQ5dzFXYWU3Rkh0STY1@135.225.124.80:48172/?POST%20#🇸🇪 Sweden 🍓 @xixv2ray
 
