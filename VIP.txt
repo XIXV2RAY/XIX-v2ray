@@ -53,7 +53,7 @@ vless://98dc8a17-0e58-4270-8407-95869d24bb5c@www.speedtest.net:443?security=tls&
 
 vless://99f47914-23d8-4367-81bc-b4b759eb7505@45.83.22.118:443?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/ws&encryption=none#🇯🇵 Japan 🍓 @xixv2ray
 
-vless://99f47914-23d8-4367-81bc-b4b759eb7505@al-akhbar.com:443?security=tls&sni=rAyAn-cOnFiG-jp-1.pArSa.dPdNs.oRg&allowInsecure=1&fp=chrome&type=ws&path=/ws&host=rAyAn-cOnFiG-jp-1.pArSa.dPdNs.oRg&encryption=none#🇨🇦 Canada 🍓 @xixv2ray
+vless://99f47914-23d8-4367-81bc-b4b759eb7505@al-akhbar.com:443?security=tls&sni=rAyAn-cOnFiG-jp-1.pArSa.dPdNs.oRg&allowInsecure=1&fp=chrome&type=ws&path=/ws&host=rAyAn-cOnFiG-jp-1.pArSa.dPdNs.oRg&encryption=none#🇺🇸 United States 🍓 @xixv2ray
 
 vless://99f47914-23d8-4367-81bc-b4b759eb7505@www.visa.com.tw:443?security=tls&sni=rAyAn-cOnFiG-jp-1.pArIsA.DpDnS.OrG&allowInsecure=1&fp=chrome&type=ws&path=/ws&host=rAyAn-cOnFiG-jp-1.pArIsA.DpDnS.OrG&encryption=none#🇺🇸 United States 🍓 @xixv2ray
 
@@ -67,11 +67,11 @@ vless://a7e3db08-6fb7-4ffd-9415-59d1b5c6eeb6@cdnjs.com:443?security=tls&sni=rAyA
 
 vless://a7e3db08-6fb7-4ffd-9415-59d1b5c6eeb6@zula.ir:443?security=tls&sni=rAyAn-cOnFiG-ca-1.pArIsA.DpDnS.OrG&allowInsecure=1&fp=chrome&type=ws&path=/ws&host=rAyAn-cOnFiG-ca-1.pArIsA.DpDnS.OrG&encryption=none#🇨🇦 Canada 🍓 @xixv2ray
 
-vless://aebe5a70-0ca3-46ce-8208-8b5bab1346ce@mybb.com:443?security=tls&sni=rAyAn-007.nAsTaRaN.DpDnS.OrG&allowInsecure=1&fp=chrome&type=ws&path=/?ed%3D2560&host=rayan-007.nastaran.dpdns.org&encryption=none#🇨🇦 Canada 🍓 @xixv2ray
+vless://aebe5a70-0ca3-46ce-8208-8b5bab1346ce@mybb.com:443?security=tls&sni=rAyAn-007.nAsTaRaN.DpDnS.OrG&allowInsecure=1&fp=chrome&type=ws&path=/?ed%3D2560&host=rayan-007.nastaran.dpdns.org&encryption=none#🇺🇸 United States 🍓 @xixv2ray
 
 vless://b5e8bfe7-6cdb-402d-b243-1e0f53ebb582@185.234.66.82:443?security=tls&fp=chrome&type=ws&path=/jzmdpvws?ed%3D2048HiByeVPNNbot--HiByeVPNNbot--HiByeVPNNbot--HiByeVPNNbot--HiByeVPNNbot--HiByeVPNNbot--HiByeVPNNbot--HiByeVPNNbot--HiByeVPNNbot--HiByeVPNNbot--HiByeVPNNbot--HiByeVPNNbot--HiByeVPNNbot&encryption=none#🇹🇷 Türkiye 🍓 @xixv2ray
 
-vless://ce8b479d-ade1-414d-9eec-f53a80393b7d@iplocation.net:443?security=tls&sni=rAyAn-cOnFiG-de-1.pArIsA.DpDnS.OrG&allowInsecure=1&fp=chrome&type=ws&path=/ws&host=rAyAn-cOnFiG-de-1.pArIsA.DpDnS.OrG&encryption=none#🇨🇦 Canada 🍓 @xixv2ray
+vless://ce8b479d-ade1-414d-9eec-f53a80393b7d@iplocation.net:443?security=tls&sni=rAyAn-cOnFiG-de-1.pArIsA.DpDnS.OrG&allowInsecure=1&fp=chrome&type=ws&path=/ws&host=rAyAn-cOnFiG-de-1.pArIsA.DpDnS.OrG&encryption=none#🇺🇸 United States 🍓 @xixv2ray
 
 vless://ce8b479d-ade1-414d-9eec-f53a80393b7d@www.visaeurope.ch:443?security=tls&sni=rAyAn-cOnFiG-de-1.pArSa.dPdNs.oRg&allowInsecure=1&fp=chrome&type=ws&path=/ws&host=rAyAn-cOnFiG-de-1.pArSa.dPdNs.oRg&encryption=none#🇺🇸 United States 🍓 @xixv2ray
 
