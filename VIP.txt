@@ -31,11 +31,11 @@ vless://4d943646-98fa-4f98-8db9-366506675d82@45.83.22.118:443?security=tls&sni=z
 
 vless://4d943646-98fa-4f98-8db9-366506675d82@al-akhbar.com:443?security=tls&sni=rAyAn-cOnFiG-jp-1.pArSa.dPdNs.oRg&allowInsecure=1&fp=chrome&type=ws&path=/ws&host=rAyAn-cOnFiG-jp-1.pArSa.dPdNs.oRg&encryption=none#🇺🇸 United States 🍓 @xixv2ray
 
-vless://4d943646-98fa-4f98-8db9-366506675d82@al-akhbar.com:443?security=tls&sni=rAyAn-cOnFiG-jp-1.pAriSa.dPdNs.oRg&allowInsecure=1&fp=chrome&type=ws&path=/ws&host=rAyAn-cOnFiG-jp-1.pAriSa.dPdNs.oRg&encryption=none#🇺🇸 United States 🍓 @xixv2ray
+vless://4d943646-98fa-4f98-8db9-366506675d82@al-akhbar.com:443?security=tls&sni=rAyAn-cOnFiG-jp-1.pAriSa.dPdNs.oRg&allowInsecure=1&fp=chrome&type=ws&path=/ws&host=rAyAn-cOnFiG-jp-1.pAriSa.dPdNs.oRg&encryption=none#🇨🇦 Canada 🍓 @xixv2ray
 
 vless://51328565-7117-4bd9-a1ce-c62aa605ce33@57.128.219.105:443?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/ws&encryption=none#🇵🇱 Poland 🍓 @xixv2ray
 
-vless://51328565-7117-4bd9-a1ce-c62aa605ce33@alhilal.com:443?security=tls&sni=rAyAn-cOnFiG-pl-1.pArSa.dPdNs.oRg&allowInsecure=1&fp=chrome&type=ws&path=/ws&host=rAyAn-cOnFiG-pl-1.pArSa.dPdNs.oRg&encryption=none#🇺🇸 United States 🍓 @xixv2ray
+vless://51328565-7117-4bd9-a1ce-c62aa605ce33@alhilal.com:443?security=tls&sni=rAyAn-cOnFiG-pl-1.pArSa.dPdNs.oRg&allowInsecure=1&fp=chrome&type=ws&path=/ws&host=rAyAn-cOnFiG-pl-1.pArSa.dPdNs.oRg&encryption=none#🇨🇦 Canada 🍓 @xixv2ray
 
 vless://51328565-7117-4bd9-a1ce-c62aa605ce33@alhilal.com:443?security=tls&sni=rAyAn-cOnFiG-pl-1.pAriSa.dPdNs.oRg&allowInsecure=1&fp=chrome&type=ws&path=/ws&host=rAyAn-cOnFiG-pl-1.pAriSa.dPdNs.oRg&encryption=none#🇺🇸 United States 🍓 @xixv2ray
 
@@ -55,15 +55,15 @@ vless://98dc8a17-0e58-4270-8407-95869d24bb5c@www.speedtest.net:443?security=tls&
 
 vless://9a904c91-a684-40df-a283-23b08668e7e0@5.253.43.181:443?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/ws&encryption=none#🇮🇹 Italy 🍓 @xixv2ray
 
-vless://9a904c91-a684-40df-a283-23b08668e7e0@zula.ir:443?security=tls&sni=rAyAn-cOnFiG-it-1.pArSa.dPdNs.oRg&allowInsecure=1&fp=chrome&type=ws&path=/ws&host=rAyAn-cOnFiG-it-1.pArSa.dPdNs.oRg&encryption=none#🇺🇸 United States 🍓 @xixv2ray
+vless://9a904c91-a684-40df-a283-23b08668e7e0@zula.ir:443?security=tls&sni=rAyAn-cOnFiG-it-1.pArSa.dPdNs.oRg&allowInsecure=1&fp=chrome&type=ws&path=/ws&host=rAyAn-cOnFiG-it-1.pArSa.dPdNs.oRg&encryption=none#🇨🇦 Canada 🍓 @xixv2ray
 
-vless://9a904c91-a684-40df-a283-23b08668e7e0@zula.ir:443?security=tls&sni=rAyAn-cOnFiG-it-1.pAriSa.dPdNs.oRg&allowInsecure=1&fp=chrome&type=ws&path=/ws&host=rAyAn-cOnFiG-it-1.pAriSa.dPdNs.oRg&encryption=none#🇨🇦 Canada 🍓 @xixv2ray
+vless://9a904c91-a684-40df-a283-23b08668e7e0@zula.ir:443?security=tls&sni=rAyAn-cOnFiG-it-1.pAriSa.dPdNs.oRg&allowInsecure=1&fp=chrome&type=ws&path=/ws&host=rAyAn-cOnFiG-it-1.pAriSa.dPdNs.oRg&encryption=none#🇺🇸 United States 🍓 @xixv2ray
 
 vless://a114d067-b900-4f60-87a5-50d4d63972b8@usa.visa.com:443?security=tls&sni=PaRiSA-CC5Zk0.paRISa-44c.woRKeRs.dev&allowInsecure=1&fp=chrome&type=ws&path=/?ed%3D2560&host=PaRiSA-CC5Zk0.paRISa-44c.woRKeRs.dev&encryption=none#🇺🇸 United States 🍓 @xixv2ray
 
 vless://a7e04b44-855e-4fe7-8fa0-31894e928bce@64.23.189.238:443?security=reality&sni=www.gstatic.com&fp=chrome&pbk=RYsjWbL0kjpi144PPllR_2C_KK3a071iGBPUUCsHH1A&sid=a4844ba7&type=tcp&flow=xtls-rprx-vision&encryption=none#🇺🇸 United States 🍓 @xixv2ray
 
-vless://aebe5a70-0ca3-46ce-8208-8b5bab1346ce@mybb.com:443?security=tls&sni=rAyAn-007.nAsTaRaN.DpDnS.OrG&allowInsecure=1&fp=chrome&type=ws&path=/?ed%3D2560&host=rayan-007.nastaran.dpdns.org&encryption=none#🇺🇸 United States 🍓 @xixv2ray
+vless://aebe5a70-0ca3-46ce-8208-8b5bab1346ce@mybb.com:443?security=tls&sni=rAyAn-007.nAsTaRaN.DpDnS.OrG&allowInsecure=1&fp=chrome&type=ws&path=/?ed%3D2560&host=rayan-007.nastaran.dpdns.org&encryption=none#🇨🇦 Canada 🍓 @xixv2ray
 
 vless://b4a81818-e8b6-4c04-ae98-a116e019dbb3@www.visaeurope.ch:443?security=tls&sni=rAyAn-cOnFiG-de-1.pArSa.dPdNs.oRg&allowInsecure=1&fp=chrome&type=ws&path=/ws&host=rAyAn-cOnFiG-de-1.pArSa.dPdNs.oRg&encryption=none#🇺🇸 United States 🍓 @xixv2ray
 
