@@ -5,10 +5,6 @@
 
 vless://1679af35-6dd6-4c09-ae3b-18f239217f3e@adf.ly:443?security=tls&sni=rAyAn-007.pArViN.DpDnS.OrG&allowInsecure=1&fp=chrome&type=ws&path=/?ed%3D2560&host=rayan-007.parvin.dpdns.org&encryption=none#🇨🇦 Canada 🍓 @xixv2ray
 
-vless://401374e6-df77-41fb-f638-dad8184f175b@45.82.251.250:80?security=&fp=chrome&type=grpc&encryption=none#🇺🇸 United States 🍓 @xixv2ray
-
-vless://401374e6-df77-41fb-f638-dad8184f175b@45.82.251.250:80?security=&sni=pqh29v7.ipforvetra.shop&fp=chrome&type=grpc&encryption=none#🇺🇸 United States 🍓 @xixv2ray
-
 vless://568db765-6970-40c8-8087-83ea9ba2429e@bitpay.com:443?security=tls&sni=rAyAn-007.pArAsToO.DpDnS.OrG&allowInsecure=1&fp=chrome&type=ws&path=/?ed%3D2560&host=rAyAn-007.pArAsToO.DpDnS.OrG&encryption=none#🇨🇦 Canada 🍓 @xixv2ray
 
 vless://5f9a4072-603e-4255-a45b-b0970e571de9@51.195.202.129:443?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/ws&encryption=none#🇫🇷 France 🍓 @xixv2ray
@@ -146,8 +142,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.214:8
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.217:8080#🇬🇧 United Kingdom 🍓 @xixv2ray
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.218:8080#🇬🇧 United Kingdom 🍓 @xixv2ray
-
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@63.180.254.10:443#🇩🇪 Germany 🍓 @xixv2ray
 
 vmess://eyJhZGQiOiI3NC4xMTcuMTk2LjIzMiIsImhvc3QiOiJpbWFmYWtlLmxvY2tlciIsInNuaSI6ImltYWZha2UubG9ja2VyIiwiaWQiOiI0ZWM2NmQ4MS05NTY1LTRkOGUtYWU1OC0yYmFjZmRlOTVmNDgiLCJuZXQiOiJ3cyIsInBhdGgiOiIvc3BlZWR0ZXN0IiwicG9ydCI6Mzc5MzQsInBzIjoiRnJlbW9udC1HZXRBRnJlZU5vZGUuY29tIiwidGxzIjoidGxzIiwiZnAiOiJjaHJvbWUiLCJ2IjoyLCJhaWQiOjAsInR5cGUiOiJub25lIn0=#🍓 @xixv2ray
 
