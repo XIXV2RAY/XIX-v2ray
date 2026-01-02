@@ -107,7 +107,7 @@ vless://70b84e89-b42a-4c91-896b-1c3dbd98a203@purplelily.qzz.io:443?path=%2F23.95
 vless://70b84e89-b42a-4c91-896b-1c3dbd98a203@purplelily.qzz.io:443?path=%2F23.95.56.195%3A443&security=tls&encryption=none&type=ws&sni=purplelily.qzz.io#🇨🇦 Canada 🍓 @xixv2ray
 vless://70b84e89-b42a-4c91-896b-1c3dbd98a203@purplelily.qzz.io:443?path=%2F23.95.56.195%3A443&security=tls&encryption=none&type=ws&sni=purplelily.qzz.io#🇨🇦 Canada 🍓 @xixv2ray
 vless://72731735-d40c-4d0e-aa0b-cbf6debb9e2b@46.224.181.65:7443?security=none&encryption=none&headerType=none&type=tcp#🇩🇪 Germany 🍓 @xixv2ray
-vless://7b16b5aa-0c9a-4bd1-d6ee-4e31d02acbaf@usaa.fastlynew.hosting-ip.com:80?path=%2F&security=none&encryption=none&host=civan.global.ssl.fastly.net&type=ws#🇮🇹 Italy 🍓 @xixv2ray
+vless://7b16b5aa-0c9a-4bd1-d6ee-4e31d02acbaf@usaa.fastlynew.hosting-ip.com:80?path=%2F&security=none&encryption=none&host=civan.global.ssl.fastly.net&type=ws#🇺🇸 United States 🍓 @xixv2ray
 vless://7bcb7241-33f9-48e0-8660-b33aed2bff7a@104.21.96.1:2096?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&fp=chrome&type=ws&sni=8j3f7HD37h.PaGES.dEV#🇨🇦 Canada 🍓 @xixv2ray
 vless://7bcb7241-33f9-48e0-8660-b33aed2bff7a@104.21.96.1:2096?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&fp=chrome&type=ws&sni=8j3f7HD37h.PaGES.dEV#🇨🇦 Canada 🍓 @xixv2ray
 vless://7bcb7241-33f9-48e0-8660-b33aed2bff7a@104.21.96.1:2096?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=8j3f7HD37h.PaGES.dEV#🇨🇦 Canada 🍓 @xixv2ray
