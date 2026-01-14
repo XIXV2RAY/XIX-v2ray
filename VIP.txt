@@ -100,7 +100,7 @@ vless://087d8602-503b-4091-9f05-44c20792083c@oon.visaups.ir:80?path=%2F&security
 vless://160e9c18-c548-42bf-9c00-905aed8ef96f@43.250.54.155:49000?mode=gun&security=reality&encryption=none&pbk=2K2NO2jXF45pA0-eUobqo-gnur61TadbWD4B93Zl_Vc&fp=chrome&type=grpc&serviceName=dropbox.com&sni=google.com&sid=170f8a2036#🇳🇱 The Netherlands 🍓 @xixv2ray
 vless://b2744521-78b7-4c24-86f2-4f751d1cb7bf@104.21.43.168:443?path=%2F&security=tls&alpn=h3%2Ch2&encryption=none&host=private.digikala.lat&fp=chrome&type=ws&sni=Ggjd.digikala.lat#🇨🇦 Canada 🍓 @xixv2ray
 vless://160e9c18-c548-42bf-9c00-905aed8ef96f@43.250.54.155:49000?mode=gun&security=reality&encryption=none&pbk=2K2NO2jXF45pA0-eUobqo-gnur61TadbWD4B93Zl_Vc&fp=chrome&spx=%2F---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET&type=grpc&serviceName=dropbox.com&sni=google.com&sid=170f8a2036#🇳🇱 The Netherlands 🍓 @xixv2ray
-vless://ccbe6b7c-9264-40c4-8bc1-ef8f6205d7a4@ip-range.coin.name.ng:8443?path=%2F&security=tls&encryption=none&insecure=0&host=hzr27.sepiol.name.NG&fp=firefox&type=ws&allowInsecure=0&sni=hzr27.sepiol.name.NG#🇸🇨 Seychelles 🍓 @xixv2ray
+vless://ccbe6b7c-9264-40c4-8bc1-ef8f6205d7a4@ip-range.coin.name.ng:8443?path=%2F&security=tls&encryption=none&insecure=0&host=hzr27.sepiol.name.NG&fp=firefox&type=ws&allowInsecure=0&sni=hzr27.sepiol.name.NG#🇸🇪 Sweden 🍓 @xixv2ray
 vless://9e5ae650-6de5-4ab0-b305-f97df5ce2cc6@prosshprossh.ajorpare.ir:8880?path=%2F%3Fed%3D2048HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN--HiByeVPNN&security=none&encryption=none&host=servepross.ajorpare.ir&type=ws#🇨🇦 Canada 🍓 @xixv2ray
 vless://9e5ae650-6de5-4ab0-b305-f97df5ce2cc6@prosshprossh.ajorpare.ir:8880?encryption=none&security=none&type=ws&host=servepross.ajorpare.ir&path=%2F#🇨🇦 Canada 🍓 @xixv2ray
 vless://9e5ae650-6de5-4ab0-b305-f97df5ce2cc6@prosshprossh.ajorpare.ir:8880?path=%2F&security=&encryption=none&host=servepross.ajorpare.ir&type=ws#🇨🇦 Canada 🍓 @xixv2ray
@@ -122,10 +122,10 @@ vless://a22be179-d210-4313-e499-8530a577b8b7@doprax.fxgoldensignals.com:38231?mo
 vless://14fe2c89-af11-4b7d-cc08-9641f0f2d8ee@doprax.fxgoldensignals.com:58153?mode=gun&security=none&encryption=none&type=grpc#🇩🇪 Germany 🍓 @xixv2ray
 vless://a22be179-d210-4313-e499-8530a577b8b7@doprax.fxgoldensignals.com:38231?mode=auto&path=%2F&security=&encryption=none&type=xhttp#🇩🇪 Germany 🍓 @xixv2ray
 vless://48c43abe-ac04-481e-85c7-5c9a85725685@104.16.53.11:2082?path=%2Fspeedtest.net%2Fzirakomamle.com%3Fed%3D2048&security=none&encryption=none&host=fInLaND.ziRakOmaMle.coM&type=httpupgrade#🇨🇦 Canada 🍓 @xixv2ray
-vless://ccbe6b7c-9264-40c4-8bc1-ef8f6205d7a4@ip-range.coin.name.ng:8443?path=%2F&security=tls&encryption=none&host=hzr27.sepiol.name.NG&fp=firefox&type=ws&sni=hzr27.sepiol.name.NG#🇸🇪 Sweden 🍓 @xixv2ray
-vless://3f719b1c-433e-4b41-95e4-837a4a6a0f9a@Api-saroNet.zirAkoMamLe.Com:2052?path=%2Fspeedtest.net%2Fzirakomamle.com%3Fed%3D2048&security=none&encryption=none&host=fInLaND.ziRakOmaMle.coM&type=httpupgrade#🇨🇦 Canada 🍓 @xixv2ray
+vless://ccbe6b7c-9264-40c4-8bc1-ef8f6205d7a4@ip-range.coin.name.ng:8443?path=%2F&security=tls&encryption=none&host=hzr27.sepiol.name.NG&fp=firefox&type=ws&sni=hzr27.sepiol.name.NG#🇸🇨 Seychelles 🍓 @xixv2ray
+vless://3f719b1c-433e-4b41-95e4-837a4a6a0f9a@Api-saroNet.zirAkoMamLe.Com:2052?path=%2Fspeedtest.net%2Fzirakomamle.com%3Fed%3D2048&security=none&encryption=none&host=fInLaND.ziRakOmaMle.coM&type=httpupgrade#🇬🇧 United Kingdom 🍓 @xixv2ray
 vless://c9b0932d-8d1c-43c5-b64b-e9a74719c76d@dorthy.ns.cloudflare.com:443?path=%2Fhsdgsws&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=sunseet.info&fp=firefox&type=ws&allowInsecure=0&sni=sunseet.info#🇨🇦 Canada 🍓 @xixv2ray
-vless://cb522244-ff63-4883-ae1f-87d883fb2da7@api-saronet.sarhadpirani.ir:2052?path=%2Fapi%2Fstatus%2F%3Fed%3D2560&security=none&encryption=none&host=cLoUd.zIrAkOmAmLe.CoM&type=httpupgrade#🇬🇧 United Kingdom 🍓 @xixv2ray
+vless://cb522244-ff63-4883-ae1f-87d883fb2da7@api-saronet.sarhadpirani.ir:2052?path=%2Fapi%2Fstatus%2F%3Fed%3D2560&security=none&encryption=none&host=cLoUd.zIrAkOmAmLe.CoM&type=httpupgrade#🇨🇦 Canada 🍓 @xixv2ray
 vless://e927758e-3149-450b-b9a0-45321c946315@lg.tehdrantolidi.ir:2095?path=%2F%3Fed%3D2095&security=&encryption=none&host=hiifof.parsvpskm.fun&type=httpupgrade#🇺🇸 United States 🍓 @xixv2ray
 vless://7a30b7fc-4868-4d1d-84b8-16a3d3df0139@45.89.109.25:18278?security=reality&encryption=none&pbk=8Fglzc7t2LS4r1vQWlVMNe_EsFdhMawlxeDacbhmiAg&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=yahoo.com&sid=f0#🇯🇵 Japan 🍓 @xixv2ray
 vless://86b414b6-966e-4f6d-ab16-32049ef732d3@47.245.38.111:443?security=reality&encryption=none&pbk=y167aJhpgWWjltY4UCir_uu8Mj__Hkc1W4etD0QXYH4&headerType=none&fp=chrome&type=tcp&sni=www.autodesk.com&sid=860705e716cbe6ed#🇯🇵 Japan 🍓 @xixv2ray
@@ -148,7 +148,7 @@ vless://e4824193-4f54-453b-d037-88368e85ef0e@185.236.232.223:8880?mode=gun&secur
 vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@104.26.6.89:8443?path=%2F&security=tls&alpn=h3%2Ch2&encryption=none&host=YjF03nNq0B.sOlEnTrAa.InFo&fp=chrome&type=ws&sni=YjF03nNq0B.sOlEnTrAa.InFo#🇨🇦 Canada 🍓 @xixv2ray
 vless://1a6fe500-59da-4598-8576-256f06765ffb@212.41.11.152:443?security=reality&encryption=none&pbk=J_jQq9-SWQZjiMhuPaFV7V2MaJ4pkKgVRaz7x6tmvy8&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ru.sfasti.ru&sid=16895459a2c7768d#🇷🇺 Russia 🍓 @xixv2ray
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.140.147.74:8880?mode=gun&security=none&encryption=none&authority=%3Fed%3D2048%40PLANB_PROXY&fp=chrome&type=grpc#🇳🇱 The Netherlands 🍓 @xixv2ray
-vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@ipw.gfdv54cvghhgfhgj-njhgj64.info:443?path=%2F&security=tls&alpn=h3%2Ch2&encryption=none&host=M84tG1gGw0.SoLeNtRaA.iNfO&fp=chrome&type=ws&sni=M84tG1gGw0.SoLeNtRaA.iNfO#🇨🇦 Canada 🍓 @xixv2ray
+vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@ipw.gfdv54cvghhgfhgj-njhgj64.info:443?path=%2F&security=tls&alpn=h3%2Ch2&encryption=none&host=M84tG1gGw0.SoLeNtRaA.iNfO&fp=chrome&type=ws&sni=M84tG1gGw0.SoLeNtRaA.iNfO#🇺🇸 United States 🍓 @xixv2ray
 vless://060a8fe8-7175-4ded-94a5-d9808bc645b6@104.18.35.85:443?path=%2F&security=tls&encryption=none&host=cf.vless.sandesh.fr&fp=chrome&type=ws&sni=cf.vless.sandesh.fr#🇨🇦 Canada 🍓 @xixv2ray
 vless://b3138f88-8845-41f7-8250-6eaa30be0110@nodc.bazarkha.sbs:6003?security=none&encryption=none&host=www.stackoverflow.com&headerType=http&type=tcp#🇩🇪 Germany 🍓 @xixv2ray
 vless://ad069756-c14b-4443-87af-4a503c5c08f5@m33a.vip784.com:33801?security=none&encryption=none&host=varzesh3.ir&headerType=http&type=tcp#🇩🇪 Germany 🍓 @xixv2ray
@@ -254,28 +254,31 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4NjAzOWI3MS1iYTgyLTRjYTgtODM4ZS04NzA4NmFlNjY
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HuvCfh7ggVk1FU1Mt576O5Zu9LU5G6Kej6ZSB6Ieq5Yi25YmnLUNoYXRHUFQtVGlrVG9rLVlvdVR1YmUtY2cxYzAxLndhaW1hb2pkLmNvbTo0NDMiLCJhZGQiOiJjZzFjMDEud2FpbWFvamQuY29tIiwicG9ydCI6IjQ0MyIsInR5cGUiOiJub25lIiwiaWQiOiJiZThlMzEzNi1iODc0LTQwODUtYmQyMy1lYzM2OTkzMDA0OTAiLCJhaWQiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiL2FwaS92MS9ncmFwaHFsIiwiaG9zdCI6ImNnMWMwMS53YWltYW9qZC5jb20iLCJ0bHMiOiJ0bHMifQ==#🍓 @xixv2ray
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HuvCfh7ggVk1FU1Mt576O5Zu9LUNoYXRHUFQtVGlrVG9rLVlvdVR1YmUtY2cxYzA0LndhaW1hb2pkLmNvbTo0NDMiLCJhZGQiOiJjZzFjMDQud2FpbWFvamQuY29tIiwicG9ydCI6IjQ0MyIsInR5cGUiOiJub25lIiwiaWQiOiJiZThlMzEzNi1iODc0LTQwODUtYmQyMy1lYzM2OTkzMDA0OTAiLCJhaWQiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiL2FwaS92MS9ncmFwaHFsIiwiaG9zdCI6ImNnMWMwNC53YWltYW9qZC5jb20iLCJ0bHMiOiJ0bHMifQ==#🍓 @xixv2ray
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HuvCfh7ggVk1FU1Mt576O5Zu9LUNoYXRHUFQtVGlrVG9rLVlvdVR1YmUtY2cxYzE0LndhaW1hb2pkLmNvbTo0NDMiLCJhZGQiOiJjZzFjMTQud2FpbWFvamQuY29tIiwicG9ydCI6IjQ0MyIsInR5cGUiOiJub25lIiwiaWQiOiJiZThlMzEzNi1iODc0LTQwODUtYmQyMy1lYzM2OTkzMDA0OTAiLCJhaWQiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiL2FwaS92MS9ncmFwaHFsIiwiaG9zdCI6ImNnMWMxNC53YWltYW9qZC5jb20iLCJ0bHMiOiJ0bHMifQ==#🍓 @xixv2ray
-trojan://BxceQaOe@58.152.53.219:443?allowInsecure=0&sni=t.me%252Fripaojiedian#🇭🇰 Hong Kong 🍓 @xixv2ray
-trojan://d30c2d87-9541-4681-a912-e51e190bad2a@green2.cdntencentmusic.com:31102?allowInsecure=1&sni=green2.cdntencentmusic.com#🇹🇼 Taiwan 🍓 @xixv2ray
-vmess://eyJ2IjoiMiIsInBzIjoi8J+HuvCfh7gg5YyX576O5Zyw5Yy6IFYyQ1JPU1MuQ09NIiwiYWRkIjoiMjMuMTM4LjE0OC40NyIsInBvcnQiOiI0MjUwNyIsInR5cGUiOiJub25lIiwiaWQiOiI0ZGIwN2IxMy02NTI0LTQ5ZDItYjQzMi0xZjMxMmMwZTljN2MiLCJhaWQiOiIwIiwibmV0IjoidGNwIiwicGF0aCI6Ii8iLCJob3N0IjoiIiwidGxzIjoiIn0=#🍓 @xixv2ray
+trojan://b7aa4e87-d990-4f2d-8880-73b206953efc@220.130.58.136:31102?allowInsecure=1&sni=green2.cdntencentmusic.com#🇹🇼 Taiwan 🍓 @xixv2ray
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HqPCfh7Mg5bm/5Lic55yB5rmb5rGf5biCIOenu+WKqCIsImFkZCI6InR1bm5lbDIucXFhNjc4LmNvbSIsInBvcnQiOiI0NzA4NCIsInR5cGUiOiJub25lIiwiaWQiOiJiZGUyMWMzYi03NTgwLTQyODYtYTc5Yy01ZGM1NGNmMjk3ZTAiLCJhaWQiOiIwIiwibmV0IjoidGNwIiwicGF0aCI6Ii8iLCJob3N0IjoidHVubmVsMi5xcWE2NzguY29tIiwidGxzIjoiIn0=#🍓 @xixv2ray
-vmess://eyJ2IjoiMiIsInBzIjoi8J+HrPCfh6cg6Iux5Zu9IFYyQ1JPU1MuQ09NIiwiYWRkIjoiODIuMTk4LjI0Ni45NyIsInBvcnQiOiIxODAiLCJ0eXBlIjoibm9uZSIsImlkIjoiZDEzZmMyZjUtM2UwNS00Nzk1LTgxZWItNDQxNDNhMDllNTUyIiwiYWlkIjoiMCIsIm5ldCI6InRjcCIsInBhdGgiOiIvIiwiaG9zdCI6IiIsInRscyI6IiJ9#🍓 @xixv2ray
+vmess://eyJ2IjoiMiIsInBzIjoi8J+HrPCfh6cg6Iux5Zu9IFYyQ1JPU1MuQ09NIiwiYWRkIjoiODIuMTk4LjI0Ni45NyIsInBvcnQiOiIxODAiLCJ0eXBlIjoibm9uZSIsImlkIjoiZDEzZmMyZjUtM2UwNS00Nzk1LTgxZWItNDQxNDNhMDllNTUyIiwiYWlkIjoiMCIsIm5ldCI6InRjcCIsInBhdGgiOiIvIiwiaG9zdCI6InQubWUlMkZyaXBhb2ppZWRpYW4iLCJ0bHMiOiIifQ==#🍓 @xixv2ray
+vmess://eyJ2IjoiMiIsInBzIjoi8J+HqPCfh7Mg5bm/5Lic55yB5bm/5bee5biCIOeUteS/oSIsImFkZCI6ImFmbHp6dWwubWVpcXVhbmtvbmdqaWFuLmNvbSIsInBvcnQiOiI1MjUxMiIsInR5cGUiOiJub25lIiwiaWQiOiIzNDJiYWNmZC0yYjhmLTNmNDktYTE2ZS00MzlkYjViMGI5ZDUiLCJhaWQiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiLzU2NGRmYTIwLyIsImhvc3QiOiJhZmx6enVsLm1laXF1YW5rb25namlhbi5jb20iLCJ0bHMiOiIifQ==#🍓 @xixv2ray
+vmess://eyJ2IjoiMiIsInBzIjoi8J+HqPCfh7Mg5bm/5Lic55yB5rmb5rGf5biCIOenu+WKqCIsImFkZCI6InR1bm5lbDEucXFhNjc4LmNvbSIsInBvcnQiOiI0NzA4NCIsInR5cGUiOiJub25lIiwiaWQiOiIzZmMzMzEwZC1mZDg0LTQ5MzMtYjM3MC04Y2IyZDU2NWZhYjkiLCJhaWQiOiIwIiwibmV0IjoidGNwIiwicGF0aCI6Ii8iLCJob3N0IjoidHVubmVsMS5xcWE2NzguY29tIiwidGxzIjoiIn0=#🍓 @xixv2ray
+vmess://eyJ2IjoiMiIsInBzIjoi8J+HuvCfh7gg576O5Zu9IOmYv+mHjOS6kSIsImFkZCI6IjQ3LjI1My4xOTcuMjYiLCJwb3J0IjoiMTIwNTYiLCJ0eXBlIjoibm9uZSIsImlkIjoiZGQ3YmU3ZjEtMzhmZi00NWU2LWYxZTUtYjIwYzIxOTBmNTI3IiwiYWlkIjoiMCIsIm5ldCI6Im5vbmUiLCJwYXRoIjoiLyIsImhvc3QiOiIiLCJ0bHMiOiIifQ==#🍓 @xixv2ray
+ss://YWVzLTEyOC1nY206YjYzN2YyZTQ3Yjc4MjdiMzA4ZWJmMzk5MDA4MDc1ZDI@223.95.183.132:25819#🇨🇳 China 🍓 @xixv2ray
 trojan://9f879bc7-3ac6-4ddd-8f7d-18d9f431f6a3@green2.cdntencentmusic.com:31103?allowInsecure=1&sni=green2.cdntencentmusic.com#🇹🇼 Taiwan 🍓 @xixv2ray
-vmess://eyJ2IjoiMiIsInBzIjoi8J+HuvCfh7gg576O5Zu9IFYyQ1JPU1MuQ09NIiwiYWRkIjoiMjA2LjExOS4xOTEuOSIsInBvcnQiOiI3MTAwIiwidHlwZSI6Im5vbmUiLCJpZCI6IjEwODUzNDg1LTI2ZTEtNDc3Yi1kMjU3LTU4YTNmNDg3M2RiMyIsImFpZCI6IjAiLCJuZXQiOiJub25lIiwicGF0aCI6Ii8iLCJob3N0IjoiIiwidGxzIjoiIn0=#🍓 @xixv2ray
+trojan://BxceQaOe@58.152.53.219:443?allowInsecure=1&sni=t.me%2Fripaojiedian#🇭🇰 Hong Kong 🍓 @xixv2ray
 订阅内容解析错误ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@63.180.254.10:443#🇩🇪 Germany 🍓 @xixv2ray
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HrfCfh7Ag6aaZ5rivfEByaXBhb2ppZWRpYW4iLCJhZGQiOiJ2MTAuaGRhY2QuY29tIiwicG9ydCI6IjMwODA3IiwidHlwZSI6Im5vbmUiLCJpZCI6ImNiYjNmODc3LWQxZmItMzQ0Yy04N2E5LWQxNTNiZmZkNTQ4NCIsImFpZCI6IjIiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLyIsImhvc3QiOiJ2MTAuaGRhY2QuY29tIiwidGxzIjoiIn0=#🍓 @xixv2ray
-trojan://61d8077bfb174e171b8283f155a555ad@112.118.116.123:443?allowInsecure=0&sni=www.nintendogames.net#🇭🇰 Hong Kong 🍓 @xixv2ray
+ss://Y2hhY2hhMjAtaWV0Zjphc2QxMjM0NTY@103.149.183.200:8388#🇭🇰 Hong Kong 🍓 @xixv2ray
+trojan://61d8077bfb174e171b8283f155a555ad@58.152.110.111:443?allowInsecure=0&sni=www.nintendogames.net#🇭🇰 Hong Kong 🍓 @xixv2ray
 trojan://BxceQaOe@58.152.25.130:443?allowInsecure=1&sni=t.me%2Fripaojiedian#🇭🇰 Hong Kong 🍓 @xixv2ray
 trojan://BxceQaOe@58.152.53.219:443?allowInsecure=1&sni=t.me%2Fripaojiedian#🇭🇰 Hong Kong 🍓 @xixv2ray
-trojan://BxceQaOe@54.248.199.75:3760?allowInsecure=1&sni=t.me%252Fripaojiedian#🇯🇵 Japan 🍓 @xixv2ray
-trojan://61d8077bfb174e171b8283f155a555ad@160.16.117.182:1933?allowInsecure=0&sni=www.nintendogames.net#🇯🇵 Japan 🍓 @xixv2ray
-trojan://61d8077bfb174e171b8283f155a555ad@153.121.65.107:1933?allowInsecure=0&sni=www.nintendogames.net#🇯🇵 Japan 🍓 @xixv2ray
-trojan://61d8077bfb174e171b8283f155a555ad@153.121.65.107:3901?allowInsecure=0&sni=www.nintendogames.net#🇯🇵 Japan 🍓 @xixv2ray
-trojan://61d8077bfb174e171b8283f155a555ad@160.16.124.55:544?allowInsecure=1&sni=www.nintendogames.net#🇯🇵 Japan 🍓 @xixv2ray
-trojan://BxceQaOe@16.163.104.139:381?allowInsecure=1&sni=t.me%252Fripaojiedian#🇭🇰 Hong Kong 🍓 @xixv2ray
-trojan://61d8077bfb174e171b8283f155a555ad@160.16.124.55:5076?allowInsecure=0&sni=www.nintendogames.net#🇯🇵 Japan 🍓 @xixv2ray
+trojan://BxceQaOe@57.180.65.162:2053?allowInsecure=1&sni=t.me%252Fripaojiedian#🇯🇵 Japan 🍓 @xixv2ray
+trojan://61d8077bfb174e171b8283f155a555ad@160.16.81.84:4006?allowInsecure=0&sni=www.nintendogames.net#🇯🇵 Japan 🍓 @xixv2ray
+trojan://61d8077bfb174e171b8283f155a555ad@160.16.89.176:4006?allowInsecure=0&sni=www.nintendogames.net#🇯🇵 Japan 🍓 @xixv2ray
+trojan://61d8077bfb174e171b8283f155a555ad@160.16.106.99:3076?allowInsecure=0&sni=www.nintendogames.net#🇯🇵 Japan 🍓 @xixv2ray
+trojan://61d8077bfb174e171b8283f155a555ad@160.16.106.99:544?allowInsecure=1&sni=www.nintendogames.net#🇯🇵 Japan 🍓 @xixv2ray
+trojan://BxceQaOe@18.163.206.7:1196?allowInsecure=1&sni=t.me%252Fripaojiedian#🇭🇰 Hong Kong 🍓 @xixv2ray
+ss://YWVzLTEyOC1nY206YjYzN2YyZTQ3Yjc4MjdiMzA4ZWJmMzk5MDA4MDc1ZDI@223.95.183.132:25819#🇨🇳 China 🍓 @xixv2ray
+trojan://61d8077bfb174e171b8283f155a555ad@160.16.85.33:5076?allowInsecure=0&sni=www.nintendogames.net#🇯🇵 Japan 🍓 @xixv2ray
 trojan://61d8077bfb174e171b8283f155a555ad@160.16.89.176:5076?allowInsecure=0&sni=www.nintendogames.net#🇯🇵 Japan 🍓 @xixv2ray
-trojan://BxceQaOe@18.163.194.227:2173?allowInsecure=1&sni=t.me%2Fripaojiedian#🇭🇰 Hong Kong 🍓 @xixv2ray
-ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.155.123:38388#🇻🇳 Vietnam 🍓 @xixv2ray
+trojan://BxceQaOe@13.113.239.128:1112?allowInsecure=1&sni=t.me%2Fripaojiedian#🇯🇵 Japan 🍓 @xixv2ray
 订阅内容解析错误vmess://eyJ2IjoiMiIsInBzIjoi8J+Hq/Cfh7cgRlLms5Xlm70obWliZWk3Ny5jb20g57Gz6LSd6IqC54K55YiG5LqrKSIsImFkZCI6IjIwMDE6YmM4OjMyZDc6MzAyOjoxMCIsInBvcnQiOiI0NDU3OSIsInR5cGUiOiJub25lIiwiaWQiOiI4ZTM0ZTE3MC0xM2FlLTQ4OTItOWQyMC0wNTk2MmFjYzlmODQiLCJhaWQiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiLz9CSUFfVEVMRUdSQU1AQVpBUkJBWUpBQjFfQVpBUkJBWUpBQjFfQVpBUkJBWUpBQjFfQVpBUkJBWUpBQjEiLCJob3N0IjoiQVpFUkIuTkVUIiwidGxzIjoiIn0=#🍓 @xixv2ray
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HuvCfh7ggVVPnvo7lm70obWliZWk3Ny5jb20g57Gz6LSd6IqC54K55YiG5LqrKSIsImFkZCI6IjIwMDE6YmM4OjMyZDc6MzAyOjoxMCIsInBvcnQiOiI0NDU3OSIsInR5cGUiOiJub25lIiwiaWQiOiI4ZTM0ZTE3MC0xM2FlLTQ4OTItOWQyMC0wNTk2MmFjYzlmODQiLCJhaWQiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsImhvc3QiOiJBWkVSQi5ORVQiLCJ0bHMiOiIifQ==#🍓 @xixv2ray
 trojan://dad5dc05-63be-4245-8cd2-f1de0d515b02@green2.cdntencentmusic.com:31102?allowInsecure=0&sni=green2.cdntencentmusic.com#🇹🇼 Taiwan 🍓 @xixv2ray
@@ -380,24 +383,23 @@ vmess://eyJ2IjoiMiIsInBzIjoi8J+Hq/Cfh7cgRlLms5Xlm70obWliZWk3Ny5jb20g57Gz6LSd6IqC
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HuvCfh7ggVVPnvo7lm70obWliZWk3Ny5jb20g57Gz6LSd6IqC54K55YiG5LqrKSIsImFkZCI6IjIwMDE6YmM4OjMyZDc6MzAyOjoxMSIsInBvcnQiOiI0NDU3OSIsInR5cGUiOiJub25lIiwiaWQiOiI4ZTM0ZTE3MC0xM2FlLTQ4OTItOWQyMC0wNTk2MmFjYzlmODQiLCJhaWQiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiLz9CSUFfVEVMRUdSQU1AQVpBUkJBWUpBQjFfQVpBUkJBWUpBQjFfQVpBUkJBWUpBQjFfQVpBUkJBWUpBQjE/ZWQ9MjU2MCIsImhvc3QiOiJBemVyYi5ORVQiLCJ0bHMiOiIifQ==#🍓 @xixv2ray
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@63.180.254.10:443#🇩🇪 Germany 🍓 @xixv2ray
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HrfCfh7Ag6aaZ5rivfEBzdGFpcm5vZGUiLCJhZGQiOiJ2MTAuaGRhY2QuY29tIiwicG9ydCI6IjMwODA3IiwidHlwZSI6Im5vbmUiLCJpZCI6ImNiYjNmODc3LWQxZmItMzQ0Yy04N2E5LWQxNTNiZmZkNTQ4NCIsImFpZCI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLyIsImhvc3QiOiJ2MTAuaGRhY2QuY29tIiwidGxzIjoiIn0=#🍓 @xixv2ray
-trojan://61d8077bfb174e171b8283f155a555ad@112.118.116.123:443?allowInsecure=0&sni=www.nintendogames.net#🇭🇰 Hong Kong 🍓 @xixv2ray
+ss://Y2hhY2hhMjAtaWV0Zjphc2QxMjM0NTY@103.149.183.200:8388#🇭🇰 Hong Kong 🍓 @xixv2ray
+trojan://61d8077bfb174e171b8283f155a555ad@58.152.110.111:443?allowInsecure=0&sni=www.nintendogames.net#🇭🇰 Hong Kong 🍓 @xixv2ray
 trojan://BxceQaOe@58.152.25.130:443?allowInsecure=1&sni=t.me%2Fripaojiedian#🇭🇰 Hong Kong 🍓 @xixv2ray
 trojan://BxceQaOe@58.152.53.219:443?allowInsecure=1&sni=t.me%2Fripaojiedian#🇭🇰 Hong Kong 🍓 @xixv2ray
-trojan://BxceQaOe@54.248.199.75:3760?allowInsecure=1&sni=t.me%252Fripaojiedian#🇯🇵 Japan 🍓 @xixv2ray
-trojan://61d8077bfb174e171b8283f155a555ad@160.16.117.182:1933?allowInsecure=0&sni=www.nintendogames.net#🇯🇵 Japan 🍓 @xixv2ray
-trojan://61d8077bfb174e171b8283f155a555ad@153.121.65.107:1933?allowInsecure=0&sni=www.nintendogames.net#🇯🇵 Japan 🍓 @xixv2ray
-trojan://61d8077bfb174e171b8283f155a555ad@153.121.65.107:3901?allowInsecure=0&sni=www.nintendogames.net#🇯🇵 Japan 🍓 @xixv2ray
-trojan://61d8077bfb174e171b8283f155a555ad@160.16.124.55:544?allowInsecure=0&sni=www.nintendogames.net#🇯🇵 Japan 🍓 @xixv2ray
-trojan://BxceQaOe@16.163.104.139:381?allowInsecure=1&sni=t.me%252Fripaojiedian#🇭🇰 Hong Kong 🍓 @xixv2ray
-trojan://61d8077bfb174e171b8283f155a555ad@160.16.124.55:5076?allowInsecure=0&sni=www.nintendogames.net#🇯🇵 Japan 🍓 @xixv2ray
+trojan://BxceQaOe@57.180.65.162:2053?allowInsecure=1&sni=t.me%252Fripaojiedian#🇯🇵 Japan 🍓 @xixv2ray
+trojan://61d8077bfb174e171b8283f155a555ad@160.16.81.84:4006?allowInsecure=0&sni=www.nintendogames.net#🇯🇵 Japan 🍓 @xixv2ray
+trojan://61d8077bfb174e171b8283f155a555ad@160.16.89.176:4006?allowInsecure=0&sni=www.nintendogames.net#🇯🇵 Japan 🍓 @xixv2ray
+trojan://61d8077bfb174e171b8283f155a555ad@160.16.106.99:3076?allowInsecure=0&sni=www.nintendogames.net#🇯🇵 Japan 🍓 @xixv2ray
+trojan://61d8077bfb174e171b8283f155a555ad@160.16.106.99:544?allowInsecure=0&sni=www.nintendogames.net#🇯🇵 Japan 🍓 @xixv2ray
+trojan://BxceQaOe@18.163.206.7:1196?allowInsecure=1&sni=t.me%252Fripaojiedian#🇭🇰 Hong Kong 🍓 @xixv2ray
+ss://YWVzLTEyOC1nY206YjYzN2YyZTQ3Yjc4MjdiMzA4ZWJmMzk5MDA4MDc1ZDI@223.95.183.132:25819#🇨🇳 China 🍓 @xixv2ray
+trojan://61d8077bfb174e171b8283f155a555ad@160.16.85.33:5076?allowInsecure=0&sni=www.nintendogames.net#🇯🇵 Japan 🍓 @xixv2ray
 trojan://61d8077bfb174e171b8283f155a555ad@160.16.89.176:5076?allowInsecure=0&sni=www.nintendogames.net#🇯🇵 Japan 🍓 @xixv2ray
-trojan://BxceQaOe@18.163.194.227:2173?allowInsecure=1&sni=t.me%2Fripaojiedian#🇭🇰 Hong Kong 🍓 @xixv2ray
-ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.155.123:38388#🇻🇳 Vietnam 🍓 @xixv2ray
-ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA@221.139.79.41:41240#🇰🇷 South Korea 🍓 @xixv2ray
-ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA@221.139.79.57:13979#🇰🇷 South Korea 🍓 @xixv2ray
-vmess://eyJ2IjoiMiIsInBzIjoi44CQ5py65Zy65o6o6I2Q77yaaHR0cHM6Ly9hMGEueHl6L+OAkTkiLCJhZGQiOiI4Mi4xOTguMjQ2Ljk3IiwicG9ydCI6IjE4MCIsInR5cGUiOiJub25lIiwiaWQiOiJkMTNmYzJmNS0zZTA1LTQ3OTUtODFlYi00NDE0M2EwOWU1NTIiLCJhaWQiOiIwIiwibmV0IjoidGNwIiwicGF0aCI6Ii8iLCJob3N0IjoiIiwidGxzIjoiIn0=#🍓 @xixv2ray
+trojan://BxceQaOe@13.113.239.128:1112?allowInsecure=1&sni=t.me%2Fripaojiedian#🇯🇵 Japan 🍓 @xixv2ray
 ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA@221.139.79.20:45833#🇰🇷 South Korea 🍓 @xixv2ray
-trojan://BxceQaOe@58.152.46.60:443?allowInsecure=1&sni=%2B%2B%2B%2B%2B%2B%2B%5BBy%2BDukeMehdi%5D%2Bb2n.ir%2Fv2ray-configs%2B%7C%2B402%2B#🇭🇰 Hong Kong 🍓 @xixv2ray
+ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA@221.139.79.57:13979#🇰🇷 South Korea 🍓 @xixv2ray
+ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA@221.139.79.41:41240#🇰🇷 South Korea 🍓 @xixv2ray
 vmess://ewogICAgICAgICAgICAidiI6ICIyIiwKICAgICAgICAgICAgInBzIjogIuabtOaWsOS6jiAwMS0xNCAxMDozNCBieSBodHRwczovL2dpdGh1Yi5jb20vdHMtc2YvZmx5IiwKICAgICAgICAgICAgImFkZCI6ICIxMjcuMS4xLjEyNyIsCiAgICAgICAgICAgICJwb3J0IjogIjgwIiwKICAgICAgICAgICAgImlkIjogIjYwMjczNmU0LWEyZTgtNGViMy05ZmM5LTdjNzA4MjkyNTM2NSIsCiAgICAgICAgICAgICJhaWQiOiAiMCIsCiAgICAgICAgICAgICJzY3kiOiAiYXV0byIsCiAgICAgICAgICAgICJuZXQiOiAidGNwIiwKICAgICAgICAgICAgInR5cGUiOiAibm9uZSIsCiAgICAgICAgICAgICJob3N0IjogIiIsCiAgICAgICAgICAgICJwYXRoIjogIiIsCiAgICAgICAgICAgICJ0bHMiOiAiIiwKICAgICAgICAgICAgInNuaSI6ICIiLAogICAgICAgICAgICAiYWxwbiI6ICIiLAogICAgICAgICAgICAiZnAiOiAiIgogICAgICAgICAgfQogICAgICAgIA==#🍓 @xixv2ray
 trojan://61d8077bfb174e171b8283f155a555ad@160.16.117.182:1933?sni=www.nintendogames.net#🇯🇵 Japan 🍓 @xixv2ray
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplNzE2ZDdiYmFlNGJkZDE0@85.90.207.104:18793#🇦🇲 Armenia 🍓 @xixv2ray
@@ -496,5 +498,3 @@ vless://54f6e78c-b497-4db7-ba48-38c4cf81d5ef@188.114.99.16:2053?path=%2Fyzejftqq
 vless://6897c181-24b1-4880-8660-e6c5c7ee13c7@92.60.78.221:443?security=reality&encryption=none&pbk=pkIWxbuPAasjatPaHnAaTnCxVj1RkDFsJEWpLUTOcWY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.tradingview.com&sid=9917d2350096#🇸🇮 Slovenia 🍓 @xixv2ray
 vless://591a0afd-924a-4a71-8063-10aac246bb65@www.speedtest.net:8443?encryption=none&security=tls&sni=uSer2-P2L.PAGes.Dev&alpn=http%2F1.1&fp=chrome&type=ws&host=user2-p2l.pages.dev&path=%2F4Nc6Idp9GW3U1xOc%3Fed%3D2560#🇨🇦 Canada 🍓 @xixv2ray
 vless://a43ecdaf-c1e9-44f6-bbd9-1c113cb7d48f@188.114.98.18:80?security=none&encryption=none&host=q6.19kalA.co&type=ws#🇨🇦 Canada 🍓 @xixv2ray
-vless://ec8a65ad-aafc-4095-9b8c-ea10890ca629@154.92.9.46:443?path=%2FJavid-SHAH-KingRezaPahlavi%2F%3Fed%3D2560&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=simorgh.hpcode.ir&fp=firefox&type=ws&sni=simorgh.hpcode.ir#🇨🇾 Cyprus 🍓 @xixv2ray
-vless://9a8a52d6-f24b-4f03-bf6f-f4854717f54e@83.222.23.113:443?security=reality&encryption=none&pbk=Jwam5OBjXf4bffZzA3IqzfcNONIMhYMgjysXPU44XFU&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=google.com&sid=c4da507c203b545a#🇰🇿 Kazakhstan 🍓 @xixv2ray
