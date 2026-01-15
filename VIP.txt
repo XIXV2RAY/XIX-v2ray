@@ -94,13 +94,13 @@ vless://d4795cd9-cd7b-4cea-edfb-20cdcca5837b@doprax.fxgoldensignals.com:50904?se
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@45.82.251.98:8880?encryption=none&security=none&sni=%2F%3F---%40Azarbayjab1_Net---%40Azarbayjab1_Net---%40azarbayjab1_Net---%40azarbayjab1_Net---%40Azarbayjab1_Net&fp=chrome&type=grpc#🇺🇸 United States 🍓 @xixv2ray
 vless://a22be179-d210-4313-e499-8530a577b8b7@doprax.fxgoldensignals.com:38231?mode=auto&path=%2F&security=none&encryption=none&type=xhttp#🇩🇪 Germany 🍓 @xixv2ray
 vless://7e58699f-1d5d-4f6b-b181-cb74f0ad9509@api.dark-coffe.com:2087?path=%2F&security=tls&encryption=none&insecure=0&host=5JxGp6VrFh.SmArTtEcHzAaL.iNfO&fp=chrome&type=ws&allowInsecure=0&sni=5JxGp6VrFh.SmArTtEcHzAaL.iNfO#🇩🇪 Germany 🍓 @xixv2ray
-vless://ccbe6b7c-9264-40c4-8bc1-ef8f6205d7a4@ip-range.coin.name.ng:8443?path=%2F&security=tls&encryption=none&host=hzr27.sepiol.name.NG&fp=firefox&type=ws&sni=hzr27.sepiol.name.NG#🇸🇪 Sweden 🍓 @xixv2ray
+vless://ccbe6b7c-9264-40c4-8bc1-ef8f6205d7a4@ip-range.coin.name.ng:8443?path=%2F&security=tls&encryption=none&host=hzr27.sepiol.name.NG&fp=firefox&type=ws&sni=hzr27.sepiol.name.NG#🇸🇨 Seychelles 🍓 @xixv2ray
 vless://a22be179-d210-4313-e499-8530a577b8b7@doprax.fxgoldensignals.com:38231?mode=auto&path=%2F&security=&encryption=none&type=xhttp#🇩🇪 Germany 🍓 @xixv2ray
 vless://14fe2c89-af11-4b7d-cc08-9641f0f2d8ee@doprax.fxgoldensignals.com:58153?mode=gun&security=none&encryption=none&type=grpc#🇩🇪 Germany 🍓 @xixv2ray
 vless://48c43abe-ac04-481e-85c7-5c9a85725685@104.16.53.11:2082?path=%2Fspeedtest.net%2Fzirakomamle.com%3Fed%3D2048&security=none&encryption=none&host=fInLaND.ziRakOmaMle.coM&type=httpupgrade#🇨🇦 Canada 🍓 @xixv2ray
 vless://3f719b1c-433e-4b41-95e4-837a4a6a0f9a@Api-saroNet.zirAkoMamLe.Com:2052?path=%2Fspeedtest.net%2Fzirakomamle.com%3Fed%3D2048&security=none&encryption=none&host=fInLaND.ziRakOmaMle.coM&type=httpupgrade#🇬🇧 United Kingdom 🍓 @xixv2ray
 vless://e927758e-3149-450b-b9a0-45321c946315@lg.tehdrantolidi.ir:2095?path=%2F%3Fed%3D2095&security=&encryption=none&host=hiifof.parsvpskm.fun&type=httpupgrade#🇺🇸 United States 🍓 @xixv2ray
-vless://cb522244-ff63-4883-ae1f-87d883fb2da7@api-saronet.sarhadpirani.ir:2052?path=%2Fapi%2Fstatus%2F%3Fed%3D2560&security=none&encryption=none&host=cLoUd.zIrAkOmAmLe.CoM&type=httpupgrade#🇨🇦 Canada 🍓 @xixv2ray
+vless://cb522244-ff63-4883-ae1f-87d883fb2da7@api-saronet.sarhadpirani.ir:2052?path=%2Fapi%2Fstatus%2F%3Fed%3D2560&security=none&encryption=none&host=cLoUd.zIrAkOmAmLe.CoM&type=httpupgrade#🇬🇧 United Kingdom 🍓 @xixv2ray
 vless://7a30b7fc-4868-4d1d-84b8-16a3d3df0139@45.89.109.25:18278?security=reality&encryption=none&pbk=8Fglzc7t2LS4r1vQWlVMNe_EsFdhMawlxeDacbhmiAg&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=yahoo.com&sid=f0#🇯🇵 Japan 🍓 @xixv2ray
 vless://63f92f3c-447c-4283-80b9-0af8e164cdad@octopusss5.info:22955?mode=gun&security=reality&encryption=none&pbk=9Mt_Y8J_qDb1khlieWnhDSAq-kGtLHw6aOKgkAzOMms&fp=chrome&type=grpc&serviceName=grpc&sni=one-piece.com&sid=6ba85179e30d4fc2#🇩🇪 Germany 🍓 @xixv2ray
 vless://86b414b6-966e-4f6d-ab16-32049ef732d3@47.245.38.111:443?security=reality&encryption=none&pbk=y167aJhpgWWjltY4UCir_uu8Mj__Hkc1W4etD0QXYH4&headerType=none&fp=chrome&type=tcp&sni=www.autodesk.com&sid=860705e716cbe6ed#🇯🇵 Japan 🍓 @xixv2ray
@@ -462,7 +462,7 @@ trojan://BxceQaOe@57.180.65.162:2053?sni=t.me%2Fripaojiedian#🇯🇵 Japan 🍓
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5T0RMWFZMejJGV05URmVTU25nM0Zt@136.244.100.113:443#🇳🇱 The Netherlands 🍓 @xixv2ray
 vless://b4a29ec1-5569-4ff3-aca2-8183e26fbfe2@104.18.26.90:2096?path=%2Frsjcbpws&security=tls&encryption=none&host=638874929583359846.zagreb-prx-dnraaad.info&type=ws&sni=638874929583359846.zagreb-prx-dnraaad.info#🇨🇦 Canada 🍓 @xixv2ray
 vless://90d7db9b-972b-4073-8738-12cf42124260@104.19.247.78:443?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=kawaiifreevpn.pages.dev&fp=chrome&type=ws&sni=kawaiifreevpn.pages.dev#🇨🇦 Canada 🍓 @xixv2ray
-vless://a9c9c197-c626-4667-f219-1575f26715ac@tgju.org:80?encryption=none&security=none&type=ws&host=fin.channel.digicyber.click&path=%2Folem%2Fws%3Fed%3D1024#🇨🇦 Canada 🍓 @xixv2ray
+vless://a9c9c197-c626-4667-f219-1575f26715ac@tgju.org:80?encryption=none&security=none&type=ws&host=fin.channel.digicyber.click&path=%2Folem%2Fws%3Fed%3D1024#🍓 @xixv2ray
 vless://a9c9c197-c626-4667-f219-1575f26715ac@www.speedtest.net:80?encryption=none&security=none&type=ws&host=fin.channel.digicyber.click&path=%2Folem%2Fws%3Fed%3D1024#🇨🇦 Canada 🍓 @xixv2ray
 vless://0fbecce1-acf9-4b6e-a0f7-f48be9d2b7d0@www.speedtest.net:443?path=%2Flinkws%3Fed%3D2560&security=tls&encryption=none&host=MAxNETvipAp-cloUD252.nEtKh3.site&type=ws&sni=MAxNETvipAp-cloUD252.nEtKh3.site#🇨🇦 Canada 🍓 @xixv2ray
 vless://ffcf7ec1-3e09-4821-b3d9-b426a107b73b@172.67.157.220:443?path=%2FO9jlBCbIm3xr1D40NK&security=tls&alpn=http%2F1.1&encryption=none&host=xxcsdert6.777159.xyz&fp=chrome&type=ws&sni=XXCsDERT6.777159.XyZ#🍓 @xixv2ray
