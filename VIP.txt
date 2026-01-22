@@ -33,9 +33,6 @@ trojan://humanity@chatgpt.com:443?path=%2Fassignment&security=tls&host=www.gossi
 trojan://humanity@104.18.32.47:443?path=%2Fassignment&security=tls&host=www.multiplydose.com&fp=chrome&type=ws&sni=www.multiplydose.com#🇨🇦 Canada 🍓 @xixv2ray
 vless://2cc02f50-530b-47e2-89a7-30025a978fc5@162.159.152.4:443?path=%2F185.94.29.156%3D4001&security=tls&encryption=none&insecure=0&host=iceberg.qzz.io&type=ws&allowInsecure=0&sni=iceberg.qzz.io#🇨🇦 Canada 🍓 @xixv2ray
 vless://5985deab-e8cf-4228-af5f-a3ebcf648b23@mci2.atliehsafa.ir:443?mode=auto&path=%2FinboundsCWNeRzWFjgWHWZFw%3Fed%3D2560&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&fp=chrome&type=xhttp&sni=mailu.atliehsafa.ir#🇰🇿 Kazakhstan 🍓 @xixv2ray
-vless://eb7a89bb-adeb-4a4b-9104-772c42fbeb1e@cdn.halazzon.ir:443?path=%2FpV67LRFs428xHke56mDQ&security=tls&alpn=http%2F1.1&encryption=none&host=Sydney1p.FaraSorat.net&fp=chrome&type=ws&sni=Free-11265213.FaraSorat.Net#🇨🇦 Canada 🍓 @xixv2ray
-vless://7abc75eb-b58b-4e28-af59-20f41bdf7a2a@dns.ownlink.pro:443?path=%2Frestart&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=last.ownlink.pro&fp=chrome&type=ws&allowInsecure=0&sni=last.ownlink.pro#🇨🇦 Canada 🍓 @xixv2ray
-vless://84ccd309-283a-49e8-b92c-8b9ecdae7f42@zzula.ir:443?path=%2F34.42.77.60%3D443&security=tls&encryption=none&insecure=1&host=cornsilk.qzz.io&type=ws&allowInsecure=1&sni=cornsilk.qzz.io#🇺🇸 United States 🍓 @xixv2ray
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.70.150.185:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#🇩🇪 Germany 🍓 @xixv2ray
 vless://76706391-ca95-40c1-b081-342208eb0cfb@100niggavs100.mrpixanos.ir:42542?security=none&encryption=none&host=JouRNaloFbIgdATA.SpRinGeropEn.coM&headerType=http&type=tcp#🇳🇱 The Netherlands 🍓 @xixv2ray
 vless://5a76fdef-97a2-43cd-93b9-e9646a7d6a6c@france.novaads.shop:42541?security=none&encryption=none&host=excoino.com&headerType=http&type=tcp#🇫🇷 France 🍓 @xixv2ray
@@ -511,3 +508,6 @@ hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@206.71.158.41:35000?security=tl
 hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@206.71.158.41:35000?security=tls&obfs=salamander&obfs-password=@JavidnamanIran-Javid-SHAH-KingRezaPahlavi&insecure=1&sni=api.kermanshahi.org#🇳🇱 The Netherlands 🍓 @xixv2ray
 hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@5.175.249.174:35000?security=tls&obfs=salamander&obfs-password=@JavidnamanIran-Javid-SHAH-KingRezaPahlavi&insecure=0&sni=api.kermanshahi.org#🇩🇪 Germany 🍓 @xixv2ray
 hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@77.90.41.197:35000?security=tls&obfs=salamander&obfs-password=@JavidnamanIran-Javid-SHAH-KingRezaPahlavi&insecure=1&sni=api.kermanshahi.org#🇩🇪 Germany 🍓 @xixv2ray
+hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@77.90.41.197:35000?security=tls&obfs=salamander&obfs-password=@JavidnamanIran-Javid-SHAH-KingRezaPahlavi&insecure=1&sni=api.kermanshahi.org#🇩🇪 Germany 🍓 @xixv2ray
+hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@[2a0c:4ac1:8::121]:35000?security=tls&obfs=salamander&obfs-password=@JavidnamanIran-Javid-SHAH-KingRezaPahlavi&insecure=0&sni=api.kermanshahi.org#🍓 @xixv2ray
+hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@[2a0f:5707:aaf1:4d5b::1]:35000?security=tls&obfs=salamander&obfs-password=@JavidnamanIran-Javid-SHAH-KingRezaPahlavi&insecure=0&sni=api.kermanshahi.org#🍓 @xixv2ray
