@@ -3,6 +3,41 @@
 
 
 
+vless://3a553187-6f9e-4a40-a25e-6f3728d129f9@snapp.ir:80?encryption=none&host=imi-net.ir&path=%2Fapi%2Fv2&security=none&type=ws#🇮🇷 Iran 🍓 @xixv2ray
+vless://1a1b7f65-6507-4c2a-ad05-7199c5002093@84.32.102.248:443?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&headerType=none&fp=firefox&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=nlcher20.potatosubge20.org#🇳🇱 The Netherlands 🍓 @xixv2ray
+vless://1a1b7f65-6507-4c2a-ad05-7199c5002093@84.32.209.102:443?security=tls&alpn=http%2F1.1&encryption=none&insecure=0&headerType=none&fp=firefox&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=ltcher25.potatosubge20.org#🇱🇹 Lithuania 🍓 @xixv2ray
+vless://1a1b7f65-6507-4c2a-ad05-7199c5002093@84.32.100.252:443?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&headerType=none&fp=firefox&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=decher10.potatosubge20.org#🇩🇪 Germany 🍓 @xixv2ray
+vless://f8683277-cdc3-4bc1-9593-eb8f40b81b2c@185.143.232.4:80?path=%2FdfaahgSDGDS&security=none&encryption=none&host=eco.44070.ir&type=ws#🇮🇷 Iran 🍓 @xixv2ray
+vless://f8683277-cdc3-4bc1-9593-eb8f40b81b2c@185.143.232.2:80?path=%2FdfaahgSDGDS&security=none&encryption=none&host=eco.44070.ir&type=ws#🇮🇷 Iran 🍓 @xixv2ray
+trojan://mitivpn@188.114.97.6:443?path=%2Fed%3Dmitivpn&security=tls&alpn=http%2F1.1&insecure=0&host=2ee.we.wwww.swsl.glowbal.diwgi.mwy.mitivpn.xyz&fp=chrome&type=ws&allowInsecure=0&sni=2ee.we.wwww.swsl.glowbal.diwgi.mwy.mitivpn.xyz#🇨🇦 Canada 🍓 @xixv2ray
+vless://5d3ceae9-1eff-4ffe-15a6-3dccb7bfcca6@snapp.ir:2087?path=%2FBetForward&security=tls&alpn=h2%2Chttp%2F1.1%2Ch3&encryption=none&insecure=0&host=dns.darafiq.ir&fp=chrome&type=ws&allowInsecure=0&sni=dns.darafiq.ir#🇮🇷 Iran 🍓 @xixv2ray
+vless://aa9d833c-254b-4ce0-9bd4-2d535532f5d6@31.177.110.101:443?flow=xtls-rprx-vision&fp=firefox&pbk=jMx1Rx9vulp8Dqv1cSUYyhL31s2gXVCH0t_wvD9CCCA&security=reality&sid=ee7d1ed3c7d3c358&sni=ya.ru&type=tcp#🇷🇺 Russia 🍓 @xixv2ray
+vless://b4de98cb-2e66-4251-a6fb-7d86bc78e255@84.54.56.192:8444?encryption=none&security=reality&sni=vkvideo.ru&fp=chrome&pbk=j_d5RifkzUsQwAKwb3G3VqWS70wH5F-zMsQ7nfYQChQ&sid=17214756ee7d96bc&spx=%2F&flow=xtls-rprx-vision#🇷🇺 Russia 🍓 @xixv2ray
+vless://2f7edbbf-b9f1-467b-a0bb-293f63b3820b@2.27.63.177:443?flow=xtls-rprx-vision&fp=firefox&pbk=IjLGriffBM-a2yVGpINlk0zeHT65SzgEBYGAluxtSE0&security=reality&sid=2048746e559eabf8&sni=de.qroox.ru&type=tcp#🇬🇧 United Kingdom 🍓 @xixv2ray
+vless://cb4ef160-3e4e-4835-9799-121b474bae06@152.236.4.12:8443?flow=xtls-rprx-vision&fp=firefox&pbk=cynncQk7kKzEQaExg-FN7pMqFaZPSXEi_Ggy7AXXmVg&security=reality&sid=2356d1ae4b&sni=pixelforge.pics&type=tcp#🇺🇸 United States 🍓 @xixv2ray
+vless://2f1863a4-32fa-4d7c-807c-e960e3668975@37.152.186.192:2082?path=%2F&security=none&encryption=none&type=ws#🇮🇷 Iran 🍓 @xixv2ray
+vless://cb4ef160-3e4e-4835-9799-121b474bae06@37.49.230.5:8443?flow=xtls-rprx-vision&fp=firefox&pbk=cynncQk7kKzEQaExg-FN7pMqFaZPSXEi_Ggy7AXXmVg&security=reality&sid=2356d1ae4b&sni=westondigita.cloud&type=tcp#🇳🇱 The Netherlands 🍓 @xixv2ray
+vless://ff911230-dea8-43f8-8095-a8e05c809ae0@45.198.108.53:8443?flow=xtls-rprx-vision&fp=firefox&pbk=KYlgK96xPZJq10GbhF-BaCXRxXc9XzxzfICdooYvMlg&security=reality&sid=f45c9665f3261108&sni=storage.yandex.net&type=tcp#🇮🇩 Indonesia 🍓 @xixv2ray
+vless://8f69e966-1f2c-44c0-0011-8e9e0349c868@snapp.ir:2087?path=%2FBetForward&security=tls&alpn=h2%2Chttp%2F1.1%2Ch3&encryption=none&insecure=0&host=dns.darafiq.ir&fp=chrome&type=ws&allowInsecure=0&sni=dns.darafiq.ir#🇮🇷 Iran 🍓 @xixv2ray
+vless://f2390f38-ec10-4c25-a726-c0709b77330f@45.195.110.104:8443?security=reality&encryption=none&pbk=66-fz0xjwauydj29EfFKyPHjJ2CIGaGSsJ6hsB--zAc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=6ecdb111a4e57f94#🇲🇺 Mauritius 🍓 @xixv2ray
+vless://03289d40-f73d-4dfc-cecb-83d26f0a1ade@snapp.ir:2087?path=%2FBetForward&security=tls&encryption=none&insecure=0&host=dns.xelivo.ir&fp=chrome&type=ws&allowInsecure=0&sni=dns.xelivo.ir#🇮🇷 Iran 🍓 @xixv2ray
+vless://2f1863a4-32fa-4d7c-807c-e960e3668975@37.152.186.192:2082?path=%2F&security=&encryption=none&type=ws#🇮🇷 Iran 🍓 @xixv2ray
+vless://d4f626c4-2ca8-46b0-b626-9df4d8cdbf05@104.27.23.251:8443?path=%2Faxs&security=tls&encryption=none&insecure=0&host=pc.amirxshot.ir&fp=chrome&type=ws&allowInsecure=0&sni=axs.amirxshot.ir#🇨🇦 Canada 🍓 @xixv2ray
+vless://d4f626c4-2ca8-46b0-b626-9df4d8cdbf05@axs.amirxshot.ir:2095?path=%2Faxs&security=none&encryption=none&host=pl33.sazegostaran-iran.ir&type=ws#🇫🇷 France 🍓 @xixv2ray
+vless://ad356e93-cc14-417d-9f4e-32376d03f5b7@172.67.212.210:2096?path=%2Fws%3Fed&security=tls&encryption=none&insecure=0&host=com.hozheen.ir&type=ws&allowInsecure=0&sni=872ede3847653442.hozheen.ir#🇨🇦 Canada 🍓 @xixv2ray
+vless://ad356e93-cc14-417d-9f4e-32376d03f5b7@104.18.4.138:2096?path=%2Fws%3Fed%3D%23TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI%3Fed%3D2560&security=tls&encryption=none&insecure=0&host=greattehran.hozheen.ir&fp=chrome&type=ws&allowInsecure=0&sni=f53d749fda28cb85.hozheen.ir#🇨🇦 Canada 🍓 @xixv2ray
+vless://46d71764-e77f-469b-b6f7-83ec086d46cc@sv3.azparadox.ir:8880?path=%2F&security=none&encryption=none&host=azsv3.ir5ive.ir&type=ws#🇮🇷 Iran 🍓 @xixv2ray
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwckRkZFdOYXhDWWZnMVZXMjVSUXE0SG5XOFA2UGp1bQ@185.118.15.185:2029#🇮🇷 Iran 🍓 @xixv2ray
+vless://8165d12c-27da-4276-85d5-e9d5fe656f6a@62.220.122.180:441?security=none&encryption=none&headerType=none&type=tcp#🇮🇷 Iran 🍓 @xixv2ray
+vless://610cf913-63e0-4a54-92bd-d8e83b37f71d@89.45.89.214:34353?mode=gun&security=reality&encryption=none&pbk=MLbmEi0mowNCkhFXLM15yJAC1s0_dhOrQm6v89jqGD8&fp=chrome&spx=%2FQcPUq1JXvjtBbN9&type=grpc&sni=www.aparat.com&sid=e0be037d#🇮🇷 Iran 🍓 @xixv2ray
+vless://293cb761-2650-412e-9f7a-951ca0607283@snapp.ir:443?path=%2F&security=tls&encryption=none&insecure=0&host=panel.sherobatski.ir&fp=chrome&type=ws&allowInsecure=0&sni=panel.sherobatski.ir#🇮🇷 Iran 🍓 @xixv2ray
+vless://cd2f4568-5373-4aa5-ad54-c45b59644e2f@test.axylegend.ir:10489?encryption=none&fp=ios&pbk=BWFQ-BxFck2L0gjbXILc0Sh_rOy_YH9YYFf5kw5SsAI&security=reality&sid=0df07f6da6&sni=play.google.com&spx=%2F3MDf6BmNatxeFUY&type=tcp#🇩🇪 Germany 🍓 @xixv2ray
+vless://ad356e93-cc14-417d-9f4e-32376d03f5b7@104.18.4.138:2096?encryption=none&type=ws&security=tls&path=%2Fws%3Fed%3D%23TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI%3Fed%3D2560&host=greattehran.hozheen.ir&sni=f53d749fda28cb85.hozheen.ir&fp=chrome&insecure=0&allowInsecure=0#🇨🇦 Canada 🍓 @xixv2ray
+vless://d5468e62-dfc1-4e6e-bdb5-76206ade51fc@sv3.azparadox.ir:8880?encryption=none&type=ws&path=%2F&host=azsv3.ir5ive.ir#🇮🇷 Iran 🍓 @xixv2ray
+vless://e3b31837-faaa-4dfc-907b-06232f36ec4b@delber.deliber.xyz:2902?path=%2Fa8f3k2ws&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=&fp=chrome&type=ws&allowInsecure=0&sni=#🇸🇨 Seychelles 🍓 @xixv2ray
+vless://79e254dc-1a55-4a23-bf91-f2d3cb18b9c4@188.114.97.6:443?path=%2Fwatson&security=tls&encryption=none&insecure=0&host=taha.ferrarikingfr.ir&fp=firefox&type=ws&allowInsecure=0&sni=taha.ferrarikingfr.ir#🇨🇦 Canada 🍓 @xixv2ray
+vless://09fa44da-263f-4985-a610-0a06dc771a14@16.61.67.127:2003?security=reality&allowInsecure=0&encryption=none&type=tcp&sni=play.google.com&sid=2418ed47b875e923&fp=firefox&pbk=0nGh9GsPqY366E57yOAAfkD1F-YfxAtuLV6VHU9BA1s&headerType=none#🇺🇸 United States 🍓 @xixv2ray
+vless://09fa44da-263f-4985-a610-0a06dc771a14@35.179.135.23:2003?security=reality&allowInsecure=0&encryption=none&type=tcp&sni=play.google.com&sid=2418ed47b875e923&fp=firefox&pbk=0nGh9GsPqY366E57yOAAfkD1F-YfxAtuLV6VHU9BA1s&headerType=none#🇬🇧 United Kingdom 🍓 @xixv2ray
 vless://e3b31837-faaa-4dfc-907b-06232f36ec4b@delber.deliber.xyz:2902?path=%2Fa8f3k2ws&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=delber.deliber.xyz&fp=chrome&type=ws&allowInsecure=0&sni=delber.deliber.xyz#🇸🇨 Seychelles 🍓 @xixv2ray
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoZnpqb2NsaXVpcHIycDYz@45.38.23.38:15096#🇺🇸 United States 🍓 @xixv2ray
 vless://a93df7ad-7ebf-4271-8183-31efc390cfe3@62.220.122.178:442?security=&encryption=none&headerType=none&type=tcp#🇮🇷 Iran 🍓 @xixv2ray
@@ -458,38 +493,3 @@ vless://0b6060e7-15ae-4e34-b088-a59341223cd1@5.253.25.97:8880?security=none&encr
 vless://ed27fdf0-147e-4e67-5a01-33cfcefcf27f@snapp.ir:2087?path=%2FBetForward&security=tls&encryption=none&insecure=0&host=cdn.daraflo.ir&fp=chrome&type=ws&allowInsecure=0&sni=cdn.daraflo.ir#🇮🇷 Iran 🍓 @xixv2ray
 vless://0bbcbcbf-a964-4e47-b8c5-c4917708ef93@45.130.125.162:8443?mode=auto&path=%2F%3Fed%3D2053&security=tls&alpn=h2&encryption=none&insecure=0&fp=random&type=xhttp&allowInsecure=0&sni=vo.new-persian-song.ir#🇸🇨 Seychelles 🍓 @xixv2ray
 vless://d07f43cb-efd5-4a49-9051-8ef079911da8@mypanel.parsclad.ir:443?encryption=none&fp=chrome&pbk=VuBYKyG_WLtEzKfdXQHWhL60TK9__jc9Q1jcST5EcDk&security=reality&sid=97e9&sni=www.nvidia.com&spx=%2FAiymDeQ4Pfs3k1Z&type=tcp#🇩🇪 Germany 🍓 @xixv2ray
-vless://282aa189-36dc-4fe2-af89-c0d3ef33d1fe@varzesh3.com:2082?path=%2F&security=none&encryption=none&host=sajjad.panivo.ir&type=ws#🇮🇷 Iran 🍓 @xixv2ray
-vless://0bbcbcbf-a964-4e47-b8c5-c4917708ef93@45.130.125.162:8443?mode=auto&path=%2F%3Fed%3D2053&security=tls&alpn=h3%2Ch2&encryption=none&insecure=0&fp=chrome&type=xhttp&allowInsecure=0&sni=cji.new-persian-song.ir#🇸🇨 Seychelles 🍓 @xixv2ray
-vless://04032c7a-f743-4002-a79d-0090c35a8d5d@87.120.106.53:443?encryption=none&fp=chrome&pbk=yWghK99aOrdGIQ8O2SLm_9d3gFtLiiW8gBG6lmdokz0&security=reality&sid=59f7c76c57875c&sni=Www.turkiye.gov.tr&spx=%2FJVYTor2GSbj8lm7&type=tcp#🇨🇴 Colombia 🍓 @xixv2ray
-vless://30693e15-1014-443b-88dd-1232b55a06b6@104.16.6.70:443?path=%2F&security=tls&encryption=none&insecure=0&host=mos.rfiksma.top&fp=chrome&type=ws&allowInsecure=0&sni=sub.rfiksma.top#🇨🇦 Canada 🍓 @xixv2ray
-vless://94e0e858-1348-46a8-acc7-35c6338c90e3@US.IPSENTER.ORG:443?encryption=none&flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=play.google.com&pbk=4-ou3SyJYZ2ptF0vXFdc02yIRTF4VF8m2XcUKJPsUyQ&sid=1128da54b05ec30c#🇫🇮 Finland 🍓 @xixv2ray
-vless://587008ca-6a10-46da-9837-04071fc23a9c@87.120.106.53:443?encryption=none&fp=chrome&pbk=yWghK99aOrdGIQ8O2SLm_9d3gFtLiiW8gBG6lmdokz0&security=reality&sid=4d&sni=Www.turkiye.gov.tr&spx=%2F9Zu6VrrnBJ0EATS&type=tcp#🇨🇴 Colombia 🍓 @xixv2ray
-vless://2d001eaf-67dc-458d-6226-d92df87a8e73@snapp.ir:2087?path=%2FBetForward&security=tls&encryption=none&insecure=0&host=dns.darafiq.ir&fp=chrome&type=ws&allowInsecure=0&sni=dns.darafiq.ir#🇮🇷 Iran 🍓 @xixv2ray
-vless://a403d38a-1121-4267-5f99-78c59aad5af0@snapp.ir:2087?path=%2FBetForward&security=tls&encryption=none&insecure=0&host=cdn.daraflo.ir&fp=chrome&type=ws&allowInsecure=0&sni=cdn.daraflo.ir#🇮🇷 Iran 🍓 @xixv2ray
-vless://ed9a429c-1caf-4221-696f-c0b00b1c0f9a@snapp.ir:2087?path=%2FBetForward&security=tls&encryption=none&insecure=0&host=cdn.xelira.ir&fp=chrome&type=ws&allowInsecure=0&sni=cdn.xelira.ir#🇮🇷 Iran 🍓 @xixv2ray
-vless://f88c29a3-f768-44a8-855a-981eb9b9a155@185.228.236.54:8080?path=%2F&security=none&encryption=none&host=&type=ws#🇮🇷 Iran 🍓 @xixv2ray
-vless://26e0613d-8b82-415c-7520-43dc8ed0d75a@snapp.ir:2087?path=%2FBetForward&security=tls&encryption=none&insecure=0&host=cdn.xelira.ir&fp=chrome&type=ws&allowInsecure=0&sni=cdn.xelira.ir#🇮🇷 Iran 🍓 @xixv2ray
-vless://5966c22e-3da1-438d-4337-ec045389a049@snapp.ir:2087?path=%2FBetForward&security=tls&encryption=none&insecure=0&host=cdn.xelira.ir&fp=chrome&type=ws&allowInsecure=0&sni=cdn.xelira.ir#🇮🇷 Iran 🍓 @xixv2ray
-vless://ff2afcc3-942f-4de8-4dc6-9d5eef523d3b@snapp.ir:2087?path=%2FBetForward&security=tls&alpn=h2%2Chttp%2F1.1%2Ch3&encryption=none&insecure=0&host=cdn.daraflo.ir&fp=chrome&type=ws&allowInsecure=0&sni=cdn.daraflo.ir#🇮🇷 Iran 🍓 @xixv2ray
-vless://d3d046fa-d372-430a-8ed9-083d62c44efb@45.130.125.194:8443?mode=auto&path=%2F%3Fed%3D2053&security=tls&alpn=h3%2Ch2&encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A1000000%2C%22scMaxConcurrentPosts%22%3A100%2C%22scMinPostsIntervalMs%22%3A30%2C%22xPaddingBytes%22%3A%22100-1000%22%2C%22noGRPCHeader%22%3Afalse%7D&insecure=0&fp=chrome&type=xhttp&allowInsecure=0&sni=ssd.mojaz-persian-music.ir#🇸🇨 Seychelles 🍓 @xixv2ray
-vless://1a6b9b6e-0724-49b0-9bb6-e8cdb27e28b9@62.220.122.178:441?security=&encryption=none&headerType=&type=tcp#🇮🇷 Iran 🍓 @xixv2ray
-vless://0b6060e7-15ae-4e34-b088-a59341223cd1@5.253.25.97:8880?security=&encryption=none&headerType=&type=tcp#🇮🇷 Iran 🍓 @xixv2ray
-vless://0bbcbcbf-a964-4e47-b8c5-c4917708ef93@45.130.125.162:8443?mode=auto&path=%2F%3Fed%3D2053&security=tls&alpn=h3%2Ch2&encryption=none&insecure=0&fp=chrome&type=xhttp&allowInsecure=0&sni=vi.new-persian-song.ir#🇸🇨 Seychelles 🍓 @xixv2ray
-vless://6d41340e-9189-4eb6-7faa-7587be891922@snapp.ir:2087?path=%2FBetForward&security=tls&encryption=none&insecure=0&host=dns.xelivo.ir&fp=chrome&type=ws&allowInsecure=0&sni=dns.xelivo.ir#🇮🇷 Iran 🍓 @xixv2ray
-vless://b84fbc28-341f-4176-93c0-564e04ab9733@net2.irajapan.store:21183?type=tcp&encryption=none&security=reality&pbk=MauWVu5HDNDS8vQCfih4_3_Wr6OS3c_RkB1TFSAisRE&fp=chrome&sni=www.yahoo.com&sid=da8ac5eea11977&spx=%2F#🇫🇷 France 🍓 @xixv2ray
-vless://b84fbc28-341f-4176-93c0-564e04ab9733@net2.irajapan.store:21183?security=reality&encryption=none&pbk=MauWVu5HDNDS8vQCfih4_3_Wr6OS3c_RkB1TFSAisRE&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=www.yahoo.com&sid=da8ac5eea11977#🇫🇷 France 🍓 @xixv2ray
-vless://a51ed10f-93e1-40ae-9af1-88d916d666bb@page.irhubby.ir:2053?mode=auto&path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&insecure=0&host=vips.irhubby.ir&fp=chrome&type=xhttp&allowInsecure=0&sni=vips.irhubby.ir#🇨🇦 Canada 🍓 @xixv2ray
-ss://YWVzLTI1Ni1nY206T0RSaVlqRTVOV0ZpWldRd016Y3paak5rWlRFNFlqQXpPVEptTVRGag@188.121.101.49:11131#🇮🇷 Iran 🍓 @xixv2ray
-vless://8a923fe1-7e0d-4574-aee9-cc4b335794ef@nl01-cherry.online:8443?security=reality&encryption=none&pbk=LT_0j3zQkaqgtJHvyaG24xz0IfmXUswVCTeC75Qsgjo&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=ab4cc4f5aa354fa4#🇳🇱 The Netherlands 🍓 @xixv2ray
-vless://1435f6f7-f53c-422e-b9ba-4eef2fa8d5f9@45.130.125.162:8443?mode=auto&path=%2F%3Fed%3D2053&security=tls&alpn=h3%2Ch2&encryption=none&fp=chrome&type=xhttp&sni=cji.new-persian-song.ir#🇸🇨 Seychelles 🍓 @xixv2ray
-vless://1435f6f7-f53c-422e-b9ba-4eef2fa8d5f9@45.130.125.162:8443?encryption=none&type=xhttp&security=tls&path=%2F%3Fed%3D2053&mode=auto&sni=kl.mojaz-persian-music.ir&alpn=h3%2Ch2&fp=chrome&insecure=0&allowInsecure=0#🇸🇨 Seychelles 🍓 @xixv2ray
-vless://9fd597af-9fe2-4da7-7c9b-25e21ef369cd@snapp.ir:2087?path=%2FBetForward&security=tls&encryption=none&insecure=0&host=dns.darafiq.ir&fp=chrome&type=ws&allowInsecure=0&sni=dns.darafiq.ir#🇮🇷 Iran 🍓 @xixv2ray
-vless://79665271-4a29-4cee-e7c0-cc26e3b8286b@47.250.195.7:11381?security=&encryption=none&headerType=none&type=tcp#🇲🇾 Malaysia 🍓 @xixv2ray
-vless://79665271-4a29-4cee-e7c0-cc26e3b8286b@47.250.195.7:11381?security=none&encryption=none&headerType=none&type=tcp#🇲🇾 Malaysia 🍓 @xixv2ray
-vless://0b6060e7-15ae-4e34-b088-a59341223cd1@5.253.25.97:8880?type=tcp&encryption=none&security=none#🇮🇷 Iran 🍓 @xixv2ray
-vless://79665271-4a29-4cee-e7c0-cc26e3b8286b@47.250.195.7:11381?security=none&allowInsecure=0&encryption=none&type=tcp&headerType=none#🇲🇾 Malaysia 🍓 @xixv2ray
-http://152.42.177.32:8888#🍓 @xixv2ray
-vless://8337e54c-4ddb-442d-6269-0961d7effa2b@snapp.ir:2087?path=%2FBetForward&security=tls&alpn=h2%2Chttp%2F1.1%2Ch3&encryption=none&insecure=0&host=dns.xelivo.ir&fp=chrome&type=ws&allowInsecure=0&sni=dns.xelivo.ir#🇮🇷 Iran 🍓 @xixv2ray
-http://15.161.228.22:19182#🍓 @xixv2ray
-http://15.161.59.54:28581#🍓 @xixv2ray
-http://144.202.14.153:50000#🍓 @xixv2ray
