@@ -273,7 +273,7 @@ vless://976e0c2d-72cc-4594-ad79-b7cc54bdcc66@jahan25.irbazi.com:443?path=%2Fvr10
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplMGY3ZjdnNWw0cDhybGc4@94.182.136.76:5152?type=tcp#🇮🇷 Iran 🍓 @xixv2ray
 vmess://eyJhZGQiOiJhdGlpbnMuY29tLnRyIiwiYWlkIjoiMCIsImhvc3QiOiIiLCJpZCI6Ijk3Nzc1OTM2LTA1ZWEtNGZlYS04NTYyLWU5ZWI5ODU1OTc5MCIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiNDQzIiwicHMiOiLwn4et8J+HsCBIb25nIEtvbmcgfCDij7E5ODhtcyB8IOKaoTcwOUtCL3MgfCBATmFtYXpWUE4iLCJzY3kiOiJhdXRvIiwic25pIjoiYXRpaW5zLmNvbS50ciIsInRscyI6InRscyIsInR5cGUiOiJub25lIiwidiI6IjIifQ==#🍓 @xixv2ray
 vless://fdbd8287-690d-46de-a5f2-3899dc8a2ee3@45.130.125.162:8443?encryption=none&security=tls&sni=sh.mojaz-persian-music.ir&fp=chrome&alpn=h3%2Ch2&insecure=0&allowInsecure=0&type=xhttp&path=%2F%3Fed%3D2053&mode=auto#🇸🇨 Seychelles 🍓 @xixv2ray
-vless://3a83395c-7ae8-4a77-bf6a-3380e342289c@kilime.xubi.org:2?mode=auto&path=%2F&security=&encryption=none&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&type=xhttp#🍓 @xixv2ray
+vless://3a83395c-7ae8-4a77-bf6a-3380e342289c@kilime.xubi.org:2?mode=auto&path=%2F&security=&encryption=none&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&type=xhttp#🇮🇳 India 🍓 @xixv2ray
 vless://88465cb5-b8a0-4f39-aa8d-cf06f7911d95@65.109.219.2:52219?security=reality&encryption=none&pbk=cKE3i_J1asS5PgauqF-Ci8OlabLXmfUo1KaJ0Kc_rWQ&headerType=&fp=chrome&spx=%2F&type=tcp&sni=www.oracle.com&sid=f8#🇫🇮 Finland 🍓 @xixv2ray
 vless://27f2ae85-3e15-4a9a-9c71-49ee032e7b26@217.28.48.29:25752?__rand=44079e53&fp=firefox&security=none&type=tcp#🇱🇻 Latvia 🍓 @xixv2ray
 vless://5349e1cc-71d2-4a11-87ef-0531f67d7563@realxvpn.online:443?path=%2F%3Fed%3D2048&security=&encryption=none&host=realxvpn.online&type=ws#🇺🇸 United States 🍓 @xixv2ray
