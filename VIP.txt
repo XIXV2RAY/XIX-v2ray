@@ -3,8 +3,6 @@
 
 
 
-trojan://86957ec0-b213-433b-a43b-51f2175e0ec3@45.130.125.126:443?security=tls&sni=space.byu.id.yxls.eu.cc&insecure=0&allowInsecure=0&type=ws&host=space.byu.id.yxls.eu.cc&path=/au-do#🇸🇨 Seychelles 🍓 @xixv2ray
-trojan://86957ec0-b213-433b-a43b-51f2175e0ec3@45.130.125.126:443?security=tls&sni=space.byu.id.yxls.eu.cc&insecure=0&allowInsecure=0&type=ws&host=space.byu.id.yxls.eu.cc&path=/au-do#🇸🇨 Seychelles 🍓 @xixv2ray
 trojan://8e107680-6844-11f1-a5dc-1239d0255272@news.microsoft.com:443?path=/howdy&security=tls&insecure=0&host=uk1.test3.net&type=ws&allowInsecure=0&sni=uk1.test3.net#🇺🇸 United States 🍓 @xixv2ray
 trojan://8r<[9'l6hAO#🍓 @xixv2ray
 trojan://8r<[9'l6hAO#🍓 @xixv2ray
@@ -498,3 +496,5 @@ trojan://humanity@188.114.97.6:443?path=/assignment&security=tls&insecure=0&host
 trojan://humanity@188.114.97.6:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#🇨🇦 Canada 🍓 @xixv2ray
 trojan://humanity@188.114.97.6:443?path=/assignment&security=tls&insecure=0&type=ws&allowInsecure=0&sni=www.creationlong.org#🇨🇦 Canada 🍓 @xixv2ray
 trojan://humanity@188.114.97.6:443?path=/assignment&security=tls&insecure=0&type=ws&allowInsecure=0&sni=www.creationlong.org#🇨🇦 Canada 🍓 @xixv2ray
+trojan://humanity@188.114.97.6:443?type=ws&security=tls&path=/assignment&host=www.calmloud.com&sni=www.calmloud.com&insecure=0&allowInsecure=0#🇨🇦 Canada 🍓 @xixv2ray
+trojan://humanity@188.114.97.6:443?type=ws&security=tls&path=/assignment&sni=www.calmloud.com&insecure=0&allowInsecure=0#🇨🇦 Canada 🍓 @xixv2ray
