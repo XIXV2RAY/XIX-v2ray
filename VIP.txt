@@ -3,6 +3,9 @@
 
 
 
+trojan://MITIVPN@151.101.69.219:443?path=/ed=mitivpn&security=tls&alpn=h2&insecure=1&host=mitivpn-77.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=1&sni=speedtest.net#🇺🇸 United States 🍓 @xixv2ray
+trojan://MITIVPN@151.101.69.219:443?path=/ed=mitivpn&security=tls&alpn=h2&insecure=1&host=mitivpn-77.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=1&sni=speedtest.net#🇺🇸 United States 🍓 @xixv2ray
+trojan://MITIVPN@164.38.155.135:443?path=/MiTiVPN=De&security=tls&alpn=http/1.1&insecure=0&host=95r.ir&fp=chrome&type=ws&allowInsecure=0&sni=95r.ir#🇬🇧 United Kingdom 🍓 @xixv2ray
 trojan://MITIVPN@164.38.155.135:443?path=/MiTiVPN=De&security=tls&alpn=http/1.1&insecure=0&host=95r.ir&fp=chrome&type=ws&allowInsecure=0&sni=95r.ir#🇬🇧 United Kingdom 🍓 @xixv2ray
 trojan://MITIVPN@164.38.155.135:443?path=/MiTiVPN=De&security=tls&alpn=http/1.1&insecure=0&host=95r.ir&fp=chrome&type=ws&allowInsecure=0&sni=95r.ir#🇬🇧 United Kingdom 🍓 @xixv2ray
 trojan://MITIVPN@164.38.155.135:443?path=/MiTiVPN=De&security=tls&alpn=http/1.1&insecure=0&host=95r.ir&fp=chrome&type=ws&allowInsecure=0&sni=95r.ir#🇬🇧 United Kingdom 🍓 @xixv2ray
@@ -495,6 +498,3 @@ trojan://humanity@127.0.0.1:40443?path=//assignment&security=tls&insecure=0&host
 trojan://humanity@127.0.0.1:40443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#🍓 @xixv2ray
 trojan://humanity@127.0.0.1:40443?path=/assignment&security=tls&insecure=0&host=www.gossipglove.com&type=ws&allowInsecure=0&sni=www.gossipglove.com#🍓 @xixv2ray
 trojan://humanity@127.0.0.1:40443?path=/assignment&security=tls&insecure=0&host=www.gossipglove.com&type=ws&allowInsecure=0&sni=www.gossipglove.com#🍓 @xixv2ray
-trojan://humanity@127.0.0.1:40443?path=/assignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#🍓 @xixv2ray
-trojan://humanity@127.0.0.1:40443?path=/assignment?TELEGRAM--KANAL--JKVPN--JKVPN--JKVPN--JKVPN--JKVPN--JKVPN&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.gossipglove.com#🍓 @xixv2ray
-trojan://humanity@127.0.0.1:40443?path=assignment&security=tls&insecure=0&type=ws&allowInsecure=0&sni=www.ignitelimit.com#🍓 @xixv2ray
