@@ -3,7 +3,6 @@
 
 
 
-trojan://MITIVPN@199.232.173.194:443?path=/ed=mitivpn&security=tls&insecure=1&host=mitivpn--4.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=1&sni=fastly.com#🇸🇪 Sweden 🍓 @xixv2ray
 trojan://MITIVPN@94.140.0.100:443?alpn=http/1.1&fp=chrome&host=95r.ir&path=/MiTiVPN=Usa&sni=95r.ir&type=ws#🇦🇪 United Arab Emirates 🍓 @xixv2ray
 trojan://MITIVPN@94.140.0.100:443?path=/MiTiVPN=Usa&security=tls&alpn=http/1.1&insecure=0&host=95r.ir&fp=chrome&type=ws&allowInsecure=0&sni=95r.ir#🇦🇪 United Arab Emirates 🍓 @xixv2ray
 trojan://MITIVPN@94.140.0.100:443?path=/MiTiVPN=Usa&security=tls&alpn=http/1.1&insecure=0&host=95r.ir&fp=chrome&type=ws&allowInsecure=0&sni=95r.ir#🇦🇪 United Arab Emirates 🍓 @xixv2ray
@@ -498,3 +497,4 @@ trojan://humanity@104.18.152.77:443?path=/assignment&security=tls&insecure=0&hos
 trojan://humanity@104.18.152.97:443?path=/assignment&security=tls&host=www.ignitelimit.com&type=ws&sni=www.ignitelimit.com#🇨🇦 Canada 🍓 @xixv2ray
 trojan://humanity@104.18.32.47:443?path=/assignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.calmlunch.com&note=@FreeOnlineVPN#🇨🇦 Canada 🍓 @xixv2ray
 trojan://humanity@104.18.32.47:443?path=/assignment&security=tls&insecure=0&type=ws&allowInsecure=0&sni=www.calmlunch.com#🇨🇦 Canada 🍓 @xixv2ray
+trojan://humanity@104.18.32.47:443?security=tls&sni=www.calmlunch.com&insecure=0&allowInsecure=0&type=ws&path=/assignment&note=@FreeOnlineVPN#🇨🇦 Canada 🍓 @xixv2ray
