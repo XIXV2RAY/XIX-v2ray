@@ -3,8 +3,6 @@
 
 
 
-trojan://MITIVPN@151.101.69.219:443?path=/ed=mitivpn&security=tls&alpn=h2&insecure=1&host=mitivpn-77.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=1&sni=speedtest.net#🇺🇸 United States 🍓 @xixv2ray
-trojan://MITIVPN@164.38.155.135:443?alpn=http/1.1&fp=chrome&host=95r.ir&path=/MiTiVPN=De&sni=95r.ir&type=ws#🇬🇧 United Kingdom 🍓 @xixv2ray
 trojan://MITIVPN@164.38.155.135:443?alpn=http/1.1&fp=chrome&host=95r.ir&path=/MiTiVPN=De&sni=95r.ir&type=ws#🇬🇧 United Kingdom 🍓 @xixv2ray
 trojan://MITIVPN@164.38.155.135:443?path=/MiTiVPN=De&security=tls&alpn=http/1.1&insecure=0&host=95r.ir&fp=chrome&type=ws&allowInsecure=0&sni=95r.ir#🇬🇧 United Kingdom 🍓 @xixv2ray
 trojan://MITIVPN@164.38.155.135:443?path=/MiTiVPN=De&security=tls&alpn=http/1.1&insecure=0&host=95r.ir&fp=chrome&type=ws&allowInsecure=0&sni=95r.ir#🇬🇧 United Kingdom 🍓 @xixv2ray
@@ -498,3 +496,5 @@ trojan://f922fa0f-3311-4368-85ff-cf65e727c854@104.16.72.2:443?path=/br-orcl&secu
 trojan://f922fa0f-3311-4368-85ff-cf65e727c854@104.16.72.70:443?path=/br-orcl&security=tls&host=space.byu.id.yxls.eu.cc&type=ws&sni=space.byu.id.yxls.eu.cc#🇨🇦 Canada 🍓 @xixv2ray
 trojan://f922fa0f-3311-4368-85ff-cf65e727c854@104.16.72.70:443?path=/br-orcl&security=tls&host=space.byu.id.yxls.eu.cc&type=ws&sni=space.byu.id.yxls.eu.cc#🇨🇦 Canada 🍓 @xixv2ray
 trojan://f922fa0f-3311-4368-85ff-cf65e727c854@104.16.72.70:443?path=/br-orcl&security=tls&insecure=0&host=space.byu.id.yxls.eu.cc&type=ws&allowInsecure=0&sni=space.byu.id.yxls.eu.cc#🇨🇦 Canada 🍓 @xixv2ray
+trojan://f922fa0f-3311-4368-85ff-cf65e727c854@104.16.72.70:443?path=/br-orcl&security=tls&insecure=0&host=space.byu.id.yxls.eu.cc&type=ws&allowInsecure=0&sni=space.byu.id.yxls.eu.cc#🇨🇦 Canada 🍓 @xixv2ray
+trojan://f922fa0f-3311-4368-85ff-cf65e727c854@104.17.121.43:443?host=space.byu.id.yxls.eu.cc&path=/br-orcl&sni=space.byu.id.yxls.eu.cc&type=ws#🇨🇦 Canada 🍓 @xixv2ray
