@@ -5,6 +5,8 @@
 
 trojan://MITIVPN@188.114.98.193:443?path=/MiTiVPN=De&security=tls&alpn=http/1.1&insecure=0&host=Ge.App-Cloud.ir&fp=chrome&type=ws&allowInsecure=0&sni=Ge.App-Cloud.ir#🇨🇦 Canada 🍓 @xixv2ray
 trojan://MITIVPN@188.114.98.193:443?path=/MiTiVPN=De&security=tls&alpn=http/1.1&insecure=0&host=Ge.App-Cloud.ir&fp=chrome&type=ws&allowInsecure=0&sni=Ge.App-Cloud.ir#🇨🇦 Canada 🍓 @xixv2ray
+trojan://MITIVPN@188.114.98.193:443?path=/MiTiVPN=De&security=tls&alpn=http/1.1&insecure=0&host=Ge.App-Cloud.ir&fp=chrome&type=ws&allowInsecure=0&sni=Ge.App-Cloud.ir#🇨🇦 Canada 🍓 @xixv2ray
+trojan://MITIVPN@188.114.98.193:443?path=/MiTiVPN=De&security=tls&alpn=http/1.1&insecure=0&host=Ge.App-Cloud.ir&fp=chrome&type=ws&allowInsecure=0&sni=Ge.App-Cloud.ir#🇨🇦 Canada 🍓 @xixv2ray
 trojan://MITIVPN@199.232.173.194:443?path=/ed=mitivpn&security=tls&insecure=1&host=mitivpn--4.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=1&sni=fastly.com#🇸🇪 Sweden 🍓 @xixv2ray
 trojan://MITIVPN@199.232.2.79:443?path=/MiTiVPN=De&security=tls&alpn=http/1.1&host=mitivpn----a.global.ssl.fastly.net&fp=chrome&type=ws&sni=ssl.fastly.com#🇺🇸 United States 🍓 @xixv2ray
 trojan://MITIVPN@199.232.2.79:443?path=/MiTiVPN=De&security=tls&alpn=http/1.1&insecure=1&host=mitivpn----a.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=1&sni=ssl.fastly.com#🇺🇸 United States 🍓 @xixv2ray
@@ -496,5 +498,3 @@ trojan://humanity@104.16.174.12:443?path=/assignment&security=tls&insecure=0&hos
 trojan://humanity@104.16.174.12:443?path=/assignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#🇨🇦 Canada 🍓 @xixv2ray
 trojan://humanity@104.16.174.12:443?path=/assignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#🇨🇦 Canada 🍓 @xixv2ray
 trojan://humanity@104.16.174.36:443?path=/assignment&security=tls&insecure=0&host=Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en&type=ws&allowInsecure=0&sni=www.ignitelimit.com#🇨🇦 Canada 🍓 @xixv2ray
-trojan://humanity@104.16.174.36:443?path=/assignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#🇨🇦 Canada 🍓 @xixv2ray
-trojan://humanity@104.16.174.36:443?path=/assignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#🇨🇦 Canada 🍓 @xixv2ray
