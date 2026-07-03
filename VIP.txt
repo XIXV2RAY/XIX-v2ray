@@ -3,8 +3,6 @@
 
 
 
-trojan://MITIVPN@199.232.173.194:443?path=/ed=mitivpn&security=tls&insecure=1&host=mitivpn--4.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=1&sni=fastly.com#🇸🇪 Sweden 🍓 @xixv2ray
-trojan://MITIVPN@45.131.4.115:443?path=/MiTiVPN=Usa&security=tls&alpn=http/1.1&insecure=0&host=PioHosting.ir&fp=chrome&type=ws&allowInsecure=0&sni=PioHosting.ir#🇳🇱 The Netherlands 🍓 @xixv2ray
 trojan://MITIVPN@45.131.4.115:443?path=/MiTiVPN=Usa&security=tls&alpn=http/1.1&insecure=0&host=PioHosting.ir&fp=chrome&type=ws&allowInsecure=0&sni=PioHosting.ir#🇳🇱 The Netherlands 🍓 @xixv2ray
 trojan://MITIVPN@45.131.4.115:443?path=/MiTiVPN=Usa&security=tls&alpn=http/1.1&insecure=0&host=Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en&fp=chrome&type=ws&allowInsecure=0&sni=PioHosting.ir#🇳🇱 The Netherlands 🍓 @xixv2ray
 trojan://MITIVPN@45.131.4.115:443?security=tls&sni=PioHosting.ir&fp=chrome&alpn=http/1.1&insecure=0&allowInsecure=0&type=ws&host=PioHosting.ir&path=/MiTiVPN=Usa#🇳🇱 The Netherlands 🍓 @xixv2ray
@@ -387,7 +385,7 @@ trojan://ZfhGKkAmGl.hxRfIUI0LUU.MuK3hkQdxed@38.60.202.163:443?security=tls&alpn=
 trojan://ZpUUBCgWT3k6PriIFDccEs5RVRclJb9CL1LvF+yJTjY=@94.139.179.9:52321?type=tcp&security=none#🇮🇷 Iran 🍓 @xixv2ray
 trojan://a1e12464-9208-4583-bd21-ab6889fdd242@139.177.189.122:443?sni=cdn.qchwnd.moe#🇸🇬 Singapore 🍓 @xixv2ray
 trojan://a4dbc061021f2931c0e28901a602f3c5@hk-007.pg13900.com:443?security=tls&sni=hk-007.pg13900.com&alpn=http/1.1&insecure=1&allowInsecure=1&type=ws&host=hk-007.pg13900.com&path=/atlas-cdn#🇨🇦 Canada 🍓 @xixv2ray
-trojan://a4dbc061021f2931c0e28901a602f3c5@jp-002.pg13900.com:443?security=tls&sni=jp-002.pg13900.com&alpn=http/1.1&insecure=1&allowInsecure=1&type=ws&host=jp-002.pg13900.com&path=/atlas-cdn#🇨🇦 Canada 🍓 @xixv2ray
+trojan://a4dbc061021f2931c0e28901a602f3c5@jp-002.pg13900.com:443?security=tls&sni=jp-002.pg13900.com&alpn=http/1.1&insecure=1&allowInsecure=1&type=ws&host=jp-002.pg13900.com&path=/atlas-cdn#🍓 @xixv2ray
 trojan://aR9EJWEB2Jp3m6xKJK=Ct7kLyqFSU-iDBR@92.119.35.117:443?security=tls&headerType=none&type=tcp#🇩🇪 Germany 🍓 @xixv2ray
 trojan://aR9EJWEB2Jp3m6xKJK=Ct7kLyqFSU-iDBR@92.119.35.117:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0#🇩🇪 Germany 🍓 @xixv2ray
 trojan://aR9EJWEB2Jp3m6xKJK=Ct7kLyqFSU-iDBR@92.119.35.120:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0#🇩🇪 Germany 🍓 @xixv2ray
@@ -496,5 +494,7 @@ trojan://humanity@104.16.71.213:443?path=/assignment&security=tls&insecure=0&hos
 trojan://humanity@104.16.72.41:443?path=/assignment&security=tls&host=www.calmlunch.com&type=ws&sni=www.calmlunch.com#🇨🇦 Canada 🍓 @xixv2ray
 trojan://humanity@104.16.72.41:443?path=/assignment&security=tls&host=www.calmlunch.com&type=ws&sni=www.calmlunch.com#🇨🇦 Canada 🍓 @xixv2ray
 trojan://humanity@104.16.72.41:443?path=/assignment&security=tls&host=www.calmlunch.com&type=ws&sni=www.calmlunch.com#🇨🇦 Canada 🍓 @xixv2ray
+trojan://humanity@104.16.72.41:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#🇨🇦 Canada 🍓 @xixv2ray
+trojan://humanity@104.16.72.41:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#🇨🇦 Canada 🍓 @xixv2ray
 trojan://humanity@104.16.72.41:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#🇨🇦 Canada 🍓 @xixv2ray
 trojan://humanity@104.16.72.41:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#🇨🇦 Canada 🍓 @xixv2ray
