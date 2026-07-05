@@ -4,6 +4,7 @@
 
 
 trojan://8r<[9'l6hAO#🍓 @xixv2ray
+trojan://8r<[9'l6hAO#🍓 @xixv2ray
 trojan://9c3ydrt7pq0y9jyq@45.38.41.242:8080?mode=auto&path=/api&security=reality&extra={"xPaddingBytes":"100-1000"}&pbk=8Cq8NpjuE-fsiyfm62dmW0CDRLxZmXjdf-bNwp3WKns&fp=chrome&spx=/BOFrUAQTAMXDw6L&type=xhttp&sni=play.google.com&sid=788855ad1ce4#🇺🇸 United States 🍓 @xixv2ray
 trojan://9v2hghy73wq84rnk@104.17.83.58:2087?mode=auto&path=/tanha&security=tls&alpn=h2,http/1.1&extra={"mode":"auto","xPaddingBytes":"10-100","xPaddingObfsMode":true}&insecure=0&fp=chrome&type=xhttp&allowInsecure=0&sni=Shopfrance.mroza.ir#🇨🇦 Canada 🍓 @xixv2ray
 trojan://9v2hghy73wq84rnk@104.17.83.58:2087?mode=auto&path=/tanha&security=tls&alpn=h2,http/1.1&extra={"mode":"auto","xPaddingBytes":"10-100","xPaddingObfsMode":true}&insecure=0&fp=chrome&type=xhttp&allowInsecure=0&sni=Shopfrance.mroza.ir#🇨🇦 Canada 🍓 @xixv2ray
@@ -497,4 +498,3 @@ trojan://Mitivpn@151.101.56.6:443?security=tls&sni=ssl.fastly.com&fp=chrome&alpn
 trojan://Mitivpn@151.101.56.6:443?security=tls&sni=ssl.fastly.com&insecure=0&allowInsecure=0&type=ws&host=4-4-3-mitivpn.global.ssl.fastly.net&path=/boost#🇺🇸 United States 🍓 @xixv2ray
 trojan://Mitivpn@151.101.56.6:443?security=tls&sni=ssl.fastly.com&insecure=0&allowInsecure=0&type=ws&host=4-4-3-mitivpn.global.ssl.fastly.net&path=/fast-speed#🇺🇸 United States 🍓 @xixv2ray
 trojan://Mitivpn@151.101.56.6:443?security=tls&sni=ssl.fastly.com&insecure=0&allowInsecure=0&type=ws&host=4-4-3-mitivpn.global.ssl.fastly.net&path=/slowdns#🇺🇸 United States 🍓 @xixv2ray
-trojan://Mitivpn@167.82.101.251:443?path=/de&security=tls&alpn=http/1.1&insecure=0&host=3-mitivpn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#🇺🇸 United States 🍓 @xixv2ray
