@@ -3,6 +3,7 @@
 
 
 
+trojan://86957ec0-b213-433b-a43b-51f2175e0ec3@104.16.72.41:443?host=space.byu.id.yxls.eu.cc&path=/au-do&sni=space.byu.id.yxls.eu.cc&type=ws#🇨🇦 Canada 🍓 @xixv2ray
 trojan://86957ec0-b213-433b-a43b-51f2175e0ec3@104.16.72.41:443?path=/au-do&security=tls&host=space.byu.id.yxls.eu.cc&type=ws&sni=space.byu.id.yxls.eu.cc#🇨🇦 Canada 🍓 @xixv2ray
 trojan://86957ec0-b213-433b-a43b-51f2175e0ec3@104.16.72.41:443?path=/au-do&security=tls&insecure=0&host=space.byu.id.yxls.eu.cc&type=ws&allowInsecure=0&sni=space.byu.id.yxls.eu.cc#🇨🇦 Canada 🍓 @xixv2ray
 trojan://86957ec0-b213-433b-a43b-51f2175e0ec3@104.16.72.41:443?path=/au-do&security=tls&insecure=0&host=space.byu.id.yxls.eu.cc&type=ws&allowInsecure=0&sni=space.byu.id.yxls.eu.cc#🇨🇦 Canada 🍓 @xixv2ray
@@ -25,7 +26,7 @@ trojan://8r<[9'l6hAO#🍓 @xixv2ray
 trojan://8r<[9'l6hAO#🍓 @xixv2ray
 trojan://9c3ydrt7pq0y9jyq@45.38.41.242:8080?mode=auto&path=/api&security=reality&extra={"xPaddingBytes":"100-1000"}&pbk=8Cq8NpjuE-fsiyfm62dmW0CDRLxZmXjdf-bNwp3WKns&fp=chrome&spx=/BOFrUAQTAMXDw6L&type=xhttp&sni=play.google.com&sid=788855ad1ce4#🇺🇸 United States 🍓 @xixv2ray
 trojan://9v2hghy73wq84rnk@104.17.83.58:2087?mode=auto&path=/tanha&security=tls&alpn=h2,http/1.1&extra={"mode":"auto","xPaddingBytes":"10-100","xPaddingObfsMode":true}&insecure=0&fp=chrome&type=xhttp&allowInsecure=0&sni=Shopfrance.mroza.ir#🇨🇦 Canada 🍓 @xixv2ray
-trojan://@ange1Vpn@mhzedir.qzz.io:6071?path=/&security=tls&alpn=http/1.1&insecure=0&host=mhzedir.qzz.io&fp=chrome&type=ws&allowInsecure=0&sni=mhzedir.qzz.io#🍓 @xixv2ray
+trojan://9v2hghy73wq84rnk@104.17.83.58:2087?mode=auto&path=/tanha&security=tls&alpn=h2,http/1.1&extra={"mode":"auto","xPaddingBytes":"10-100","xPaddingObfsMode":true}&insecure=0&fp=chrome&type=xhttp&allowInsecure=0&sni=Shopfrance.mroza.ir#🇨🇦 Canada 🍓 @xixv2ray
 trojan://Aimer@167.68.4.199:2053?host=epge.muarua.filegear-sg.me&path=/&sni=epge.muarua.filegear-sg.me&type=ws#🇺🇸 United States 🍓 @xixv2ray
 trojan://BxceQaOe@16.163.102.116:52951/?type=tcp&security=tls&allowInsecure=1&note=@FreeOnlineVPN#🇭🇰 Hong Kong 🍓 @xixv2ray
 trojan://BxceQaOe@16.163.107.220:11035?allowInsecure=1&sni=t.me/ripaojiedian#🇭🇰 Hong Kong 🍓 @xixv2ray
@@ -37,12 +38,11 @@ trojan://CHhHZoXQCp@45.130.125.2:443?path=/da&security=tls&insecure=0&host=se.fa
 trojan://CHhHZoXQCp@45.130.125.2:443?type=ws&security=tls&path=/da&alpn=-@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN&host=se.farxmode.ir&sni=se.farxmode.ir&fp=chrome&insecure=0&allowInsecure=0#🇸🇨 Seychelles 🍓 @xixv2ray
 trojan://Config0plus@45.130.125.160:443?path=/id-tksi&security=tls&insecure=0&host=api24-normal.tiktokv.com.cyylr.eu.cc&type=ws&allowInsecure=0&sni=api24-normal.tiktokv.com.cyylr.eu.cc#🇸🇨 Seychelles 🍓 @xixv2ray
 trojan://GavW8e3DN7@45.130.125.2:443?type=ws&security=tls&path=/db&alpn=-@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN&host=sf.farxmode.ir&sni=sf.farxmode.ir&fp=chrome&insecure=0&allowInsecure=0#🇸🇨 Seychelles 🍓 @xixv2ray
-trojan://GavW8e3DN7@45.130.125.2:443?type=ws&security=tls&path=/db&alpn=-@VPNine1---@VPNine1---@VPNine1---@VPNine1---@VPNine1---@VPNine1---@VPNine1---@VPNine1---@VPNine1---@VPNine1---@VPNine1---@VPNine1---@VPNine1---@VPNine1&host=sf.farxmode.ir&sni=sf.farxmode.ir&fp=chrome&insecure=0&allowInsecure=0#🇸🇨 Seychelles 🍓 @xixv2ray
 trojan://I1vtf6pjYsAu-nFnraWAMjKTy90AHitdAz@91.233.8.25:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=fra34.tracker-ws.click#🇩🇪 Germany 🍓 @xixv2ray
 trojan://LYaEYwjN8LjWTRJdCCTzW7V6gK7atJVu@94.103.173.70:9443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=de-1.hysteria.ltd#🇩🇪 Germany 🍓 @xixv2ray
 trojan://LYaEYwjN8LjWTRJdCCTzW7V6gK7atJVu@94.103.173.70:9443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=de-1.hysteria.ltd#🇩🇪 Germany 🍓 @xixv2ray
 trojan://LYaEYwjN8LjWTRJdCCTzW7V6gK7atJVu@de-1.hysteria.ltd:9443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=de-1.hysteria.ltd#🇩🇪 Germany 🍓 @xixv2ray
-trojan://Lw_DP4+W.J5K33MD2Jy5zQVuT5n71+=BcD@38.60.168.129:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0#🇫🇷 France 🍓 @xixv2ray
+trojan://MITIVPN@104.16.72.41:443?alpn=http/1.1&fp=chrome&host=PioHosting.ir&path=/MiTiVPN=De&sni=PioHosting.ir&type=ws#🇨🇦 Canada 🍓 @xixv2ray
 trojan://MITIVPN@104.16.72.41:443?path=/MiTiVPN=De&security=tls&alpn=http/1.1&host=De.App-Cloud.ir&fp=chrome&type=ws&sni=De.App-Cloud.ir#🇨🇦 Canada 🍓 @xixv2ray
 trojan://MITIVPN@104.16.72.41:443?path=/MiTiVPN=De&security=tls&alpn=http/1.1&insecure=0&host=De.App-Cloud.ir&fp=chrome&type=ws&allowInsecure=0&sni=De.App-Cloud.ir#🇨🇦 Canada 🍓 @xixv2ray
 trojan://MITIVPN@104.16.72.41:443?path=/MiTiVPN=De&security=tls&alpn=http/1.1&insecure=0&host=De.App-Cloud.ir&fp=chrome&type=ws&allowInsecure=0&sni=De.App-Cloud.ir#🇨🇦 Canada 🍓 @xixv2ray
@@ -64,7 +64,6 @@ trojan://MITIVPN@104.26.15.137:443?path=/MiTiVPN=USA&security=tls&alpn=h3,h2,htt
 trojan://MITIVPN@104.26.15.137:443?path=/MiTiVPN=USA&security=tls&alpn=h3,h2,http/1.1&insecure=0&host=us-a.App-Cloud.ir&fp=chrome&type=ws&allowInsecure=0&sni=us-a.App-Cloud.ir#🇨🇦 Canada 🍓 @xixv2ray
 trojan://MITIVPN@104.26.15.137:443?path=/MiTiVPN=USA&security=tls&alpn=h3,h2,http/1.1&insecure=0&host=us-a.App-Cloud.ir&fp=chrome&type=ws&allowInsecure=0&sni=us-a.App-Cloud.ir#🇨🇦 Canada 🍓 @xixv2ray
 trojan://MITIVPN@104.26.15.137:443?path=/MiTiVPN=USA&security=tls&alpn=h3,h2,http/1.1&insecure=0&host=us-a.App-Cloud.ir&fp=chrome&type=ws&allowInsecure=0&sni=us-a.App-Cloud.ir#🇨🇦 Canada 🍓 @xixv2ray
-trojan://MITIVPN@104.26.15.137:443?path=/MiTiVPN=USA&security=tls&alpn=h3,h2,http/1.1&insecure=0&host=us-a.App-Cloud.ir&fp=chrome&type=ws&allowInsecure=0&sni=us-a.App-Cloud.ir#🇨🇦 Canada 🍓 @xixv2ray
 trojan://MITIVPN@104.26.15.137:443?type=ws&security=tls&path=/MiTiVPN=USA&host=us-a.App-Cloud.ir&sni=us-a.App-Cloud.ir&alpn=h3,h2,http/1.1&fp=chrome&insecure=0&allowInsecure=0#🇨🇦 Canada 🍓 @xixv2ray
 trojan://MITIVPN@104.26.15.137:443?type=ws&security=tls&path=/MiTiVPN=USA&host=us-a.App-Cloud.ir&sni=us-a.App-Cloud.ir&alpn=h3,h2,http/1.1&fp=chrome&insecure=0&allowInsecure=0#🇨🇦 Canada 🍓 @xixv2ray
 trojan://MITIVPN@146.75.121.194:443?path=/ed=mitivpn&security=tls&alpn=h2&insecure=1&host=mitivpn--3.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=1&sni=fastly.com#🇩🇪 Germany 🍓 @xixv2ray
@@ -73,8 +72,6 @@ trojan://MITIVPN@151.101.110.219:443?path=/MiTiVPN=De&security=tls&alpn=http/1.1
 trojan://MITIVPN@151.101.110.219:443?path=/MiTiVPN=De&security=tls&alpn=http/1.1&insecure=0&host=esalat-king-mitivpn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=global.fastly.com#🇯🇵 Japan 🍓 @xixv2ray
 trojan://MITIVPN@151.101.110.219:443?path=/MiTiVPN=De&security=tls&alpn=http/1.1&insecure=0&host=esalat-king-mitivpn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=global.fastly.com#🇯🇵 Japan 🍓 @xixv2ray
 trojan://MITIVPN@151.101.110.219:443?path=/MiTiVPN=De&security=tls&alpn=http/1.1&insecure=0&host=esalat-king-mitivpn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=global.fastly.com#🇯🇵 Japan 🍓 @xixv2ray
-trojan://MITIVPN@151.101.110.219:443?path=/MiTiVPN=De&security=tls&alpn=http/1.1&insecure=0&host=esalat-king-mitivpn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=global.fastly.com#🇯🇵 Japan 🍓 @xixv2ray
-trojan://MITIVPN@151.101.56.6:443?path=/MiTiVPN=Usa&security=tls&alpn=http/1.1&insecure=0&host=esalat-king-mitivpn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=global.fastly.com#🇺🇸 United States 🍓 @xixv2ray
 trojan://MITIVPN@151.101.56.6:443?path=/MiTiVPN=Usa&security=tls&alpn=http/1.1&insecure=0&host=esalat-king-mitivpn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=global.fastly.com#🇺🇸 United States 🍓 @xixv2ray
 trojan://MITIVPN@151.101.56.6:443?path=/MiTiVPN=Usa&security=tls&alpn=http/1.1&insecure=0&host=esalat-king-mitivpn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=global.fastly.com#🇺🇸 United States 🍓 @xixv2ray
 trojan://MITIVPN@151.101.56.6:443?path=/MiTiVPN=Usa&security=tls&alpn=http/1.1&insecure=0&host=esalat-king-mitivpn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=global.fastly.com#🇺🇸 United States 🍓 @xixv2ray
@@ -89,8 +86,8 @@ trojan://MITIVPN@172.64.32.75:443?path=/MiTiVPN=Usa&security=tls&alpn=http/1.1&h
 trojan://MITIVPN@172.64.32.75:443?path=/MiTiVPN=Usa&security=tls&alpn=http/1.1&insecure=0&host=united.App-Cloud.ir&fp=chrome&type=ws&allowInsecure=0&sni=united.App-Cloud.ir#🇨🇦 Canada 🍓 @xixv2ray
 trojan://MITIVPN@172.64.32.75:443?type=ws&security=tls&path=/MiTiVPN=Usa&host=united.App-Cloud.ir&sni=united.App-Cloud.ir&alpn=http/1.1&fp=chrome&insecure=0&allowInsecure=0#🇨🇦 Canada 🍓 @xixv2ray
 trojan://MITIVPN@172.64.32.75:443?type=ws&security=tls&path=/MiTiVPN=Usa&host=united.App-Cloud.ir&sni=united.App-Cloud.ir&alpn=http/1.1&fp=chrome&insecure=0&allowInsecure=0#🇨🇦 Canada 🍓 @xixv2ray
+trojan://MITIVPN@172.67.172.95:443?path=/MiTiVPN=USA&security=tls&alpn=h2,http/1.1&host=uss-a.App-Cloud.ir&fp=chrome&type=ws&sni=uss-a.App-Cloud.ir#🇨🇦 Canada 🍓 @xixv2ray
 trojan://MITIVPN@172.67.172.95:443?type=ws&security=tls&path=/MiTiVPN=USA&host=uss-a.App-Cloud.ir&sni=uss-a.App-Cloud.ir&alpn=h2,http/1.1&fp=chrome&insecure=0&allowInsecure=0#🇨🇦 Canada 🍓 @xixv2ray
-trojan://MITIVPN@172.67.71.247:443?path=/MiTiVPN=DE&security=tls&alpn=h3,h2,http/1.1&host=Ger.App-Cloud.ir&fp=chrome&type=ws&sni=Ger.App-Cloud.ir#🇨🇦 Canada 🍓 @xixv2ray
 trojan://MITIVPN@172.67.71.247:443?path=/MiTiVPN=DE&security=tls&alpn=h3,h2,http/1.1&host=Ger.App-Cloud.ir&fp=chrome&type=ws&sni=Ger.App-Cloud.ir#🇨🇦 Canada 🍓 @xixv2ray
 trojan://MITIVPN@172.67.71.247:443?path=/MiTiVPN=DE&security=tls&alpn=h3,h2,http/1.1&insecure=0&host=Ger.App-Cloud.ir&fp=chrome&type=ws&allowInsecure=0&sni=Ger.App-Cloud.ir#🇨🇦 Canada 🍓 @xixv2ray
 trojan://MITIVPN@172.67.71.247:443?path=/MiTiVPN=DE&security=tls&alpn=h3,h2,http/1.1&insecure=0&host=Ger.App-Cloud.ir&fp=chrome&type=ws&allowInsecure=0&sni=Ger.App-Cloud.ir#🇨🇦 Canada 🍓 @xixv2ray
@@ -106,11 +103,11 @@ trojan://MITIVPN@188.114.98.193:443?path=/MiTiVPN=De&security=tls&alpn=http/1.1&
 trojan://MITIVPN@199.232.173.194:443?path=/ed=mitivpn&security=tls&insecure=1&host=mitivpn--4.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=1&sni=fastly.com#🇸🇪 Sweden 🍓 @xixv2ray
 trojan://MITIVPN@199.232.2.79:443?path=/MiTiVPN=De&security=tls&alpn=http/1.1&host=mitivpn----a.global.ssl.fastly.net&fp=chrome&type=ws&sni=ssl.fastly.com#🇺🇸 United States 🍓 @xixv2ray
 trojan://MITIVPN@199.232.2.79:443?path=/MiTiVPN=De&security=tls&alpn=http/1.1&insecure=1&host=mitivpn----a.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=1&sni=ssl.fastly.com#🇺🇸 United States 🍓 @xixv2ray
+trojan://MITIVPN@45.131.4.115:443?alpn=http/1.1&fp=chrome&host=PioHosting.ir&path=/MiTiVPN=Usa&sni=PioHosting.ir&type=ws#🇳🇱 The Netherlands 🍓 @xixv2ray
 trojan://MITIVPN@45.131.4.115:443?path=/MiTiVPN=Usa&security=tls&alpn=http/1.1&insecure=0&host=PioHosting.ir&fp=chrome&type=ws&allowInsecure=0&sni=PioHosting.ir#🇳🇱 The Netherlands 🍓 @xixv2ray
 trojan://MITIVPN@45.131.4.115:443?path=/MiTiVPN=Usa&security=tls&alpn=http/1.1&insecure=0&host=Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en---Proxy-Se7en&fp=chrome&type=ws&allowInsecure=0&sni=PioHosting.ir#🇳🇱 The Netherlands 🍓 @xixv2ray
 trojan://MITIVPN@45.131.4.115:443?security=tls&sni=PioHosting.ir&fp=chrome&alpn=http/1.1&insecure=0&allowInsecure=0&type=ws&host=PioHosting.ir&path=/MiTiVPN=Usa#🇳🇱 The Netherlands 🍓 @xixv2ray
 trojan://MITIVPN@45.131.4.115:443?security=tls&sni=PioHosting.ir&fp=chrome&alpn=http/1.1&insecure=0&allowInsecure=0&type=ws&host=PioHosting.ir&path=/MiTiVPN=Usa#🇳🇱 The Netherlands 🍓 @xixv2ray
-trojan://MITIVPN@45.8.211.217:443?path=/MiTiVPN=DE&security=tls&alpn=http/1.1&insecure=0&host=D--e.App-Cloud.ir&fp=chrome&type=ws&allowInsecure=0&sni=D--e.App-Cloud.ir#🇷🇺 Russia 🍓 @xixv2ray
 trojan://MITIVPN@45.8.211.217:443?path=/MiTiVPN=DE&security=tls&alpn=http/1.1&insecure=0&host=D--e.App-Cloud.ir&fp=chrome&type=ws&allowInsecure=0&sni=D--e.App-Cloud.ir#🇷🇺 Russia 🍓 @xixv2ray
 trojan://MITIVPN@45.8.211.217:443?path=/MiTiVPN=DE&sni=D--e.App-Cloud.ir&alpn=http/1.1&insecure=0&allowInsecure=0&type=ws&security=tls&fp=chrome&host=D--e.App-Cloud.ir#🇷🇺 Russia 🍓 @xixv2ray
 trojan://MITIVPN@45.8.211.217:443?type=ws&security=tls&path=/MiTiVPN=DE&host=D--e.App-Cloud.ir&sni=D--e.App-Cloud.ir&alpn=http/1.1&fp=chrome&insecure=0&allowInsecure=0#🇷🇺 Russia 🍓 @xixv2ray
@@ -192,6 +189,7 @@ trojan://MiTiVPN@104.18.152.225:443?path=/MiTiVPN=Se&security=tls&alpn=http/1.1&
 trojan://MiTiVPN@104.18.152.225:443?type=ws&security=tls&path=/MiTiVPN=Se&host=swe.App-Cloud.ir&sni=swe.App-Cloud.ir&alpn=http/1.1&fp=chrome&insecure=0&allowInsecure=0#🇨🇦 Canada 🍓 @xixv2ray
 trojan://MiTiVPN@104.18.152.225:443?type=ws&security=tls&path=/MiTiVPN=Se&host=swe.App-Cloud.ir&sni=swe.App-Cloud.ir&alpn=http/1.1&fp=chrome&insecure=0&allowInsecure=0#🇨🇦 Canada 🍓 @xixv2ray
 trojan://MiTiVPN@104.18.3.97:443?type=ws&security=tls&path=/MiTiVPN=fll&host=Fin-land.App-Cloud.ir&sni=Fin-land.App-Cloud.ir&alpn=h2,http/1.1&fp=chrome&insecure=0&allowInsecure=0#🇨🇦 Canada 🍓 @xixv2ray
+trojan://MiTiVPN@104.18.3.97:443?type=ws&security=tls&path=/MiTiVPN=fll&host=Fin-land.App-Cloud.ir&sni=Fin-land.App-Cloud.ir&alpn=h2,http/1.1&fp=chrome&insecure=0&allowInsecure=0#🇨🇦 Canada 🍓 @xixv2ray
 trojan://MiTiVPN@104.18.42.98:443?path=/MiTiVPN=Se&security=tls&alpn=http/1.1&insecure=0&host=s-w.App-Cloud.ir&fp=chrome&type=ws&allowInsecure=0&sni=s-w.App-Cloud.ir#🇨🇦 Canada 🍓 @xixv2ray
 trojan://MiTiVPN@104.18.42.98:443?path=/MiTiVPN=Se&security=tls&alpn=http/1.1&insecure=0&host=s-w.App-Cloud.ir&fp=chrome&type=ws&allowInsecure=0&sni=s-w.App-Cloud.ir#🇨🇦 Canada 🍓 @xixv2ray
 trojan://MiTiVPN@104.18.42.98:443?path=/MiTiVPN=Se&security=tls&alpn=http/1.1&insecure=0&host=s-w.App-Cloud.ir&fp=chrome&type=ws&allowInsecure=0&sni=s-w.App-Cloud.ir#🇨🇦 Canada 🍓 @xixv2ray
@@ -220,11 +218,10 @@ trojan://MiTiVPN@104.21.5.75:443?path=/MiTiVPN=Sw&security=tls&alpn=h3,h2,http/1
 trojan://MiTiVPN@104.21.5.75:443?path=/MiTiVPN=Sw&security=tls&alpn=h3,h2,http/1.1&insecure=0&host=sw-W.App-Cloud.ir&fp=chrome&type=ws&allowInsecure=0&sni=sw-W.App-Cloud.ir#🇨🇦 Canada 🍓 @xixv2ray
 trojan://MiTiVPN@104.21.5.75:443?path=/MiTiVPN=Sw&security=tls&alpn=h3,h2,http/1.1&insecure=0&host=sw-W.App-Cloud.ir&fp=chrome&type=ws&allowInsecure=0&sni=sw-W.App-Cloud.ir#🇨🇦 Canada 🍓 @xixv2ray
 trojan://MiTiVPN@104.21.5.75:443?path=/MiTiVPN=Sw&security=tls&alpn=h3,h2,http/1.1&insecure=0&host=sw-W.App-Cloud.ir&fp=chrome&type=ws&allowInsecure=0&sni=sw-W.App-Cloud.ir#🇨🇦 Canada 🍓 @xixv2ray
-trojan://MiTiVPN@104.21.61.186:443?path=/MiTiVPN=Sw&security=tls&type=ws&sni=sw-Ws.App-Cloud.ir&insecure=0&allowInsecure=0&alpn=http/1.1&host=sw-Ws.App-Cloud.ir&fp=chrome#🇨🇦 Canada 🍓 @xixv2ray
+trojan://MiTiVPN@104.21.5.75:443?path=/MiTiVPN=Sw&security=tls&alpn=h3,h2,http/1.1&insecure=0&host=sw-W.App-Cloud.ir&fp=chrome&type=ws&allowInsecure=0&sni=sw-W.App-Cloud.ir#🇨🇦 Canada 🍓 @xixv2ray
 trojan://MiTiVPN@104.21.61.186:443?path=/MiTiVPN=Sw&security=tls&type=ws&sni=sw-Ws.App-Cloud.ir&insecure=0&allowInsecure=0&alpn=http/1.1&host=sw-Ws.App-Cloud.ir&fp=chrome#🇨🇦 Canada 🍓 @xixv2ray
 trojan://MiTiVPN@104.21.61.186:443?type=ws&security=tls&path=/MiTiVPN=Sw&host=sw-Ws.App-Cloud.ir&sni=sw-Ws.App-Cloud.ir&alpn=http/1.1&fp=chrome&insecure=0&allowInsecure=0#🇨🇦 Canada 🍓 @xixv2ray
 trojan://MiTiVPN@104.24.17.0:443?path=/ed=mitivpn&security=tls&alpn=http/1.1&insecure=1&host=linkkon-w.ir&fp=chrome&type=ws&allowInsecure=1&sni=linkkon-w.ir#🇨🇦 Canada 🍓 @xixv2ray
-trojan://MiTiVPN@104.24.50.97:443?path=/ed=mitivpn&security=tls&alpn=http/1.1&insecure=0&host=linkkon-w.ir&fp=chrome&type=ws&allowInsecure=0&sni=linkkon-w.ir#🇨🇦 Canada 🍓 @xixv2ray
 trojan://MiTiVPN@104.24.50.97:443?path=/ed=mitivpn&security=tls&alpn=http/1.1&insecure=1&host=linkkon-w.ir&fp=chrome&type=ws&allowInsecure=1&sni=linkkon-w.ir#🇨🇦 Canada 🍓 @xixv2ray
 trojan://MiTiVPN@104.26.15.137:443?path=/MiTiVPN=USA&security=tls&alpn=h3,h2,http/1.1&insecure=0&host=us-a.App-Cloud.ir&fp=chrome&type=ws&allowInsecure=0&sni=us-a.App-Cloud.ir#🇨🇦 Canada 🍓 @xixv2ray
 trojan://MiTiVPN@104.26.15.137:443?path=/MiTiVPN=USA&security=tls&alpn=h3,h2,http/1.1&insecure=0&host=us-a.App-Cloud.ir&fp=chrome&type=ws&allowInsecure=0&sni=us-a.App-Cloud.ir#🇨🇦 Canada 🍓 @xixv2ray
@@ -234,7 +231,6 @@ trojan://MiTiVPN@151.101.1.194:443?path=/ed=mitivpn&security=tls&alpn=http/1.1&i
 trojan://MiTiVPN@151.101.1.242:443?path=/de=mitivpn&security=tls&alpn=http/1.1&insecure=0&host=www.f6r.ir&fp=chrome&type=ws&allowInsecure=0&sni=www.f6r.ir#🇺🇸 United States 🍓 @xixv2ray
 trojan://MiTiVPN@151.101.1.242:443?path=/de=mitivpn&security=tls&alpn=http/1.1&insecure=0&host=www.f6r.ir&fp=chrome&type=ws&allowInsecure=0&sni=www.f6r.ir#🇺🇸 United States 🍓 @xixv2ray
 trojan://MiTiVPN@151.101.1.242:443?path=/de=mitivpn&security=tls&alpn=http/1.1&insecure=0&host=www.f6r.ir&fp=chrome&type=ws&allowInsecure=0&sni=www.f6r.ir#🇺🇸 United States 🍓 @xixv2ray
-trojan://MiTiVPN@151.101.110.219:443?path=/MiTiVPN=NL&security=tls&alpn=http/1.1&insecure=0&host=esalat-mitivpn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#🇯🇵 Japan 🍓 @xixv2ray
 trojan://MiTiVPN@151.101.110.219:443?path=/MiTiVPN=NL&security=tls&alpn=http/1.1&insecure=0&host=esalat-mitivpn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#🇯🇵 Japan 🍓 @xixv2ray
 trojan://MiTiVPN@151.101.110.219:443?path=/MiTiVPN=NL&security=tls&alpn=http/1.1&insecure=0&host=esalat-mitivpn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#🇯🇵 Japan 🍓 @xixv2ray
 trojan://MiTiVPN@151.101.110.219:443?path=/MiTiVPN=NL&security=tls&alpn=http/1.1&insecure=0&host=esalat-mitivpn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#🇯🇵 Japan 🍓 @xixv2ray
@@ -249,7 +245,6 @@ trojan://MiTiVPN@151.101.193.242:443?path=/usa=mitivpn&security=tls&alpn=http/1.
 trojan://MiTiVPN@151.101.193.242:443?path=/usa=mitivpn&security=tls&alpn=http/1.1&insecure=0&host=f6r.ir&fp=chrome&type=ws&allowInsecure=0&sni=f6r.ir#🇺🇸 United States 🍓 @xixv2ray
 trojan://MiTiVPN@151.101.193.242:443?path=/usa=mitivpn&security=tls&alpn=http/1.1&insecure=0&host=f6r.ir&fp=chrome&type=ws&allowInsecure=0&sni=f6r.ir#🇺🇸 United States 🍓 @xixv2ray
 trojan://MiTiVPN@151.101.193.242:443?path=/usa=mitivpn&security=tls&alpn=http/1.1&insecure=0&host=f6r.ir&fp=chrome&type=ws&allowInsecure=0&sni=f6r.ir#🇺🇸 United States 🍓 @xixv2ray
-trojan://MiTiVPN@151.101.56.6:443?path=/MiTiVPN=fL&security=tls&alpn=http/1.1&insecure=0&host=esalat-mitivpn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#🇺🇸 United States 🍓 @xixv2ray
 trojan://MiTiVPN@151.101.56.6:443?path=/MiTiVPN=fL&security=tls&alpn=http/1.1&insecure=0&host=esalat-mitivpn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#🇺🇸 United States 🍓 @xixv2ray
 trojan://MiTiVPN@151.101.56.6:443?path=/MiTiVPN=fL&security=tls&alpn=http/1.1&insecure=0&host=esalat-mitivpn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#🇺🇸 United States 🍓 @xixv2ray
 trojan://MiTiVPN@151.101.56.6:443?path=/MiTiVPN=fL&security=tls&alpn=http/1.1&insecure=0&host=esalat-mitivpn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#🇺🇸 United States 🍓 @xixv2ray
@@ -271,14 +266,14 @@ trojan://MiTiVPN@172.67.74.47:443?path=/MiTiVPN=fll&security=tls&alpn=h3,h2,http
 trojan://MiTiVPN@172.67.74.47:443?path=/MiTiVPN=fll&security=tls&alpn=h3,h2,http/1.1&insecure=0&host=F-ll.App-Cloud.ir&fp=chrome&type=ws&allowInsecure=0&sni=F-ll.App-Cloud.ir#🇨🇦 Canada 🍓 @xixv2ray
 trojan://MiTiVPN@172.67.74.47:443?path=/MiTiVPN=fll&security=tls&alpn=h3,h2,http/1.1&insecure=0&host=F-ll.App-Cloud.ir&fp=chrome&type=ws&allowInsecure=0&sni=F-ll.App-Cloud.ir#🇨🇦 Canada 🍓 @xixv2ray
 trojan://MiTiVPN@172.67.74.47:443?path=/MiTiVPN=fll&security=tls&alpn=h3,h2,http/1.1&insecure=0&host=F-ll.App-Cloud.ir&fp=chrome&type=ws&allowInsecure=0&sni=F-ll.App-Cloud.ir#🇨🇦 Canada 🍓 @xixv2ray
+trojan://MiTiVPN@172.67.74.47:443?path=/MiTiVPN=fll&security=tls&alpn=h3,h2,http/1.1&insecure=0&host=F-ll.App-Cloud.ir&fp=chrome&type=ws&allowInsecure=0&sni=F-ll.App-Cloud.ir#🇨🇦 Canada 🍓 @xixv2ray
 trojan://MiTiVPN@172.67.74.47:443?type=ws&security=tls&path=/MiTiVPN=fll&host=F-ll.App-Cloud.ir&sni=F-ll.App-Cloud.ir&alpn=h3,h2,http/1.1&fp=chrome&insecure=0&allowInsecure=0#🇨🇦 Canada 🍓 @xixv2ray
 trojan://MiTiVPN@172.67.74.47:443?type=ws&security=tls&path=/MiTiVPN=fll&host=F-ll.App-Cloud.ir&sni=F-ll.App-Cloud.ir&alpn=h3,h2,http/1.1&fp=chrome&insecure=0&allowInsecure=0#🇨🇦 Canada 🍓 @xixv2ray
 trojan://MiTiVPN@185.133.35.22:443?path=/MiTiVPN=fL&security=tls&alpn=http/1.1&insecure=0&host=Finl.App-Cloud.ir&fp=chrome&type=ws&allowInsecure=0&sni=Finl.App-Cloud.ir#🇧🇷 Brazil 🍓 @xixv2ray
 trojan://MiTiVPN@188.114.96.6:443?type=ws&security=tls&path=/usa=mitivpn&host=f6r.ir&sni=f6r.ir&alpn=http/1.1&fp=chrome&insecure=0&allowInsecure=0#🇨🇦 Canada 🍓 @xixv2ray
 trojan://MiTiVPN@188.114.98.193:443?path=/MiTiVPN=De&security=tls&alpn=http/1.1&insecure=0&host=Ge.App-Cloud.ir&fp=chrome&type=ws&allowInsecure=0&sni=Ge.App-Cloud.ir#🇨🇦 Canada 🍓 @xixv2ray
 trojan://MiTiVPN@188.114.98.193:443?path=/MiTiVPN=De&security=tls&alpn=http/1.1&insecure=0&host=Ge.App-Cloud.ir&fp=chrome&type=ws&allowInsecure=0&sni=Ge.App-Cloud.ir#🇨🇦 Canada 🍓 @xixv2ray
-trojan://MiTiVPN@188.114.98.193:443?path=/MiTiVPN=De&security=tls&alpn=http/1.1&insecure=0&host=Ge.App-Cloud.ir&fp=chrome&type=ws&allowInsecure=0&sni=Ge.App-Cloud.ir#🇨🇦 Canada 🍓 @xixv2ray
-trojan://MiTiVPN@198.41.222.60:443?path=/ed=mitivpn&security=tls&alpn=http/1.1&insecure=0&host=linkkon-w.ir&fp=chrome&type=ws&allowInsecure=0&sni=linkkon-w.ir#🇨🇦 Canada 🍓 @xixv2ray
+trojan://MiTiVPN@199.181.197.176:443?alpn=http/1.1&fp=chrome&host=PioHosting.ir&path=/MiTiVPN=fL&sni=PioHosting.ir&type=ws#🇺🇸 United States 🍓 @xixv2ray
 trojan://MiTiVPN@199.181.197.176:443?path=/MiTiVPN=fL&security=tls&alpn=http/1.1&host=95r.ir&fp=chrome&type=ws&sni=95r.ir#🇺🇸 United States 🍓 @xixv2ray
 trojan://MiTiVPN@199.181.197.176:443?path=/MiTiVPN=fL&security=tls&alpn=http/1.1&insecure=0&host=95r.ir&fp=chrome&type=ws&allowInsecure=0&sni=95r.ir#🇺🇸 United States 🍓 @xixv2ray
 trojan://MiTiVPN@199.181.197.176:443?path=/MiTiVPN=fL&security=tls&alpn=http/1.1&insecure=0&host=95r.ir&fp=chrome&type=ws&allowInsecure=0&sni=95r.ir#🇺🇸 United States 🍓 @xixv2ray
@@ -296,10 +291,9 @@ trojan://MiTiVPN@199.232.237.250:443?path=/MiTiVPN=NL&security=tls&alpn=http/1.1
 trojan://MiTiVPN@199.232.78.140:443?path=/MiTiVPN=fL&security=tls&alpn=http/1.1&host=miticonfig.global.ssl.fastly.net&fp=chrome&type=ws&sni=ssl.fastly.com#🇺🇸 United States 🍓 @xixv2ray
 trojan://MiTiVPN@199.232.78.140:443?path=/MiTiVPN=fL&security=tls&alpn=http/1.1&insecure=1&host=miticonfig.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=1&sni=ssl.fastly.com#🇺🇸 United States 🍓 @xixv2ray
 trojan://MiTiVPN@45.130.125.2:443?insecure=0&security=tls&sni=Netland.App-Cloud.ir&allowInsecure=0&type=ws&host=Netland.App-Cloud.ir&alpn=http/1.1&fp=chrome&path=/MiTiVPN=N-L#🇸🇨 Seychelles 🍓 @xixv2ray
-trojan://MiTiVPN@45.130.125.2:443?insecure=0&security=tls&sni=Netland.App-Cloud.ir&allowInsecure=0&type=ws&host=Netland.App-Cloud.ir&alpn=http/1.1&fp=chrome&path=/MiTiVPN=N-L#🇸🇨 Seychelles 🍓 @xixv2ray
-trojan://MiTiVPN@45.130.125.2:443?type=ws&security=tls&path=/MiTiVPN=N-L&host=Netland.App-Cloud.ir&sni=Netland.App-Cloud.ir&alpn=http/1.1&fp=chrome&insecure=0&allowInsecure=0#🇸🇨 Seychelles 🍓 @xixv2ray
 trojan://MiTiVPN@45.130.125.2:443?type=ws&security=tls&path=/MiTiVPN=N-L&host=Netland.App-Cloud.ir&sni=Netland.App-Cloud.ir&alpn=http/1.1&fp=chrome&insecure=0&allowInsecure=0#🇸🇨 Seychelles 🍓 @xixv2ray
 trojan://MiTiVPN@45.131.4.115:443?path=/MiTiVPN=N-L&security=tls&alpn=h3,h2,http/1.1&host=Nl-L.App-Cloud.ir&fp=chrome&type=ws&sni=Nl-L.App-Cloud.ir#🇳🇱 The Netherlands 🍓 @xixv2ray
+trojan://MiTiVPN@45.131.4.115:443?path=/MiTiVPN=N-L&security=tls&alpn=h3,h2,http/1.1&insecure=0&host=Nl-L.App-Cloud.ir&fp=chrome&type=ws&allowInsecure=0&sni=Nl-L.App-Cloud.ir#🇳🇱 The Netherlands 🍓 @xixv2ray
 trojan://MiTiVPN@45.131.4.115:443?path=/MiTiVPN=N-L&security=tls&alpn=h3,h2,http/1.1&insecure=0&host=Nl-L.App-Cloud.ir&fp=chrome&type=ws&allowInsecure=0&sni=Nl-L.App-Cloud.ir#🇳🇱 The Netherlands 🍓 @xixv2ray
 trojan://MiTiVPN@45.131.4.115:443?path=/MiTiVPN=N-L&security=tls&alpn=h3,h2,http/1.1&insecure=0&host=Nl-L.App-Cloud.ir&fp=chrome&type=ws&allowInsecure=0&sni=Nl-L.App-Cloud.ir#🇳🇱 The Netherlands 🍓 @xixv2ray
 trojan://MiTiVPN@45.131.4.115:443?path=/MiTiVPN=N-L&security=tls&alpn=h3,h2,http/1.1&insecure=0&host=Nl-L.App-Cloud.ir&fp=chrome&type=ws&allowInsecure=0&sni=Nl-L.App-Cloud.ir#🇳🇱 The Netherlands 🍓 @xixv2ray
@@ -339,6 +333,7 @@ trojan://MiTiVPN@45.131.4.118:443?security=tls&sni=95r.ir&fp=chrome&alpn=http/1.
 trojan://MiTiVPN@51.91.254.99:443?path=/MiTiVPN=fL&security=tls&alpn=http/1.1&insecure=0&host=F--l.App-Cloud.ir&fp=chrome&type=ws&allowInsecure=0&sni=F--l.App-Cloud.ir#🇫🇷 France 🍓 @xixv2ray
 trojan://MiTiVPN@51.91.254.99:443?path=/MiTiVPN=fL&security=tls&alpn=http/1.1&insecure=0&host=F--l.App-Cloud.ir&fp=chrome&type=ws&allowInsecure=0&sni=F--l.App-Cloud.ir#🇫🇷 France 🍓 @xixv2ray
 trojan://MiTiVPN@51.91.254.99:443?path=/MiTiVPN=fL&security=tls&alpn=http/1.1&insecure=0&host=F--l.App-Cloud.ir&fp=chrome&type=ws&allowInsecure=0&sni=F--l.App-Cloud.ir#🇫🇷 France 🍓 @xixv2ray
+trojan://MiTiVPN@88.216.67.230:443#🇱🇹 Lithuania 🍓 @xixv2ray
 trojan://MiTiVPN@88.216.67.230:443?alpn=http/1.1&fp=chrome&host=Nel.App-Cloud.ir&path=/MiTiVPN=NL&sni=Nel.App-Cloud.ir&type=ws#🇱🇹 Lithuania 🍓 @xixv2ray
 trojan://MiTiVPN@88.216.67.230:443?path=/MiTiVPN=NL&security=tls&alpn=http/1.1&insecure=0&host=Nel.App-Cloud.ir&fp=chrome&type=ws&allowInsecure=0&sni=Nel.App-Cloud.ir#🇱🇹 Lithuania 🍓 @xixv2ray
 trojan://MiTiVPN@88.216.67.230:443?path=/MiTiVPN=NL&security=tls&alpn=http/1.1&insecure=0&host=Nel.App-Cloud.ir&fp=chrome&type=ws&allowInsecure=0&sni=Nel.App-Cloud.ir#🇱🇹 Lithuania 🍓 @xixv2ray
@@ -351,6 +346,7 @@ trojan://MiTiVPN@89.116.180.49:443?path=/nl=mitivpn&security=tls&alpn=http/1.1&i
 trojan://MiTiVPN@91.193.58.201:443?host=Fl.App-Cloud.ir&path=/MiTiVPN=fL&sni=Fl.App-Cloud.ir&type=ws#🇬🇧 United Kingdom 🍓 @xixv2ray
 trojan://MiTiVPN@91.193.58.201:443?path=/MiTiVPN=NL&security=tls&alpn=http/1.1&host=95r.ir&fp=chrome&type=ws&sni=95r.ir#🇬🇧 United Kingdom 🍓 @xixv2ray
 trojan://MiTiVPN@91.193.58.201:443?path=/MiTiVPN=NL&security=tls&alpn=http/1.1&host=PioHosting.ir&fp=chrome&type=ws&sni=PioHosting.ir#🇬🇧 United Kingdom 🍓 @xixv2ray
+trojan://MiTiVPN@91.193.58.201:443?path=/MiTiVPN=NL&security=tls&alpn=http/1.1&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=PioHosting.ir#🇬🇧 United Kingdom 🍓 @xixv2ray
 trojan://MiTiVPN@91.193.58.201:443?path=/MiTiVPN=NL&security=tls&alpn=http/1.1&insecure=0&host=95r.ir&fp=chrome&type=ws&allowInsecure=0&sni=95r.ir#🇬🇧 United Kingdom 🍓 @xixv2ray
 trojan://MiTiVPN@91.193.58.201:443?path=/MiTiVPN=NL&security=tls&alpn=http/1.1&insecure=0&host=95r.ir&fp=chrome&type=ws&allowInsecure=0&sni=95r.ir#🇬🇧 United Kingdom 🍓 @xixv2ray
 trojan://MiTiVPN@91.193.58.201:443?path=/MiTiVPN=NL&security=tls&alpn=http/1.1&insecure=0&host=95r.ir&fp=chrome&type=ws&allowInsecure=0&sni=95r.ir#🇬🇧 United Kingdom 🍓 @xixv2ray
@@ -417,7 +413,6 @@ trojan://MiTiVPN@celestara.biz:443?type=ws&security=tls&path=/MiTiVPN=NL&host=Nl
 trojan://MiTiVPN@celestara.biz:443?type=ws&security=tls&path=/MiTiVPN=Se&host=sw.App-Cloud.ir&sni=sw.App-Cloud.ir&alpn=http/1.1&fp=chrome&insecure=0&allowInsecure=0#🇨🇦 Canada 🍓 @xixv2ray
 trojan://MiTiVPN@celestara.biz:443?type=ws&security=tls&path=/MiTiVPN=fL&host=Fl.App-Cloud.ir&sni=fl.App-Cloud.ir&alpn=http/1.1&fp=chrome&insecure=0&allowInsecure=0#🇨🇦 Canada 🍓 @xixv2ray
 trojan://MiTiVPN@openai.com:443?path=/MiTiVPN=fL&security=tls&alpn=http/1.1&insecure=0&host=Finl.App-Cloud.ir&fp=chrome&type=ws&allowInsecure=0&sni=Finl.App-Cloud.ir#🇨🇦 Canada 🍓 @xixv2ray
-trojan://MiTiVPN@openai.com:443?security=tls&sni=Finl.App-Cloud.ir&alpn=http/1.1&fp=chrome&type=ws&host=Finl.App-Cloud.ir&path=/MiTiVPN=fL#🇨🇦 Canada 🍓 @xixv2ray
 trojan://MiTiVPN@openai.com:443?type=ws&security=tls&path=/MiTiVPN=NL&host=N--l.App-Cloud.ir&sni=N--l.App-Cloud.ir&alpn=http/1.1&fp=chrome&insecure=0&allowInsecure=0#🇨🇦 Canada 🍓 @xixv2ray
 trojan://MiTiVPN@openai.com:443?type=ws&security=tls&path=/MiTiVPN=NL&host=Nel.App-Cloud.ir&sni=Nel.App-Cloud.ir&alpn=http/1.1&fp=chrome&insecure=0&allowInsecure=0#🇨🇦 Canada 🍓 @xixv2ray
 trojan://MiTiVPN@openai.com:443?type=ws&security=tls&path=/MiTiVPN=Se&host=s-w.App-Cloud.ir&sni=s-w.App-Cloud.ir&alpn=http/1.1&fp=chrome&insecure=0&allowInsecure=0#🇨🇦 Canada 🍓 @xixv2ray
@@ -498,3 +493,8 @@ trojan://Mitivpn@151.101.56.6:443?path=/fastly=mitivpn&security=tls&alpn=http/1.
 trojan://Mitivpn@151.101.56.6:443?path=/slowdns&security=tls&insecure=0&host=4-4-3-mitivpn.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=ssl.fastly.com#🇺🇸 United States 🍓 @xixv2ray
 trojan://Mitivpn@151.101.56.6:443?path=/slowdns&security=tls&insecure=0&host=4-4-3-mitivpn.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=ssl.fastly.com#🇺🇸 United States 🍓 @xixv2ray
 trojan://Mitivpn@151.101.56.6:443?security=tls&sni=ssl.fastly.com&fp=chrome&alpn=http/1.1&insecure=0&allowInsecure=0&type=ws&host=4-4-3-mitivpn.global.ssl.fastly.net&path=/fastly=mitivpn#🇺🇸 United States 🍓 @xixv2ray
+trojan://Mitivpn@151.101.56.6:443?security=tls&sni=ssl.fastly.com&insecure=0&allowInsecure=0&type=ws&host=4-4-3-mitivpn.global.ssl.fastly.net&path=/boost#🇺🇸 United States 🍓 @xixv2ray
+trojan://Mitivpn@151.101.56.6:443?security=tls&sni=ssl.fastly.com&insecure=0&allowInsecure=0&type=ws&host=4-4-3-mitivpn.global.ssl.fastly.net&path=/fast-speed#🇺🇸 United States 🍓 @xixv2ray
+trojan://Mitivpn@151.101.56.6:443?security=tls&sni=ssl.fastly.com&insecure=0&allowInsecure=0&type=ws&host=4-4-3-mitivpn.global.ssl.fastly.net&path=/slowdns#🇺🇸 United States 🍓 @xixv2ray
+trojan://Mitivpn@167.82.101.251:443?path=/de&security=tls&alpn=http/1.1&insecure=0&host=3-mitivpn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#🇺🇸 United States 🍓 @xixv2ray
+trojan://Mitivpn@167.82.101.251:443?path=/de&security=tls&alpn=http/1.1&insecure=0&host=3-mitivpn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#🇺🇸 United States 🍓 @xixv2ray
