@@ -3,6 +3,8 @@
 
 
 
+trojan://86957ec0-b213-433b-a43b-51f2175e0ec3@104.16.72.41:443?path=/au-do&security=tls&host=space.byu.id.yxls.eu.cc&type=ws&sni=space.byu.id.yxls.eu.cc#🇨🇦 Canada 🍓 @xixv2ray
+trojan://86957ec0-b213-433b-a43b-51f2175e0ec3@104.16.72.41:443?path=/au-do&security=tls&insecure=0&host=space.byu.id.yxls.eu.cc&type=ws&allowInsecure=0&sni=space.byu.id.yxls.eu.cc#🇨🇦 Canada 🍓 @xixv2ray
 trojan://86957ec0-b213-433b-a43b-51f2175e0ec3@104.16.72.41:443?path=/au-do&security=tls&insecure=0&host=space.byu.id.yxls.eu.cc&type=ws&allowInsecure=0&sni=space.byu.id.yxls.eu.cc#🇨🇦 Canada 🍓 @xixv2ray
 trojan://86957ec0-b213-433b-a43b-51f2175e0ec3@104.16.72.41:443?path=/au-do&security=tls&insecure=0&host=space.byu.id.yxls.eu.cc&type=ws&allowInsecure=0&sni=space.byu.id.yxls.eu.cc#🇨🇦 Canada 🍓 @xixv2ray
 trojan://86957ec0-b213-433b-a43b-51f2175e0ec3@104.16.72.41:443?path=/au-do&security=tls&insecure=0&host=space.byu.id.yxls.eu.cc&type=ws&allowInsecure=0&sni=space.byu.id.yxls.eu.cc#🇨🇦 Canada 🍓 @xixv2ray
@@ -496,5 +498,3 @@ trojan://Mitivpn@151.101.56.6:443?path=/fastly=mitivpn&security=tls&alpn=http/1.
 trojan://Mitivpn@151.101.56.6:443?path=/slowdns&security=tls&insecure=0&host=4-4-3-mitivpn.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=ssl.fastly.com#🇺🇸 United States 🍓 @xixv2ray
 trojan://Mitivpn@151.101.56.6:443?path=/slowdns&security=tls&insecure=0&host=4-4-3-mitivpn.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=ssl.fastly.com#🇺🇸 United States 🍓 @xixv2ray
 trojan://Mitivpn@151.101.56.6:443?security=tls&sni=ssl.fastly.com&fp=chrome&alpn=http/1.1&insecure=0&allowInsecure=0&type=ws&host=4-4-3-mitivpn.global.ssl.fastly.net&path=/fastly=mitivpn#🇺🇸 United States 🍓 @xixv2ray
-trojan://Mitivpn@151.101.56.6:443?security=tls&sni=ssl.fastly.com&insecure=0&allowInsecure=0&type=ws&host=4-4-3-mitivpn.global.ssl.fastly.net&path=/boost#🇺🇸 United States 🍓 @xixv2ray
-trojan://Mitivpn@151.101.56.6:443?security=tls&sni=ssl.fastly.com&insecure=0&allowInsecure=0&type=ws&host=4-4-3-mitivpn.global.ssl.fastly.net&path=/fast-speed#🇺🇸 United States 🍓 @xixv2ray
