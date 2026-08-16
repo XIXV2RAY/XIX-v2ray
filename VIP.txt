@@ -3720,7 +3720,7 @@ vless://6cd78ec7-b715-471c-92b4-0c3842caea4b@104.25.118.238:80?ed=2560&eh=Sec-We
 
 vless://6d613d5f-1d65-48ca-b2e8-d83a2c3a17d9@www.baipiao.eu.org:8880?encryption=none&host=tight-star-08eb.331-729.workers.dev&path=/pyip=ProxyIP.JP.CMLiussss.net&security=none&type=ws#🇨🇦 Canada 🍓 @xixv2ray
 
-vless://6d6b7a8d-a9fa-4889-a5f4-d112c6b6f494@104.17.58.113:8880?type=ws&security=none&path=/pyip=ProxyIP.SG.CMLiussss.net&host=small-cake-e99b.390-a20.workers.dev#🇨🇦 Canada 🍓 @xixv2ray
+vless://6d6b7a8d-a9fa-4889-a5f4-d112c6b6f494@104.17.58.113:8880?type=ws&security=none&path=/pyip=ProxyIP.SG.CMLiussss.net&host=small-cake-e99b.390-a20.workers.dev#🍓 @xixv2ray
 
 vless://6d73dc1e-1627-4b16-b471-53e63aa16c78@deepl.com:8880?encryption=none&host=sweet-truth-ccdb.134-7e9.workers.dev&path=/pyip=ProxyIP.SG.CMLiussss.net&security=none&type=ws#🇨🇦 Canada 🍓 @xixv2ray
 
@@ -3782,7 +3782,7 @@ vless://79dafc6f-e61b-46cf-8a3c-74f6304d230c@freesocks.work:2083?path=/&security
 
 vless://7a3fa6b9-e862-4b3f-b742-a9168c4fa3b6@5.178.85.237:8443?encryption=none&fp=qq&mode=gun&pbk=qelF5ISLNY4UwIbV2PspjgWe9_8oZeVEbIbXFlkakx4&security=reality&sid=23bc2471787cce68&sni=5post-gate.x5.ru&type=grpc#🇷🇺 Russia 🍓 @xixv2ray
 
-vless://7b102311-43fd-4e8f-877e-8090623c101d@104.17.111.27:8443?encryption=none&fp=chrome&host=round-art-52ee.eadfgv.workers.dev&path=/&security=tls&sni=round-art-52ee.eadfgv.workers.dev&type=ws#🍓 @xixv2ray
+vless://7b102311-43fd-4e8f-877e-8090623c101d@104.17.111.27:8443?encryption=none&fp=chrome&host=round-art-52ee.eadfgv.workers.dev&path=/&security=tls&sni=round-art-52ee.eadfgv.workers.dev&type=ws#🇨🇦 Canada 🍓 @xixv2ray
 
 vless://7b188eea-b08f-42c2-bac7-d3b0e74218b8@147.182.212.232:56565?security=reality&type=tcp&sni=www.paypal.com&fp=chrome&flow=xtls-rprx-vision&pbk=Td03Ae-cuYLq4xg7MSps58c_yRUcbbwtZLXm0ywabjY&encryption=none#🇺🇸 United States 🍓 @xixv2ray
 
@@ -4134,7 +4134,7 @@ vless://d2733ae6-44e7-4b14-8c2d-3f5bef74cdec@144.31.157.104:20017?security=none&
 
 vless://d2733ae6-44e7-4b14-8c2d-3f5bef74cdec@xn-de.dbsll.ir:20017?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#🇺🇸 United States 🍓 @xixv2ray
 
-vless://d361072e-9e0e-4e2d-8ec7-2a4189b5b23a@172.64.155.209:2053?security=tls&type=ws&path=/J5aLQOY1R9ONWYCM&host=ov.iran-servers.shop&packetEncoding=none&allowInsecure=1&sni=ov.iran-servers.shop&fp=chrome#🍓 @xixv2ray
+vless://d361072e-9e0e-4e2d-8ec7-2a4189b5b23a@172.64.155.209:2053?security=tls&type=ws&path=/J5aLQOY1R9ONWYCM&host=ov.iran-servers.shop&packetEncoding=none&allowInsecure=1&sni=ov.iran-servers.shop&fp=chrome#🇨🇦 Canada 🍓 @xixv2ray
 
 vless://d361072e-9e0e-4e2d-8ec7-2a4189b5b23a@188.114.97.6:2053?security=tls&type=ws&path=/J5aLQOY1R9ONWYCM&host=ov.iran-servers.shop&sni=ov.iran-servers.shop&fp=chrome&encryption=none#🍓 @xixv2ray
 
@@ -4176,7 +4176,7 @@ vless://db3f09ae-23f2-42b8-abee-7b89fb392c5e@104.26.14.85:8443?security=tls&type
 
 vless://db3f09ae-23f2-42b8-abee-7b89fb392c5e@162.159.253.41:8443?security=tls&type=ws&path=/uploader.php&host=maple.adaspoloandco.com&alpn=h2,http/1.1&sni=maple.adaspoloandco.com&fp=chrome&encryption=none#🍓 @xixv2ray
 
-vless://db3f09ae-23f2-42b8-abee-7b89fb392c5e@172.64.155.209:8443?security=tls&type=ws&path=/uploader.php&host=maple.adaspoloandco.com&alpn=h2,http/1.1&sni=maple.adaspoloandco.com&fp=chrome&encryption=none#🍓 @xixv2ray
+vless://db3f09ae-23f2-42b8-abee-7b89fb392c5e@172.64.155.209:8443?security=tls&type=ws&path=/uploader.php&host=maple.adaspoloandco.com&alpn=h2,http/1.1&sni=maple.adaspoloandco.com&fp=chrome&encryption=none#🇨🇦 Canada 🍓 @xixv2ray
 
 vless://db3f09ae-23f2-42b8-abee-7b89fb392c5e@188.114.97.4:8443?security=tls&type=ws&path=/uploader.php&host=maple.adaspoloandco.com&alpn=h2,http/1.1&sni=maple.adaspoloandco.com&fp=chrome&encryption=none#🇨🇦 Canada 🍓 @xixv2ray
 
@@ -4192,7 +4192,7 @@ vless://ddef628e-e3a8-43c4-85eb-bd767a5f3b13@104.16.72.101:8880?encryption=none&
 
 vless://df301b32-1152-4526-9a63-beedd93d3156@172.67.75.172:80?encryption=none&host=vl.dalazhi.cloudns.biz&path=/&security=none&type=ws#🍓 @xixv2ray
 
-vless://df5dc160-3764-4e6b-805d-1286ea701310@www.iplocation.net:8880?encryption=none&security=none&alpn=http/1.1&type=ws&host=dawn-mode-a061.444-a0e.workers.dev&path=/pyip=ProxyIP.US.CMLiussss.net#🇨🇦 Canada 🍓 @xixv2ray
+vless://df5dc160-3764-4e6b-805d-1286ea701310@www.iplocation.net:8880?encryption=none&security=none&alpn=http/1.1&type=ws&host=dawn-mode-a061.444-a0e.workers.dev&path=/pyip=ProxyIP.US.CMLiussss.net#🍓 @xixv2ray
 
 vless://e056ef00-8622-07d0-86d2-68db9a113170@139.100.197.28:52006?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=search.setlisting.ru&type=raw#🇫🇷 France 🍓 @xixv2ray
 
@@ -4272,7 +4272,7 @@ vless://e7961655-9674-4cbd-a36f-ec0d5d7d660c@po.fastbrokencompony.com:2053?encry
 
 vless://e7c4105c-baca-07d0-b1ea-b48af0c378bd@139.100.197.28:52006?encryption=none&flow=xtls-rprx-vision&security=tls&sni=search.setlisting.ru&alpn=h2,http/1.1&type=tcp&headerType=none#🇫🇷 France 🍓 @xixv2ray
 
-vless://e7e90e6b-8069-4cb8-bad9-a3b364dd5d71@api.ferrin.uk:443?alpn=h2&encryption=none&fp=firefox&mode=auto&path=/&security=tls&sni=e7e90e6b.ferrin.uk&type=xhttp#🇳🇱 The Netherlands 🍓 @xixv2ray
+vless://e7e90e6b-8069-4cb8-bad9-a3b364dd5d71@api.ferrin.uk:443?alpn=h2&encryption=none&fp=firefox&mode=auto&path=/&security=tls&sni=e7e90e6b.ferrin.uk&type=xhttp#🇱🇹 Lithuania 🍓 @xixv2ray
 
 vless://e855d18e-ad52-4c53-8cea-27bf4ea0dfc8@95.163.232.183:443?encryption=none&fp=qq&mode=gun&pbk=V6FabatADtcX7aO9KMjGCadJC4LuQ_5nRViab-z-nFQ&security=reality&serviceName=5post.gate.v1&sid=abcd&sni=5post-gate.x5.ru&type=grpc#🇷🇺 Russia 🍓 @xixv2ray
 
@@ -4394,7 +4394,7 @@ vless://f6fc0eed-ec8c-4f6a-883d-421706ca6886@194.26.229.212:2200?encryption=none
 
 vless://f798a2c4-c51b-409d-b349-ca8455b36796@104.19.64.105:8443?security=tls&type=ws&path=/download.php&host=chopin.adaspoloandco.com&alpn=h2,http/1.1&sni=chopin.adaspoloandco.com&fp=chrome&encryption=none#🍓 @xixv2ray
 
-vless://f7cc1898-52f8-4e8e-9a90-320fc7fdadb8@104.17.58.113:8880?encryption=none&security=none&type=ws&host=raspy-truth-565b.394-8bb.workers.dev&path=/pyip=ProxyIP.SG.CMLiussss.net#🇨🇦 Canada 🍓 @xixv2ray
+vless://f7cc1898-52f8-4e8e-9a90-320fc7fdadb8@104.17.58.113:8880?encryption=none&security=none&type=ws&host=raspy-truth-565b.394-8bb.workers.dev&path=/pyip=ProxyIP.SG.CMLiussss.net#🍓 @xixv2ray
 
 vless://f8fff57f-224a-4ae3-80c1-a9299796ad7c@172.67.215.201:2096?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&fp=chrome&host=11.ez-70ef02.workers.dev&path=/eyJqdW5rIjoicmc2S3lEeXFMV3Y3UHkiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6WyI1Ny4xMjkuNDcuNTIiXX0=&security=tls&sni=11.ez-70ef02.workers.dev&type=ws#🍓 @xixv2ray
 
