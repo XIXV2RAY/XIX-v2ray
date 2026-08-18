@@ -4,7 +4,7 @@
 
 
 
-trojan://6ec301428255a78a1d826988d86cc87e@2c.fast9988.com:50887?security=tls&sni=www.nintendogames.net&type=tcp&path=/#🇯🇵 Japan 🍓 @xixv2ray
+trojan://6ec301428255a78a1d826988d86cc87e@2c.fast9988.com:50887?security=tls&sni=www.nintendogames.net&type=tcp&path=/#🇸🇬 Singapore 🍓 @xixv2ray
 
 trojan://6ec301428255a78a1d826988d86cc87e@95.40.110.184:50887?security=tls&sni=www.nintendogames.net&type=tcp&headerType=none#🇭🇰 Hong Kong 🍓 @xixv2ray
 
@@ -6346,13 +6346,13 @@ vless://e5cc16a6-ea42-46b2-82ae-ad2157e1641b@yd.mmhh.eu.cc:443?encryption=none&f
 
 vless://e6d8d743-a9bc-48c9-be99-8f3cc94d16e1@ako.pagate.top:443?security=tls&type=raw&sni=ako.pagate.top&fp=chrome&flow=xtls-rprx-vision-udp443&encryption=none#🇰🇷 South Korea 🍓 @xixv2ray
 
-vless://e7961655-9674-4cbd-a36f-ec0d5d7d660c@172.66.44.97:2053?path=/&security=tls&encryption=none&insecure=0&host=po.fastbrokencompony.com&ech=ip.gs+udp://8.8.8.8&type=ws&allowInsecure=0&sni=po.fastbrokencompony.com#🇨🇦 Canada 🍓 @xixv2ray
+vless://e7961655-9674-4cbd-a36f-ec0d5d7d660c@172.66.44.97:2053?path=/&security=tls&encryption=none&insecure=0&host=po.fastbrokencompony.com&ech=ip.gs+udp://8.8.8.8&type=ws&allowInsecure=0&sni=po.fastbrokencompony.com#🍓 @xixv2ray
 
 vless://e7961655-9674-4cbd-a36f-ec0d5d7d660c@45.130.125.158:2053?encryption=none&host=po.fastbrokencompony.com&path=/&security=tls&sni=po.fastbrokencompony.com&type=ws#🇸🇨 Seychelles 🍓 @xixv2ray
 
 vless://e7961655-9674-4cbd-a36f-ec0d5d7d660c@one-for-all.levikogjgfdd.ir:2053?encryption=none&type=ws&security=tls&path=/&host=po.fastbrokencompony.com&sni=po.fastbrokencompony.com&alpn=h3,h2&fp=chrome&insecure=0&allowInsecure=0#🇨🇦 Canada 🍓 @xixv2ray
 
-vless://e7961655-9674-4cbd-a36f-ec0d5d7d660c@po.fastbrokencompony.com:2053?encryption=none&path=/&security=tls&type=ws#🇨🇦 Canada 🍓 @xixv2ray
+vless://e7961655-9674-4cbd-a36f-ec0d5d7d660c@po.fastbrokencompony.com:2053?encryption=none&path=/&security=tls&type=ws#🍓 @xixv2ray
 
 vless://e8b1500b-e9e8-5492-8312-f4eadf7d0767@162.19.10.99:443?alpn=h2&encryption=none&flow=xtls-rprx-vision&fp=chrome&security=tls&sni=nasnet-162191099-direct.mbghalibaf.com&type=tcp#🇫🇷 France 🍓 @xixv2ray
 
@@ -6360,7 +6360,7 @@ vless://e8b1500b-e9e8-5492-8312-f4eadf7d0767@nasnet-162191099-direct.mbghalibaf.
 
 vless://e8e34074-166f-48a6-9f86-398ad796c3ca@hidden-bonus-24d0.232-647.workers.dev:8880?encryption=none&path=/pyip=ProxyIP.SG.CMLiussss.net&security=none&type=ws#🇨🇦 Canada 🍓 @xixv2ray
 
-vless://eab915bc-d2df-73d1-47d0-6eb240497055@it.fifapes.monster:29148?encryption=none&security=none&type=tcp&headerType=http#🇦🇪 United Arab Emirates 🍓 @xixv2ray
+vless://eab915bc-d2df-73d1-47d0-6eb240497055@it.fifapes.monster:29148?encryption=none&security=none&type=tcp&headerType=http#🇫🇮 Finland 🍓 @xixv2ray
 
 vless://ebc5d13e-83ce-07d0-82cd-f7415eee86ac@84.38.185.149:52006?alpn=h2,http/1.1&encryption=none&flow=xtls-rprx-vision&fp=qq&security=tls&sni=claudecode.fastaichat.ru&type=raw#🇷🇺 Russia 🍓 @xixv2ray
 
@@ -6380,7 +6380,7 @@ vless://f178a8ac-48ca-4510-8a16-4ef6f972f240@104.16.71.7:443?path=/eyJqdW5rIjoiO
 
 vless://f1c496bf-d2ab-45be-bc13-051d60d227b7@84.32.209.7:443?encryption=none&flow=xtls-rprx-vision&pbk=00n9LplaZ0VGvRS57548s7xe0deFC10pw2fkFHFPplM&security=reality&sni=dartsearch-cn.net&type=tcp#🇱🇹 Lithuania 🍓 @xixv2ray
 
-vless://f2f4e2dc-3e7b-402f-a461-b48acc6aa310@172.67.219.176:2087?alpn=http/1.1&ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&fp=chrome&host=steep-bonus-8e6a.amirhon1376.workers.dev&path=/eyJqdW5rIjoid2JBOTRVclNMOVdBSVQiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119&security=tls&sni=sTeEp-BoNUs-8E6A.AmIrhon1376.woRKeRS.dEv&type=ws#🇨🇦 Canada 🍓 @xixv2ray
+vless://f2f4e2dc-3e7b-402f-a461-b48acc6aa310@172.67.219.176:2087?alpn=http/1.1&ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&fp=chrome&host=steep-bonus-8e6a.amirhon1376.workers.dev&path=/eyJqdW5rIjoid2JBOTRVclNMOVdBSVQiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119&security=tls&sni=sTeEp-BoNUs-8E6A.AmIrhon1376.woRKeRS.dEv&type=ws#🍓 @xixv2ray
 
 vless://f3c44fd2-a2f0-475d-864d-785403c4feec@188.72.103.4:443?alpn=h2,http/1.1&encryption=none&extra={"host":"","path":"/app/static/runtime-5f8d/","mode":"","headers":null,"xPaddingBytes":"0","xPaddingObfsMode":true,"xPaddingKey":"hash","xPaddingHeader":"X-Client-Version","xPaddingPlacement":"queryInHeader","xPaddingMethod":"tokenish","uplinkHTTPMethod":"GET","sessionIDPlacement":"header","sessionIDKey":"X-Upload-Token","sessionIDTable":"","sessionIDLength":"0","seqPlacement":"query","seqKey":"chunk_id","uplinkDataPlacement":"","uplinkDataKey":"","uplinkChunkSize":"0","noGRPCHeader":false,"noSSEHeader":false,"scMaxEachPostBytes":"0","scMinPostsIntervalMs":"0","scMaxBufferedPosts":0,"scStreamUpServerSecs":"0","serverMaxHeaderBytes":0,"xmux":{"maxConcurrency":"12-24","maxConnections":"0","cMaxReuseTimes":"100","hMaxRequestTimes":"0","hMaxReusableSecs":"0","hKeepAlivePeriod":0},"downloadSettings":null,"extra":null}&fp=edge&host=carbonara.hotwigga.space&mode=packet-up&path=/app/static/runtime-5f8d/&security=tls&sni=carbonara.hotwigga.space&type=xhttp#🇦🇪 United Arab Emirates 🍓 @xixv2ray
 
