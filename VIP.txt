@@ -5408,7 +5408,7 @@ vless://f47ac10b-58cc-4372-a567-0e02b2c3d479@45.130.125.114:8443?path=/&security
 
 vless://f4d859eb-abc6-4c57-9eee-8fe9e2ef0f94@80.240.18.227:10051?encryption=none&fp=chrome&host=d-l28t5-65-b.pbe40wmcujaw726h7cpqernzmawz4stwtrnqve0n1s5reht.workers.dev&path=/@Marisa_kristi&security=tls&sni=d-l28t5-65-b.pbe40wmcujaw726h7cpqernzmawz4stwtrnqve0n1s5reht.workers.dev&type=ws#🇩🇪 Germany 🍓 @xixv2ray
 
-vless://f4e6476f-40d0-40cb-841f-cc2f6909ff20@www.gov.ua:8880?path=/pyip=ProxyIP.SG.CMLiussss.net&security=none&encryption=none&host=calm-haze-d105.21-7cd.workers.dev&type=ws#🇨🇦 Canada 🍓 @xixv2ray
+vless://f4e6476f-40d0-40cb-841f-cc2f6909ff20@www.gov.ua:8880?path=/pyip=ProxyIP.SG.CMLiussss.net&security=none&encryption=none&host=calm-haze-d105.21-7cd.workers.dev&type=ws#🍓 @xixv2ray
 
 vless://f6190ff2-864c-46cf-ac16-93908c069b75@129.121.95.159:443?encryption=none&fp=firefox&host=129.121.95.159&path=/connect&security=tls&sni=129.121.95.159&type=ws#🇺🇸 United States 🍓 @xixv2ray
 
@@ -5474,11 +5474,11 @@ hysteria2://bce6c821-200d-421f-bf3d-7159e5246ea0@hy2.123266.xyz:33333?sni=hy2.12
 
 hysteria2://dbab9df7-5c0a-4726-8574-11e34972b67d@86.53.105.117:33015?insecure=1&sni=www.bing.com#🇬🇧 United Kingdom 🍓 @xixv2ray
 
-hysteria2://dongtaiwang.com@142.249.37.90:44356?sni=hy2.561891.xyz#🇺🇸 United States 🍓 @xixv2ray
+hysteria2://dongtaiwang.com@142.249.37.90:44356?sni=hy2.561891.xyz#🍓 @xixv2ray
 
 hysteria2://dongtaiwang.com@62.210.124.146:22000?insecure=1&sni=www.microsoft.com#🇫🇷 France 🍓 @xixv2ray
 
-hysteria2://dongtaiwang.com@hy2.561891.xyz:44356?sni=hy2.561891.xyz#🇺🇸 United States 🍓 @xixv2ray
+hysteria2://dongtaiwang.com@hy2.561891.xyz:44356?sni=hy2.561891.xyz#🍓 @xixv2ray
 
 hysteria2://dsfa_k0123WFzerrf_kZ3490VNb03J_m30_s@194.180.188.21:8443?insecure=1&sni=keyhop-offshore.roxa.org#🇩🇪 Germany 🍓 @xixv2ray
 
