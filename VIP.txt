@@ -530,11 +530,11 @@ trojan://AE62539071@central-jawfish.rooster465.autos:443?sni=central-jawfish.roo
 
 trojan://AE62539071@charmed-fly.rooster465.autos:443?sni=charmed-fly.rooster465.autos&fp=chrome&type=tcp&path=/#🇯🇵 Japan 🍓 @xixv2ray
 
-trojan://AE62539071@chief-cricket.rooster465.autos:443?#🇫🇷 France 🍓 @xixv2ray
+trojan://AE62539071@chief-cricket.rooster465.autos:443?#🇯🇵 Japan 🍓 @xixv2ray
 
-trojan://AE62539071@chief-cricket.rooster465.autos:443?security=tls&type=tcp&headerType=none&path=/#🇫🇷 France 🍓 @xixv2ray
+trojan://AE62539071@chief-cricket.rooster465.autos:443?security=tls&type=tcp&headerType=none&path=/#🇯🇵 Japan 🍓 @xixv2ray
 
-trojan://AE62539071@chief-cricket.rooster465.autos:443?sni=chief-cricket.rooster465.autos&fp=chrome&type=tcp&path=/#🇫🇷 France 🍓 @xixv2ray
+trojan://AE62539071@chief-cricket.rooster465.autos:443?sni=chief-cricket.rooster465.autos&fp=chrome&type=tcp&path=/#🇯🇵 Japan 🍓 @xixv2ray
 
 trojan://AE62539071@clear-heron.rooster465.autos:443?security=tls&sni=clear-heron.rooster465.autos&path=/#🇯🇵 Japan 🍓 @xixv2ray
 
@@ -580,13 +580,13 @@ trojan://AE62539071@definite-ladybird.rooster465.autos:443?sni=definite-ladybird
 
 trojan://AE62539071@definite-panda.rooster465.autos:443?sni=definite-panda.rooster465.autos&fp=chrome&type=tcp&path=/#🇯🇵 Japan 🍓 @xixv2ray
 
-trojan://AE62539071@distinct-quail.rooster465.autos:443?#🇫🇷 France 🍓 @xixv2ray
+trojan://AE62539071@distinct-quail.rooster465.autos:443?#🍓 @xixv2ray
 
-trojan://AE62539071@distinct-quail.rooster465.autos:443?security=tls&path=/#🇫🇷 France 🍓 @xixv2ray
+trojan://AE62539071@distinct-quail.rooster465.autos:443?security=tls&path=/#🍓 @xixv2ray
 
-trojan://AE62539071@distinct-quail.rooster465.autos:443?sni=distinct-quail.rooster465.autos&fp=chrome&type=tcp&path=/#🇫🇷 France 🍓 @xixv2ray
+trojan://AE62539071@distinct-quail.rooster465.autos:443?sni=distinct-quail.rooster465.autos&fp=chrome&type=tcp&path=/#🍓 @xixv2ray
 
-trojan://AE62539071@distinct-quail.rooster465.autos:443?sni=distinct-quail.rooster465.autos&type=tcp&path=/#🇫🇷 France 🍓 @xixv2ray
+trojan://AE62539071@distinct-quail.rooster465.autos:443?sni=distinct-quail.rooster465.autos&type=tcp&path=/#🍓 @xixv2ray
 
 trojan://AE62539071@dominant-jaguar.rooster465.autos:443?sni=dominant-jaguar.rooster465.autos&fp=chrome&type=tcp&path=/#🇺🇸 United States 🍓 @xixv2ray
 
@@ -640,9 +640,9 @@ trojan://AE62539071@fun-poodle.rooster465.autos:443?sni=fun-poodle.rooster465.au
 
 trojan://AE62539071@fun-salmon.rooster465.autos:443?sni=fun-salmon.rooster465.autos&fp=chrome&type=tcp&path=/#🇯🇵 Japan 🍓 @xixv2ray
 
-trojan://AE62539071@funny-hen.rooster465.autos:443?#🇮🇪 Ireland 🍓 @xixv2ray
+trojan://AE62539071@funny-hen.rooster465.autos:443?#🍓 @xixv2ray
 
-trojan://AE62539071@funny-hen.rooster465.autos:443?sni=funny-hen.rooster465.autos&fp=chrome&type=tcp&path=/#🇮🇪 Ireland 🍓 @xixv2ray
+trojan://AE62539071@funny-hen.rooster465.autos:443?sni=funny-hen.rooster465.autos&fp=chrome&type=tcp&path=/#🍓 @xixv2ray
 
 trojan://AE62539071@game-firefly.rooster465.autos:443?#🇩🇪 Germany 🍓 @xixv2ray
 
@@ -784,15 +784,15 @@ trojan://AE62539071@on-roughy.rooster465.autos:443?sni=on-roughy.rooster465.auto
 
 trojan://AE62539071@on-roughy.rooster465.autos:443?sni=on-roughy.rooster465.autos&type=tcp&path=/#🇯🇵 Japan 🍓 @xixv2ray
 
-trojan://AE62539071@one-quail.rooster465.autos:443?#🇫🇷 France 🍓 @xixv2ray
+trojan://AE62539071@one-quail.rooster465.autos:443?#🇯🇵 Japan 🍓 @xixv2ray
 
-trojan://AE62539071@one-quail.rooster465.autos:443?security=tls&path=/#🇫🇷 France 🍓 @xixv2ray
+trojan://AE62539071@one-quail.rooster465.autos:443?security=tls&path=/#🇯🇵 Japan 🍓 @xixv2ray
 
-trojan://AE62539071@one-quail.rooster465.autos:443?security=tls&type=tcp&path=/&allow_insecure=0#🇫🇷 France 🍓 @xixv2ray
+trojan://AE62539071@one-quail.rooster465.autos:443?security=tls&type=tcp&path=/&allow_insecure=0#🇯🇵 Japan 🍓 @xixv2ray
 
-trojan://AE62539071@one-quail.rooster465.autos:443?security=tls&type=tcp&path=/&allow_insecure=0#🇫🇷 France 🍓 @xixv2ray
+trojan://AE62539071@one-quail.rooster465.autos:443?security=tls&type=tcp&path=/&allow_insecure=0#🇯🇵 Japan 🍓 @xixv2ray
 
-trojan://AE62539071@one-quail.rooster465.autos:443?sni=one-quail.rooster465.autos&fp=chrome&type=tcp&path=/#🇫🇷 France 🍓 @xixv2ray
+trojan://AE62539071@one-quail.rooster465.autos:443?sni=one-quail.rooster465.autos&fp=chrome&type=tcp&path=/#🇯🇵 Japan 🍓 @xixv2ray
 
 trojan://AE62539071@outgoing-ladybird.rooster465.autos:443?sni=outgoing-ladybird.rooster465.autos&fp=chrome&type=tcp&path=/#🇯🇵 Japan 🍓 @xixv2ray
 
@@ -964,25 +964,25 @@ trojan://AE62539071@tolerant-mosquito.rooster465.autos:443?security=tls&sni=tole
 
 trojan://AE62539071@tolerant-mosquito.rooster465.autos:443?sni=tolerant-mosquito.rooster465.autos&fp=chrome&type=tcp&path=/#🇩🇪 Germany 🍓 @xixv2ray
 
-trojan://AE62539071@tough-hermit.rooster465.autos:443?#🇫🇷 France 🍓 @xixv2ray
+trojan://AE62539071@tough-hermit.rooster465.autos:443?#🍓 @xixv2ray
 
-trojan://AE62539071@tough-hermit.rooster465.autos:443?security=tls&path=/#🇫🇷 France 🍓 @xixv2ray
+trojan://AE62539071@tough-hermit.rooster465.autos:443?security=tls&path=/#🍓 @xixv2ray
 
-trojan://AE62539071@tough-hermit.rooster465.autos:443?security=tls&type=tcp&path=/&allow_insecure=0#🇫🇷 France 🍓 @xixv2ray
+trojan://AE62539071@tough-hermit.rooster465.autos:443?security=tls&type=tcp&path=/&allow_insecure=0#🍓 @xixv2ray
 
-trojan://AE62539071@tough-hermit.rooster465.autos:443?sni=tough-hermit.rooster465.autos&fp=chrome&type=tcp&path=/#🇫🇷 France 🍓 @xixv2ray
+trojan://AE62539071@tough-hermit.rooster465.autos:443?sni=tough-hermit.rooster465.autos&fp=chrome&type=tcp&path=/#🍓 @xixv2ray
 
-trojan://AE62539071@tough-hermit.rooster465.autos:443?sni=tough-hermit.rooster465.autos&type=tcp&path=/#🇫🇷 France 🍓 @xixv2ray
+trojan://AE62539071@tough-hermit.rooster465.autos:443?sni=tough-hermit.rooster465.autos&type=tcp&path=/#🍓 @xixv2ray
 
-trojan://AE62539071@unbiased-garfish.rooster465.autos:443?#🇮🇪 Ireland 🍓 @xixv2ray
+trojan://AE62539071@unbiased-garfish.rooster465.autos:443?#🍓 @xixv2ray
 
-trojan://AE62539071@unbiased-garfish.rooster465.autos:443?security=tls&path=/#🇮🇪 Ireland 🍓 @xixv2ray
+trojan://AE62539071@unbiased-garfish.rooster465.autos:443?security=tls&path=/#🍓 @xixv2ray
 
-trojan://AE62539071@unbiased-garfish.rooster465.autos:443?sni=unbiased-garfish.rooster465.autos&fp=chrome&type=tcp&path=/#🇮🇪 Ireland 🍓 @xixv2ray
+trojan://AE62539071@unbiased-garfish.rooster465.autos:443?sni=unbiased-garfish.rooster465.autos&fp=chrome&type=tcp&path=/#🍓 @xixv2ray
 
-trojan://AE62539071@unbiased-garfish.rooster465.autos:443?sni=unbiased-garfish.rooster465.autos&path=/#🇮🇪 Ireland 🍓 @xixv2ray
+trojan://AE62539071@unbiased-garfish.rooster465.autos:443?sni=unbiased-garfish.rooster465.autos&path=/#🍓 @xixv2ray
 
-trojan://AE62539071@unbiased-garfish.rooster465.autos:443?sni=unbiased-garfish.rooster465.autos&type=tcp&path=/#🇮🇪 Ireland 🍓 @xixv2ray
+trojan://AE62539071@unbiased-garfish.rooster465.autos:443?sni=unbiased-garfish.rooster465.autos&type=tcp&path=/#🍓 @xixv2ray
 
 trojan://AE62539071@up-dinosaur.rooster465.autos:443?#🇩🇪 Germany 🍓 @xixv2ray
 
@@ -1062,13 +1062,13 @@ trojan://AE62539071@wise-longhorn.rooster465.autos:443?security=tls&sni=wise-lon
 
 trojan://AE62539071@wise-longhorn.rooster465.autos:443?sni=wise-longhorn.rooster465.autos&fp=chrome&type=tcp&path=/#🇯🇵 Japan 🍓 @xixv2ray
 
-trojan://AE62539071@worthy-labrador.rooster465.autos:443?#🇮🇪 Ireland 🍓 @xixv2ray
+trojan://AE62539071@worthy-labrador.rooster465.autos:443?#🍓 @xixv2ray
 
-trojan://AE62539071@worthy-labrador.rooster465.autos:443?security=tls&path=/#🇮🇪 Ireland 🍓 @xixv2ray
+trojan://AE62539071@worthy-labrador.rooster465.autos:443?security=tls&path=/#🍓 @xixv2ray
 
-trojan://AE62539071@worthy-labrador.rooster465.autos:443?sni=worthy-labrador.rooster465.autos&fp=chrome&type=tcp&path=/#🇮🇪 Ireland 🍓 @xixv2ray
+trojan://AE62539071@worthy-labrador.rooster465.autos:443?sni=worthy-labrador.rooster465.autos&fp=chrome&type=tcp&path=/#🍓 @xixv2ray
 
-trojan://AE62539071@worthy-labrador.rooster465.autos:443?sni=worthy-labrador.rooster465.autos&type=tcp&path=/#🇮🇪 Ireland 🍓 @xixv2ray
+trojan://AE62539071@worthy-labrador.rooster465.autos:443?sni=worthy-labrador.rooster465.autos&type=tcp&path=/#🍓 @xixv2ray
 
 trojan://Aimer@167.68.4.199:2053?allowInsecure=1&host=epge.muarua.filegear-sg.me&path=/&sni=epge.muarua.filegear-sg.me&type=ws#🇺🇸 United States 🍓 @xixv2ray
 
@@ -1310,9 +1310,9 @@ trojan://EQ30679154@faithful-panther.rooster465.autos:443?sni=faithful-panther.r
 
 trojan://EQ30679154@faithful-panther.rooster465.autos:443?sni=faithful-panther.rooster465.autos&type=tcp&path=/#🇯🇵 Japan 🍓 @xixv2ray
 
-trojan://EQ30679154@fancy-skink.rooster465.autos:443?sni=fancy-skink.rooster465.autos&fp=chrome&type=tcp&path=/#🇫🇷 France 🍓 @xixv2ray
+trojan://EQ30679154@fancy-skink.rooster465.autos:443?sni=fancy-skink.rooster465.autos&fp=chrome&type=tcp&path=/#🍓 @xixv2ray
 
-trojan://EQ30679154@fancy-skink.rooster465.autos:443?sni=fancy-skink.rooster465.autos&type=tcp&path=/#🇫🇷 France 🍓 @xixv2ray
+trojan://EQ30679154@fancy-skink.rooster465.autos:443?sni=fancy-skink.rooster465.autos&type=tcp&path=/#🍓 @xixv2ray
 
 trojan://EQ30679154@fleet-hawk.rooster465.autos:443?sni=fleet-hawk.rooster465.autos&fp=chrome&type=tcp&path=/#🇦🇺 Australia 🍓 @xixv2ray
 
@@ -1322,9 +1322,9 @@ trojan://EQ30679154@full-ox.rooster465.autos:443?sni=full-ox.rooster465.autos&fp
 
 trojan://EQ30679154@full-ox.rooster465.autos:443?sni=full-ox.rooster465.autos&type=tcp&path=/#🇭🇰 Hong Kong 🍓 @xixv2ray
 
-trojan://EQ30679154@funny-hen.rooster465.autos:443?sni=funny-hen.rooster465.autos&fp=chrome&type=tcp&path=/#🇮🇪 Ireland 🍓 @xixv2ray
+trojan://EQ30679154@funny-hen.rooster465.autos:443?sni=funny-hen.rooster465.autos&fp=chrome&type=tcp&path=/#🍓 @xixv2ray
 
-trojan://EQ30679154@funny-hen.rooster465.autos:443?sni=funny-hen.rooster465.autos&path=/#🇮🇪 Ireland 🍓 @xixv2ray
+trojan://EQ30679154@funny-hen.rooster465.autos:443?sni=funny-hen.rooster465.autos&path=/#🍓 @xixv2ray
 
 trojan://EQ30679154@gentle-perch.rooster465.autos:443?security=tls&sni=gentle-perch.rooster465.autos&type=tcp&path=/#🇯🇵 Japan 🍓 @xixv2ray
 
@@ -1368,9 +1368,9 @@ trojan://EQ30679154@many-cricket.rooster465.autos:443?sni=many-cricket.rooster46
 
 trojan://EQ30679154@mature-lamprey.rooster465.autos:443?sni=mature-lamprey.rooster465.autos&type=tcp&path=/#🇺🇸 United States 🍓 @xixv2ray
 
-trojan://EQ30679154@nearby-cod.rooster465.autos:443?sni=nearby-cod.rooster465.autos&fp=chrome&type=tcp&path=/#🇫🇷 France 🍓 @xixv2ray
+trojan://EQ30679154@nearby-cod.rooster465.autos:443?sni=nearby-cod.rooster465.autos&fp=chrome&type=tcp&path=/#🇯🇵 Japan 🍓 @xixv2ray
 
-trojan://EQ30679154@nearby-cod.rooster465.autos:443?sni=nearby-cod.rooster465.autos&type=tcp&path=/#🇫🇷 France 🍓 @xixv2ray
+trojan://EQ30679154@nearby-cod.rooster465.autos:443?sni=nearby-cod.rooster465.autos&type=tcp&path=/#🇯🇵 Japan 🍓 @xixv2ray
 
 trojan://EQ30679154@normal-cow.rooster465.autos:443?security=tls&type=tcp&path=/#🇩🇪 Germany 🍓 @xixv2ray
 
@@ -1404,9 +1404,9 @@ trojan://EQ30679154@pure-kodiak.rooster465.autos:443?sni=pure-kodiak.rooster465.
 
 trojan://EQ30679154@renewed-porpoise.rooster465.autos:443?sni=renewed-porpoise.rooster465.autos&fp=chrome&type=tcp&path=/#🇩🇪 Germany 🍓 @xixv2ray
 
-trojan://EQ30679154@romantic-kangaroo.rooster465.autos:443?sni=romantic-kangaroo.rooster465.autos&fp=chrome&type=tcp&path=/#🇮🇪 Ireland 🍓 @xixv2ray
+trojan://EQ30679154@romantic-kangaroo.rooster465.autos:443?sni=romantic-kangaroo.rooster465.autos&fp=chrome&type=tcp&path=/#🍓 @xixv2ray
 
-trojan://EQ30679154@romantic-kangaroo.rooster465.autos:443?sni=romantic-kangaroo.rooster465.autos&type=tcp&path=/#🇮🇪 Ireland 🍓 @xixv2ray
+trojan://EQ30679154@romantic-kangaroo.rooster465.autos:443?sni=romantic-kangaroo.rooster465.autos&type=tcp&path=/#🍓 @xixv2ray
 
 trojan://EQ30679154@sharing-chipmunk.rooster465.autos:443?security=tls&sni=sharing-chipmunk.rooster465.autos&type=tcp&path=/#🇦🇺 Australia 🍓 @xixv2ray
 
@@ -1420,9 +1420,9 @@ trojan://EQ30679154@sincere-gelding.rooster465.autos:443?sni=sincere-gelding.roo
 
 trojan://EQ30679154@social-mutt.rooster465.autos:443?sni=social-mutt.rooster465.autos&fp=chrome&type=tcp&path=/#🇯🇵 Japan 🍓 @xixv2ray
 
-trojan://EQ30679154@star-moray.rooster465.autos:443?sni=star-moray.rooster465.autos&fp=chrome&type=tcp&path=/#🇫🇷 France 🍓 @xixv2ray
+trojan://EQ30679154@star-moray.rooster465.autos:443?sni=star-moray.rooster465.autos&fp=chrome&type=tcp&path=/#🍓 @xixv2ray
 
-trojan://EQ30679154@star-moray.rooster465.autos:443?sni=star-moray.rooster465.autos&type=tcp&path=/#🇫🇷 France 🍓 @xixv2ray
+trojan://EQ30679154@star-moray.rooster465.autos:443?sni=star-moray.rooster465.autos&type=tcp&path=/#🍓 @xixv2ray
 
 trojan://EQ30679154@striking-cheetah.rooster465.autos:443?security=tls&sni=striking-cheetah.rooster465.autos&fp=chrome&type=tcp&path=/#🇭🇰 Hong Kong 🍓 @xixv2ray
 
@@ -1476,9 +1476,9 @@ trojan://EQ30679154@wealthy-gobbler.rooster465.autos:443?sni=wealthy-gobbler.roo
 
 trojan://EQ30679154@wealthy-gobbler.rooster465.autos:443?sni=wealthy-gobbler.rooster465.autos&path=/#🇯🇵 Japan 🍓 @xixv2ray
 
-trojan://EQ30679154@willing-beagle.rooster465.autos:443?sni=willing-beagle.rooster465.autos&fp=chrome&type=tcp&path=/#🇮🇪 Ireland 🍓 @xixv2ray
+trojan://EQ30679154@willing-beagle.rooster465.autos:443?sni=willing-beagle.rooster465.autos&fp=chrome&type=tcp&path=/#🍓 @xixv2ray
 
-trojan://EQ30679154@willing-beagle.rooster465.autos:443?sni=willing-beagle.rooster465.autos&type=tcp&path=/#🇮🇪 Ireland 🍓 @xixv2ray
+trojan://EQ30679154@willing-beagle.rooster465.autos:443?sni=willing-beagle.rooster465.autos&type=tcp&path=/#🍓 @xixv2ray
 
 trojan://FH72359861@108.128.201.154:443?security=tls&sni=touching-turtle.rooster465.autos&type=tcp&headerType=none&path=/&allow_insecure=0#🇮🇪 Ireland 🍓 @xixv2ray
 
@@ -2174,17 +2174,17 @@ trojan://FH72359861@amused-peacock.rooster465.autos:443?sni=amused-peacock.roost
 
 trojan://FH72359861@amused-peacock.rooster465.autos:443?sni=amused-peacock.rooster465.autos&type=tcp&path=/#🇭🇰 Hong Kong 🍓 @xixv2ray
 
-trojan://FH72359861@balanced-heron.rooster465.autos:443?allowInsecure=1#🇮🇪 Ireland 🍓 @xixv2ray
+trojan://FH72359861@balanced-heron.rooster465.autos:443?allowInsecure=1#🍓 @xixv2ray
 
-trojan://FH72359861@balanced-heron.rooster465.autos:443?security=tls&path=/#🇮🇪 Ireland 🍓 @xixv2ray
+trojan://FH72359861@balanced-heron.rooster465.autos:443?security=tls&path=/#🍓 @xixv2ray
 
-trojan://FH72359861@balanced-heron.rooster465.autos:443?security=tls&sni=balanced-heron.rooster465.autos&type=tcp&path=/#🇮🇪 Ireland 🍓 @xixv2ray
+trojan://FH72359861@balanced-heron.rooster465.autos:443?security=tls&sni=balanced-heron.rooster465.autos&type=tcp&path=/#🍓 @xixv2ray
 
-trojan://FH72359861@balanced-heron.rooster465.autos:443?security=tls&sni=balanced-heron.rooster465.autos&type=tcp&path=/#🇮🇪 Ireland 🍓 @xixv2ray
+trojan://FH72359861@balanced-heron.rooster465.autos:443?security=tls&sni=balanced-heron.rooster465.autos&type=tcp&path=/#🍓 @xixv2ray
 
-trojan://FH72359861@balanced-heron.rooster465.autos:443?sni=balanced-heron.rooster465.autos&fp=chrome&type=tcp&path=/#🇮🇪 Ireland 🍓 @xixv2ray
+trojan://FH72359861@balanced-heron.rooster465.autos:443?sni=balanced-heron.rooster465.autos&fp=chrome&type=tcp&path=/#🍓 @xixv2ray
 
-trojan://FH72359861@balanced-heron.rooster465.autos:443?sni=balanced-heron.rooster465.autos&type=tcp&path=/#🇮🇪 Ireland 🍓 @xixv2ray
+trojan://FH72359861@balanced-heron.rooster465.autos:443?sni=balanced-heron.rooster465.autos&type=tcp&path=/#🍓 @xixv2ray
 
 trojan://FH72359861@better-molly.rooster465.autos:443?sni=better-molly.rooster465.autos&fp=chrome&type=tcp&path=/#🇯🇵 Japan 🍓 @xixv2ray
 
@@ -2264,37 +2264,37 @@ trojan://FH72359861@communal-troll.rooster465.autos:443?sni=communal-troll.roost
 
 trojan://FH72359861@communal-troll.rooster465.autos:443?sni=communal-troll.rooster465.autos&path=/#🇯🇵 Japan 🍓 @xixv2ray
 
-trojan://FH72359861@concise-bass.rooster465.autos:443?allowInsecure=1#🇮🇪 Ireland 🍓 @xixv2ray
+trojan://FH72359861@concise-bass.rooster465.autos:443?allowInsecure=1#🍓 @xixv2ray
 
-trojan://FH72359861@concise-bass.rooster465.autos:443?sni=concise-bass.rooster465.autos&fp=chrome&type=tcp&path=/#🇮🇪 Ireland 🍓 @xixv2ray
+trojan://FH72359861@concise-bass.rooster465.autos:443?sni=concise-bass.rooster465.autos&fp=chrome&type=tcp&path=/#🍓 @xixv2ray
 
-trojan://FH72359861@concise-bass.rooster465.autos:443?sni=concise-bass.rooster465.autos&type=tcp&path=/#🇮🇪 Ireland 🍓 @xixv2ray
+trojan://FH72359861@concise-bass.rooster465.autos:443?sni=concise-bass.rooster465.autos&type=tcp&path=/#🍓 @xixv2ray
 
 trojan://FH72359861@content-rabbit.rooster465.autos:443?sni=content-rabbit.rooster465.autos&fp=chrome&type=tcp&path=/#🇯🇵 Japan 🍓 @xixv2ray
 
 trojan://FH72359861@content-rabbit.rooster465.autos:443?sni=content-rabbit.rooster465.autos&type=tcp&path=/#🇯🇵 Japan 🍓 @xixv2ray
 
-trojan://FH72359861@correct-pony.rooster465.autos:443?#🇫🇷 France 🍓 @xixv2ray
+trojan://FH72359861@correct-pony.rooster465.autos:443?#🇯🇵 Japan 🍓 @xixv2ray
 
-trojan://FH72359861@correct-pony.rooster465.autos:443?security=tls&sni=correct-pony.rooster465.autos&path=/#🇫🇷 France 🍓 @xixv2ray
+trojan://FH72359861@correct-pony.rooster465.autos:443?security=tls&sni=correct-pony.rooster465.autos&path=/#🇯🇵 Japan 🍓 @xixv2ray
 
-trojan://FH72359861@correct-pony.rooster465.autos:443?sni=correct-pony.rooster465.autos&fp=chrome&type=tcp&path=/#🇫🇷 France 🍓 @xixv2ray
+trojan://FH72359861@correct-pony.rooster465.autos:443?sni=correct-pony.rooster465.autos&fp=chrome&type=tcp&path=/#🇯🇵 Japan 🍓 @xixv2ray
 
-trojan://FH72359861@correct-pony.rooster465.autos:443?sni=correct-pony.rooster465.autos&type=tcp&path=/#🇫🇷 France 🍓 @xixv2ray
+trojan://FH72359861@correct-pony.rooster465.autos:443?sni=correct-pony.rooster465.autos&type=tcp&path=/#🇯🇵 Japan 🍓 @xixv2ray
 
-trojan://FH72359861@cunning-grub.rooster465.autos:443?#🇮🇪 Ireland 🍓 @xixv2ray
+trojan://FH72359861@cunning-grub.rooster465.autos:443?#🍓 @xixv2ray
 
-trojan://FH72359861@cunning-grub.rooster465.autos:443?security=tls&path=/#🇮🇪 Ireland 🍓 @xixv2ray
+trojan://FH72359861@cunning-grub.rooster465.autos:443?security=tls&path=/#🍓 @xixv2ray
 
-trojan://FH72359861@cunning-grub.rooster465.autos:443?sni=cunning-grub.rooster465.autos&fp=chrome&type=tcp&path=/#🇮🇪 Ireland 🍓 @xixv2ray
+trojan://FH72359861@cunning-grub.rooster465.autos:443?sni=cunning-grub.rooster465.autos&fp=chrome&type=tcp&path=/#🍓 @xixv2ray
 
-trojan://FH72359861@darling-mongrel.rooster465.autos:443?allowInsecure=1#🇮🇪 Ireland 🍓 @xixv2ray
+trojan://FH72359861@darling-mongrel.rooster465.autos:443?allowInsecure=1#🍓 @xixv2ray
 
-trojan://FH72359861@darling-mongrel.rooster465.autos:443?security=tls&sni=darling-mongrel.rooster465.autos&path=/#🇮🇪 Ireland 🍓 @xixv2ray
+trojan://FH72359861@darling-mongrel.rooster465.autos:443?security=tls&sni=darling-mongrel.rooster465.autos&path=/#🍓 @xixv2ray
 
-trojan://FH72359861@darling-mongrel.rooster465.autos:443?sni=darling-mongrel.rooster465.autos&fp=chrome&type=tcp&path=/#🇮🇪 Ireland 🍓 @xixv2ray
+trojan://FH72359861@darling-mongrel.rooster465.autos:443?sni=darling-mongrel.rooster465.autos&fp=chrome&type=tcp&path=/#🍓 @xixv2ray
 
-trojan://FH72359861@darling-mongrel.rooster465.autos:443?sni=darling-mongrel.rooster465.autos&path=/#🇮🇪 Ireland 🍓 @xixv2ray
+trojan://FH72359861@darling-mongrel.rooster465.autos:443?sni=darling-mongrel.rooster465.autos&path=/#🍓 @xixv2ray
 
 trojan://FH72359861@deep-ringtail.rooster465.autos:443?sni=deep-ringtail.rooster465.autos&fp=chrome&type=tcp&path=/#🇯🇵 Japan 🍓 @xixv2ray
 
@@ -2414,9 +2414,9 @@ trojan://FH72359861@grateful-crawdad.rooster465.autos:443?sni=grateful-crawdad.r
 
 trojan://FH72359861@grateful-crawdad.rooster465.autos:443?sni=grateful-crawdad.rooster465.autos&type=tcp&path=/#🇯🇵 Japan 🍓 @xixv2ray
 
-trojan://FH72359861@great-krill.rooster465.autos:443?security=tls&sni=great-krill.rooster465.autos&path=/#🇫🇷 France 🍓 @xixv2ray
+trojan://FH72359861@great-krill.rooster465.autos:443?security=tls&sni=great-krill.rooster465.autos&path=/#🍓 @xixv2ray
 
-trojan://FH72359861@great-krill.rooster465.autos:443?sni=great-krill.rooster465.autos&fp=chrome&type=tcp&path=/#🇫🇷 France 🍓 @xixv2ray
+trojan://FH72359861@great-krill.rooster465.autos:443?sni=great-krill.rooster465.autos&fp=chrome&type=tcp&path=/#🍓 @xixv2ray
 
 trojan://FH72359861@great-wasp.rooster465.autos:443?allowInsecure=0#🇯🇵 Japan 🍓 @xixv2ray
 
@@ -2550,13 +2550,13 @@ trojan://FH72359861@natural-swan.rooster465.autos:443?sni=natural-swan.rooster46
 
 trojan://FH72359861@natural-swan.rooster465.autos:443?sni=natural-swan.rooster465.autos&type=tcp&path=/#🇭🇰 Hong Kong 🍓 @xixv2ray
 
-trojan://FH72359861@nearby-cod.rooster465.autos:443?#🇫🇷 France 🍓 @xixv2ray
+trojan://FH72359861@nearby-cod.rooster465.autos:443?#🇯🇵 Japan 🍓 @xixv2ray
 
-trojan://FH72359861@nearby-cod.rooster465.autos:443?security=tls&path=/#🇫🇷 France 🍓 @xixv2ray
+trojan://FH72359861@nearby-cod.rooster465.autos:443?security=tls&path=/#🇯🇵 Japan 🍓 @xixv2ray
 
-trojan://FH72359861@nearby-cod.rooster465.autos:443?sni=nearby-cod.rooster465.autos&fp=chrome&type=tcp&path=/#🇫🇷 France 🍓 @xixv2ray
+trojan://FH72359861@nearby-cod.rooster465.autos:443?sni=nearby-cod.rooster465.autos&fp=chrome&type=tcp&path=/#🇯🇵 Japan 🍓 @xixv2ray
 
-trojan://FH72359861@nearby-cod.rooster465.autos:443?sni=nearby-cod.rooster465.autos&type=tcp&path=/#🇫🇷 France 🍓 @xixv2ray
+trojan://FH72359861@nearby-cod.rooster465.autos:443?sni=nearby-cod.rooster465.autos&type=tcp&path=/#🇯🇵 Japan 🍓 @xixv2ray
 
 trojan://FH72359861@needed-gelding.rooster465.autos:443?allowInsecure=0&sni=needed-gelding.rooster465.autos#🇯🇵 Japan 🍓 @xixv2ray
 
@@ -2730,13 +2730,13 @@ trojan://FH72359861@stunning-mastodon.rooster465.autos:443?sni=stunning-mastodon
 
 trojan://FH72359861@stunning-mastodon.rooster465.autos:443?sni=stunning-mastodon.rooster465.autos&type=tcp&path=/#🇯🇵 Japan 🍓 @xixv2ray
 
-trojan://FH72359861@summary-firefly.rooster465.autos:443?#🇮🇪 Ireland 🍓 @xixv2ray
+trojan://FH72359861@summary-firefly.rooster465.autos:443?#🍓 @xixv2ray
 
-trojan://FH72359861@summary-firefly.rooster465.autos:443?security=tls&path=/#🇮🇪 Ireland 🍓 @xixv2ray
+trojan://FH72359861@summary-firefly.rooster465.autos:443?security=tls&path=/#🍓 @xixv2ray
 
-trojan://FH72359861@summary-firefly.rooster465.autos:443?sni=summary-firefly.rooster465.autos&fp=chrome&type=tcp&path=/#🇮🇪 Ireland 🍓 @xixv2ray
+trojan://FH72359861@summary-firefly.rooster465.autos:443?sni=summary-firefly.rooster465.autos&fp=chrome&type=tcp&path=/#🍓 @xixv2ray
 
-trojan://FH72359861@summary-firefly.rooster465.autos:443?sni=summary-firefly.rooster465.autos&path=/#🇮🇪 Ireland 🍓 @xixv2ray
+trojan://FH72359861@summary-firefly.rooster465.autos:443?sni=summary-firefly.rooster465.autos&path=/#🍓 @xixv2ray
 
 trojan://FH72359861@summary-lemming.rooster465.autos:443?#🇩🇪 Germany 🍓 @xixv2ray
 
@@ -2770,13 +2770,13 @@ trojan://FH72359861@touching-ostrich.rooster465.autos:443?sni=touching-ostrich.r
 
 trojan://FH72359861@touching-ostrich.rooster465.autos:443?sni=touching-ostrich.rooster465.autos&path=/#🇯🇵 Japan 🍓 @xixv2ray
 
-trojan://FH72359861@touching-turtle.rooster465.autos:443?#🇮🇪 Ireland 🍓 @xixv2ray
+trojan://FH72359861@touching-turtle.rooster465.autos:443?#🍓 @xixv2ray
 
-trojan://FH72359861@touching-turtle.rooster465.autos:443?security=tls&path=/#🇮🇪 Ireland 🍓 @xixv2ray
+trojan://FH72359861@touching-turtle.rooster465.autos:443?security=tls&path=/#🍓 @xixv2ray
 
-trojan://FH72359861@touching-turtle.rooster465.autos:443?sni=touching-turtle.rooster465.autos&fp=chrome&type=tcp&path=/#🇮🇪 Ireland 🍓 @xixv2ray
+trojan://FH72359861@touching-turtle.rooster465.autos:443?sni=touching-turtle.rooster465.autos&fp=chrome&type=tcp&path=/#🍓 @xixv2ray
 
-trojan://FH72359861@touching-turtle.rooster465.autos:443?sni=touching-turtle.rooster465.autos&path=/#🇮🇪 Ireland 🍓 @xixv2ray
+trojan://FH72359861@touching-turtle.rooster465.autos:443?sni=touching-turtle.rooster465.autos&path=/#🍓 @xixv2ray
 
 trojan://FH72359861@tough-gopher.rooster465.autos:443?security=tls&fp=chrome&type=tcp&path=/#🇯🇵 Japan 🍓 @xixv2ray
 
@@ -2786,9 +2786,9 @@ trojan://FH72359861@tough-gopher.rooster465.autos:443?sni=tough-gopher.rooster46
 
 trojan://FH72359861@tough-gopher.rooster465.autos:443?sni=tough-gopher.rooster465.autos&type=tcp&path=/#🇯🇵 Japan 🍓 @xixv2ray
 
-trojan://FH72359861@tough-hermit.rooster465.autos:443?security=tls&path=/#🇫🇷 France 🍓 @xixv2ray
+trojan://FH72359861@tough-hermit.rooster465.autos:443?security=tls&path=/#🍓 @xixv2ray
 
-trojan://FH72359861@tough-hermit.rooster465.autos:443?sni=tough-hermit.rooster465.autos&fp=chrome&type=tcp&path=/#🇫🇷 France 🍓 @xixv2ray
+trojan://FH72359861@tough-hermit.rooster465.autos:443?sni=tough-hermit.rooster465.autos&fp=chrome&type=tcp&path=/#🍓 @xixv2ray
 
 trojan://FH72359861@tough-tuna.rooster465.autos:443?#🇺🇸 United States 🍓 @xixv2ray
 
@@ -3258,17 +3258,17 @@ trojan://ND91608427@dynamic-grubworm.rooster465.autos:443?security=tls&sni=dynam
 
 trojan://ND91608427@dynamic-grubworm.rooster465.autos:443?sni=dynamic-grubworm.rooster465.autos&fp=chrome&type=tcp&path=/#🇭🇰 Hong Kong 🍓 @xixv2ray
 
-trojan://ND91608427@fancy-skink.rooster465.autos:443?#🇫🇷 France 🍓 @xixv2ray
+trojan://ND91608427@fancy-skink.rooster465.autos:443?#🍓 @xixv2ray
 
-trojan://ND91608427@fancy-skink.rooster465.autos:443?security=tls&sni=fancy-skink.rooster465.autos&path=/#🇫🇷 France 🍓 @xixv2ray
+trojan://ND91608427@fancy-skink.rooster465.autos:443?security=tls&sni=fancy-skink.rooster465.autos&path=/#🍓 @xixv2ray
 
-trojan://ND91608427@fancy-skink.rooster465.autos:443?security=tls&sni=fancy-skink.rooster465.autos&type=tcp&headerType=none&path=/&allow_insecure=0#🇫🇷 France 🍓 @xixv2ray
+trojan://ND91608427@fancy-skink.rooster465.autos:443?security=tls&sni=fancy-skink.rooster465.autos&type=tcp&headerType=none&path=/&allow_insecure=0#🍓 @xixv2ray
 
-trojan://ND91608427@fancy-skink.rooster465.autos:443?security=tls&type=tcp&headerType=none&path=/#🇫🇷 France 🍓 @xixv2ray
+trojan://ND91608427@fancy-skink.rooster465.autos:443?security=tls&type=tcp&headerType=none&path=/#🍓 @xixv2ray
 
-trojan://ND91608427@fancy-skink.rooster465.autos:443?security=tls&type=tcp&path=/&allow_insecure=0#🇫🇷 France 🍓 @xixv2ray
+trojan://ND91608427@fancy-skink.rooster465.autos:443?security=tls&type=tcp&path=/&allow_insecure=0#🍓 @xixv2ray
 
-trojan://ND91608427@fancy-skink.rooster465.autos:443?sni=fancy-skink.rooster465.autos&fp=chrome&type=tcp&path=/#🇫🇷 France 🍓 @xixv2ray
+trojan://ND91608427@fancy-skink.rooster465.autos:443?sni=fancy-skink.rooster465.autos&fp=chrome&type=tcp&path=/#🍓 @xixv2ray
 
 trojan://ND91608427@fleet-bonefish.rooster465.autos:443?allowInsecure=1&sni=fleet-bonefish.rooster465.autos#🇺🇸 United States 🍓 @xixv2ray
 
@@ -4018,11 +4018,11 @@ trojan://PQ05174892@comic-poodle.rooster465.autos:443?sni=comic-poodle.rooster46
 
 trojan://PQ05174892@comic-poodle.rooster465.autos:443?sni=comic-poodle.rooster465.autos&type=tcp&path=/#🇺🇸 United States 🍓 @xixv2ray
 
-trojan://PQ05174892@concise-bass.rooster465.autos:443?security=tls&sni=concise-bass.rooster465.autos&fp=chrome&type=tcp&path=/#🇮🇪 Ireland 🍓 @xixv2ray
+trojan://PQ05174892@concise-bass.rooster465.autos:443?security=tls&sni=concise-bass.rooster465.autos&fp=chrome&type=tcp&path=/#🍓 @xixv2ray
 
-trojan://PQ05174892@concise-bass.rooster465.autos:443?sni=concise-bass.rooster465.autos&fp=chrome&type=tcp&path=/#🇮🇪 Ireland 🍓 @xixv2ray
+trojan://PQ05174892@concise-bass.rooster465.autos:443?sni=concise-bass.rooster465.autos&fp=chrome&type=tcp&path=/#🍓 @xixv2ray
 
-trojan://PQ05174892@concise-bass.rooster465.autos:443?sni=concise-bass.rooster465.autos&type=tcp&path=/#🇮🇪 Ireland 🍓 @xixv2ray
+trojan://PQ05174892@concise-bass.rooster465.autos:443?sni=concise-bass.rooster465.autos&type=tcp&path=/#🍓 @xixv2ray
 
 trojan://PQ05174892@concise-guinea.rooster465.autos:443?allowInsecure=1#🇯🇵 Japan 🍓 @xixv2ray
 
@@ -4098,11 +4098,11 @@ trojan://PQ05174892@fine-elf.rooster465.autos:443?sni=fine-elf.rooster465.autos&
 
 trojan://PQ05174892@fine-elf.rooster465.autos:443?sni=fine-elf.rooster465.autos&type=tcp&path=/#🇩🇪 Germany 🍓 @xixv2ray
 
-trojan://PQ05174892@firm-warthog.rooster465.autos:443?fp=chrome#🇫🇷 France 🍓 @xixv2ray
+trojan://PQ05174892@firm-warthog.rooster465.autos:443?fp=chrome#🇯🇵 Japan 🍓 @xixv2ray
 
-trojan://PQ05174892@firm-warthog.rooster465.autos:443?sni=firm-warthog.rooster465.autos&fp=chrome&type=tcp&path=/#🇫🇷 France 🍓 @xixv2ray
+trojan://PQ05174892@firm-warthog.rooster465.autos:443?sni=firm-warthog.rooster465.autos&fp=chrome&type=tcp&path=/#🇯🇵 Japan 🍓 @xixv2ray
 
-trojan://PQ05174892@firm-warthog.rooster465.autos:443?sni=firm-warthog.rooster465.autos&type=tcp&path=/#🇫🇷 France 🍓 @xixv2ray
+trojan://PQ05174892@firm-warthog.rooster465.autos:443?sni=firm-warthog.rooster465.autos&type=tcp&path=/#🇯🇵 Japan 🍓 @xixv2ray
 
 trojan://PQ05174892@flexible-pony.rooster465.autos:443?sni=flexible-pony.rooster465.autos&fp=chrome&type=tcp&path=/#🇯🇵 Japan 🍓 @xixv2ray
 
@@ -4140,11 +4140,11 @@ trojan://PQ05174892@glorious-hamster.rooster465.autos:443?sni=glorious-hamster.r
 
 trojan://PQ05174892@glorious-hamster.rooster465.autos:443?sni=glorious-hamster.rooster465.autos&type=tcp&path=/#🇯🇵 Japan 🍓 @xixv2ray
 
-trojan://PQ05174892@glowing-filly.rooster465.autos:443?fp=chrome#🇮🇪 Ireland 🍓 @xixv2ray
+trojan://PQ05174892@glowing-filly.rooster465.autos:443?fp=chrome#🍓 @xixv2ray
 
-trojan://PQ05174892@glowing-filly.rooster465.autos:443?sni=glowing-filly.rooster465.autos&fp=chrome&type=tcp&path=/#🇮🇪 Ireland 🍓 @xixv2ray
+trojan://PQ05174892@glowing-filly.rooster465.autos:443?sni=glowing-filly.rooster465.autos&fp=chrome&type=tcp&path=/#🍓 @xixv2ray
 
-trojan://PQ05174892@glowing-filly.rooster465.autos:443?sni=glowing-filly.rooster465.autos&type=tcp&path=/#🇮🇪 Ireland 🍓 @xixv2ray
+trojan://PQ05174892@glowing-filly.rooster465.autos:443?sni=glowing-filly.rooster465.autos&type=tcp&path=/#🍓 @xixv2ray
 
 trojan://PQ05174892@glowing-iguana.rooster465.autos:443?sni=glowing-iguana.rooster465.autos&fp=chrome&type=tcp&path=/#🇯🇵 Japan 🍓 @xixv2ray
 
@@ -4154,9 +4154,9 @@ trojan://PQ05174892@healthy-panda.rooster465.autos:443?security=tls&sni=healthy-
 
 trojan://PQ05174892@healthy-panda.rooster465.autos:443?sni=healthy-panda.rooster465.autos&fp=chrome&type=tcp&path=/#🇮🇪 Ireland 🍓 @xixv2ray
 
-trojan://PQ05174892@humane-bird.rooster465.autos:443?allowInsecure=1#🇫🇷 France 🍓 @xixv2ray
+trojan://PQ05174892@humane-bird.rooster465.autos:443?allowInsecure=1#🍓 @xixv2ray
 
-trojan://PQ05174892@humane-bird.rooster465.autos:443?sni=humane-bird.rooster465.autos&fp=chrome&type=tcp&path=/#🇫🇷 France 🍓 @xixv2ray
+trojan://PQ05174892@humane-bird.rooster465.autos:443?sni=humane-bird.rooster465.autos&fp=chrome&type=tcp&path=/#🍓 @xixv2ray
 
 trojan://PQ05174892@humane-hawk.rooster465.autos:443?sni=humane-hawk.rooster465.autos&fp=chrome&type=tcp&path=/#🇯🇵 Japan 🍓 @xixv2ray
 
@@ -4188,11 +4188,11 @@ trojan://PQ05174892@ideal-robin.rooster465.autos:443?sni=ideal-robin.rooster465.
 
 trojan://PQ05174892@ideal-robin.rooster465.autos:443?sni=ideal-robin.rooster465.autos&type=tcp&path=/#🇭🇰 Hong Kong 🍓 @xixv2ray
 
-trojan://PQ05174892@immune-earwig.rooster465.autos:443?fp=chrome#🇫🇷 France 🍓 @xixv2ray
+trojan://PQ05174892@immune-earwig.rooster465.autos:443?fp=chrome#🍓 @xixv2ray
 
-trojan://PQ05174892@immune-earwig.rooster465.autos:443?sni=immune-earwig.rooster465.autos&fp=chrome&type=tcp&path=/#🇫🇷 France 🍓 @xixv2ray
+trojan://PQ05174892@immune-earwig.rooster465.autos:443?sni=immune-earwig.rooster465.autos&fp=chrome&type=tcp&path=/#🍓 @xixv2ray
 
-trojan://PQ05174892@immune-earwig.rooster465.autos:443?sni=immune-earwig.rooster465.autos&type=tcp&path=/#🇫🇷 France 🍓 @xixv2ray
+trojan://PQ05174892@immune-earwig.rooster465.autos:443?sni=immune-earwig.rooster465.autos&type=tcp&path=/#🍓 @xixv2ray
 
 trojan://PQ05174892@informed-alpaca.rooster465.autos:443?sni=informed-alpaca.rooster465.autos&fp=chrome&type=tcp&path=/#🇩🇪 Germany 🍓 @xixv2ray
 
@@ -4238,13 +4238,13 @@ trojan://PQ05174892@lucky-albacore.rooster465.autos:443?sni=lucky-albacore.roost
 
 trojan://PQ05174892@lucky-albacore.rooster465.autos:443?sni=lucky-albacore.rooster465.autos&type=tcp&path=/#🇯🇵 Japan 🍓 @xixv2ray
 
-trojan://PQ05174892@lucky-marmot.rooster465.autos:443?allowInsecure=1#🇫🇷 France 🍓 @xixv2ray
+trojan://PQ05174892@lucky-marmot.rooster465.autos:443?allowInsecure=1#🍓 @xixv2ray
 
-trojan://PQ05174892@lucky-marmot.rooster465.autos:443?security=tls&path=/#🇫🇷 France 🍓 @xixv2ray
+trojan://PQ05174892@lucky-marmot.rooster465.autos:443?security=tls&path=/#🍓 @xixv2ray
 
-trojan://PQ05174892@lucky-marmot.rooster465.autos:443?security=tls&sni=lucky-marmot.rooster465.autos&path=/#🇫🇷 France 🍓 @xixv2ray
+trojan://PQ05174892@lucky-marmot.rooster465.autos:443?security=tls&sni=lucky-marmot.rooster465.autos&path=/#🍓 @xixv2ray
 
-trojan://PQ05174892@lucky-marmot.rooster465.autos:443?sni=lucky-marmot.rooster465.autos&fp=chrome&type=tcp&path=/#🇫🇷 France 🍓 @xixv2ray
+trojan://PQ05174892@lucky-marmot.rooster465.autos:443?sni=lucky-marmot.rooster465.autos&fp=chrome&type=tcp&path=/#🍓 @xixv2ray
 
 trojan://PQ05174892@main-dragon.rooster465.autos:443?sni=main-dragon.rooster465.autos&fp=chrome&type=tcp&path=/#🇯🇵 Japan 🍓 @xixv2ray
 
@@ -4284,13 +4284,13 @@ trojan://PQ05174892@modest-pup.rooster465.autos:443?sni=modest-pup.rooster465.au
 
 trojan://PQ05174892@modest-pup.rooster465.autos:443?sni=modest-pup.rooster465.autos&type=tcp&path=/#🇯🇵 Japan 🍓 @xixv2ray
 
-trojan://PQ05174892@moral-dolphin.rooster465.autos:443?fp=chrome#🇫🇷 France 🍓 @xixv2ray
+trojan://PQ05174892@moral-dolphin.rooster465.autos:443?fp=chrome#🇯🇵 Japan 🍓 @xixv2ray
 
-trojan://PQ05174892@moral-dolphin.rooster465.autos:443?security=tls&fp=chrome&type=tcp&headerType=none&path=/&allow_insecure=0#🇫🇷 France 🍓 @xixv2ray
+trojan://PQ05174892@moral-dolphin.rooster465.autos:443?security=tls&fp=chrome&type=tcp&headerType=none&path=/&allow_insecure=0#🇯🇵 Japan 🍓 @xixv2ray
 
-trojan://PQ05174892@moral-dolphin.rooster465.autos:443?security=tls&path=/#🇫🇷 France 🍓 @xixv2ray
+trojan://PQ05174892@moral-dolphin.rooster465.autos:443?security=tls&path=/#🇯🇵 Japan 🍓 @xixv2ray
 
-trojan://PQ05174892@moral-dolphin.rooster465.autos:443?sni=moral-dolphin.rooster465.autos&fp=chrome&type=tcp&path=/#🇫🇷 France 🍓 @xixv2ray
+trojan://PQ05174892@moral-dolphin.rooster465.autos:443?sni=moral-dolphin.rooster465.autos&fp=chrome&type=tcp&path=/#🇯🇵 Japan 🍓 @xixv2ray
 
 trojan://PQ05174892@more-trout.rooster465.autos:443?sni=more-trout.rooster465.autos&fp=chrome&type=tcp&path=/#🇩🇪 Germany 🍓 @xixv2ray
 
@@ -4304,13 +4304,13 @@ trojan://PQ05174892@musical-mouse.rooster465.autos:443?sni=musical-mouse.rooster
 
 trojan://PQ05174892@musical-mouse.rooster465.autos:443?sni=musical-mouse.rooster465.autos&type=tcp&path=/#🇯🇵 Japan 🍓 @xixv2ray
 
-trojan://PQ05174892@musical-shrew.rooster465.autos:443?fp=chrome#🇫🇷 France 🍓 @xixv2ray
+trojan://PQ05174892@musical-shrew.rooster465.autos:443?fp=chrome#🇯🇵 Japan 🍓 @xixv2ray
 
-trojan://PQ05174892@musical-shrew.rooster465.autos:443?sni=musical-shrew.rooster465.autos&fp=chrome&type=tcp&path=/#🇫🇷 France 🍓 @xixv2ray
+trojan://PQ05174892@musical-shrew.rooster465.autos:443?sni=musical-shrew.rooster465.autos&fp=chrome&type=tcp&path=/#🇯🇵 Japan 🍓 @xixv2ray
 
-trojan://PQ05174892@nice-elephant.rooster465.autos:443?sni=nice-elephant.rooster465.autos&fp=chrome&type=tcp&path=/#🇮🇪 Ireland 🍓 @xixv2ray
+trojan://PQ05174892@nice-elephant.rooster465.autos:443?sni=nice-elephant.rooster465.autos&fp=chrome&type=tcp&path=/#🍓 @xixv2ray
 
-trojan://PQ05174892@nice-elephant.rooster465.autos:443?sni=nice-elephant.rooster465.autos&type=tcp&path=/#🇮🇪 Ireland 🍓 @xixv2ray
+trojan://PQ05174892@nice-elephant.rooster465.autos:443?sni=nice-elephant.rooster465.autos&type=tcp&path=/#🍓 @xixv2ray
 
 trojan://PQ05174892@noted-cougar.rooster465.autos:443?sni=noted-cougar.rooster465.autos&fp=chrome&type=tcp&path=/#🇯🇵 Japan 🍓 @xixv2ray
 
@@ -4478,9 +4478,9 @@ trojan://PQ05174892@witty-duckling.rooster465.autos:443?sni=witty-duckling.roost
 
 trojan://PQ05174892@witty-duckling.rooster465.autos:443?sni=witty-duckling.rooster465.autos&path=/#🇯🇵 Japan 🍓 @xixv2ray
 
-trojan://PQ05174892@worthy-labrador.rooster465.autos:443?sni=worthy-labrador.rooster465.autos&fp=chrome&type=tcp&path=/#🇮🇪 Ireland 🍓 @xixv2ray
+trojan://PQ05174892@worthy-labrador.rooster465.autos:443?sni=worthy-labrador.rooster465.autos&fp=chrome&type=tcp&path=/#🍓 @xixv2ray
 
-trojan://PQ05174892@worthy-labrador.rooster465.autos:443?sni=worthy-labrador.rooster465.autos&type=tcp&path=/#🇮🇪 Ireland 🍓 @xixv2ray
+trojan://PQ05174892@worthy-labrador.rooster465.autos:443?sni=worthy-labrador.rooster465.autos&type=tcp&path=/#🍓 @xixv2ray
 
 trojan://QV31589740@51.44.160.58:443?security=tls&sni=great-krill.rooster465.autos&path=/#🇫🇷 France 🍓 @xixv2ray
 
@@ -4492,17 +4492,17 @@ trojan://QV31589740@51.44.160.58:443?sni=great-krill.rooster465.autos&fp=chrome&
 
 trojan://QV31589740@51.44.160.58:443?sni=great-krill.rooster465.autos&type=tcp&path=/#🇫🇷 France 🍓 @xixv2ray
 
-trojan://QV31589740@great-krill.rooster465.autos:443?#🇫🇷 France 🍓 @xixv2ray
+trojan://QV31589740@great-krill.rooster465.autos:443?#🍓 @xixv2ray
 
-trojan://QV31589740@great-krill.rooster465.autos:443?security=tls&path=/#🇫🇷 France 🍓 @xixv2ray
+trojan://QV31589740@great-krill.rooster465.autos:443?security=tls&path=/#🍓 @xixv2ray
 
-trojan://QV31589740@great-krill.rooster465.autos:443?security=tls&sni=great-krill.rooster465.autos&path=/#🇫🇷 France 🍓 @xixv2ray
+trojan://QV31589740@great-krill.rooster465.autos:443?security=tls&sni=great-krill.rooster465.autos&path=/#🍓 @xixv2ray
 
-trojan://QV31589740@great-krill.rooster465.autos:443?security=tls&type=tcp&path=/&allow_insecure=0#🇫🇷 France 🍓 @xixv2ray
+trojan://QV31589740@great-krill.rooster465.autos:443?security=tls&type=tcp&path=/&allow_insecure=0#🍓 @xixv2ray
 
-trojan://QV31589740@great-krill.rooster465.autos:443?sni=great-krill.rooster465.autos&fp=chrome&type=tcp&path=/#🇫🇷 France 🍓 @xixv2ray
+trojan://QV31589740@great-krill.rooster465.autos:443?sni=great-krill.rooster465.autos&fp=chrome&type=tcp&path=/#🍓 @xixv2ray
 
-trojan://QV31589740@great-krill.rooster465.autos:443?sni=great-krill.rooster465.autos&type=tcp&path=/#🇫🇷 France 🍓 @xixv2ray
+trojan://QV31589740@great-krill.rooster465.autos:443?sni=great-krill.rooster465.autos&type=tcp&path=/#🍓 @xixv2ray
 
 trojan://Telegram_healer_config@104.21.24.95:443?path=/tr/zJi4ccv7FeEo780U?ed=2560&security=tls&alpn=http/1.1&insecure=0&host=1v95v6tjywcytbahl7f7lx8b27g.l4495eycqmse9he0yvoemjfc4ibyf-4.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=1V95V6TjywCyTbAHl7f7Lx8b27G.L4495eYcqmsE9he0yVoEMJFc4IBYf-4.wORkERS.DeV#🇨🇦 Canada 🍓 @xixv2ray
 
@@ -5090,7 +5090,7 @@ vless://8525fe74-67e6-4a55-8a26-95f227bd1384@194.59.5.46:2096?allowInsecure=1&en
 
 vless://8525fe74-67e6-4a55-8a26-95f227bd1384@8.39.125.152:8443?encryption=none&fp=chrome&host=bitter-shadow-4fc5.alvlirm852.workers.dev&path=/&security=tls&sni=bitter-shadow-4fc5.alvlirm852.workers.dev&type=ws#🇺🇸 United States 🍓 @xixv2ray
 
-vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@172.64.146.153:2095?security=none&type=ws&path=/&host=fangbinxingnmsl.pusytroller.gq&packetEncoding=xudp#🍓 @xixv2ray
+vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@172.64.146.153:2095?security=none&type=ws&path=/&host=fangbinxingnmsl.pusytroller.gq&packetEncoding=xudp#🇨🇦 Canada 🍓 @xixv2ray
 
 vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@172.67.202.17:2095?path=/&encryption=none&host=fuckfangbinxing.pusytroller.gq&type=ws#🇨🇦 Canada 🍓 @xixv2ray
 
@@ -5102,15 +5102,15 @@ vless://8787dd0a-095a-414e-804f-a7d16a1ae166@2.26.255.36:8443?encryption=none&fl
 
 vless://893096ae-ed76-4440-bc34-f77c4872540f@188.114.96.3:443?alpn=http%2F1.1&ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=maSterserVeR1-VSH.KaLlEH.WORkERs.DEV&path=/eyJqdW5rIjoieE1zSFhYR2hkcHZGUHI3cSIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0=&security=tls&sni=maSterserVeR1-VSH.KaLlEH.WORkERs.DEV&type=ws#🇨🇦 Canada 🍓 @xixv2ray
 
-vless://8991a496-1baa-486f-9948-ffe44e68c072@162.159.156.214:8880?encryption=none&host=soft-band-8da6.426.workers.dev&path=/pyip=ProxyIP.SG.CMLiussss.net&security=none&type=ws#🍓 @xixv2ray
+vless://8991a496-1baa-486f-9948-ffe44e68c072@162.159.156.214:8880?encryption=none&host=soft-band-8da6.426.workers.dev&path=/pyip=ProxyIP.SG.CMLiussss.net&security=none&type=ws#🇨🇦 Canada 🍓 @xixv2ray
 
 vless://8c00ea88-31f7-445a-8f74-f6e7f03a1553@82.115.6.93:443?ed=2048&eh=Sec-WebSocket-Protocol&encryption=none&fp=chrome&host=kuraakavaa-5l7.pages.dev&path=/&security=tls&sni=kuraakavaa-5l7.pages.dev&type=ws#🇳🇱 The Netherlands 🍓 @xixv2ray
 
-vless://8cde6cd0-7903-4aef-8ce8-528fa9677d7b@104.16.106.213:8880?security=none&type=ws&host=steep-glitter-7c3c.367-5c9.workers.dev&path=/pyip=ProxyIP.JP.CMLiussss.net#🍓 @xixv2ray
+vless://8cde6cd0-7903-4aef-8ce8-528fa9677d7b@104.16.106.213:8880?security=none&type=ws&host=steep-glitter-7c3c.367-5c9.workers.dev&path=/pyip=ProxyIP.JP.CMLiussss.net#🇨🇦 Canada 🍓 @xixv2ray
 
 vless://8ddedcc7-6c4e-4df3-a190-ac40926f6694@cf.levikogjgfdd.ir:8880?path=/pyip&encryption=none&host=late-boat-fbd7.152-de6.workers.dev&type=ws#🇨🇦 Canada 🍓 @xixv2ray
 
-vless://902fd911-ca5d-49a6-99ad-47372a266804@104.21.15.212:8880?encryption=none&host=young-wildflower-6b6c.100-52d.workers.dev&path=/pyip=ProxyIP.JP.CMLiussss.net&security=none&type=ws#🍓 @xixv2ray
+vless://902fd911-ca5d-49a6-99ad-47372a266804@104.21.15.212:8880?encryption=none&host=young-wildflower-6b6c.100-52d.workers.dev&path=/pyip=ProxyIP.JP.CMLiussss.net&security=none&type=ws#🇨🇦 Canada 🍓 @xixv2ray
 
 vless://923e051a-f598-4ea5-9c6c-f7e37c438a60@vkvd8bpskvxgjwdvcidxgoccr.javanbaghe.workers.dev:80?path=/vl/D2pryqVs9LAgCYdTK76lsafWY?ed=2560&encryption=none&host=vkvd8bpskvxgjwdvcidxgoccr.javanbaghe.workers.dev&type=ws#🇨🇦 Canada 🍓 @xixv2ray
 
@@ -5158,21 +5158,21 @@ vless://994fcbac-4433-4ea3-b42b-9073037ab5fa@45.9.14.159:38444?encryption=none&e
 
 vless://9a3de3e0-2a6e-4bb2-81bd-1a4e51dfa110@vpn.renshengxuanze.ccwu.cc:443?encryption=none&fp=chrome&host=vpn.renshengxuanze.ccwu.cc&path=/&security=tls&sni=vpn.renshengxuanze.ccwu.cc&type=ws#🇨🇦 Canada 🍓 @xixv2ray
 
-vless://9adb120c-0cce-4b56-9023-ccf7f1e13536@icook.tw:8880?encryption=none&host=spring-sunset-81e8.322.workers.dev&path=/pyip=ProxyIP.US.CMLiussss.net&security=none&type=ws#🍓 @xixv2ray
+vless://9adb120c-0cce-4b56-9023-ccf7f1e13536@icook.tw:8880?encryption=none&host=spring-sunset-81e8.322.workers.dev&path=/pyip=ProxyIP.US.CMLiussss.net&security=none&type=ws#🇨🇦 Canada 🍓 @xixv2ray
 
-vless://9b14cdbe-bcfe-4178-a674-3ad88a7c6f6a@172.66.214.247:8880?encryption=none&host=summer-snow-c151.320-3ef.workers.dev&path=/pyip=ProxyIP.KR.CMLiussss.net&security=none&type=ws#🍓 @xixv2ray
+vless://9b14cdbe-bcfe-4178-a674-3ad88a7c6f6a@172.66.214.247:8880?encryption=none&host=summer-snow-c151.320-3ef.workers.dev&path=/pyip=ProxyIP.KR.CMLiussss.net&security=none&type=ws#🇨🇦 Canada 🍓 @xixv2ray
 
 vless://9b18ccef-b9e0-41d1-8990-9d970569e142@185.112.249.201:8443?encryption=none&fp=chrome&host=web-socket.tgdaosheng.ggff.net&path=/proxyip=bpb.yousef.isegaro.comfp=chrome&security=tls&sni=web-socket.tgdaosheng.ggff.net&type=ws#🇸🇰 Slovakia 🍓 @xixv2ray
 
-vless://9c63fd59-f9ee-446e-97ec-0bf2de21ed7b@188.114.97.8:8443?path=/eyJqdW5rIjoiVVhGU1pOZ1oxaTFUUldyVCIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0=?ed=2560&security=tls&encryption=none&insecure=0&host=dry-glitter-ef10.gfryubcdryujvrth.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=dRy-GLITTer-ef10.gFRYubCdrYujVRtH.WorkErS.DEV#🍓 @xixv2ray
+vless://9c63fd59-f9ee-446e-97ec-0bf2de21ed7b@188.114.97.8:8443?path=/eyJqdW5rIjoiVVhGU1pOZ1oxaTFUUldyVCIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0=?ed=2560&security=tls&encryption=none&insecure=0&host=dry-glitter-ef10.gfryubcdryujvrth.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=dRy-GLITTer-ef10.gFRYubCdrYujVRtH.WorkErS.DEV#🇨🇦 Canada 🍓 @xixv2ray
 
 vless://9d5cbb90-876b-448d-9874-27ab35bae6e7@84.22.150.39:7443?encryption=none&security=tls&sni=woc0zvrf11w2endu.dphdlc1u77bs3y4kvussbuap4p576f1ws7igthq8zbf3.workers.dev&type=ws&host=woc0zvrf11w2endu.dphdlc1u77bs3y4kvussbuap4p576f1ws7igthq8zbf3.workers.dev&path=/@Marisa_kristi#🇷🇺 Russia 🍓 @xixv2ray
 
 vless://9e20b04d-5a81-4e16-b421-01e502f0aac6@57.129.132.223:80?encryption=none&host=google.com&path=/vless/&security=none&type=ws#🇬🇧 United Kingdom 🍓 @xixv2ray
 
-vless://9f2f3e55-a8a6-40f3-aeb2-1061e9207d4d@meshbuzz.bond:443?encryption=none&security=tls&sni=4fspx0q.uploodmusicmelody.ir&alpn=http/1.1&type=ws&host=4fspx0q.uploodmusicmelody.ir&path=/ws-at#🍓 @xixv2ray
+vless://9f2f3e55-a8a6-40f3-aeb2-1061e9207d4d@meshbuzz.bond:443?encryption=none&security=tls&sni=4fspx0q.uploodmusicmelody.ir&alpn=http/1.1&type=ws&host=4fspx0q.uploodmusicmelody.ir&path=/ws-at#🇨🇦 Canada 🍓 @xixv2ray
 
-vless://9f2f3e55-a8a6-40f3-aeb2-1061e9207d4d@meshbuzz.bond:443?path=/ws-at&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=4fspx0q.uploodmusicmelody.ir&fp=unsafe&type=ws&allowInsecure=0&sni=4fspx0q.uploodmusicmelody.ir#🍓 @xixv2ray
+vless://9f2f3e55-a8a6-40f3-aeb2-1061e9207d4d@meshbuzz.bond:443?path=/ws-at&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=4fspx0q.uploodmusicmelody.ir&fp=unsafe&type=ws&allowInsecure=0&sni=4fspx0q.uploodmusicmelody.ir#🇨🇦 Canada 🍓 @xixv2ray
 
 vless://a8307b5d-2d9e-4d34-912d-5b5dd8340082@46.226.162.172:64584?encryption=none&security=none&type=tcp&headerType=none#🇬🇧 United Kingdom 🍓 @xixv2ray
 
@@ -5284,7 +5284,7 @@ vless://d0da19f1-fb05-488e-99c2-262389b3537b@31.58.181.88:8443?flow=xtls-rprx-vi
 
 vless://d0dd16f2-81b4-4892-933e-040856457242@193.29.225.249:4443?encryption=none&security=tls&sni=c6dbx99g6stb418qeo.t3jmlj0r152zji4htdkm9.workers.dev&type=ws&host=c6dbx99g6stb418qeo.t3jmlj0r152zji4htdkm9.workers.dev&path=/@Marisa_kristi#🇸🇮 Slovenia 🍓 @xixv2ray
 
-vless://d195909a-eff4-489d-a261-955b904894cb@time.is:443?path=/eyJqdW5rIjoieUhYMWhoZEVEIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcmVmaXgiLCJwYW5lbElQcyI6WyJbMmEwMjo4OTg6MTQ2OjY0OjpdIl19?ed=2560&security=tls&alpn=h3,h2,http/1.1&encryption=none&insecure=0&host=free.server6peekconfig.workers.dev.&fp=ios&type=ws&allowInsecure=0&sni=fREE.sERVer6PeeKCOnFIG.wOrkErs.dEv.#🍓 @xixv2ray
+vless://d195909a-eff4-489d-a261-955b904894cb@time.is:443?path=/eyJqdW5rIjoieUhYMWhoZEVEIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcmVmaXgiLCJwYW5lbElQcyI6WyJbMmEwMjo4OTg6MTQ2OjY0OjpdIl19?ed=2560&security=tls&alpn=h3,h2,http/1.1&encryption=none&insecure=0&host=free.server6peekconfig.workers.dev.&fp=ios&type=ws&allowInsecure=0&sni=fREE.sERVer6PeeKCOnFIG.wOrkErs.dEv.#🇨🇦 Canada 🍓 @xixv2ray
 
 vless://d23cb516-40db-4aa4-8142-6b45ff882f90@pl4.lckdwn.ru:443?encryption=none&type=ws&path=/#🇦🇪 United Arab Emirates 🍓 @xixv2ray
 
@@ -5312,11 +5312,11 @@ vless://d7d8af23-36cd-4c66-a42a-4469c177210f@188.114.97.3:443?path=/eyJqdW5rIjoi
 
 vless://d7ec3e31-a9c4-4bdf-a2d8-7f75a8381035@cf.levikogjgfdd.ir:8880?path=/&encryption=none&host=weathered-lake-e883.35-bc4.workers.dev&type=ws#🇨🇦 Canada 🍓 @xixv2ray
 
-vless://da4747a6-be0d-4c1b-90f4-d82ec3012be2@104.18.1.1:2053?encryption=none&type=ws&security=tls&path=/&host=music1000.melobitmusic1.ir&sni=music1000.melobitmusic1.ir&alpn=h3,h2,http/1.1&fp=ios&insecure=0&allowInsecure=0#🍓 @xixv2ray
+vless://da4747a6-be0d-4c1b-90f4-d82ec3012be2@104.18.1.1:2053?encryption=none&type=ws&security=tls&path=/&host=music1000.melobitmusic1.ir&sni=music1000.melobitmusic1.ir&alpn=h3,h2,http/1.1&fp=ios&insecure=0&allowInsecure=0#🇨🇦 Canada 🍓 @xixv2ray
 
-vless://da4747a6-be0d-4c1b-90f4-d82ec3012be2@music1000.melobitmusic1.ir:2053?path=/&security=tls&encryption=none&insecure=0&host=music1000.melobitmusic1.ir&fp=chrome&type=ws&allowInsecure=0&sni=music1000.melobitmusic1.ir#🍓 @xixv2ray
+vless://da4747a6-be0d-4c1b-90f4-d82ec3012be2@music1000.melobitmusic1.ir:2053?path=/&security=tls&encryption=none&insecure=0&host=music1000.melobitmusic1.ir&fp=chrome&type=ws&allowInsecure=0&sni=music1000.melobitmusic1.ir#🇨🇦 Canada 🍓 @xixv2ray
 
-vless://df301b32-1152-4526-9a63-beedd93d3156@172.67.75.172:80?encryption=none&host=vl.dalazhi.cloudns.biz&path=/&security=none&type=ws#🍓 @xixv2ray
+vless://df301b32-1152-4526-9a63-beedd93d3156@172.67.75.172:80?encryption=none&host=vl.dalazhi.cloudns.biz&path=/&security=none&type=ws#🇨🇦 Canada 🍓 @xixv2ray
 
 vless://e0454af2-6fe9-4983-a55d-05e1da202602@151.101.56.7:443?encryption=none&security=tls&sni=ssl.fastly.com&type=ws&host=italyan.global.ssl.fastly.net.&path=/#🇺🇸 United States 🍓 @xixv2ray
 
@@ -5326,7 +5326,7 @@ vless://e0454af2-6fe9-4983-a55d-05e1da202602@199.232.78.159:443?encryption=none&
 
 vless://e35f903c-1a75-4eb3-9988-4a2e21c92e54@95.129.236.252:443?alpn=http/1.1&encryption=none&fp=firefox&path=/api/v2/vms/stream/genka&security=tls&sni=benzin.benz.ink&type=ws#🇷🇺 Russia 🍓 @xixv2ray
 
-vless://e43ca713-a646-4406-a4d5-1e7bad20e7da@104.16.106.213:8880?encryption=none&host=autumn-snow-735a.175-9d9.workers.dev&path=/pyip=ProxyIP.US.CMLiussss.net&security=none&type=ws#🍓 @xixv2ray
+vless://e43ca713-a646-4406-a4d5-1e7bad20e7da@104.16.106.213:8880?encryption=none&host=autumn-snow-735a.175-9d9.workers.dev&path=/pyip=ProxyIP.US.CMLiussss.net&security=none&type=ws#🇨🇦 Canada 🍓 @xixv2ray
 
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@63.183.163.238:22222?encryption=none&security=none&type=tcp#🇩🇪 Germany 🍓 @xixv2ray
 
@@ -5340,27 +5340,27 @@ vless://e4514801-0d5a-42ba-869f-39bd605aef9e@63.185.246.118:22223?encryption=non
 
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@63.185.246.118:22224?encryption=none&security=none&type=tcp&headerType=none#🇺🇸 United States 🍓 @xixv2ray
 
-vless://e4927998-38dd-4bf4-a37d-4cc67a06ee2d@172.66.170.53:8880?encryption=none&host=cold-shadow-66a0.278.workers.dev&path=/pyip=ProxyIP.US.CMLiussss.net&security=none&type=ws#🍓 @xixv2ray
+vless://e4927998-38dd-4bf4-a37d-4cc67a06ee2d@172.66.170.53:8880?encryption=none&host=cold-shadow-66a0.278.workers.dev&path=/pyip=ProxyIP.US.CMLiussss.net&security=none&type=ws#🇨🇦 Canada 🍓 @xixv2ray
 
 vless://e5cc16a6-ea42-46b2-82ae-ad2157e1641b@104.18.37.228:443?encryption=none&host=hhlfy.twiladaphne.ndjp.net&path=/fp&security=tls&sni=hhlfy.twiladaphne.ndjp.net&type=ws#🇨🇦 Canada 🍓 @xixv2ray
 
-vless://e5cc16a6-ea42-46b2-82ae-ad2157e1641b@162.159.44.195:443?allowInsecure=1&encryption=none&host=hhlfy.twiladaphne.ndjp.net&path=/fp=random&security=tls&sni=hhlfy.twiladaphne.ndjp.net&type=ws#🍓 @xixv2ray
+vless://e5cc16a6-ea42-46b2-82ae-ad2157e1641b@162.159.44.195:443?allowInsecure=1&encryption=none&host=hhlfy.twiladaphne.ndjp.net&path=/fp=random&security=tls&sni=hhlfy.twiladaphne.ndjp.net&type=ws#🇺🇸 United States 🍓 @xixv2ray
 
-vless://e5cc16a6-ea42-46b2-82ae-ad2157e1641b@172.64.150.28:443?path=/fp&security=tls&encryption=none&insecure=0&host=hhlfy.twiladaphne.ndjp.net&fp=chrome&type=ws&allowInsecure=0&sni=hhlfy.twiladaphne.ndjp.net#🍓 @xixv2ray
+vless://e5cc16a6-ea42-46b2-82ae-ad2157e1641b@172.64.150.28:443?path=/fp&security=tls&encryption=none&insecure=0&host=hhlfy.twiladaphne.ndjp.net&fp=chrome&type=ws&allowInsecure=0&sni=hhlfy.twiladaphne.ndjp.net#🇨🇦 Canada 🍓 @xixv2ray
 
-vless://e5cc16a6-ea42-46b2-82ae-ad2157e1641b@172.67.185.178:443?allowInsecure=1&encryption=none&host=hhlfy.twiladaphne.ndjp.net&path=/&security=tls&sni=hhlfy.twiladaphne.ndjp.net&type=ws#🍓 @xixv2ray
+vless://e5cc16a6-ea42-46b2-82ae-ad2157e1641b@172.67.185.178:443?allowInsecure=1&encryption=none&host=hhlfy.twiladaphne.ndjp.net&path=/&security=tls&sni=hhlfy.twiladaphne.ndjp.net&type=ws#🇨🇦 Canada 🍓 @xixv2ray
 
 vless://e5cc16a6-ea42-46b2-82ae-ad2157e1641b@188.114.97.6:443?allowInsecure=1&encryption=none&host=hhlfy.twiladaphne.ndjp.net&path=/&security=tls&sni=hhlfy.twiladaphne.ndjp.net&type=ws#🇨🇦 Canada 🍓 @xixv2ray
 
-vless://e5cc16a6-ea42-46b2-82ae-ad2157e1641b@188.114.99.0:443?path=/sg-melbi#🍓 @xixv2ray
+vless://e5cc16a6-ea42-46b2-82ae-ad2157e1641b@188.114.99.0:443?path=/sg-melbi#🇺🇸 United States 🍓 @xixv2ray
 
-vless://e5cc16a6-ea42-46b2-82ae-ad2157e1641b@chat.openai.com:443?path=/fp&security=tls&encryption=none&insecure=0&host=hhlfy.twiladaphne.ndjp.net&type=ws&allowInsecure=0&sni=hhlfy.twiladaphne.ndjp.net#🍓 @xixv2ray
+vless://e5cc16a6-ea42-46b2-82ae-ad2157e1641b@chat.openai.com:443?path=/fp&security=tls&encryption=none&insecure=0&host=hhlfy.twiladaphne.ndjp.net&type=ws&allowInsecure=0&sni=hhlfy.twiladaphne.ndjp.net#🇨🇦 Canada 🍓 @xixv2ray
 
-vless://e5cc16a6-ea42-46b2-82ae-ad2157e1641b@dx.mmhh.eu.cc:443?encryption=none&fp=chrome&host=hhlfy.twiladaphne.ndjp.net&path=/fp=chrome&security=tls&sni=hhlfy.twiladaphne.ndjp.net&type=ws#🍓 @xixv2ray
+vless://e5cc16a6-ea42-46b2-82ae-ad2157e1641b@dx.mmhh.eu.cc:443?encryption=none&fp=chrome&host=hhlfy.twiladaphne.ndjp.net&path=/fp=chrome&security=tls&sni=hhlfy.twiladaphne.ndjp.net&type=ws#🇨🇦 Canada 🍓 @xixv2ray
 
-vless://e5cc16a6-ea42-46b2-82ae-ad2157e1641b@lt.mmhh.eu.cc:443?encryption=none&fp=chrome&host=hhlfy.twiladaphne.ndjp.net&path=/&security=tls&sni=hhlfy.twiladaphne.ndjp.net&type=ws#🍓 @xixv2ray
+vless://e5cc16a6-ea42-46b2-82ae-ad2157e1641b@lt.mmhh.eu.cc:443?encryption=none&fp=chrome&host=hhlfy.twiladaphne.ndjp.net&path=/&security=tls&sni=hhlfy.twiladaphne.ndjp.net&type=ws#🇨🇦 Canada 🍓 @xixv2ray
 
-vless://e5cc16a6-ea42-46b2-82ae-ad2157e1641b@yd.mmhh.eu.cc:443?encryption=none&fp=chrome&host=hhlfy.twiladaphne.ndjp.net&path=/&security=tls&sni=hhlfy.twiladaphne.ndjp.net&type=ws#🍓 @xixv2ray
+vless://e5cc16a6-ea42-46b2-82ae-ad2157e1641b@yd.mmhh.eu.cc:443?encryption=none&fp=chrome&host=hhlfy.twiladaphne.ndjp.net&path=/&security=tls&sni=hhlfy.twiladaphne.ndjp.net&type=ws#🇺🇸 United States 🍓 @xixv2ray
 
 vless://e7961655-9674-4cbd-a36f-ec0d5d7d660c@172.66.44.97:2053?path=/&security=tls&encryption=none&insecure=0&host=po.fastbrokencompony.com&ech=ip.gs+udp://8.8.8.8&type=ws&allowInsecure=0&sni=po.fastbrokencompony.com#🍓 @xixv2ray
 
@@ -5370,13 +5370,13 @@ vless://e7961655-9674-4cbd-a36f-ec0d5d7d660c@cf.levikogjgfdd.ir:2053?encryption=
 
 vless://e7961655-9674-4cbd-a36f-ec0d5d7d660c@one-for-all.levikogjgfdd.ir:2053?encryption=none&type=ws&security=tls&path=/&host=po.fastbrokencompony.com&sni=po.fastbrokencompony.com&alpn=h3,h2&fp=chrome&insecure=0&allowInsecure=0#🇨🇦 Canada 🍓 @xixv2ray
 
-vless://e7961655-9674-4cbd-a36f-ec0d5d7d660c@po.fastbrokencompony.com:2053?encryption=none&path=/&security=tls&type=ws#🍓 @xixv2ray
+vless://e7961655-9674-4cbd-a36f-ec0d5d7d660c@po.fastbrokencompony.com:2053?encryption=none&path=/&security=tls&type=ws#🇨🇦 Canada 🍓 @xixv2ray
 
 vless://e8b1500b-e9e8-5492-8312-f4eadf7d0767@162.19.10.99:443?alpn=h2&encryption=none&flow=xtls-rprx-vision&fp=chrome&security=tls&sni=nasnet-162191099-direct.mbghalibaf.com&type=tcp#🇫🇷 France 🍓 @xixv2ray
 
 vless://e8b1500b-e9e8-5492-8312-f4eadf7d0767@nasnet-162191099-direct.mbghalibaf.com:443?allowInsecure=1&encryption=none&flow=xtls-rprx-vision&security=tls&sni=nasnet-162191099-direct.mbghalibaf.com&type=tcp#🇫🇷 France 🍓 @xixv2ray
 
-vless://e8e34074-166f-48a6-9f86-398ad796c3ca@hidden-bonus-24d0.232-647.workers.dev:8880?encryption=none&path=/pyip=ProxyIP.SG.CMLiussss.net&security=none&type=ws#🍓 @xixv2ray
+vless://e8e34074-166f-48a6-9f86-398ad796c3ca@hidden-bonus-24d0.232-647.workers.dev:8880?encryption=none&path=/pyip=ProxyIP.SG.CMLiussss.net&security=none&type=ws#🇨🇦 Canada 🍓 @xixv2ray
 
 vless://eaed2424-53a8-49f1-95a8-5f79b7f782bd@95.129.236.252:443?alpn=http/1.1&encryption=none&fp=firefox&path=/api/v2/vms/stream/genka&security=tls&sni=benzin.benz.ink&type=ws#🇷🇺 Russia 🍓 @xixv2ray
 
@@ -5388,13 +5388,13 @@ vless://f11f95e9-94ae-419e-b579-806f103bbdbf@79.174.92.133:8443?encryption=none&
 
 vless://f1c496bf-d2ab-45be-bc13-051d60d227b7@84.32.209.7:443?encryption=none&flow=xtls-rprx-vision&pbk=00n9LplaZ0VGvRS57548s7xe0deFC10pw2fkFHFPplM&security=reality&sni=dartsearch-cn.net&type=tcp#🇱🇹 Lithuania 🍓 @xixv2ray
 
-vless://f2f4e2dc-3e7b-402f-a461-b48acc6aa310@172.67.219.176:2087?alpn=http/1.1&ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&fp=chrome&host=steep-bonus-8e6a.amirhon1376.workers.dev&path=/eyJqdW5rIjoid2JBOTRVclNMOVdBSVQiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119&security=tls&sni=sTeEp-BoNUs-8E6A.AmIrhon1376.woRKeRS.dEv&type=ws#🍓 @xixv2ray
+vless://f2f4e2dc-3e7b-402f-a461-b48acc6aa310@172.67.219.176:2087?alpn=http/1.1&ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&fp=chrome&host=steep-bonus-8e6a.amirhon1376.workers.dev&path=/eyJqdW5rIjoid2JBOTRVclNMOVdBSVQiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119&security=tls&sni=sTeEp-BoNUs-8E6A.AmIrhon1376.woRKeRS.dEv&type=ws#🇨🇦 Canada 🍓 @xixv2ray
 
 vless://f47ac10b-58cc-4372-a567-0e02b2c3d479@45.130.125.114:8443?path=/&security=tls&encryption=none&insecure=0&host=free-hzr113-cdn.soren-app.com.&type=ws&allowInsecure=0&sni=ssl.soren-app.com.#🇸🇨 Seychelles 🍓 @xixv2ray
 
 vless://f4d859eb-abc6-4c57-9eee-8fe9e2ef0f94@80.240.18.227:10051?encryption=none&fp=chrome&host=d-l28t5-65-b.pbe40wmcujaw726h7cpqernzmawz4stwtrnqve0n1s5reht.workers.dev&path=/@Marisa_kristi&security=tls&sni=d-l28t5-65-b.pbe40wmcujaw726h7cpqernzmawz4stwtrnqve0n1s5reht.workers.dev&type=ws#🇩🇪 Germany 🍓 @xixv2ray
 
-vless://f4e6476f-40d0-40cb-841f-cc2f6909ff20@www.gov.ua:8880?path=/pyip=ProxyIP.SG.CMLiussss.net&security=none&encryption=none&host=calm-haze-d105.21-7cd.workers.dev&type=ws#🍓 @xixv2ray
+vless://f4e6476f-40d0-40cb-841f-cc2f6909ff20@www.gov.ua:8880?path=/pyip=ProxyIP.SG.CMLiussss.net&security=none&encryption=none&host=calm-haze-d105.21-7cd.workers.dev&type=ws#🇨🇦 Canada 🍓 @xixv2ray
 
 vless://f6190ff2-864c-46cf-ac16-93908c069b75@129.121.95.159:443?encryption=none&fp=firefox&host=129.121.95.159&path=/connect&security=tls&sni=129.121.95.159&type=ws#🇺🇸 United States 🍓 @xixv2ray
 
@@ -5402,7 +5402,7 @@ vless://f62a1751-c1e4-4612-90e7-bd5781c1aede@186.246.12.85:2053?encryption=none&
 
 vless://f6b5a6a3-f3e1-63ca-bb68-bdc400000000@millionaire.levikogjgfdd.ir:443?path=/&security=tls&encryption=none&insecure=0&host=netlivpn5505.ffffdsaaa.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=netlivpn5505.ffffdsaaa.workers.dev#🇨🇦 Canada 🍓 @xixv2ray
 
-vless://f8fff57f-224a-4ae3-80c1-a9299796ad7c@172.67.215.201:2096?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&fp=chrome&host=11.ez-70ef02.workers.dev&path=/eyJqdW5rIjoicmc2S3lEeXFMV3Y3UHkiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6WyI1Ny4xMjkuNDcuNTIiXX0=&security=tls&sni=11.ez-70ef02.workers.dev&type=ws#🍓 @xixv2ray
+vless://f8fff57f-224a-4ae3-80c1-a9299796ad7c@172.67.215.201:2096?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&fp=chrome&host=11.ez-70ef02.workers.dev&path=/eyJqdW5rIjoicmc2S3lEeXFMV3Y3UHkiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6WyI1Ny4xMjkuNDcuNTIiXX0=&security=tls&sni=11.ez-70ef02.workers.dev&type=ws#🇨🇦 Canada 🍓 @xixv2ray
 
 vless://faad6fc2-98fe-4697-9f3b-2cf32fd70322@158.160.139.156:443?encryption=none&flow=xtls-rprx-vision&fp=safari&pbk=WrPShaEtQUXeKeyWDuELzBsd_ygDsU-k2bL1Avi13xI&security=reality&sni=yandex.ru&type=raw#🇷🇺 Russia 🍓 @xixv2ray
 
