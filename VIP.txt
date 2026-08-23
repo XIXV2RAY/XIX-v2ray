@@ -624,7 +624,7 @@ vless://d900a139-8b5f-4758-8a32-389c6f36fc86@185.207.66.243:443?encryption=none&
 
 vless://da4747a6-be0d-4c1b-90f4-d82ec3012be2@104.18.1.1:2053?encryption=none&type=ws&security=tls&path=/&host=music1000.melobitmusic1.ir&sni=music1000.melobitmusic1.ir&alpn=h3,h2,http/1.1&fp=ios&insecure=0&allowInsecure=0#🇨🇦 Canada 🍓 @xixv2ray
 
-vless://da4747a6-be0d-4c1b-90f4-d82ec3012be2@music1000.melobitmusic1.ir:2053?path=/&security=tls&encryption=none&insecure=0&host=music1000.melobitmusic1.ir&fp=chrome&type=ws&allowInsecure=0&sni=music1000.melobitmusic1.ir#🇨🇦 Canada 🍓 @xixv2ray
+vless://da4747a6-be0d-4c1b-90f4-d82ec3012be2@music1000.melobitmusic1.ir:2053?path=/&security=tls&encryption=none&insecure=0&host=music1000.melobitmusic1.ir&fp=chrome&type=ws&allowInsecure=0&sni=music1000.melobitmusic1.ir#🍓 @xixv2ray
 
 vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@104.16.72.41:80?path=/http&security=none&encryption=none&host=de.vpnbase.net&type=ws#🇨🇦 Canada 🍓 @xixv2ray
 
@@ -666,11 +666,11 @@ vless://e5cc16a6-ea42-46b2-82ae-ad2157e1641b@188.114.97.6:443?allowInsecure=1&en
 
 vless://e5cc16a6-ea42-46b2-82ae-ad2157e1641b@chat.openai.com:443?path=/fp&security=tls&encryption=none&insecure=0&host=hhlfy.twiladaphne.ndjp.net&type=ws&allowInsecure=0&sni=hhlfy.twiladaphne.ndjp.net#🇨🇦 Canada 🍓 @xixv2ray
 
-vless://e5cc16a6-ea42-46b2-82ae-ad2157e1641b@dx.mmhh.eu.cc:443?encryption=none&fp=chrome&host=hhlfy.twiladaphne.ndjp.net&path=/fp=chrome&security=tls&sni=hhlfy.twiladaphne.ndjp.net&type=ws#🇨🇦 Canada 🍓 @xixv2ray
+vless://e5cc16a6-ea42-46b2-82ae-ad2157e1641b@dx.mmhh.eu.cc:443?encryption=none&fp=chrome&host=hhlfy.twiladaphne.ndjp.net&path=/fp=chrome&security=tls&sni=hhlfy.twiladaphne.ndjp.net&type=ws#🇺🇸 United States 🍓 @xixv2ray
 
 vless://e5cc16a6-ea42-46b2-82ae-ad2157e1641b@lt.mmhh.eu.cc:443?encryption=none&fp=chrome&host=hhlfy.twiladaphne.ndjp.net&path=/&security=tls&sni=hhlfy.twiladaphne.ndjp.net&type=ws#🇨🇦 Canada 🍓 @xixv2ray
 
-vless://e5cc16a6-ea42-46b2-82ae-ad2157e1641b@yd.mmhh.eu.cc:443?encryption=none&fp=chrome&host=hhlfy.twiladaphne.ndjp.net&path=/&security=tls&sni=hhlfy.twiladaphne.ndjp.net&type=ws#🇨🇦 Canada 🍓 @xixv2ray
+vless://e5cc16a6-ea42-46b2-82ae-ad2157e1641b@yd.mmhh.eu.cc:443?encryption=none&fp=chrome&host=hhlfy.twiladaphne.ndjp.net&path=/&security=tls&sni=hhlfy.twiladaphne.ndjp.net&type=ws#🇺🇸 United States 🍓 @xixv2ray
 
 vless://e7961655-9674-4cbd-a36f-ec0d5d7d660c@172.66.44.97:2053?path=/&security=tls&encryption=none&insecure=0&host=po.fastbrokencompony.com&ech=ip.gs+udp://8.8.8.8&type=ws&allowInsecure=0&sni=po.fastbrokencompony.com#🇨🇦 Canada 🍓 @xixv2ray
 
