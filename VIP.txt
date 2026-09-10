@@ -849,7 +849,7 @@ vless://8c235628-4c27-44b5-9559-7ab1d53b7ff3@34.222.2.182:50159?security=reality
 
 vless://8c235628-4c27-44b5-9559-7ab1d53b7ff3@34.222.2.182:50159?security=reality&type=tcp&packetEncoding=xudp&sni=www.cloudflare.com&fp=chrome&flow=xtls-rprx-vision&sid=94c8a1b378da7250&pbk=SX1vaYIIZcbcfO3RrAPhYQ1FAeA7bkcDZJtEDN9pbxw#🇺🇸 United States 🍓 @xixv2ray
 
-vless://8db3a1ab-f739-41f2-ae46-4fb72d9134f8@tur.zavqeron.ir:8443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=reality&encryption=none&pbk=9PxwbCMskvn1WA7ieKvvgJ3tvYU-u0r9wms__WU8URU&headerType=none&fp=qq&type=tcp&sni=amp-api-edge.apps.apple.com&sid=0bd70fc8a4034691#🇺🇸 United States 🍓 @xixv2ray
+vless://8db3a1ab-f739-41f2-ae46-4fb72d9134f8@tur.zavqeron.ir:8443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=reality&encryption=none&pbk=9PxwbCMskvn1WA7ieKvvgJ3tvYU-u0r9wms__WU8URU&headerType=none&fp=qq&type=tcp&sni=amp-api-edge.apps.apple.com&sid=0bd70fc8a4034691#🍓 @xixv2ray
 
 vless://8f0faee5-b051-4349-b726-d6d7b83d24e0@38.180.186.202:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=SiSky02wHz-S0TDHKFTdYhnrlT8Y3CfRsekZlcdLXDY&sid=fd55b698ee8c3629&sni=zvukipro.com#🇦🇷 Argentina 🍓 @xixv2ray
 
@@ -859,7 +859,7 @@ vless://8f6afbff-aa4a-40fb-9479-af5fee1cc42f@78.129.184.117:443?encryption=none&
 
 vless://8f92f942-f0e7-4ef3-941c-3f573424bd88@78.129.150.216:443?security=reality&type=raw&packetEncoding=xudp&sni=strapi.io&fp=firefox&flow=xtls-rprx-vision&sid=fd55b698ee8c3629&pbk=SiSky02wHz-S0TDHKFTdYhnrlT8Y3CfRsekZlcdLXDY#🇬🇧 United Kingdom 🍓 @xixv2ray
 
-vless://8fb328f0-d8e0-4b11-a6db-3dadfc4f02a3@eu-xh01.tcp-reset-club.net:443?encryption=none&mode=packet-up&path=/assets/v2/pkg&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&security=reality&sid=f79448a30d&sni=s3.netavex.com&type=xhttp#🇷🇴 Romania 🍓 @xixv2ray
+vless://8fb328f0-d8e0-4b11-a6db-3dadfc4f02a3@eu-xh01.tcp-reset-club.net:443?encryption=none&mode=packet-up&path=/assets/v2/pkg&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&security=reality&sid=f79448a30d&sni=s3.netavex.com&type=xhttp#🇷🇺 Russia 🍓 @xixv2ray
 
 vless://8fbf84d7-51aa-44e5-9134-f62458d7f8a3@78.129.150.210:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=SiSky02wHz-S0TDHKFTdYhnrlT8Y3CfRsekZlcdLXDY&security=reality&sid=fd55b698ee8c3629&sni=strapi.io&type=tcp#🇬🇧 United Kingdom 🍓 @xixv2ray
 
@@ -1391,17 +1391,17 @@ trojan://humanity@104.18.23.63:443?security=tls&type=ws&sni=www.ignitelimit.com&
 
 trojan://humanity@104.18.32.47:443?path=/assignment&security=tls&fm={"tcp": [{"type": "fragment", "settings": {"packets": "tlshello", "lengths": ["5", "94", "1"], "delays": ["0"], "maxSplit": "0"}},{"type": "fragment", "settings": {"packets": "1-1", "lengths": ["109", "1"], "delays": ["1"], "maxSplit": "355"}}]}&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#🇨🇦 Canada 🍓 @xixv2ray
 
-trojan://humanity@104.18.37.228:443?encryption=none&security=tls&sni=www.calmlunch.com&alpn=h2&fp=chrome&type=ws&host=www.calmlunch.com&path=/assignment#🇨🇦 Canada 🍓 @xixv2ray
+trojan://humanity@104.18.37.228:443?encryption=none&security=tls&sni=www.calmlunch.com&alpn=h2&fp=chrome&type=ws&host=www.calmlunch.com&path=/assignment#🍓 @xixv2ray
 
-trojan://humanity@104.18.8.83:443?type=ws&host=www.calmlunch.com&path=/assignment&security=tls&sni=www.calmlunch.com#🇨🇦 Canada 🍓 @xixv2ray
+trojan://humanity@104.18.8.83:443?type=ws&host=www.calmlunch.com&path=/assignment&security=tls&sni=www.calmlunch.com#🍓 @xixv2ray
 
-trojan://humanity@104.18.9.83:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#🇨🇦 Canada 🍓 @xixv2ray
+trojan://humanity@104.18.9.83:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#🍓 @xixv2ray
 
 trojan://humanity@104.19.229.21:443?path=//assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#🇨🇦 Canada 🍓 @xixv2ray
 
 trojan://humanity@104.19.229.21:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#🇨🇦 Canada 🍓 @xixv2ray
 
-trojan://humanity@104.21.103.254:443?type=ws&security=tls&path=/assignment&host=www.calmlunch.com&sni=www.calmlunch.com&fp=chrome&alpn=http/1.1#🇨🇦 Canada 🍓 @xixv2ray
+trojan://humanity@104.21.103.254:443?type=ws&security=tls&path=/assignment&host=www.calmlunch.com&sni=www.calmlunch.com&fp=chrome&alpn=http/1.1#🍓 @xixv2ray
 
 trojan://humanity@104.21.33.59:443?path=/assignment&security=tls&alpn=http/1.1&fm={"tcp": [{"type": "fragment", "settings": {"packets": "tlshello", "lengths": ["5", "94", "1"], "delays": ["0"], "maxSplit": "0"}},{"type": "fragment", "settings": {"packets": "1-1", "lengths": ["109", "1"], "delays": ["1"], "maxSplit": "355"}}]}&insecure=0&host=www.pleadcourt.org&fp=unsafe&type=ws&allowInsecure=0&sni=www.pleadcourt.org#🇨🇦 Canada 🍓 @xixv2ray
 
@@ -1409,13 +1409,13 @@ trojan://humanity@104.21.46.3:443?security=tls&sni=www.ignitelimit.com&type=ws&h
 
 trojan://humanity@104.21.8.107:443?path=/assignment&security=tls&alpn=h3,h2,http/1.1&insecure=0&host=www.ignitelimit.com&fp=ios&type=ws&allowInsecure=0&sni=www.ignitelimit.com#🇨🇦 Canada 🍓 @xixv2ray
 
-trojan://humanity@104.26.14.137:443?security=tls&sni=www.ignitelimit.com&type=ws&host=www.ignitelimit.com&path=/assignment#🇨🇦 Canada 🍓 @xixv2ray
+trojan://humanity@104.26.14.137:443?security=tls&sni=www.ignitelimit.com&type=ws&host=www.ignitelimit.com&path=/assignment#🍓 @xixv2ray
 
 trojan://humanity@130.250.137.171:443?path=/assignment&security=tls&insecure=0&host=www.ignitelimit.com&ech=ip.gs udp://8.8.8.8&type=ws&allowInsecure=0&sni=www.ignitelimit.com#🇺🇸 United States 🍓 @xixv2ray
 
 trojan://humanity@141.101.90.101:443?type=ws&host=www.ignitelimit.com&path=/assignment&security=tls&sni=www.ignitelimit.com&allowInsecure=1&fp=ios#🇩🇪 Germany 🍓 @xixv2ray
 
-trojan://humanity@162.159.253.41:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#🇺🇸 United States 🍓 @xixv2ray
+trojan://humanity@162.159.253.41:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#🍓 @xixv2ray
 
 trojan://humanity@165.215.250.14:443?path=//assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#🇺🇸 United States 🍓 @xixv2ray
 
@@ -1431,7 +1431,7 @@ trojan://humanity@172.64.152.23:443?path=/assignment&security=tls&insecure=0&hos
 
 trojan://humanity@172.67.149.60:443?path=/assignment&security=tls&insecure=0&host=www.ignitelimit.com&ech=ip.gs udp://8.8.8.8&type=ws&allowInsecure=0&sni=www.ignitelimit.com#🇨🇦 Canada 🍓 @xixv2ray
 
-trojan://humanity@172.67.188.109:443?path=/assignment&security=tls&alpn=h3,h2,http/1.1&insecure=0&host=www.ignitelimit.com&fp=ios&type=ws&allowInsecure=0&sni=www.ignitelimit.com#🇨🇦 Canada 🍓 @xixv2ray
+trojan://humanity@172.67.188.109:443?path=/assignment&security=tls&alpn=h3,h2,http/1.1&insecure=0&host=www.ignitelimit.com&fp=ios&type=ws&allowInsecure=0&sni=www.ignitelimit.com#🍓 @xixv2ray
 
 trojan://humanity@172.67.217.240:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&fp=unsafe&type=ws&allowInsecure=0&sni=www.calmlunch.com#🇨🇦 Canada 🍓 @xixv2ray
 
@@ -1449,7 +1449,7 @@ trojan://humanity@185.220.100.168:443?path=/assignment&security=tls&insecure=0&h
 
 trojan://humanity@185.255.179.166:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#🇩🇪 Germany 🍓 @xixv2ray
 
-trojan://humanity@188.114.96.3:443?type=ws&host=www.calmlunch.com&path=/assignment&security=tls&sni=www.calmlunch.com&allowInsecure=1#🇨🇦 Canada 🍓 @xixv2ray
+trojan://humanity@188.114.96.3:443?type=ws&host=www.calmlunch.com&path=/assignment&security=tls&sni=www.calmlunch.com&allowInsecure=1#🍓 @xixv2ray
 
 trojan://humanity@188.114.98.0:443?host=www.calmlunch.com&path=/assignment&security=tls&sni=www.calmlunch.com&type=ws#🇨🇦 Canada 🍓 @xixv2ray
 
@@ -1501,13 +1501,13 @@ trojan://humanity@ip.myip2.qzz.io:443?security=tls&sni=www.ignitelimit.com&insec
 
 trojan://humanity@join-telegram-channel-tirexnet.trex.kdns.fr:443?path=/assignment&security=tls&alpn=h3,h2,http/1.1&insecure=0&host=www.ignitelimit.com&fp=chrome&type=ws&allowInsecure=0&sni=www.ignitelimit.com#🇨🇦 Canada 🍓 @xixv2ray
 
-trojan://humanity@join-telegram-channel.tirexnet.kdns.fr:443?path=/assignment&security=tls&alpn=h3,h2,http/1.1&insecure=0&host=www.ignitelimit.com&fp=ios&type=ws&allowInsecure=0&sni=www.ignitelimit.com#🇨🇦 Canada 🍓 @xixv2ray
+trojan://humanity@join-telegram-channel.tirexnet.kdns.fr:443?path=/assignment&security=tls&alpn=h3,h2,http/1.1&insecure=0&host=www.ignitelimit.com&fp=ios&type=ws&allowInsecure=0&sni=www.ignitelimit.com#🍓 @xixv2ray
 
 trojan://humanity@render.com:443?path=/assignment&security=tls&insecure=0&host=www.ignitelimit.com&ech=ip.gs udp://8.8.8.8&type=ws&allowInsecure=0&sni=www.ignitelimit.com#🇺🇸 United States 🍓 @xixv2ray
 
-trojan://humanity@www.calmlunch.com:443?security=tls&type=ws&sni=www.calmlunch.com&path=//assignment&host=www.calmlunch.com#🇨🇦 Canada 🍓 @xixv2ray
+trojan://humanity@www.calmlunch.com:443?security=tls&type=ws&sni=www.calmlunch.com&path=//assignment&host=www.calmlunch.com#🍓 @xixv2ray
 
-trojan://humanity@www.calmlunch.com:443?sni=www.calmlunch.com&allowInsecure=1&type=ws&path=/assignment&fp=chrome#🇨🇦 Canada 🍓 @xixv2ray
+trojan://humanity@www.calmlunch.com:443?sni=www.calmlunch.com&allowInsecure=1&type=ws&path=/assignment&fp=chrome#🍓 @xixv2ray
 
 trojan://humanity@www.ignitelimit.com:443?security=tls&sni=www.ignitelimit.com&alpn=http/1.1&type=ws&path=/assignment#🇨🇦 Canada 🍓 @xixv2ray
 
@@ -1515,7 +1515,7 @@ trojan://humanity@www.speedtest.net:443?Telegram=Cfox_Server---Cfox_Server---Cfo
 
 trojan://humanity@www.speedtest.net:443?path=/assignment&security=tls&host=www.calmlunch.com&ech=ip.gs udp://8.8.8.8&type=ws&sni=www.calmlunch.com#🇨🇦 Canada 🍓 @xixv2ray
 
-trojan://humanity@www.speedtest.org:443?security=tls&sni=www.ignitelimit.com&insecure=0&allowInsecure=0&type=ws&host=www.ignitelimit.com&path=/assignment#🇨🇦 Canada 🍓 @xixv2ray
+trojan://humanity@www.speedtest.org:443?security=tls&sni=www.ignitelimit.com&insecure=0&allowInsecure=0&type=ws&host=www.ignitelimit.com&path=/assignment#🍓 @xixv2ray
 
 trojan://sshs8_6481354771@86.38.247.109:2087?type=tcp&security=tls&fp=chrome&sni=ul-singapore1.09vpn.com#🇸🇬 Singapore 🍓 @xixv2ray
 
