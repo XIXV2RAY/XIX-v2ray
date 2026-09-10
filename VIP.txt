@@ -859,7 +859,7 @@ vless://8f6afbff-aa4a-40fb-9479-af5fee1cc42f@78.129.184.117:443?encryption=none&
 
 vless://8f92f942-f0e7-4ef3-941c-3f573424bd88@78.129.150.216:443?security=reality&type=raw&packetEncoding=xudp&sni=strapi.io&fp=firefox&flow=xtls-rprx-vision&sid=fd55b698ee8c3629&pbk=SiSky02wHz-S0TDHKFTdYhnrlT8Y3CfRsekZlcdLXDY#🇬🇧 United Kingdom 🍓 @xixv2ray
 
-vless://8fb328f0-d8e0-4b11-a6db-3dadfc4f02a3@eu-xh01.tcp-reset-club.net:443?encryption=none&mode=packet-up&path=/assets/v2/pkg&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&security=reality&sid=f79448a30d&sni=s3.netavex.com&type=xhttp#🇸🇪 Sweden 🍓 @xixv2ray
+vless://8fb328f0-d8e0-4b11-a6db-3dadfc4f02a3@eu-xh01.tcp-reset-club.net:443?encryption=none&mode=packet-up&path=/assets/v2/pkg&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&security=reality&sid=f79448a30d&sni=s3.netavex.com&type=xhttp#🇷🇴 Romania 🍓 @xixv2ray
 
 vless://8fbf84d7-51aa-44e5-9134-f62458d7f8a3@78.129.150.210:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=SiSky02wHz-S0TDHKFTdYhnrlT8Y3CfRsekZlcdLXDY&security=reality&sid=fd55b698ee8c3629&sni=strapi.io&type=tcp#🇬🇧 United Kingdom 🍓 @xixv2ray
 
