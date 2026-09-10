@@ -813,7 +813,7 @@ vless://83fd52e3-c8d4-4ba6-abf4-445b99fec0f0@italic.dearhossein-taktaz.ir:8080?t
 
 vless://83fd52e3-c8d4-4ba6-abf4-445b99fec0f0@italic.dearhossein-taktaz.ir:8443?security=reality&fp=chrome&mode=auto&sni=www.sony.com.hk&pbk=j6s71Y93SiWpKalWmjr-CB-fnxDIj0h7Wkc7Fu2izio&sid=1de760&type=xhttp&host=italic.dearhossein-taktaz.ir&extra={"mode":"auto","xPaddingBytes":"100-1000"}&spx=/41f8f15aa1ac0aa&encryption=none&path=/#🇫🇮 Finland 🍓 @xixv2ray
 
-vless://842f5d04-2643-40d8-8019-e6e5641369d4@oekk-o8agog.truearchcap.com:443?path=/842f5d04-2643-40d8-8019-e6e5641369d4&security=tls&encryption=none&insecure=0&host=oekk-o8agog.truearchcap.com&type=ws&allowInsecure=0&sni=oekk-o8agog.truearchcap.com#🇬🇧 United Kingdom 🍓 @xixv2ray
+vless://842f5d04-2643-40d8-8019-e6e5641369d4@oekk-o8agog.truearchcap.com:443?path=/842f5d04-2643-40d8-8019-e6e5641369d4&security=tls&encryption=none&insecure=0&host=oekk-o8agog.truearchcap.com&type=ws&allowInsecure=0&sni=oekk-o8agog.truearchcap.com#🍓 @xixv2ray
 
 vless://84da6391-1539-4583-a3d9-d6efd796b4d6@130.94.29.111:2087?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&path=/e17586a75123&encryption=none&type=ws#🇺🇸 United States 🍓 @xixv2ray
 
@@ -859,7 +859,7 @@ vless://8f6afbff-aa4a-40fb-9479-af5fee1cc42f@78.129.184.117:443?encryption=none&
 
 vless://8f92f942-f0e7-4ef3-941c-3f573424bd88@78.129.150.216:443?security=reality&type=raw&packetEncoding=xudp&sni=strapi.io&fp=firefox&flow=xtls-rprx-vision&sid=fd55b698ee8c3629&pbk=SiSky02wHz-S0TDHKFTdYhnrlT8Y3CfRsekZlcdLXDY#🇬🇧 United Kingdom 🍓 @xixv2ray
 
-vless://8fb328f0-d8e0-4b11-a6db-3dadfc4f02a3@eu-xh01.tcp-reset-club.net:443?encryption=none&mode=packet-up&path=/assets/v2/pkg&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&security=reality&sid=f79448a30d&sni=s3.netavex.com&type=xhttp#🇦🇹 Austria 🍓 @xixv2ray
+vless://8fb328f0-d8e0-4b11-a6db-3dadfc4f02a3@eu-xh01.tcp-reset-club.net:443?encryption=none&mode=packet-up&path=/assets/v2/pkg&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&security=reality&sid=f79448a30d&sni=s3.netavex.com&type=xhttp#🇸🇪 Sweden 🍓 @xixv2ray
 
 vless://8fbf84d7-51aa-44e5-9134-f62458d7f8a3@78.129.150.210:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=SiSky02wHz-S0TDHKFTdYhnrlT8Y3CfRsekZlcdLXDY&security=reality&sid=fd55b698ee8c3629&sni=strapi.io&type=tcp#🇬🇧 United Kingdom 🍓 @xixv2ray
 
