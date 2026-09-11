@@ -3,11 +3,11 @@
 
 
 
-vless://1f7aa247-62bf-4c2a-a783-e6d2f6d14c41@185.178.208.176:443?alpn=h3,h2&encryption=none&fp=chrome&host=founders-blog.online&path=/stream/615428/socket&security=tls&sni=founders-blog.online&type=ws#🇷🇺 Russia 🍓 @xixv2ray
-
 vless://237f91bf-102e-4077-8cc3-baebccb42936@85.198.70.200:14406?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=ldAmsl3dqTCUBmlmA8CS9ZnpznP6cFWj9AxNddWnbxY&security=reality&sid=1a2b3c4d5e6f7a8b&sni=vk.ru&type=raw#🇷🇺 Russia 🍓 @xixv2ray
 
 vless://238e492b-bc20-4380-92b6-135d39112ca4@188.225.39.107:14443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=aKfJokRORjNdwkn0XY6KA_PIfjytp4E0liM5v72LM1w&security=reality&sid=8e21c5f4&sni=login.vk.com&type=raw#🇷🇺 Russia 🍓 @xixv2ray
+
+vless://2d1ad594-80a4-4bfb-87a6-038e39701f51@146.235.16.130:19825?encryption=none&flow=xtls-rprx-vision&pbk=GvvkY8xYb9QjvwvzYq_uNC4tOGd0DCxRnz6770-xgkI&security=reality&sid=6ba85179e30d4fc2&sni=sg2-8sb.6121999.dpdns.org&type=tcp#🇸🇬 Singapore 🍓 @xixv2ray
 
 vless://32349ee8-8551-45fa-a265-8704cec72936@193.23.194.167:8443?encryption=none&fp=chrome&security=tls&sni=neth.lckdwn.ru&type=tcp#🇺🇸 United States 🍓 @xixv2ray
 
@@ -71,13 +71,17 @@ vless://633f424e-2b11-48da-a6b3-a849dd71456f@45.12.75.242:26424?encryption=none&
 
 vless://b585dc5e-55bf-4a8b-913a-27c9ccac05c3@149.202.58.99:443?allowInsecure=1&encryption=none&path=/vws/&security=tls&sni=bab-6.site&type=ws#🇫🇷 France 🍓 @xixv2ray
 
+vless://b585dc5e-55bf-4a8b-913a-27c9ccac05c3@154.9.227.100:443?encryption=none&security=tls&sni=bab-6.site&type=ws&host=bab-6.site&path=/vws/#🇺🇸 United States 🍓 @xixv2ray
+
 vless://c9fd0fb1-8251-4106-b09a-f4b426736f67@ww9.levikogjgfdd.ir:36925?security=reality&encryption=none&pbk=lJ9INPpO4rdnm2Tek_yg0PGFyUrBB6MoKyvqt_Mfqm0&host=Telegram-Leviko_v2ray&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com#🇺🇸 United States 🍓 @xixv2ray
+
+vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.104:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&headerType=none&fp=ios&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#🇺🇸 United States 🍓 @xixv2ray
 
 vless://e8b1500b-e9e8-5492-8312-f4eadf7d0767@162.19.10.99:443?alpn=h2&encryption=none&flow=xtls-rprx-vision&fp=chrome&security=tls&sni=nasnet-162191099-direct.mbghalibaf.com&type=tcp#🇫🇷 France 🍓 @xixv2ray
 
 vless://e8b1500b-e9e8-5492-8312-f4eadf7d0767@nasnet-162191099-direct.mbghalibaf.com:443?allowInsecure=1&encryption=none&flow=xtls-rprx-vision&security=tls&sni=nasnet-162191099-direct.mbghalibaf.com&type=tcp#🇫🇷 France 🍓 @xixv2ray
 
-vless://fdaafea8-afc7-4ece-9dc4-1e2609c43913@188.225.24.89:8449?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=XF3wXFapd311fC0M0APxbrf3cIaGnyKU7BR4Pv_l7Rs&security=reality&sid=15954a1c5a3d5bfc&sni=akashi.vk-portal.net&type=raw#🇷🇺 Russia 🍓 @xixv2ray
+vless://e99ba96d-dec8-42eb-be53-19e71eef7cab@5.253.42.164:40443?security=reality&encryption=none&pbk=g77ZJbm18JEotapmVRjaXi133MzkbhkU2lxhVeXx8zw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=deepl.com&sid=68a8#🇳🇱 The Netherlands 🍓 @xixv2ray
 
-trojan://humanity@188.42.145.180:443?security=tls&sni=www.volumeroot.com&alpn=http/1.1&type=ws&host=www.volumeroot.com&path=/assignment#🇱🇺 Luxembourg 🍓 @xixv2ray
+trojan://sshs8_6481354771@86.38.247.109:2087?security=tls&sni=ul-singapore1.09vpn.com&fp=chrome&type=tcp&path=/#🇸🇬 Singapore 🍓 @xixv2ray
 
